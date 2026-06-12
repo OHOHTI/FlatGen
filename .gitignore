@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# generated outputs / caches
+SkeleGen/skelegen/outputs/
+crystal_net/crystal_net_results/
+crystal_net/mp_structs/
+
+# large model weights — distribute via GitHub Release / Zenodo, not git
+flat_screen/results/flatness_pyg/best_model.pth

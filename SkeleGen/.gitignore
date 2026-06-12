@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# run outputs
+skelegen/outputs/
+skelegen/results/
+nohup.out
+slurm-*.out
+*.log
+
+# env files
+.env
+wandb/

@@ -1,0 +1,9 @@
+colorcet
+matplotlib
+mendeleev
+mp-api
+numpy
+pandas
+pymatgen
+pythtb
+scipy

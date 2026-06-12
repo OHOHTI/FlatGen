@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "FlatGen: Symmetry-aware generative design of flat-band materials beyond known crystal-net prototypes"
+type: software
+authors:
+  - family-names: Wei
+    given-names: Yihao
+    affiliation: "The University of Manchester"
+  - family-names: Wang
+    given-names: Xiangwen
+    affiliation: "The University of Manchester"
+  - family-names: Savochkin
+    given-names: Ivan
+    affiliation: "The University of Manchester"
+  - family-names: Mishchenko
+    given-names: Artem
+    affiliation: "The University of Manchester"
+  - family-names: Yang
+    given-names: Qian
+    affiliation: "The University of Manchester"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Symmetry-aware generative design of flat-band materials beyond known crystal-net prototypes"
+  authors:
+    - family-names: Wei
+      given-names: Yihao
+    - family-names: Wang
+      given-names: Xiangwen
+    - family-names: Savochkin
+      given-names: Ivan
+    - family-names: Mishchenko
+      given-names: Artem
+    - family-names: Yang
+      given-names: Qian
+  year: 2026

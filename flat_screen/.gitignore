@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+data/graph_text_mp_pyg.pkl
+data/scores/
+
+results/flatness/
+results/flatness_pyg/

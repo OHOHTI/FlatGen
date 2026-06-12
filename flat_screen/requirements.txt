@@ -1,0 +1,17 @@
+ase==3.27.0
+bayesian-optimization==3.1.0
+brokenaxes==0.6.2
+hdbscan==0.8.41
+jarvis-tools==2025.8.30
+matplotlib==3.10.7
+monty==2025.3.3
+mp-api==0.45.13
+numpy==2.3.5
+pandas==2.3.3
+pymatgen==2025.10.7
+scikit-learn==1.8.0
+scipy==1.16.0
+torch==2.4.0
+torch-geometric==2.6.1
+transformers==4.48.3
+yacs==0.1.8

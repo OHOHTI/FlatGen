@@ -1,0 +1,14 @@
+adjustText
+ase
+hdbscan
+matplotlib
+networkx
+numpy
+openpyxl
+pandas
+pymatgen
+scikit-learn
+scipy
+seaborn
+torch
+umap-learn
