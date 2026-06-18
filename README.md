@@ -86,9 +86,13 @@ This project is released under the [MIT License](LICENSE). Bundled third-party c
 If you use this code, please cite:
 
 ```bibtex
-@article{wei2026flatgen,
-  title   = {Symmetry-aware generative design of flat-band materials beyond known crystal-net prototypes},
-  author  = {Wei, Yihao and Savochkin, Ivan and Mishchenko, Artem and Wang, Xiangwen and Yang, Qian},
-  year    = {2026}
+@misc{wei2026symmetryawaregenerativedesignflatband,
+      title={Symmetry-aware generative design of flat-band materials beyond known crystal-net prototypes}, 
+      author={Yihao Wei and Ivan Savochkin and Artem Mishchenko and Xiangwen Wang and Qian Yang},
+      year={2026},
+      eprint={2606.15321},
+      archivePrefix={arXiv},
+      primaryClass={cond-mat.mtrl-sci},
+      url={https://arxiv.org/abs/2606.15321}, 
 }
 ```
