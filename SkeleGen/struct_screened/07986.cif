@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_BaLiZrMnGaSiF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04119492
+_cell_length_b   5.04119454
+_cell_length_c   11.69671440
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000561
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLiZrMnGaSiF12
+_chemical_formula_sum   'Ba1 Li1 Zr1 Mn1 Ga1 Si1 F12'
+_cell_volume   257.43135320
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.00000000  0.00000000  0.16264507  1
+  F  F1  1  0.00000000  0.00000000  0.64994228  1
+  F  F2  1  0.00000000  0.00000000  0.35560679  1
+  F  F3  1  0.00000000  0.00000000  0.83701557  1
+  F  F4  1  0.65515924  0.97600603  0.49180469  1
+  F  F5  1  0.02399397  0.67915320  0.49180469  1
+  F  F6  1  0.32084680  0.34484076  0.49180469  1
+  F  F7  1  0.64837068  0.96655035  0.02537598  1
+  F  F8  1  0.03344965  0.68182033  0.02537598  1
+  F  F9  1  0.31817967  0.35162932  0.02537598  1
+  F  F10  1  0.33333334  0.66666669  0.72076952  1
+  F  F11  1  0.66666669  0.33333334  0.24800044  1
+  Mn  Mn12  1  0.00000000  0.00000000  0.97109514  1
+  Ga  Ga13  1  0.00000000  0.00000000  0.52602112  1
+  Si  Si14  1  0.33333334  0.66666669  0.42258120  1
+  Li  Li15  1  0.33333334  0.66666669  0.88772684  1
+  Zr  Zr16  1  0.33333334  0.66666669  0.14973627  1
+  Ba  Ba17  1  0.66666669  0.33333334  0.70934862  1

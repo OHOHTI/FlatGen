@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Na3TbTlSbPbBr11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.79435301
+_cell_length_b   7.79435288
+_cell_length_c   12.63146114
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000459
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3TbTlSbPbBr11
+_chemical_formula_sum   'Na3 Tb1 Tl1 Sb1 Pb1 Br11'
+_cell_volume   664.57551632
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.66666669  0.33333334  0.47103408  1
+  Br  Br1  1  0.33333334  0.66666669  0.37612832  1
+  Br  Br2  1  0.33709255  0.98664284  0.84741324  1
+  Br  Br3  1  0.01335716  0.35044968  0.84741324  1
+  Br  Br4  1  0.64955032  0.66290748  0.84741324  1
+  Br  Br5  1  0.33383328  0.99339646  0.14552359  1
+  Br  Br6  1  0.00660354  0.34043682  0.14552359  1
+  Br  Br7  1  0.65956318  0.66616672  0.14552359  1
+  Tl  Tl8  1  0.00000000  0.00000000  0.34142503  1
+  Tb  Tb9  1  0.00000000  0.00000000  0.75385833  1
+  Sb  Sb10  1  0.33333334  0.66666669  0.13670243  1
+  Pb  Pb11  1  0.66666669  0.33333334  0.88868600  1
+  Br  Br12  1  0.25698417  0.29837605  0.63173008  1
+  Br  Br13  1  0.70162392  0.95860815  0.63173008  1
+  Br  Br14  1  0.04139188  0.74301583  0.63173008  1
+  Na  Na15  1  0.30006298  0.29177409  0.02619765  1
+  Na  Na16  1  0.70822591  0.00828889  0.02619765  1
+  Na  Na17  1  0.99171114  0.69993699  0.02619765  1

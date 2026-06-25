@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_K3BaSrLiEu9Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.65538883
+_cell_length_b   9.65538875
+_cell_length_c   8.33456898
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000356
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3BaSrLiEu9Pt
+_chemical_formula_sum   'K3 Ba1 Sr1 Li1 Eu9 Pt1'
+_cell_volume   672.90428416
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.88827968  0.22623108  0.58673763  1
+  Eu  Eu1  1  0.77376890  0.66204858  0.58673763  1
+  Eu  Eu2  1  0.33795142  0.11172032  0.58673763  1
+  Eu  Eu3  1  0.10025538  0.64684105  0.56623727  1
+  Eu  Eu4  1  0.35315895  0.45341432  0.56623727  1
+  Eu  Eu5  1  0.54658568  0.89974463  0.56623727  1
+  Eu  Eu6  1  0.71056485  0.07935891  0.21069591  1
+  Eu  Eu7  1  0.92064106  0.63120592  0.21069591  1
+  Eu  Eu8  1  0.36879408  0.28943515  0.21069591  1
+  Li  Li9  1  0.00000000  0.00000000  0.34202337  1
+  Ba  Ba10  1  0.33333334  0.66666669  0.24556796  1
+  Sr  Sr11  1  0.66666669  0.33333334  0.92073059  1
+  Pt  Pt12  1  0.66666669  0.33333334  0.42603830  1
+  K  K13  1  0.25972405  0.92568421  0.91829747  1
+  K  K14  1  0.07431579  0.33403981  0.91829747  1
+  K  K15  1  0.66596019  0.74027598  0.91829747  1

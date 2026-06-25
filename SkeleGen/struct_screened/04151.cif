@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BaTiAlMoF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.85792446
+_cell_length_b   5.85792429
+_cell_length_c   6.95359802
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000368
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaTiAlMoF12
+_chemical_formula_sum   'Ba1 Ti1 Al1 Mo1 F12'
+_cell_volume   206.64634011
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.89809382  0.29965261  0.50767452  1
+  F  F1  1  0.70034742  0.59844124  0.50767452  1
+  F  F2  1  0.40155876  0.10190618  0.50767452  1
+  F  F3  1  0.01779701  0.63826358  0.75985038  1
+  F  F4  1  0.36173642  0.37953341  0.75985038  1
+  F  F5  1  0.62046659  0.98220301  0.75985038  1
+  F  F6  1  0.28636298  0.38362044  0.23098844  1
+  F  F7  1  0.61637956  0.90274251  0.23098844  1
+  F  F8  1  0.09725747  0.71363699  0.23098844  1
+  Ba  Ba9  1  0.00000000  0.00000000  0.61875552  1
+  Ti  Ti10  1  0.33333334  0.66666669  0.07361214  1
+  Mo  Mo11  1  0.66666669  0.33333334  0.25121161  1
+  Al  Al12  1  0.66666669  0.33333334  0.74882466  1
+  F  F13  1  0.94609612  0.33246201  0.99938869  1
+  F  F14  1  0.66753799  0.61363411  0.99938869  1
+  F  F15  1  0.38636589  0.05390388  0.99938869  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_ThTiCu2AgBiSbPtSeS9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.38607688
+_cell_length_b   7.51156721
+_cell_length_c   8.79082489
+_cell_angle_alpha   90.20539312
+_cell_angle_beta   101.91188026
+_cell_angle_gamma   101.83609390
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThTiCu2AgBiSbPtSeS9
+_chemical_formula_sum   'Th1 Ti1 Cu2 Ag1 Bi1 Sb1 Pt1 Se1 S9'
+_cell_volume   403.37307085
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.69153053  0.66703838  0.25153720  1
+  S  S1  1  0.70445681  0.08114844  0.74302870  1
+  S  S2  1  0.35334119  0.66706103  0.98609161  1
+  S  S3  1  0.71023077  0.37524441  0.50055224  1
+  S  S4  1  0.27792102  0.97873986  0.21596922  1
+  S  S5  1  0.27888650  0.21704958  0.79811442  1
+  S  S6  1  0.92513227  0.66442126  0.79948300  1
+  S  S7  1  0.03231089  0.36601365  0.19551907  1
+  Ag  Ag8  1  0.04419105  0.07360912  0.46275088  1
+  Cu  Cu9  1  0.97417057  0.32969269  0.74231648  1
+  S  S10  1  0.21464501  0.72878140  0.51677108  1
+  Se  Se11  1  0.78956258  0.96116090  0.05189879  1
+  Pt  Pt12  1  0.04543966  0.72062999  0.24407941  1
+  Ti  Ti13  1  0.11895666  0.14324979  0.01763206  1
+  Th  Th14  1  0.68053263  0.44208312  0.94739693  1
+  Cu  Cu15  1  0.82008111  0.67569947  0.51418352  1
+  Bi  Bi16  1  0.61728263  0.16825362  0.24020500  1
+  Sb  Sb17  1  0.30855045  0.87350357  0.76288027  1

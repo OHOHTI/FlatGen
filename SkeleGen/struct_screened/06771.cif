@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KLiCuHF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.31639309
+_cell_length_b   4.17924216
+_cell_length_c   9.97568321
+_cell_angle_alpha   91.90498998
+_cell_angle_beta   91.78882223
+_cell_angle_gamma   87.82173549
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KLiCuHF6
+_chemical_formula_sum   'K2 Li2 Cu2 H2 F12'
+_cell_volume   262.88143515
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.73990291  0.75676072  0.06302260  1
+  F  F1  1  0.26009709  0.24323928  0.93697739  1
+  F  F2  1  0.80736870  0.24521604  0.93878800  1
+  F  F3  1  0.19263130  0.75478399  0.06121200  1
+  F  F4  1  0.63573033  0.75867403  0.33250749  1
+  F  F5  1  0.36426967  0.24132597  0.66749251  1
+  Cu  Cu6  1  0.96544683  0.74655157  0.17881604  1
+  Cu  Cu7  1  0.03455317  0.25344843  0.82118398  1
+  H  H8  1  0.72289860  0.25449896  0.05472426  1
+  H  H9  1  0.27710140  0.74550104  0.94527572  1
+  K  K10  1  0.28796884  0.74528879  0.55917370  1
+  K  K11  1  0.71203113  0.25471121  0.44082630  1
+  F  F12  1  0.58207279  0.24903964  0.16719154  1
+  F  F13  1  0.41792721  0.75096035  0.83280849  1
+  F  F14  1  0.06978712  0.76230240  0.34538054  1
+  F  F15  1  0.93021286  0.23769760  0.65461946  1
+  F  F16  1  0.95660436  0.76071697  0.78218448  1
+  F  F17  1  0.04339564  0.23928303  0.21781552  1
+  Li  Li18  1  0.52065939  0.24819563  0.85190433  1
+  Li  Li19  1  0.47934061  0.75180435  0.14809567  1

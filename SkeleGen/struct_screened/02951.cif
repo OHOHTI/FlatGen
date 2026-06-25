@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ti(NbBr5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.73991213
+_cell_length_b   6.71511391
+_cell_length_c   10.77048683
+_cell_angle_alpha   93.54796457
+_cell_angle_beta   96.31596006
+_cell_angle_gamma   90.16449501
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti(NbBr5)2
+_chemical_formula_sum   'Ti1 Nb2 Br10'
+_cell_volume   483.55406686
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.30372238  0.67572314  0.55234075  1
+  Br  Br1  1  0.78116637  0.37266880  0.46855032  1
+  Br  Br2  1  0.83258218  0.70335811  0.76603323  1
+  Br  Br3  1  0.59802651  0.41258019  0.09607837  1
+  Br  Br4  1  0.28127024  0.16920403  0.71413577  1
+  Br  Br5  1  0.10191017  0.41252741  0.25871256  1
+  Br  Br6  1  0.11068454  0.89622283  0.10728872  1
+  Br  Br7  1  0.84475952  0.16888943  0.84944755  1
+  Br  Br8  1  0.33404821  0.72855204  0.91170931  1
+  Br  Br9  1  0.73749387  0.87749428  0.27064162  1
+  Nb  Nb10  1  0.13672943  0.01092762  0.89939493  1
+  Nb  Nb11  1  0.99439418  0.64924866  0.41031480  1
+  Ti  Ti12  1  0.78892398  0.65946293  0.01357409  1

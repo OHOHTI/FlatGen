@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Zr2Mn3BrCl9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.17183495
+_cell_length_b   9.17183455
+_cell_length_c   5.08184147
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000488
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr2Mn3BrCl9
+_chemical_formula_sum   'Zr2 Mn3 Br1 Cl9'
+_cell_volume   370.22365627
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.79539937  0.19910932  0.57856178  1
+  Cl  Cl1  1  0.80089068  0.59629005  0.57856178  1
+  Cl  Cl2  1  0.40370995  0.20460063  0.57856178  1
+  Cl  Cl3  1  0.19910932  0.79539937  0.57856178  1
+  Cl  Cl4  1  0.59629005  0.80089068  0.57856178  1
+  Cl  Cl5  1  0.20460063  0.40370995  0.57856178  1
+  Cl  Cl6  1  0.52674556  0.00000000  0.08003291  1
+  Cl  Cl7  1  0.00000000  0.52674556  0.08003291  1
+  Cl  Cl8  1  0.47325444  0.47325444  0.08003291  1
+  Br  Br9  1  0.00000000  0.00000000  0.07693185  1
+  Zr  Zr10  1  0.33333334  0.66666669  0.08795237  1
+  Zr  Zr11  1  0.66666669  0.33333334  0.08795237  1
+  Mn  Mn12  1  0.79486442  0.00000000  0.80920601  1
+  Mn  Mn13  1  0.00000000  0.79486442  0.80920601  1
+  Mn  Mn14  1  0.20513558  0.20513558  0.80920601  1

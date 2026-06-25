@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_CsNaTiFeCCl14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.52734375
+_cell_length_b   7.52734351
+_cell_length_c   11.12979221
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000526
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsNaTiFeCCl14
+_chemical_formula_sum   'Cs1 Na1 Ti1 Fe1 C1 Cl14'
+_cell_volume   546.13643326
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.55834073  0.65214646  0.52301747  1
+  Cl  Cl1  1  0.34785354  0.90619427  0.52301747  1
+  Cl  Cl2  1  0.09380573  0.44165927  0.52301747  1
+  Cl  Cl3  1  0.90607536  0.46948335  0.99528968  1
+  Cl  Cl4  1  0.53051662  0.43659201  0.99528968  1
+  Cl  Cl5  1  0.56340802  0.09392464  0.99528968  1
+  Cl  Cl6  1  0.66666669  0.33333334  0.58681267  1
+  Cl  Cl7  1  0.80293435  0.10041141  0.78090638  1
+  Cl  Cl8  1  0.89958858  0.70252293  0.78090638  1
+  Cl  Cl9  1  0.29747707  0.19706565  0.78090638  1
+  Cl  Cl10  1  0.33333334  0.66666669  0.11391533  1
+  Cl  Cl11  1  0.28764230  0.35813829  0.30155939  1
+  Cl  Cl12  1  0.64186168  0.92950404  0.30155939  1
+  Cl  Cl13  1  0.07049599  0.71235770  0.30155939  1
+  Cs  Cs14  1  0.00000000  0.00000000  0.06884435  1
+  Ti  Ti15  1  0.33333334  0.66666669  0.36045444  1
+  C  C16  1  0.33333334  0.66666669  0.57785624  1
+  Na  Na17  1  0.33333334  0.66666669  0.78794181  1
+  Fe  Fe18  1  0.66666669  0.33333334  0.84379351  1

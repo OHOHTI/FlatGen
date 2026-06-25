@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Cd3Cu2GeCl14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.99592781
+_cell_length_b   9.99592755
+_cell_length_c   5.94298410
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000403
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd3Cu2GeCl14
+_chemical_formula_sum   'Cd3 Cu2 Ge1 Cl14'
+_cell_volume   514.25839880
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.06037150  0.23178910  0.75161856  1
+  Cl  Cl1  1  0.76821089  0.82858241  0.75161856  1
+  Cl  Cl2  1  0.17141759  0.93962848  0.75161856  1
+  Cl  Cl3  1  0.23178910  0.06037150  0.24838144  1
+  Cl  Cl4  1  0.82858241  0.76821089  0.24838144  1
+  Cl  Cl5  1  0.93962848  0.17141759  0.24838144  1
+  Cl  Cl6  1  0.33749402  0.47880960  0.26080388  1
+  Cl  Cl7  1  0.52119040  0.85868442  0.26080388  1
+  Cl  Cl8  1  0.14131558  0.66250598  0.26080388  1
+  Cl  Cl9  1  0.47880960  0.33749402  0.73919612  1
+  Cl  Cl10  1  0.85868442  0.52119040  0.73919612  1
+  Cl  Cl11  1  0.66250598  0.14131558  0.73919612  1
+  Cl  Cl12  1  0.33333334  0.66666669  0.79764408  1
+  Cl  Cl13  1  0.66666669  0.33333334  0.20235592  1
+  Ge  Ge14  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu15  1  0.33333334  0.66666669  0.11654772  1
+  Cu  Cu16  1  0.66666669  0.33333334  0.88345230  1
+  Cd  Cd17  1  0.39726216  0.00000000  0.50000000  1
+  Cd  Cd18  1  0.00000000  0.39726216  0.50000000  1
+  Cd  Cd19  1  0.60273784  0.60273784  0.50000000  1

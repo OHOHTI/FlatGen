@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Na2LiHfThMnSbCl12F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.13551311
+_cell_length_b   4.01229334
+_cell_length_c   16.66332054
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   89.91996635
+_cell_angle_gamma   90.00000433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2LiHfThMnSbCl12F
+_chemical_formula_sum   'Na2 Li1 Th1 Hf1 Mn1 Sb1 Cl12 F1'
+_cell_volume   477.06659807
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.14666089  0.50000000  0.31009686  1
+  Cl  Cl1  1  0.39034846  0.00000000  0.65366095  1
+  Cl  Cl2  1  0.52283013  0.50000000  0.44144860  1
+  Cl  Cl3  1  0.92071778  0.00000000  0.45114756  1
+  Cl  Cl4  1  0.01976048  0.00000000  0.15120858  1
+  Cl  Cl5  1  0.64475191  0.50000000  0.22524559  1
+  Cl  Cl6  1  0.48070371  0.50000000  0.80980253  1
+  Cl  Cl7  1  0.06884652  0.00000000  0.78053838  1
+  Mn  Mn8  1  0.34432036  0.00000000  0.88643324  1
+  Cl  Cl9  1  0.41757303  0.00000000  0.08088913  1
+  Na  Na10  1  0.28642687  0.00000000  0.48756880  1
+  Cl  Cl11  1  0.68704093  0.00000000  0.94777262  1
+  Th  Th12  1  0.36619645  0.00000000  0.24634452  1
+  Cl  Cl13  1  0.80827832  0.50000000  0.64921558  1
+  Li  Li14  1  0.89421695  0.50000000  0.84780914  1
+  Na  Na15  1  0.82671171  0.50000000  0.05527032  1
+  Cl  Cl16  1  0.15953740  0.50000000  0.94521016  1
+  Hf  Hf17  1  0.22622621  0.50000000  0.71111757  1
+  F  F18  1  0.16729225  0.50000000  0.56661570  1
+  Sb  Sb19  1  0.83786178  0.50000000  0.37437868  1

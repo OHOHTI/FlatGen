@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_TlFe2As4O4F9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.71194553
+_cell_length_b   5.71194537
+_cell_length_c   10.26129341
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000373
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlFe2As4O4F9
+_chemical_formula_sum   'Tl1 Fe2 As4 O4 F9'
+_cell_volume   289.93511924
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  As  As0  1  0.00000000  0.00000000  0.99985224  1
+  As  As1  1  0.66666669  0.33333334  0.64324701  1
+  As  As2  1  0.33333334  0.66666669  0.36510411  1
+  As  As3  1  0.00000000  0.00000000  0.48885795  1
+  Tl  Tl4  1  0.33333334  0.66666669  0.78255188  1
+  Fe  Fe5  1  0.66666669  0.33333334  0.95777416  1
+  Fe  Fe6  1  0.66666669  0.33333334  0.28456023  1
+  O  O7  1  0.66666669  0.33333334  0.12572072  1
+  F  F8  1  0.35260811  0.27597407  0.35279924  1
+  F  F9  1  0.72402596  0.07663405  0.35279924  1
+  F  F10  1  0.92336595  0.64739192  0.35279924  1
+  O  O11  1  0.87611920  0.64411902  0.89609486  1
+  O  O12  1  0.35588098  0.23200017  0.89609486  1
+  O  O13  1  0.76799983  0.12388080  0.89609486  1
+  F  F14  1  0.07188089  0.31229129  0.59526110  1
+  F  F15  1  0.68770874  0.75958961  0.59526110  1
+  F  F16  1  0.24041040  0.92811912  0.59526110  1
+  F  F17  1  0.14512016  0.32605422  0.08900136  1
+  F  F18  1  0.67394578  0.81906593  0.08900136  1
+  F  F19  1  0.18093406  0.85487986  0.08900136  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ce2YMnAlCuS3I5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22345066
+_cell_length_b   4.22345045
+_cell_length_c   28.37713814
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000537
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2YMnAlCuS3I5
+_chemical_formula_sum   'Ce2 Y1 Mn1 Al1 Cu1 S3 I5'
+_cell_volume   438.36314194
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.00000000  0.00000000  0.02452528  1
+  I  I1  1  0.66666669  0.33333334  0.64176422  1
+  I  I2  1  0.33333334  0.66666669  0.36626464  1
+  I  I3  1  0.00000000  0.00000000  0.51125461  1
+  S  S4  1  0.00000000  0.00000000  0.24900316  1
+  Cu  Cu5  1  0.00000000  0.00000000  0.90327770  1
+  Al  Al6  1  0.00000000  0.00000000  0.14071205  1
+  I  I7  1  0.00000000  0.00000000  0.77154493  1
+  Ce  Ce8  1  0.33333334  0.66666669  0.57490313  1
+  S  S9  1  0.66666669  0.33333334  0.15784174  1
+  Y  Y10  1  0.66666669  0.33333334  0.84433109  1
+  Ce  Ce11  1  0.66666669  0.33333334  0.29613093  1
+  S  S12  1  0.66666669  0.33333334  0.93004817  1
+  Mn  Mn13  1  0.66666669  0.33333334  0.07719709  1

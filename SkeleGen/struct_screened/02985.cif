@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CsTl2Fe4I8O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.06784868
+_cell_length_b   7.06784841
+_cell_length_c   13.72186661
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000575
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsTl2Fe4I8O3
+_chemical_formula_sum   'Cs1 Tl2 Fe4 I8 O3'
+_cell_volume   593.63331919
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.33333334  0.66666669  0.08447988  1
+  I  I1  1  0.66666669  0.33333334  0.91552013  1
+  I  I2  1  0.33777124  0.02430202  0.67829168  1
+  I  I3  1  0.97569799  0.31346923  0.67829168  1
+  I  I4  1  0.68653077  0.66222876  0.67829168  1
+  I  I5  1  0.02430202  0.33777124  0.32170832  1
+  I  I6  1  0.31346923  0.97569799  0.32170832  1
+  I  I7  1  0.66222876  0.68653077  0.32170832  1
+  Cs  Cs8  1  0.00000000  0.00000000  0.00000000  1
+  Tl  Tl9  1  0.33333334  0.66666669  0.79297304  1
+  Tl  Tl10  1  0.66666669  0.33333334  0.20702696  1
+  Fe  Fe11  1  0.33333334  0.66666669  0.52838063  1
+  Fe  Fe12  1  0.66666669  0.33333334  0.47161937  1
+  Fe  Fe13  1  0.33333334  0.66666669  0.25978273  1
+  Fe  Fe14  1  0.66666669  0.33333334  0.74021727  1
+  O  O15  1  0.60740399  0.00000000  0.50000000  1
+  O  O16  1  0.00000000  0.60740399  0.50000000  1
+  O  O17  1  0.39259601  0.39259601  0.50000000  1

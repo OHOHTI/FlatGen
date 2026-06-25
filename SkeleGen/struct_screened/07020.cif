@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ReRu(OF4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.28301382
+_cell_length_b   5.28301372
+_cell_length_c   8.58301735
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000362
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ReRu(OF4)2
+_chemical_formula_sum   'Re1 Ru1 O2 F8'
+_cell_volume   207.45986530
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.59751892  0.64674789  0.25580528  1
+  F  F1  1  0.35325211  0.95077103  0.25580528  1
+  F  F2  1  0.04922897  0.40248108  0.25580528  1
+  F  F3  1  0.64628518  0.02316032  0.76269627  1
+  F  F4  1  0.97683966  0.62312484  0.76269627  1
+  F  F5  1  0.37687516  0.35371482  0.76269627  1
+  F  F6  1  0.33333334  0.66666669  0.01633531  1
+  F  F7  1  0.66666669  0.33333334  0.47449914  1
+  Re  Re8  1  0.00000000  0.00000000  0.74217325  1
+  O  O9  1  0.00000000  0.00000000  0.55994576  1
+  O  O10  1  0.00000000  0.00000000  0.95993835  1
+  Ru  Ru11  1  0.33333334  0.66666669  0.18603793  1

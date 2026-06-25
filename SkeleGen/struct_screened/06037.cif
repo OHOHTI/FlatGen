@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_EuMnVCu(HO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.28349662
+_cell_length_b   3.28349650
+_cell_length_c   20.10928917
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000597
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuMnVCu(HO5)2
+_chemical_formula_sum   'Eu1 Mn1 V1 Cu1 H2 O10'
+_cell_volume   187.75886711
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.00000000  0.00000000  0.96932703  1
+  O  O1  1  0.66666669  0.33333334  0.62442249  1
+  O  O2  1  0.33333334  0.66666669  0.36092177  1
+  O  O3  1  0.00000000  0.00000000  0.46498907  1
+  O  O4  1  0.00000000  0.00000000  0.79563022  1
+  Eu  Eu5  1  0.00000000  0.00000000  0.04805104  1
+  Mn  Mn6  1  0.33333334  0.66666669  0.80422765  1
+  O  O7  1  0.33333334  0.66666669  0.09733658  1
+  O  O8  1  0.33333334  0.66666669  0.54355639  1
+  H  H9  1  0.33333334  0.66666669  0.40695733  1
+  O  O10  1  0.33333334  0.66666669  0.88432324  1
+  O  O11  1  0.33333334  0.66666669  0.24130963  1
+  O  O12  1  0.33333334  0.66666669  0.70789307  1
+  H  H13  1  0.33333334  0.66666669  0.62608039  1
+  Cu  Cu14  1  0.33333334  0.66666669  0.17416438  1
+  V  V15  1  0.66666669  0.33333334  0.50963229  1

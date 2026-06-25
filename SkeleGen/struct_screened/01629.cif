@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_SiF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66286469
+_cell_length_b   6.54309940
+_cell_length_c   7.50029516
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   90.00000433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiF4
+_chemical_formula_sum   'Si4 F16'
+_cell_volume   277.90608562
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.73290783  0.76270223  0.21762505  1
+  F  F1  1  0.76709217  0.23729777  0.71762502  1
+  F  F2  1  0.26709217  0.26270223  0.28237495  1
+  F  F3  1  0.23290777  0.73729777  0.78237498  1
+  F  F4  1  0.53908724  0.10668796  0.98598140  1
+  F  F5  1  0.96091276  0.89331204  0.48598146  1
+  F  F6  1  0.46091276  0.60668796  0.51401860  1
+  F  F7  1  0.03908730  0.39331204  0.01401860  1
+  F  F8  1  0.98444587  0.53686976  0.48500812  1
+  F  F9  1  0.51555413  0.46313024  0.98500812  1
+  F  F10  1  0.01555413  0.03686976  0.01499188  1
+  F  F11  1  0.48444581  0.96313024  0.51499188  1
+  F  F12  1  0.81042045  0.26390556  0.27777612  1
+  F  F13  1  0.68957955  0.73609447  0.77777612  1
+  F  F14  1  0.18957955  0.76390553  0.22222388  1
+  F  F15  1  0.31042051  0.23609444  0.72222388  1
+  Si  Si16  1  0.04948756  0.22415468  0.15805322  1
+  Si  Si17  1  0.45051244  0.77584529  0.65805322  1
+  Si  Si18  1  0.95051247  0.72415471  0.34194678  1
+  Si  Si19  1  0.54948753  0.27584532  0.84194678  1

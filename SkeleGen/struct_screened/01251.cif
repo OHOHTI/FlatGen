@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_LaCuGeSCl14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.67403221
+_cell_length_b   9.67403218
+_cell_length_c   6.01864243
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000336
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCuGeSCl14
+_chemical_formula_sum   'La1 Cu1 Ge1 S1 Cl14'
+_cell_volume   487.80271830
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.06068263  0.26665649  0.79762638  1
+  Cl  Cl1  1  0.73334348  0.79402614  0.79762638  1
+  Cl  Cl2  1  0.20597386  0.93931735  0.79762638  1
+  Cl  Cl3  1  0.82685506  0.77259731  0.29006076  1
+  Cl  Cl4  1  0.22740269  0.05425775  0.29006076  1
+  Cl  Cl5  1  0.94574225  0.17314494  0.29006076  1
+  Cl  Cl6  1  0.37064639  0.46292180  0.30566832  1
+  Cl  Cl7  1  0.53707820  0.90772462  0.30566832  1
+  Cl  Cl8  1  0.09227541  0.62935364  0.30566832  1
+  Cl  Cl9  1  0.33333334  0.66666669  0.82652402  1
+  Cl  Cl10  1  0.66666669  0.33333334  0.23402043  1
+  Cl  Cl11  1  0.42562172  0.31377551  0.79934251  1
+  Cl  Cl12  1  0.68622446  0.11184621  0.79934251  1
+  Cl  Cl13  1  0.88815379  0.57437825  0.79934251  1
+  La  La14  1  0.00000000  0.00000000  0.55899882  1
+  Cu  Cu15  1  0.00000000  0.00000000  0.06809980  1
+  S  S16  1  0.33333334  0.66666669  0.17470218  1
+  Ge  Ge17  1  0.66666669  0.33333334  0.89563924  1

@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Eu10Ge6Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.65809155
+_cell_length_b   8.65809116
+_cell_length_c   7.24683619
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000511
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu10Ge6Pt
+_chemical_formula_sum   'Eu10 Ge6 Pt1'
+_cell_volume   470.46073327
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.33333334  0.66666669  0.51043051  1
+  Eu  Eu1  1  0.66666669  0.33333334  0.48956949  1
+  Eu  Eu2  1  0.75410461  0.72847492  0.75030613  1
+  Eu  Eu3  1  0.27152508  0.02562970  0.75030613  1
+  Eu  Eu4  1  0.97437030  0.24589539  0.75030613  1
+  Eu  Eu5  1  0.72847492  0.75410461  0.24969387  1
+  Eu  Eu6  1  0.02562970  0.27152508  0.24969387  1
+  Eu  Eu7  1  0.24589539  0.97437030  0.24969387  1
+  Eu  Eu8  1  0.33333334  0.66666669  0.01863587  1
+  Eu  Eu9  1  0.66666669  0.33333334  0.98136413  1
+  Pt  Pt10  1  0.00000000  0.00000000  0.00000000  1
+  Ge  Ge11  1  0.59046865  0.95788348  0.74792576  1
+  Ge  Ge12  1  0.04211652  0.63258517  0.74792576  1
+  Ge  Ge13  1  0.36741483  0.40953135  0.74792576  1
+  Ge  Ge14  1  0.95788348  0.59046865  0.25207424  1
+  Ge  Ge15  1  0.63258517  0.04211652  0.25207424  1
+  Ge  Ge16  1  0.40953135  0.36741483  0.25207424  1

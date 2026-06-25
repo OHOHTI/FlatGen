@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_BaZrAlCuBF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.78285694
+_cell_length_b   5.78285662
+_cell_length_c   7.89290810
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000456
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaZrAlCuBF8
+_chemical_formula_sum   'Ba1 Zr1 Al1 Cu1 B1 F8'
+_cell_volume   228.58752794
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66666669  0.33333334  0.50356883  1
+  F  F1  1  0.33333334  0.66666669  0.41168150  1
+  F  F2  1  0.61075324  0.99649888  0.80404794  1
+  F  F3  1  0.00350112  0.61425436  0.80404794  1
+  F  F4  1  0.38574564  0.38924676  0.80404794  1
+  F  F5  1  0.39453074  0.09094922  0.21626879  1
+  F  F6  1  0.90905076  0.30358154  0.21626879  1
+  F  F7  1  0.69641846  0.60546923  0.21626879  1
+  Ba  Ba8  1  0.00000000  0.00000000  0.00042607  1
+  Zr  Zr9  1  0.33333334  0.66666669  0.68109626  1
+  Cu  Cu10  1  0.66666669  0.33333334  0.72768372  1
+  Al  Al11  1  0.66666669  0.33333334  0.07798924  1
+  B  B12  1  0.66666669  0.33333334  0.31984857  1

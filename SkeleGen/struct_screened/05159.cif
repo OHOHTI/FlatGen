@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_TiAg(PbBr7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.86997795
+_cell_length_b   8.86997744
+_cell_length_c   9.50828171
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000548
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiAg(PbBr7)2
+_chemical_formula_sum   'Ti1 Ag1 Pb2 Br14'
+_cell_volume   647.85483363
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.43881345  0.49406731  0.50931764  1
+  Br  Br1  1  0.50593269  0.94474614  0.50931764  1
+  Br  Br2  1  0.05525386  0.56118655  0.50931764  1
+  Br  Br3  1  0.94396394  0.39932311  0.01206634  1
+  Br  Br4  1  0.60067689  0.54464084  0.01206634  1
+  Br  Br5  1  0.45535916  0.05603606  0.01206634  1
+  Br  Br6  1  0.66666669  0.33333334  0.34677970  1
+  Br  Br7  1  0.90143090  0.18684947  0.72583723  1
+  Br  Br8  1  0.81315053  0.71458143  0.72583723  1
+  Br  Br9  1  0.28541857  0.09856910  0.72583723  1
+  Br  Br10  1  0.33333334  0.66666669  0.90634519  1
+  Br  Br11  1  0.18754196  0.26980081  0.22476228  1
+  Br  Br12  1  0.73019922  0.91774118  0.22476228  1
+  Br  Br13  1  0.08225885  0.81245804  0.22476228  1
+  Pb  Pb14  1  0.00000000  0.00000000  0.48198897  1
+  Ag  Ag15  1  0.00000000  0.00000000  0.96679139  1
+  Ti  Ti16  1  0.33333334  0.66666669  0.61872244  1
+  Pb  Pb17  1  0.66666669  0.33333334  0.83648717  1

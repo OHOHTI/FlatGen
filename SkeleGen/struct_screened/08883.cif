@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Nb3(GaI7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.58359528
+_cell_length_b   10.58359503
+_cell_length_c   8.59215927
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000375
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb3(GaI7)2
+_chemical_formula_sum   'Nb3 Ga2 I14'
+_cell_volume   833.48803842
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.33333334  0.66666669  0.97090369  1
+  I  I1  1  0.66666669  0.33333334  0.02909631  1
+  I  I2  1  0.52896041  0.07026762  0.69614470  1
+  I  I3  1  0.92973238  0.45869279  0.69614470  1
+  I  I4  1  0.54130721  0.47103959  0.69614470  1
+  I  I5  1  0.07026762  0.52896041  0.30385530  1
+  I  I6  1  0.45869279  0.92973238  0.30385530  1
+  I  I7  1  0.47103959  0.54130721  0.30385530  1
+  Ga  Ga8  1  0.33333334  0.66666669  0.49297974  1
+  Ga  Ga9  1  0.66666669  0.33333334  0.50702024  1
+  Nb  Nb10  1  0.64356881  0.00000000  0.50000000  1
+  Nb  Nb11  1  0.00000000  0.64356881  0.50000000  1
+  Nb  Nb12  1  0.35643119  0.35643119  0.50000000  1
+  I  I13  1  0.08449812  0.85212898  0.72630346  1
+  I  I14  1  0.14787102  0.23236912  0.72630346  1
+  I  I15  1  0.76763088  0.91550189  0.72630346  1
+  I  I16  1  0.85212898  0.08449812  0.27369654  1
+  I  I17  1  0.23236912  0.14787102  0.27369654  1
+  I  I18  1  0.91550189  0.76763088  0.27369654  1

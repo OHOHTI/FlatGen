@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_EuFeTeCO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.98349094
+_cell_length_b   4.98349065
+_cell_length_c   8.06467056
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000513
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuFeTeCO8
+_chemical_formula_sum   'Eu1 Fe1 Te1 C1 O8'
+_cell_volume   173.45409669
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.63458037  0.63767135  0.27340478  1
+  O  O1  1  0.36232865  0.99690902  0.27340478  1
+  O  O2  1  0.00309098  0.36541963  0.27340478  1
+  O  O3  1  0.64205861  0.02765946  0.77428699  1
+  O  O4  1  0.97234052  0.61439914  0.77428699  1
+  O  O5  1  0.38560086  0.35794139  0.77428699  1
+  O  O6  1  0.33333334  0.66666669  0.01469928  1
+  O  O7  1  0.66666669  0.33333334  0.55887717  1
+  Eu  Eu8  1  0.00000000  0.00000000  0.50154918  1
+  Fe  Fe9  1  0.33333334  0.66666669  0.80591112  1
+  Te  Te10  1  0.33333334  0.66666669  0.21512514  1
+  C  C11  1  0.66666669  0.33333334  0.72004193  1

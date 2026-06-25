@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_GdPtCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.67215443
+_cell_length_b   6.67215404
+_cell_length_c   8.36916542
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000665
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdPtCl8
+_chemical_formula_sum   'Gd1 Pt1 Cl8'
+_cell_volume   322.65983569
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.73321915  0.66544145  0.20013502  1
+  Cl  Cl1  1  0.33455855  0.06777769  0.20013502  1
+  Cl  Cl2  1  0.93222231  0.26678085  0.20013502  1
+  Cl  Cl3  1  0.73794764  0.04388611  0.80120111  1
+  Cl  Cl4  1  0.95611387  0.69406152  0.80120111  1
+  Cl  Cl5  1  0.30593848  0.26205236  0.80120111  1
+  Cl  Cl6  1  0.33333334  0.66666669  0.99308413  1
+  Cl  Cl7  1  0.66666669  0.33333334  0.50078309  1
+  Pt  Pt8  1  0.00000000  0.00000000  0.99575418  1
+  Gd  Gd9  1  0.66666669  0.33333334  0.00899792  1

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_KNaLiBeAlCrSF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.12199688
+_cell_length_b   5.12199672
+_cell_length_c   9.25481606
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000411
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNaLiBeAlCrSF8
+_chemical_formula_sum   'K1 Na1 Li1 Be1 Al1 Cr1 S1 F8'
+_cell_volume   210.26985281
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66666669  0.33333334  0.49945402  1
+  F  F1  1  0.33333334  0.66666669  0.49837843  1
+  F  F2  1  0.60809731  0.99764925  0.75764310  1
+  F  F3  1  0.00235075  0.61044806  0.75764310  1
+  F  F4  1  0.38955194  0.39190269  0.75764310  1
+  F  F5  1  0.32373777  0.94542831  0.08029357  1
+  F  F6  1  0.05457169  0.37830949  0.08029357  1
+  F  F7  1  0.62169051  0.67626226  0.08029357  1
+  Na  Na8  1  0.00000000  0.00000000  0.91970855  1
+  K  K9  1  0.00000000  0.00000000  0.39397758  1
+  Be  Be10  1  0.33333334  0.66666669  0.02132102  1
+  Li  Li11  1  0.33333334  0.66666669  0.25223455  1
+  Al  Al12  1  0.33333334  0.66666669  0.66935772  1
+  S  S13  1  0.66666669  0.33333334  0.21490891  1
+  Cr  Cr14  1  0.66666669  0.33333334  0.69861305  1

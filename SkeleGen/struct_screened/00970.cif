@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_KMnTePbF11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.99301177
+_cell_length_b   3.82826591
+_cell_length_c   12.04115295
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.70364175
+_cell_angle_gamma   90.00000429
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KMnTePbF11
+_chemical_formula_sum   'K1 Mn1 Te1 Pb1 F11'
+_cell_volume   230.14418565
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.98944944  0.50000000  0.38351533  1
+  F  F1  1  0.45458049  0.00000000  0.68069345  1
+  F  F2  1  0.45696300  0.50000000  0.50568032  1
+  F  F3  1  0.96999693  0.00000000  0.52869666  1
+  F  F4  1  0.11473306  0.00000000  0.22849987  1
+  F  F5  1  0.56905746  0.50000000  0.16008431  1
+  F  F6  1  0.48619270  0.50000000  0.83055067  1
+  F  F7  1  0.03400011  0.00000000  0.83806223  1
+  F  F8  1  0.51546353  0.00000000  0.34144676  1
+  Pb  Pb9  1  0.77891994  0.00000000  0.10009179  1
+  Mn  Mn10  1  0.36851758  0.00000000  0.85376358  1
+  Te  Te11  1  0.20766266  0.00000000  0.43821824  1
+  F  F12  1  0.46074516  0.00000000  0.01099582  1
+  K  K13  1  0.94585133  0.50000000  0.68677986  1
+  F  F14  1  0.99160033  0.50000000  0.03039821  1

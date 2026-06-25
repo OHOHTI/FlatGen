@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_PrPuAlI8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.61485627
+_cell_length_b   7.68913148
+_cell_length_c   9.94065571
+_cell_angle_alpha   78.05027320
+_cell_angle_beta   93.53348469
+_cell_angle_gamma   100.12042161
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrPuAlI8
+_chemical_formula_sum   'Pr1 Pu1 Al1 I8'
+_cell_volume   486.78610918
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.67923331  0.76968741  0.72253317  1
+  I  I1  1  0.71574712  0.76316053  0.26011261  1
+  I  I2  1  0.22099040  0.68297952  0.49073806  1
+  I  I3  1  0.15519655  0.80037147  0.98311079  1
+  I  I4  1  0.74809688  0.19061843  0.98512775  1
+  I  I5  1  0.67962027  0.34405896  0.49063116  1
+  I  I6  1  0.25567895  0.20718183  0.26062524  1
+  I  I7  1  0.24704492  0.25692829  0.75170720  1
+  Pr  Pr8  1  0.98093051  0.46673229  0.13638179  1
+  Al  Al9  1  0.46017393  0.50444633  0.62402821  1
+  Pu  Pu10  1  0.44744989  0.48844633  0.01281437  1

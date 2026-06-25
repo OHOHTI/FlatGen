@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_LiMn3Cu2OF11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.85626304
+_cell_length_b   5.64394881
+_cell_length_c   7.71324444
+_cell_angle_alpha   90.29622778
+_cell_angle_beta   91.62122297
+_cell_angle_gamma   93.02560917
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiMn3Cu2OF11
+_chemical_formula_sum   'Li1 Mn3 Cu2 O1 F11'
+_cell_volume   211.02455591
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.59135628  0.21729204  0.46973065  1
+  F  F1  1  0.36690474  0.71498495  0.47007740  1
+  F  F2  1  0.54164791  0.86824632  0.78703368  1
+  F  F3  1  0.41554788  0.38631225  0.80369985  1
+  F  F4  1  0.90803051  0.56680632  0.67451841  1
+  F  F5  1  0.41128272  0.04269737  0.12546085  1
+  F  F6  1  0.53236485  0.54599959  0.13236013  1
+  F  F7  1  0.02042768  0.43524909  0.32713404  1
+  Cu  Cu8  1  0.18864733  0.09573720  0.90144980  1
+  Mn  Mn9  1  0.71459186  0.23869938  0.23229001  1
+  F  F10  1  0.91961783  0.93655753  0.31757563  1
+  Mn  Mn11  1  0.72658747  0.59309679  0.90333021  1
+  Li  Li12  1  0.21242154  0.38522443  0.57804096  1
+  Mn  Mn13  1  0.22478807  0.73537624  0.23586997  1
+  F  F14  1  0.85441387  0.25169948  0.97663987  1
+  O  O15  1  0.07769816  0.06449327  0.67777336  1
+  F  F16  1  0.07321490  0.74926573  0.99802500  1
+  Cu  Cu17  1  0.78614849  0.90475613  0.57221961  1

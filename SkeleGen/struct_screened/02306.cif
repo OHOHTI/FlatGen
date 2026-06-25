@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrLaEuCoS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13523436
+_cell_length_b   6.13523405
+_cell_length_c   9.24143124
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000678
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrLaEuCoS8
+_chemical_formula_sum   'Sr1 La1 Eu1 Co1 S8'
+_cell_volume   301.25352015
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.66666669  0.33333334  0.51025897  1
+  S  S1  1  0.33333334  0.66666669  0.49445552  1
+  S  S2  1  0.66191846  0.03357604  0.82463396  1
+  S  S3  1  0.96642399  0.62834245  0.82463396  1
+  S  S4  1  0.37165755  0.33808154  0.82463396  1
+  S  S5  1  0.36028248  0.00544535  0.16446540  1
+  S  S6  1  0.99455464  0.35483712  0.16446540  1
+  S  S7  1  0.64516288  0.63971752  0.16446540  1
+  Sr  Sr8  1  0.00000000  0.00000000  0.63521647  1
+  La  La9  1  0.00000000  0.00000000  0.29574376  1
+  Eu  Eu10  1  0.33333334  0.66666669  0.97727734  1
+  Co  Co11  1  0.66666669  0.33333334  0.96818000  1

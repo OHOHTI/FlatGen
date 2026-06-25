@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BaEuUFe(P3S)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.25396538
+_cell_length_b   9.25396530
+_cell_length_c   4.37767220
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000368
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaEuUFe(P3S)3
+_chemical_formula_sum   'Ba1 Eu1 U1 Fe1 P9 S3'
+_cell_volume   324.66060280
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.81656510  0.14401157  0.72115183  1
+  P  P1  1  0.85598844  0.67255354  0.72115183  1
+  P  P2  1  0.32744646  0.18343490  0.72115183  1
+  P  P3  1  0.10240199  0.72909647  0.71898597  1
+  P  P4  1  0.27090353  0.37330550  0.71898597  1
+  P  P5  1  0.62669450  0.89759803  0.71898597  1
+  P  P6  1  0.04352946  0.71706641  0.22055708  1
+  P  P7  1  0.28293359  0.32646304  0.22055708  1
+  P  P8  1  0.67353696  0.95647055  0.22055708  1
+  Eu  Eu9  1  0.00000000  0.00000000  0.24708490  1
+  U  U10  1  0.33333334  0.66666669  0.23001012  1
+  Ba  Ba11  1  0.66666669  0.33333334  0.23908651  1
+  Fe  Fe12  1  0.66666669  0.33333334  0.79074067  1
+  S  S13  1  0.59897375  0.62303138  0.75222725  1
+  S  S14  1  0.37696862  0.97594237  0.75222725  1
+  S  S15  1  0.02405763  0.40102625  0.75222725  1

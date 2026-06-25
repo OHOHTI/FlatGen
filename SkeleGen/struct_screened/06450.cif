@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_RbMnCrBH2OF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.19243002
+_cell_length_b   5.19242997
+_cell_length_c   8.50624943
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000338
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbMnCrBH2OF8
+_chemical_formula_sum   'Rb1 Mn1 Cr1 B1 H2 O1 F8'
+_cell_volume   198.61407859
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66666669  0.33333334  0.50590479  1
+  F  F1  1  0.33333334  0.66666669  0.40319258  1
+  F  F2  1  0.64159298  0.98160028  0.77064168  1
+  F  F3  1  0.01839972  0.65999269  0.77064168  1
+  F  F4  1  0.34000731  0.35840702  0.77064168  1
+  F  F5  1  0.37961930  0.01558965  0.15073134  1
+  F  F6  1  0.98441035  0.36402965  0.15073134  1
+  F  F7  1  0.63597035  0.62038070  0.15073134  1
+  Rb  Rb8  1  0.00000000  0.00000000  0.39000097  1
+  Cr  Cr9  1  0.33333334  0.66666669  0.96667284  1
+  H  H10  1  0.66666669  0.33333334  0.65056461  1
+  H  H11  1  0.66666669  0.33333334  0.30250779  1
+  B  B12  1  0.66666669  0.33333334  0.13711220  1
+  O  O13  1  0.66666669  0.33333334  0.98578775  1
+  Mn  Mn14  1  0.66666669  0.33333334  0.81381327  1

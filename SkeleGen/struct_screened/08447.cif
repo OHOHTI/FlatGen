@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_TaCu(WO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.34878063
+_cell_length_b   5.34878060
+_cell_length_c   9.56233597
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000312
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaCu(WO3)2
+_chemical_formula_sum   'Ta2 Cu2 W4 O12'
+_cell_volume   236.92134393
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  W  W0  1  0.00000000  0.00000000  0.00000000  1
+  W  W1  1  0.33333334  0.66666669  0.47558007  1
+  W  W2  1  0.66666669  0.33333334  0.52441990  1
+  W  W3  1  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu4  1  0.33333334  0.66666669  0.75753921  1
+  Cu  Cu5  1  0.66666669  0.33333334  0.24246079  1
+  Ta  Ta6  1  0.33333334  0.66666669  0.01902980  1
+  Ta  Ta7  1  0.66666669  0.33333334  0.98097020  1
+  O  O8  1  0.66254467  0.98322278  0.11581899  1
+  O  O9  1  0.01677722  0.67932189  0.11581899  1
+  O  O10  1  0.32067811  0.33745533  0.11581899  1
+  O  O11  1  0.33745533  0.01677722  0.88418102  1
+  O  O12  1  0.98322278  0.32067811  0.88418102  1
+  O  O13  1  0.67932189  0.66254467  0.88418102  1
+  O  O14  1  0.98758924  0.31886864  0.38093367  1
+  O  O15  1  0.68113136  0.66872060  0.38093367  1
+  O  O16  1  0.33127940  0.01241076  0.38093367  1
+  O  O17  1  0.01241076  0.68113136  0.61906636  1
+  O  O18  1  0.31886864  0.33127940  0.61906636  1
+  O  O19  1  0.66872060  0.98758924  0.61906636  1

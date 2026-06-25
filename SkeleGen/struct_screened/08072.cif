@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Gd2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51813889
+_cell_length_b   5.36243057
+_cell_length_c   10.80234909
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   90.00000433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd2O3
+_chemical_formula_sum   'Gd8 O12'
+_cell_volume   319.64838705
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.00000000  0.50000000  0.33543515  1
+  Gd  Gd1  1  0.50000000  0.00000000  0.66456485  1
+  Gd  Gd2  1  0.00000000  0.00000000  0.51882541  1
+  Gd  Gd3  1  0.50000000  0.50000000  0.48117459  1
+  Gd  Gd4  1  0.00000000  0.00000000  0.15123199  1
+  Gd  Gd5  1  0.50000000  0.50000000  0.84876800  1
+  Gd  Gd6  1  0.00000000  0.00000000  0.85663474  1
+  Gd  Gd7  1  0.50000000  0.50000000  0.14336526  1
+  O  O8  1  0.26328823  0.73364472  0.59362400  1
+  O  O9  1  0.73671174  0.26635528  0.59362400  1
+  O  O10  1  0.23671177  0.23364472  0.40637600  1
+  O  O11  1  0.76328826  0.76635528  0.40637600  1
+  O  O12  1  0.25328946  0.75617373  0.94134873  1
+  O  O13  1  0.74671054  0.24382627  0.94134873  1
+  O  O14  1  0.24671054  0.25617373  0.05865127  1
+  O  O15  1  0.75328946  0.74382627  0.05865127  1
+  O  O16  1  0.74562430  0.27557355  0.25589818  1
+  O  O17  1  0.25437570  0.72442645  0.25589818  1
+  O  O18  1  0.75437570  0.77557355  0.74410182  1
+  O  O19  1  0.24562430  0.22442645  0.74410182  1

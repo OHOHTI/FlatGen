@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SiIrCl10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.68204737
+_cell_length_b   6.68204722
+_cell_length_c   8.75729179
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000547
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiIrCl10
+_chemical_formula_sum   'Si1 Ir1 Cl10'
+_cell_volume   338.62539013
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.55577552  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.41920999  1
+  Cl  Cl2  1  0.85432565  0.14567435  0.81573528  1
+  Cl  Cl3  1  0.85432565  0.70865130  0.81573528  1
+  Cl  Cl4  1  0.29134870  0.14567435  0.81573528  1
+  Cl  Cl5  1  0.66666669  0.33333334  0.09252437  1
+  Cl  Cl6  1  0.15278573  0.84721428  0.23984504  1
+  Cl  Cl7  1  0.15278573  0.30557147  0.23984504  1
+  Cl  Cl8  1  0.69442856  0.84721428  0.23984504  1
+  Cl  Cl9  1  0.33333334  0.66666669  0.91322482  1
+  Si  Si10  1  0.00000000  0.00000000  0.34814873  1
+  Ir  Ir11  1  0.00000000  0.00000000  0.00365038  1

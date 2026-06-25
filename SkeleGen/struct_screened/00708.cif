@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiMnSi2F8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22560740
+_cell_length_b   5.22560721
+_cell_length_c   6.63082218
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000419
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiMnSi2F8
+_chemical_formula_sum   'Li1 Mn1 Si2 F8'
+_cell_volume   156.80919849
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.52303576  1
+  F  F1  1  0.66666669  0.33333334  0.47696424  1
+  F  F2  1  0.68312216  0.05598643  0.78692770  1
+  F  F3  1  0.94401360  0.62713575  0.78692770  1
+  F  F4  1  0.37286425  0.31687784  0.78692770  1
+  F  F5  1  0.31687784  0.94401360  0.21307230  1
+  F  F6  1  0.05598643  0.37286425  0.21307230  1
+  F  F7  1  0.62713575  0.68312216  0.21307230  1
+  Mn  Mn8  1  0.00000000  0.00000000  0.00000000  1
+  Li  Li9  1  0.00000000  0.00000000  0.50000000  1
+  Si  Si10  1  0.33333334  0.66666669  0.28219914  1
+  Si  Si11  1  0.66666669  0.33333334  0.71780086  1

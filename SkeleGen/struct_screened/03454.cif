@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_LiAlFeCuOF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.84520526
+_cell_length_b   5.93383853
+_cell_length_c   7.64737320
+_cell_angle_alpha   85.94597786
+_cell_angle_beta   92.61891571
+_cell_angle_gamma   92.19339102
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAlFeCuOF12
+_chemical_formula_sum   'Li1 Al1 Fe1 Cu1 O1 F12'
+_cell_volume   218.95234307
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.60352784  0.92547101  0.24589683  1
+  F  F1  1  0.28495023  0.29925483  0.07023652  1
+  F  F2  1  0.69885194  0.68804330  0.95116496  1
+  F  F3  1  0.41228646  0.07504933  0.82068592  1
+  F  F4  1  0.85250056  0.42110726  0.22405782  1
+  F  F5  1  0.22149114  0.71218181  0.16672407  1
+  F  F6  1  0.82361460  0.18214472  0.93260968  1
+  F  F7  1  0.13186647  0.58428144  0.80452251  1
+  Li  Li8  1  0.62446040  0.01790513  0.64330238  1
+  Al  Al9  1  0.39267889  0.78857130  0.38462386  1
+  O  O10  1  0.25407234  0.92285138  0.52375859  1
+  F  F11  1  0.74971491  0.19470435  0.52563667  1
+  Cu  Cu12  1  0.53788203  0.02190286  0.02410648  1
+  F  F13  1  0.30267745  0.48027837  0.44075871  1
+  F  F14  1  0.15928364  0.10303894  0.31444195  1
+  F  F15  1  0.65084046  0.70560533  0.52101529  1
+  Fe  Fe16  1  0.01106209  0.48283604  0.01186293  1

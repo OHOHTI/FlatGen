@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_CsPrMnSbTe10Cl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.91096783
+_cell_length_b   8.91096761
+_cell_length_c   9.11936569
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000434
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsPrMnSbTe10Cl3
+_chemical_formula_sum   'Cs1 Pr1 Mn1 Sb1 Te10 Cl3'
+_cell_volume   627.11181769
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.91585046  0.27161470  0.62544900  1
+  Te  Te1  1  0.72838533  0.64423573  0.62544900  1
+  Te  Te2  1  0.35576427  0.08414954  0.62544900  1
+  Te  Te3  1  0.10664486  0.67356187  0.61527723  1
+  Te  Te4  1  0.32643813  0.43308300  0.61527723  1
+  Te  Te5  1  0.56691700  0.89335513  0.61527723  1
+  Te  Te6  1  0.74543417  0.98488647  0.24968567  1
+  Te  Te7  1  0.01511353  0.76054770  0.24968567  1
+  Te  Te8  1  0.23945230  0.25456583  0.24968567  1
+  Pr  Pr9  1  0.00000000  0.00000000  0.49860147  1
+  Sb  Sb10  1  0.00000000  0.00000000  0.05213928  1
+  Te  Te11  1  0.33333334  0.66666669  0.01539430  1
+  Cs  Cs12  1  0.66666669  0.33333334  0.24897321  1
+  Mn  Mn13  1  0.66666669  0.33333334  0.76440328  1
+  Cl  Cl14  1  0.67610377  0.04404503  0.88310337  1
+  Cl  Cl15  1  0.95595497  0.63205874  0.88310337  1
+  Cl  Cl16  1  0.36794126  0.32389623  0.88310337  1

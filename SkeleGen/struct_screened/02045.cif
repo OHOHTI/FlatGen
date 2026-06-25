@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_KTiTlPHSBr12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.76142788
+_cell_length_b   7.76142742
+_cell_length_c   11.36778450
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000604
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KTiTlPHSBr12
+_chemical_formula_sum   'K1 Ti1 Tl1 P1 H1 S1 Br12'
+_cell_volume   593.04775197
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.86836797  0.25804108  0.49998713  1
+  Br  Br1  1  0.74195892  0.61032689  0.49998713  1
+  Br  Br2  1  0.38967311  0.13163203  0.49998713  1
+  Br  Br3  1  0.06216145  0.66687840  0.70866817  1
+  Br  Br4  1  0.33312160  0.39528304  0.70866817  1
+  Br  Br5  1  0.60471696  0.93783855  0.70866817  1
+  Br  Br6  1  0.99648249  0.64425445  0.21830715  1
+  Br  Br7  1  0.35574555  0.35222805  0.21830715  1
+  Br  Br8  1  0.64777195  0.00351751  0.21830715  1
+  Tl  Tl9  1  0.00000000  0.00000000  0.31056511  1
+  K  K10  1  0.33333334  0.66666669  0.08405495  1
+  Ti  Ti11  1  0.33333334  0.66666669  0.69530934  1
+  H  H12  1  0.33333334  0.66666669  0.86927968  1
+  S  S13  1  0.33333334  0.66666669  0.43685177  1
+  P  P14  1  0.66666669  0.33333334  0.59257227  1
+  Br  Br15  1  0.70042503  0.64959860  0.95558834  1
+  Br  Br16  1  0.35040140  0.05082643  0.95558834  1
+  Br  Br17  1  0.94917357  0.29957497  0.95558834  1

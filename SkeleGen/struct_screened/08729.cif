@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_K2RbNa2TiAlTe8PHSeO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.72377014
+_cell_length_b   6.72376984
+_cell_length_c   14.67594910
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000616
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2RbNa2TiAlTe8PHSeO
+_chemical_formula_sum   'K2 Rb1 Na2 Ti1 Al1 Te8 P1 H1 Se1 O1'
+_cell_volume   574.59586812
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.33333334  0.66666669  0.05846102  1
+  Te  Te1  1  0.66666669  0.33333334  0.95660609  1
+  Te  Te2  1  0.49037033  0.50962967  0.68375319  1
+  Te  Te3  1  0.49037033  0.98074067  0.68375319  1
+  Te  Te4  1  0.01925933  0.50962967  0.68375319  1
+  Te  Te5  1  0.48739880  0.51260120  0.36739361  1
+  Te  Te6  1  0.48739880  0.97479761  0.36739361  1
+  Te  Te7  1  0.02520239  0.51260120  0.36739361  1
+  O  O8  1  0.00000000  0.00000000  0.87647647  1
+  Se  Se9  1  0.00000000  0.00000000  0.73813218  1
+  K  K10  1  0.00000000  0.00000000  0.31878150  1
+  K  K11  1  0.00000000  0.00000000  0.07537919  1
+  H  H12  1  0.00000000  0.00000000  0.92118537  1
+  Na  Na13  1  0.00000000  0.00000000  0.56217724  1
+  Al  Al14  1  0.33333334  0.66666669  0.50415224  1
+  Ti  Ti15  1  0.33333334  0.66666669  0.82539082  1
+  Rb  Rb16  1  0.66666669  0.33333334  0.19237326  1
+  Na  Na17  1  0.66666669  0.33333334  0.50265837  1
+  P  P18  1  0.66666669  0.33333334  0.76445585  1

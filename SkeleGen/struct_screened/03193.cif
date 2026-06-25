@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NaScTe2Cl9O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.19326323
+_cell_length_b   7.04351185
+_cell_length_c   9.35042381
+_cell_angle_alpha   87.64867577
+_cell_angle_beta   90.68283697
+_cell_angle_gamma   101.94421225
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaScTe2Cl9O
+_chemical_formula_sum   'Na1 Sc1 Te2 Cl9 O1'
+_cell_volume   398.71783959
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.62679607  0.33476582  0.47175133  1
+  Cl  Cl1  1  0.25919205  0.68267971  0.45478669  1
+  Cl  Cl2  1  0.55082113  0.96395046  0.76484364  1
+  Cl  Cl3  1  0.43526304  0.42021158  0.82873744  1
+  Cl  Cl4  1  0.94116783  0.62561750  0.79074872  1
+  Cl  Cl5  1  0.47810608  0.14808373  0.19893061  1
+  Cl  Cl6  1  0.57651609  0.64832741  0.13762039  1
+  Cl  Cl7  1  0.06147161  0.39629489  0.20590691  1
+  Te  Te8  1  0.86376220  0.20650616  0.79372263  1
+  Na  Na9  1  0.08296967  0.83602244  0.17649718  1
+  Sc  Sc10  1  0.31860283  0.36998093  0.38362581  1
+  Te  Te11  1  0.33125159  0.39891198  0.04648571  1
+  Cl  Cl12  1  0.05570448  0.15831205  0.57634866  1
+  O  O13  1  0.05580003  0.08157376  0.99132347  1

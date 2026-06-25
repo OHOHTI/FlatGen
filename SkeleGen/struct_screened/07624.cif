@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_RbEuUNbZnGaI9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.63322353
+_cell_length_b   7.63322320
+_cell_length_c   12.76660919
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999316
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbEuUNbZnGaI9
+_chemical_formula_sum   'Rb1 Eu1 U1 Nb1 Zn1 Ga1 I9'
+_cell_volume   644.20214724
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.67599761  0.65746093  0.24484560  1
+  I  I1  1  0.34253907  0.01853669  0.24484560  1
+  I  I2  1  0.98146331  0.32400239  0.24484560  1
+  I  I3  1  0.68108010  0.99311465  0.73581010  1
+  I  I4  1  0.00688535  0.68796545  0.73581010  1
+  I  I5  1  0.31203455  0.31891990  0.73581010  1
+  I  I6  1  0.33333334  0.66666669  0.02178553  1
+  I  I7  1  0.66666669  0.33333334  0.50528538  1
+  Rb  Rb8  1  0.00000000  0.00000000  0.99818623  1
+  Zn  Zn9  1  0.33333334  0.66666669  0.28294605  1
+  U  U10  1  0.33333334  0.66666669  0.78995073  1
+  I  I11  1  0.33333334  0.66666669  0.48351851  1
+  Ga  Ga12  1  0.66666669  0.33333334  0.32276872  1
+  Nb  Nb13  1  0.66666669  0.33333334  0.68884516  1
+  Eu  Eu14  1  0.66666669  0.33333334  0.01729460  1

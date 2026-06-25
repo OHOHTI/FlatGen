@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Ce2CuGeBi2SbBr12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.33006369
+_cell_length_b   8.59535703
+_cell_length_c   10.51281643
+_cell_angle_alpha   91.09909604
+_cell_angle_beta   88.12167314
+_cell_angle_gamma   90.47083865
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2CuGeBi2SbBr12
+_chemical_formula_sum   'Ce2 Cu1 Ge1 Bi2 Sb1 Br12'
+_cell_volume   661.85811784
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.63215971  0.25578612  0.47873011  1
+  Br  Br1  1  0.38679883  0.65303719  0.48771542  1
+  Br  Br2  1  0.55800390  0.91712600  0.74368596  1
+  Br  Br3  1  0.42725450  0.41160348  0.82972914  1
+  Br  Br4  1  0.86315721  0.62812763  0.66061270  1
+  Br  Br5  1  0.42217410  0.04018764  0.20404683  1
+  Br  Br6  1  0.57881165  0.51118046  0.17686860  1
+  Br  Br7  1  0.06898672  0.41215035  0.23374628  1
+  Bi  Bi8  1  0.27372333  0.09914939  0.92927861  1
+  Ce  Ce9  1  0.84422994  0.51176745  0.00659523  1
+  Sb  Sb10  1  0.34727502  0.29630998  0.33873698  1
+  Br  Br11  1  0.81499177  0.14506328  0.98893279  1
+  Ge  Ge12  1  0.71040690  0.79375523  0.50097883  1
+  Cu  Cu13  1  0.77733868  0.25214216  0.23422416  1
+  Ce  Ce14  1  0.54064691  0.78902274  0.99842042  1
+  Bi  Bi15  1  0.77162659  0.27700061  0.72799385  1
+  Br  Br16  1  0.13153923  0.17402506  0.63889360  1
+  Br  Br17  1  0.09520151  0.74497038  0.98730475  1
+  Br  Br18  1  0.89455307  0.91618729  0.35653809  1

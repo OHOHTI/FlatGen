@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CsNbH3IBr10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.58317184
+_cell_length_b   8.58317153
+_cell_length_c   8.08967113
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000487
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsNbH3IBr10
+_chemical_formula_sum   'Cs1 Nb1 H3 I1 Br10'
+_cell_volume   516.12759187
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.89788562  0.28074828  0.68679476  1
+  Br  Br1  1  0.71925175  0.61713731  0.68679476  1
+  Br  Br2  1  0.38286269  0.10211438  0.68679476  1
+  Br  Br3  1  0.14199705  0.72028166  0.60945249  1
+  Br  Br4  1  0.27971834  0.42171538  0.60945249  1
+  Br  Br5  1  0.57828462  0.85800296  0.60945249  1
+  Br  Br6  1  0.70190030  0.12049801  0.20683511  1
+  Br  Br7  1  0.87950200  0.58140230  0.20683511  1
+  Br  Br8  1  0.41859770  0.29809970  0.20683511  1
+  Cs  Cs9  1  0.00000000  0.00000000  0.38835311  1
+  I  I10  1  0.00000000  0.00000000  0.92966759  1
+  Nb  Nb11  1  0.33333334  0.66666669  0.80647641  1
+  Br  Br12  1  0.33333334  0.66666669  0.10050254  1
+  H  H13  1  0.02029352  0.52838063  0.85548723  1
+  H  H14  1  0.47161937  0.49191290  0.85548723  1
+  H  H15  1  0.50808710  0.97970647  0.85548723  1

@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_NaHo4TiAg(O3F)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47933674
+_cell_length_b   5.47933659
+_cell_length_c   9.86557579
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000377
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaHo4TiAg(O3F)3
+_chemical_formula_sum   'Na1 Ho4 Ti1 Ag1 O9 F3'
+_cell_volume   256.51278940
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.00000000  0.00000000  0.95032305  1
+  Ho  Ho1  1  0.66666669  0.33333334  0.71965444  1
+  Ho  Ho2  1  0.33333334  0.66666669  0.25067735  1
+  Ho  Ho3  1  0.00000000  0.00000000  0.45762840  1
+  Ag  Ag4  1  0.33333334  0.66666669  0.63455701  1
+  Ti  Ti5  1  0.33333334  0.66666669  0.94142008  1
+  Na  Na6  1  0.66666669  0.33333334  0.24468592  1
+  O  O7  1  0.34516892  0.35917649  0.85660666  1
+  O  O8  1  0.64082348  0.98599243  0.85660666  1
+  O  O9  1  0.01400757  0.65483105  0.85660666  1
+  O  O10  1  0.71643555  0.64953101  0.58523828  1
+  O  O11  1  0.35046899  0.06690454  0.58523828  1
+  O  O12  1  0.93309546  0.28356445  0.58523828  1
+  O  O13  1  0.03821208  0.69098550  0.33887118  1
+  O  O14  1  0.30901450  0.34722656  0.33887118  1
+  O  O15  1  0.65277344  0.96178794  0.33887118  1
+  F  F16  1  0.64338255  0.67212665  0.07665571  1
+  F  F17  1  0.32787335  0.97125590  0.07665571  1
+  F  F18  1  0.02874410  0.35661745  0.07665571  1

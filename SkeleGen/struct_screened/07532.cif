@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CaEu4SnSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.89024448
+_cell_length_b   7.89024401
+_cell_length_c   10.16476154
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000599
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaEu4SnSe3
+_chemical_formula_sum   'Ca2 Eu8 Sn2 Se6'
+_cell_volume   548.03550399
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.68480831  0.66853195  0.27855712  1
+  Eu  Eu1  1  0.33146805  0.01627636  0.27855712  1
+  Eu  Eu2  1  0.98372364  0.31519169  0.27855712  1
+  Eu  Eu3  1  0.31519169  0.33146805  0.77855712  1
+  Eu  Eu4  1  0.66853195  0.98372364  0.77855712  1
+  Eu  Eu5  1  0.01627636  0.68480831  0.77855712  1
+  Eu  Eu6  1  0.33333334  0.66666669  0.08245802  1
+  Eu  Eu7  1  0.66666669  0.33333334  0.58245802  1
+  Sn  Sn8  1  0.00000000  0.00000000  0.54371971  1
+  Sn  Sn9  1  0.00000000  0.00000000  0.04371977  1
+  Ca  Ca10  1  0.33333334  0.66666669  0.57208735  1
+  Ca  Ca11  1  0.66666669  0.33333334  0.07208729  1
+  Se  Se12  1  0.66582739  0.65093547  0.94419116  1
+  Se  Se13  1  0.34906453  0.01489192  0.94419116  1
+  Se  Se14  1  0.98510808  0.33417261  0.94419116  1
+  Se  Se15  1  0.33417261  0.34906453  0.44419122  1
+  Se  Se16  1  0.65093547  0.98510808  0.44419122  1
+  Se  Se17  1  0.01489192  0.66582739  0.44419122  1

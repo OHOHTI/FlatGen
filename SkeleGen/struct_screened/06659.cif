@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_TiHg(MoCl6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.35725519
+_cell_length_b   7.03479092
+_cell_length_c   9.42215729
+_cell_angle_alpha   89.58108654
+_cell_angle_beta   92.54699359
+_cell_angle_gamma   95.55943608
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiHg(MoCl6)2
+_chemical_formula_sum   'Ti1 Hg1 Mo2 Cl12'
+_cell_volume   484.88471498
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.69269949  0.31522197  0.47235349  1
+  Cl  Cl1  1  0.23868164  0.69453478  0.47005001  1
+  Cl  Cl2  1  0.58200341  0.01454671  0.77360380  1
+  Cl  Cl3  1  0.44817266  0.44446832  0.85033661  1
+  Cl  Cl4  1  0.89176452  0.46727675  0.81702161  1
+  Cl  Cl5  1  0.42823851  0.00722456  0.27792019  1
+  Cl  Cl6  1  0.55854481  0.56054634  0.13336170  1
+  Cl  Cl7  1  0.05713674  0.46172473  0.14848702  1
+  Cl  Cl8  1  0.16542049  0.85921776  0.98442441  1
+  Mo  Mo9  1  0.19026664  0.76101321  0.21104653  1
+  Hg  Hg10  1  0.91700864  0.12600471  0.94141889  1
+  Mo  Mo11  1  0.72955191  0.44805437  0.98394835  1
+  Cl  Cl12  1  0.22468650  0.14291809  0.57913595  1
+  Cl  Cl13  1  0.93084908  0.98613459  0.21565998  1
+  Ti  Ti14  1  0.52541238  0.07402783  0.54972249  1
+  Cl  Cl15  1  0.74857563  0.84738296  0.52470911  1

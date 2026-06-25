@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_ZrTiReBO15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.98527098
+_cell_length_b   6.98527093
+_cell_length_c   5.91945601
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000475
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTiReBO15
+_chemical_formula_sum   'Zr1 Ti1 Re1 B1 O15'
+_cell_volume   250.13756708
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.12739901  0.22334018  0.75219828  1
+  O  O1  1  0.77665985  0.90405881  0.75219828  1
+  O  O2  1  0.09594117  0.87260097  0.75219828  1
+  O  O3  1  0.81014085  0.77017623  0.24123782  1
+  O  O4  1  0.22982377  0.03996462  0.24123782  1
+  O  O5  1  0.96003538  0.18985915  0.24123782  1
+  O  O6  1  0.36006597  0.45998871  0.35265249  1
+  O  O7  1  0.54001129  0.90007722  0.35265249  1
+  O  O8  1  0.09992275  0.63993406  0.35265249  1
+  O  O9  1  0.33333334  0.66666669  0.65199023  1
+  O  O10  1  0.66666669  0.33333334  0.14950927  1
+  O  O11  1  0.44540271  0.18937834  0.73263693  1
+  O  O12  1  0.81062168  0.25602436  0.73263693  1
+  O  O13  1  0.74397564  0.55459726  0.73263693  1
+  B  B14  1  0.00000000  0.00000000  0.72848064  1
+  O  O15  1  0.33333334  0.66666669  0.98359847  1
+  Zr  Zr16  1  0.33333334  0.66666669  0.17013814  1
+  Re  Re17  1  0.33333334  0.66666669  0.45940036  1
+  Ti  Ti18  1  0.66666669  0.33333334  0.82718277  1

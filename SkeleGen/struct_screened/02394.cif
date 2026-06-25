@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_CsRb2NaFeRuI13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.69634056
+_cell_length_b   8.69634055
+_cell_length_c   12.72283745
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999278
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsRb2NaFeRuI13
+_chemical_formula_sum   'Cs1 Rb2 Na1 Fe1 Ru1 I13'
+_cell_volume   833.27378540
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.95730811  0.34163591  0.46083847  1
+  I  I1  1  0.65836406  0.61567223  0.46083847  1
+  I  I2  1  0.38432777  0.04269189  0.46083847  1
+  I  I3  1  0.08096544  0.69427490  0.64629191  1
+  I  I4  1  0.30572510  0.38669056  0.64629191  1
+  I  I5  1  0.61330944  0.91903454  0.64629191  1
+  I  I6  1  0.67312050  0.02195251  0.23885204  1
+  I  I7  1  0.97804749  0.65116799  0.23885204  1
+  I  I8  1  0.34883201  0.32687950  0.23885204  1
+  Cs  Cs9  1  0.00000000  0.00000000  0.04792660  1
+  Rb  Rb10  1  0.00000000  0.00000000  0.45156157  1
+  Fe  Fe11  1  0.33333334  0.66666669  0.66154045  1
+  I  I12  1  0.33333334  0.66666669  0.00911424  1
+  Na  Na13  1  0.33333334  0.66666669  0.26378456  1
+  Ru  Ru14  1  0.66666669  0.33333334  0.38456231  1
+  Rb  Rb15  1  0.66666669  0.33333334  0.03806121  1
+  I  I16  1  0.34824592  0.06479933  0.85787749  1
+  I  I17  1  0.93520069  0.28344658  0.85787749  1
+  I  I18  1  0.71655345  0.65175408  0.85787749  1

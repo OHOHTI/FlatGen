@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_RbMnCoAs4O8F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.12765503
+_cell_length_b   5.12765476
+_cell_length_c   11.63870525
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000479
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbMnCoAs4O8F
+_chemical_formula_sum   'Rb1 Mn1 Co1 As4 O8 F1'
+_cell_volume   265.01646554
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  As  As0  1  0.00000000  0.00000000  0.99624527  1
+  As  As1  1  0.66666669  0.33333334  0.59736288  1
+  As  As2  1  0.33333334  0.66666669  0.30953342  1
+  As  As3  1  0.00000000  0.00000000  0.49475709  1
+  Rb  Rb4  1  0.33333334  0.66666669  0.75945783  1
+  Co  Co5  1  0.66666669  0.33333334  0.12394633  1
+  Mn  Mn6  1  0.66666669  0.33333334  0.91599840  1
+  F  F7  1  0.66666669  0.33333334  0.26797801  1
+  O  O8  1  0.66666669  0.33333334  0.76138997  1
+  O  O9  1  0.66666669  0.33333334  0.45071864  1
+  O  O10  1  0.97099537  0.30498844  0.04237737  1
+  O  O11  1  0.69501156  0.66600692  0.04237737  1
+  O  O12  1  0.33399308  0.02900463  0.04237737  1
+  O  O13  1  0.95557243  0.67597198  0.56935227  1
+  O  O14  1  0.32402802  0.27960044  0.56935227  1
+  O  O15  1  0.72039956  0.04442757  0.56935227  1

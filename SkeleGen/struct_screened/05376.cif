@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Eu3Ag
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.38317251
+_cell_length_b   7.38317251
+_cell_length_c   10.10092735
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   90.00000433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu3Ag
+_chemical_formula_sum   'Eu12 Ag4'
+_cell_volume   550.61403822
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.48718339  0.25720876  0.16169849  1
+  Eu  Eu1  1  0.51281661  0.74279124  0.66169846  1
+  Eu  Eu2  1  0.74279124  0.48718339  0.41169849  1
+  Eu  Eu3  1  0.25720876  0.51281661  0.91169846  1
+  Eu  Eu4  1  0.74596453  0.00909366  0.91332817  1
+  Eu  Eu5  1  0.25403547  0.99090636  0.41332817  1
+  Eu  Eu6  1  0.99090636  0.74596453  0.16332817  1
+  Eu  Eu7  1  0.00909366  0.25403547  0.66332817  1
+  Eu  Eu8  1  0.74623823  0.00082707  0.41058338  1
+  Eu  Eu9  1  0.25376177  0.99917293  0.91058338  1
+  Eu  Eu10  1  0.99917293  0.74623823  0.66058338  1
+  Eu  Eu11  1  0.00082707  0.25376177  0.16058338  1
+  Ag  Ag12  1  0.75014400  0.49417511  0.90762603  1
+  Ag  Ag13  1  0.24985600  0.50582492  0.40762603  1
+  Ag  Ag14  1  0.50582492  0.75014400  0.15762603  1
+  Ag  Ag15  1  0.49417511  0.24985600  0.65762603  1

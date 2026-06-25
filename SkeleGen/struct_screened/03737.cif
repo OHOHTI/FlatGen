@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_EuCrInI8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.49128819
+_cell_length_b   7.49128779
+_cell_length_c   10.39671421
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000594
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuCrInI8
+_chemical_formula_sum   'Eu1 Cr1 In1 I8'
+_cell_volume   505.28883028
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.66805232  0.66102779  0.21785612  1
+  I  I1  1  0.33897221  0.00702453  0.21785612  1
+  I  I2  1  0.99297547  0.33194768  0.21785612  1
+  I  I3  1  0.67753643  0.98265117  0.69084805  1
+  I  I4  1  0.01734883  0.69488525  0.69084805  1
+  I  I5  1  0.30511475  0.32246357  0.69084805  1
+  I  I6  1  0.33333334  0.66666669  0.93686229  1
+  I  I7  1  0.66666669  0.33333334  0.44902936  1
+  Eu  Eu8  1  0.00000000  0.00000000  0.91292983  1
+  In  In9  1  0.33333334  0.66666669  0.43757218  1
+  Cr  Cr10  1  0.66666669  0.33333334  0.20207849  1

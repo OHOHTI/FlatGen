@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Cu4TeMoPO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.99041176
+_cell_length_b   4.99041173
+_cell_length_c   9.96702385
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999389
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu4TeMoPO12
+_chemical_formula_sum   'Cu4 Te1 Mo1 P1 O12'
+_cell_volume   214.96557392
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000000  0.00000000  0.04719812  1
+  Cu  Cu1  1  0.66666669  0.33333334  0.52108961  1
+  Cu  Cu2  1  0.33333334  0.66666669  0.29962614  1
+  Cu  Cu3  1  0.00000000  0.00000000  0.52887577  1
+  Mo  Mo4  1  0.33333334  0.66666669  0.78016704  1
+  Te  Te5  1  0.33333334  0.66666669  0.04353295  1
+  P  P6  1  0.33333334  0.66666669  0.53352886  1
+  O  O7  1  0.04380452  0.35706100  0.15131105  1
+  O  O8  1  0.64293897  0.68674350  0.15131105  1
+  O  O9  1  0.31325647  0.95619547  0.15131105  1
+  O  O10  1  0.02836577  0.68132240  0.91821587  1
+  O  O11  1  0.31867760  0.34704340  0.91821587  1
+  O  O12  1  0.65295660  0.97163421  0.91821587  1
+  O  O13  1  0.33284760  0.36107567  0.42749125  1
+  O  O14  1  0.63892436  0.97177196  0.42749125  1
+  O  O15  1  0.02822807  0.66715240  0.42749125  1
+  O  O16  1  0.03661044  0.36888090  0.63545167  1
+  O  O17  1  0.63111913  0.66772950  0.63545167  1
+  O  O18  1  0.33227047  0.96338958  0.63545167  1

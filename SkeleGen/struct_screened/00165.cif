@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_La3NbGaBr15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.89774418
+_cell_length_b   11.89774379
+_cell_length_c   4.74867868
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999312
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3NbGaBr15
+_chemical_formula_sum   'La3 Nb1 Ga1 Br15'
+_cell_volume   582.14702886
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.28371122  0.45849374  0.81119889  1
+  Br  Br1  1  0.54150629  0.82521749  0.81119889  1
+  Br  Br2  1  0.17478251  0.71628881  0.81119889  1
+  Br  Br3  1  0.89924753  0.11511885  0.81399024  1
+  Br  Br4  1  0.88488114  0.78412867  0.81399024  1
+  Br  Br5  1  0.21587133  0.10075247  0.81399024  1
+  Br  Br6  1  0.10242585  0.25820696  0.30827963  1
+  Br  Br7  1  0.74179304  0.84421885  0.30827963  1
+  Br  Br8  1  0.15578112  0.89757413  0.30827963  1
+  Br  Br9  1  0.57224095  0.50029337  0.81398296  1
+  Br  Br10  1  0.49970663  0.07194757  0.81398296  1
+  Br  Br11  1  0.92805243  0.42775905  0.81398296  1
+  Br  Br12  1  0.84878892  0.53069937  0.31034666  1
+  Br  Br13  1  0.46930063  0.31808954  0.31034666  1
+  Br  Br14  1  0.68191046  0.15121108  0.31034666  1
+  Nb  Nb15  1  0.00000000  0.00000000  0.05505893  1
+  Ga  Ga16  1  0.00000000  0.00000000  0.56673688  1
+  La  La17  1  0.46593398  0.58070290  0.31996390  1
+  La  La18  1  0.41929710  0.88523108  0.31996390  1
+  La  La19  1  0.11476892  0.53406602  0.31996390  1

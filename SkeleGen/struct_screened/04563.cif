@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_TbScV2CuF14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.84891771
+_cell_length_b   5.86207360
+_cell_length_c   7.46917486
+_cell_angle_alpha   88.47963640
+_cell_angle_beta   94.23200145
+_cell_angle_gamma   92.08092126
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbScV2CuF14
+_chemical_formula_sum   'Tb1 Sc1 V2 Cu1 F14'
+_cell_volume   255.15420574
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.46185035  0.42832860  0.41667157  1
+  F  F1  1  0.02293442  0.78573716  0.66343307  1
+  F  F2  1  0.92059767  0.70422494  0.04686400  1
+  F  F3  1  0.74375731  0.93230402  0.78471178  1
+  F  F4  1  0.04057489  0.12527131  0.34197500  1
+  F  F5  1  0.22329244  0.35230565  0.03787675  1
+  F  F6  1  0.25374714  0.95166606  0.06396467  1
+  F  F7  1  0.44645393  0.56484354  0.78218430  1
+  Sc  Sc8  1  0.69860339  0.65797377  0.59449768  1
+  F  F9  1  0.92118800  0.63098806  0.39090535  1
+  Tb  Tb10  1  0.06575783  0.10379724  0.85109580  1
+  F  F11  1  0.55307144  0.67946839  0.14078049  1
+  Cu  Cu12  1  0.52199525  0.47788084  0.99121064  1
+  F  F13  1  0.84766656  0.35038412  0.68214279  1
+  F  F14  1  0.56115210  0.93715769  0.42531124  1
+  V  V15  1  0.83923948  0.91538423  0.19479609  1
+  V  V16  1  0.34268138  0.15816230  0.41587636  1
+  F  F17  1  0.30251750  0.12013260  0.63959992  1
+  F  F18  1  0.68525285  0.20982951  0.05956332  1

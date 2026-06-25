@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_EuGaAgI10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.84835911
+_cell_length_b   7.84835891
+_cell_length_c   11.33095551
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000486
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuGaAgI10
+_chemical_formula_sum   'Eu1 Ga1 Ag1 I10'
+_cell_volume   604.44232336
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.33333334  0.66666669  0.56257230  1
+  I  I1  1  0.66666669  0.33333334  0.46967930  1
+  I  I2  1  0.73308057  0.66722667  0.77358073  1
+  I  I3  1  0.33277333  0.06585389  0.77358073  1
+  I  I4  1  0.93414611  0.26691943  0.77358073  1
+  I  I5  1  0.66666669  0.33333334  0.08692372  1
+  I  I6  1  0.12902156  0.31831968  0.27669388  1
+  I  I7  1  0.68168032  0.81070185  0.27669388  1
+  I  I8  1  0.18929812  0.87097847  0.27669388  1
+  I  I9  1  0.33333334  0.66666669  0.97282344  1
+  Ga  Ga10  1  0.00000000  0.00000000  0.37001854  1
+  Eu  Eu11  1  0.00000000  0.00000000  0.97137523  1
+  Ag  Ag12  1  0.66666669  0.33333334  0.83413386  1

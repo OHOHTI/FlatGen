@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_BeVNiPbOF10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05213833
+_cell_length_b   5.05213825
+_cell_length_c   9.66248703
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000366
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeVNiPbOF10
+_chemical_formula_sum   'Be1 V1 Ni1 Pb1 O1 F10'
+_cell_volume   213.58463102
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.59885871  1
+  F  F1  1  0.66666669  0.33333334  0.09705345  1
+  F  F2  1  0.18876795  0.81123203  0.28527731  1
+  F  F3  1  0.18876795  0.37753591  0.28527731  1
+  F  F4  1  0.62246406  0.81123203  0.28527731  1
+  F  F5  1  0.85003757  0.14996243  0.78688300  1
+  F  F6  1  0.85003757  0.70007515  0.78688300  1
+  F  F7  1  0.29992485  0.14996243  0.78688300  1
+  F  F8  1  0.33333334  0.66666669  0.02906784  1
+  F  F9  1  0.66666669  0.33333334  0.39396644  1
+  V  V10  1  0.00000000  0.00000000  0.68047488  1
+  O  O11  1  0.00000000  0.00000000  0.52388895  1
+  Be  Be12  1  0.33333334  0.66666669  0.44326624  1
+  Ni  Ni13  1  0.33333334  0.66666669  0.19737521  1
+  Pb  Pb14  1  0.33333334  0.66666669  0.84640193  1

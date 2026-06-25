@@ -16,7 +16,7 @@ FlatGen is an end-to-end pipeline that discovers flat-band crystal geometries *b
 | [`flat_screen/`](flat_screen/) | 1, 5 | Flatness-score labeling from Materials Project bands/DOS and the PyTorch Geometric flatness surrogate model (training + CIF inference) used both for the initial screen and for prescreening generated candidates. |
 | [`crystal_net/`](crystal_net/) | 2 | Element-resolved sublattice extraction, nearest-neighbour tight-binding models (pythtb) to validate connectivity-driven flat bands, and crystal-net classification with Systre/RCSR + graph invariants. |
 | [`cluster/`](cluster/) | 3 | Self-supervised (contrastive) GNN encoder for sublattice geometry, UMAP + HDBSCAN clustering of the latent space, and novelty scoring to select unconventional skeletons. |
-| [`SkeleGen/`](SkeleGen/) | 4–5 | SkeleGen constrained generation: Wyckoff-constraint construction (pyxtal + DP sampler), DiffCSP++ diffusion with the SCIGEN masking strategy, and the screening funnel (SMACT, occupation ratio, e3nn stability classifiers, flatness surrogate). Includes pretrained checkpoints and precomputed constraint data. |
+| [`SkeleGen/`](SkeleGen/) | 4–5 | SkeleGen constrained generation: Wyckoff-constraint construction (pyxtal + DP sampler), DiffCSP++ diffusion with the SCIGEN masking strategy, and the screening funnel (SMACT, occupation ratio, e3nn stability classifiers, flatness surrogate). Includes pretrained checkpoints and precomputed constraint data. The final screened candidate CIFs are in [`SkeleGen/struct_screened/`](SkeleGen/struct_screened/). |
 
 Each folder is a self-contained module with its **own README, conda environment, and configuration** — see the per-module READMEs for setup and run instructions:
 
@@ -62,7 +62,7 @@ Stage 6 (DFT validation) uses VASP through [atomate2](https://github.com/materia
 - `flat_screen` produces the trained flatness surrogate (`flat_screen/results/flatness_pyg/best_model.pth`), which the `SkeleGen` screening funnel loads directly from that location. The ~500 MB weight file is not included in this repository — train it with `flat_screen/model/train_pyg.py` or download it from the release assets and place it there.
 - `crystal_net` produces the validated flat-band sublattice lists and their Systre/RCSR classifications, which feed `cluster`.
 - `cluster` produces the latent embeddings, cluster assignments, and novelty scores that define the 236 high-novelty skeletons used as generation constraints in `SkeleGen` (precomputed constraint data ships in `SkeleGen/skelegen/data/`).
-- `SkeleGen` outputs screened candidate CIFs ready for DFT validation.
+- `SkeleGen` outputs screened candidate CIFs ready for DFT validation. The 9352 structures that pass the full screening funnel are collected in [`SkeleGen/struct_screened/`](SkeleGen/struct_screened/) (numbered `NNNNN.cif`); `struct_screened/sublat_id_mapping.txt` maps each renumbered CIF back to its source generation set, chunk, original ID, and the sublattice (skeleton) constraint it was generated from.
 
 ## Key dependencies
 

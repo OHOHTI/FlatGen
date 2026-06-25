@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_La4GeIO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74150896
+_cell_length_b   5.74150850
+_cell_length_c   8.79043198
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000540
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La4GeIO6
+_chemical_formula_sum   'La4 Ge1 I1 O6'
+_cell_volume   250.95328481
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.00000000  0.00000000  0.97383642  1
+  La  La1  1  0.66666669  0.33333334  0.63501793  1
+  La  La2  1  0.33333334  0.66666669  0.37300834  1
+  La  La3  1  0.00000000  0.00000000  0.37554178  1
+  I  I4  1  0.33333334  0.66666669  0.86227649  1
+  Ge  Ge5  1  0.66666669  0.33333334  0.11011082  1
+  O  O6  1  0.70549572  0.63865733  0.17388867  1
+  O  O7  1  0.36134267  0.06683838  0.17388867  1
+  O  O8  1  0.93316162  0.29450428  0.17388867  1
+  O  O9  1  0.66499960  0.68072349  0.53126264  1
+  O  O10  1  0.31927651  0.98427612  0.53126264  1
+  O  O11  1  0.01572388  0.33500040  0.53126264  1

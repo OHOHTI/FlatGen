@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KRb(MoCl4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.73532581
+_cell_length_b   6.73532564
+_cell_length_c   10.67454338
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999384
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KRb(MoCl4)2
+_chemical_formula_sum   'K1 Rb1 Mo2 Cl8'
+_cell_volume   419.36981874
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.44092768  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.55907232  1
+  Cl  Cl2  1  0.65114284  0.02069656  0.82255810  1
+  Cl  Cl3  1  0.97930342  0.63044626  0.82255810  1
+  Cl  Cl4  1  0.36955374  0.34885716  0.82255810  1
+  Cl  Cl5  1  0.34885716  0.97930342  0.17744190  1
+  Cl  Cl6  1  0.02069656  0.36955374  0.17744190  1
+  Cl  Cl7  1  0.63044626  0.65114284  0.17744190  1
+  K  K8  1  0.00000000  0.00000000  0.00000000  1
+  Rb  Rb9  1  0.00000000  0.00000000  0.50000000  1
+  Mo  Mo10  1  0.33333334  0.66666669  0.22289668  1
+  Mo  Mo11  1  0.66666669  0.33333334  0.77710330  1

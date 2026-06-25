@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_AlSb(IF7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.59299135
+_cell_length_b   7.59299098
+_cell_length_c   6.50249863
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000578
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlSb(IF7)2
+_chemical_formula_sum   'Al1 Sb1 I2 F14'
+_cell_volume   324.66589104
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.48028666  0.59316492  0.49521917  1
+  F  F1  1  0.40683508  0.88712174  0.49521917  1
+  F  F2  1  0.11287826  0.51971334  0.49521917  1
+  F  F3  1  0.87435305  0.44300845  0.01420891  1
+  F  F4  1  0.55699158  0.43134460  0.01420891  1
+  F  F5  1  0.56865537  0.12564695  0.01420891  1
+  F  F6  1  0.66666669  0.33333334  0.49796575  1
+  F  F7  1  0.88324565  0.11630926  0.61993599  1
+  F  F8  1  0.88369071  0.76693636  0.61993599  1
+  F  F9  1  0.23306364  0.11675435  0.61993599  1
+  F  F10  1  0.33333334  0.66666669  0.88089103  1
+  F  F11  1  0.22813177  0.20584266  0.25923842  1
+  F  F12  1  0.79415733  0.02228911  0.25923842  1
+  F  F13  1  0.97771090  0.77186823  0.25923842  1
+  Sb  Sb14  1  0.00000000  0.00000000  0.44848865  1
+  I  I15  1  0.00000000  0.00000000  0.89272225  1
+  Al  Al16  1  0.33333334  0.66666669  0.61437631  1
+  I  I17  1  0.66666669  0.33333334  0.19460647  1

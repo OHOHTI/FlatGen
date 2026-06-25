@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_KFeReHSe8F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.27386713
+_cell_length_b   6.27386681
+_cell_length_c   10.51322174
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000669
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KFeReHSe8F
+_chemical_formula_sum   'K1 Fe1 Re1 H1 Se8 F1'
+_cell_volume   358.37444941
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.65927464  0.66231388  0.21993735  1
+  Se  Se1  1  0.33768612  0.99696076  0.21993735  1
+  Se  Se2  1  0.00303924  0.34072536  0.21993735  1
+  Se  Se3  1  0.65979260  0.95458847  0.69976687  1
+  Se  Se4  1  0.04541153  0.70520413  0.69976687  1
+  Se  Se5  1  0.29479587  0.34020740  0.69976687  1
+  Se  Se6  1  0.33333334  0.66666669  0.94405615  1
+  Se  Se7  1  0.66666669  0.33333334  0.51232749  1
+  Fe  Fe8  1  0.00000000  0.00000000  0.63115072  1
+  H  H9  1  0.00000000  0.00000000  0.33159718  1
+  F  F10  1  0.00000000  0.00000000  0.44025373  1
+  K  K11  1  0.00000000  0.00000000  0.98042160  1
+  Re  Re12  1  0.66666669  0.33333334  0.28232357  1

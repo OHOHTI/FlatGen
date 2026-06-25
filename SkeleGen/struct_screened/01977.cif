@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_RbEuInFeSeCl15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.24096107
+_cell_length_b   8.24096065
+_cell_length_c   10.57752991
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000554
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbEuInFeSeCl15
+_chemical_formula_sum   'Rb1 Eu1 In1 Fe1 Se1 Cl15'
+_cell_volume   622.11485627
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.21283641  0.26639166  0.94408363  1
+  Cl  Cl1  1  0.73360837  0.94644475  0.94408363  1
+  Cl  Cl2  1  0.05355525  0.78716362  0.94408363  1
+  Cl  Cl3  1  0.77240098  0.76563817  0.28054810  1
+  Cl  Cl4  1  0.23436183  0.00676280  0.28054810  1
+  Cl  Cl5  1  0.99323720  0.22759902  0.28054810  1
+  Cl  Cl6  1  0.39543828  0.48591518  0.39695963  1
+  Cl  Cl7  1  0.51408482  0.90952313  0.39695963  1
+  Cl  Cl8  1  0.09047690  0.60456169  0.39695963  1
+  Cl  Cl9  1  0.33333334  0.66666669  0.77477789  1
+  Cl  Cl10  1  0.66666669  0.33333334  0.21918207  1
+  Cl  Cl11  1  0.33139524  0.20234114  0.61362261  1
+  Cl  Cl12  1  0.79765886  0.12905410  0.61362261  1
+  Cl  Cl13  1  0.87094593  0.66860473  0.61362261  1
+  Eu  Eu14  1  0.00000000  0.00000000  0.44932315  1
+  Fe  Fe15  1  0.33333334  0.66666669  0.30899876  1
+  Cl  Cl16  1  0.33333334  0.66666669  0.10890168  1
+  Se  Se17  1  0.33333334  0.66666669  0.53905576  1
+  Rb  Rb18  1  0.66666669  0.33333334  0.86307448  1
+  In  In19  1  0.66666669  0.33333334  0.48190644  1

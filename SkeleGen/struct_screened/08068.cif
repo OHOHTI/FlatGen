@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_In2Cu3Cl10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.12163019
+_cell_length_b   7.12162980
+_cell_length_c   9.78359985
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000623
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2Cu3Cl10
+_chemical_formula_sum   'In2 Cu3 Cl10'
+_cell_volume   429.72250520
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.56579608  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.43420392  1
+  Cl  Cl2  1  0.87875301  0.65753371  0.73433137  1
+  Cl  Cl3  1  0.34246629  0.22121930  0.73433137  1
+  Cl  Cl4  1  0.77878070  0.12124699  0.73433137  1
+  Cl  Cl5  1  0.65753371  0.87875301  0.26566863  1
+  Cl  Cl6  1  0.22121930  0.34246629  0.26566863  1
+  Cl  Cl7  1  0.12124699  0.77878070  0.26566863  1
+  Cl  Cl8  1  0.33333334  0.66666669  0.92185724  1
+  Cl  Cl9  1  0.66666669  0.33333334  0.07814276  1
+  In  In10  1  0.33333334  0.66666669  0.16735847  1
+  In  In11  1  0.66666669  0.33333334  0.83264154  1
+  Cu  Cu12  1  0.64864761  0.00000000  0.50000000  1
+  Cu  Cu13  1  0.00000000  0.64864761  0.50000000  1
+  Cu  Cu14  1  0.35135239  0.35135239  0.50000000  1

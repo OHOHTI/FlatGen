@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_CsTiAlBr8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.03533554
+_cell_length_b   7.03533524
+_cell_length_c   9.49305153
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000589
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsTiAlBr8
+_chemical_formula_sum   'Cs1 Ti1 Al1 Br8'
+_cell_volume   406.91720846
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.66666669  0.33333334  0.39631581  1
+  Br  Br1  1  0.33333334  0.66666669  0.44839048  1
+  Br  Br2  1  0.66708106  0.01918513  0.74473256  1
+  Br  Br3  1  0.98081487  0.64789593  0.74473256  1
+  Br  Br4  1  0.35210407  0.33291894  0.74473256  1
+  Br  Br5  1  0.37409163  0.00159453  0.04545351  1
+  Br  Br6  1  0.99840546  0.37249708  0.04545351  1
+  Br  Br7  1  0.62750292  0.62590837  0.04545351  1
+  Cs  Cs8  1  0.00000000  0.00000000  0.27863899  1
+  Al  Al9  1  0.33333334  0.66666669  0.89367390  1
+  Ti  Ti10  1  0.66666669  0.33333334  0.89911985  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CeGd4CuHO4F9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.72457957
+_cell_length_b   3.72457942
+_cell_length_c   25.37736130
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000558
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeGd4CuHO4F9
+_chemical_formula_sum   'Ce1 Gd4 Cu1 H1 O4 F9'
+_cell_volume   304.88184680
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.00000000  0.00000000  0.98681962  1
+  Gd  Gd1  1  0.66666669  0.33333334  0.61629063  1
+  Gd  Gd2  1  0.33333334  0.66666669  0.32851407  1
+  Gd  Gd3  1  0.00000000  0.00000000  0.48543742  1
+  Cu  Cu4  1  0.00000000  0.00000000  0.72861582  1
+  F  F5  1  0.00000000  0.00000000  0.80073047  1
+  O  O6  1  0.00000000  0.00000000  0.89611536  1
+  O  O7  1  0.00000000  0.00000000  0.18231942  1
+  H  H8  1  0.00000000  0.00000000  0.23493966  1
+  F  F9  1  0.00000000  0.00000000  0.66260231  1
+  F  F10  1  0.00000000  0.00000000  0.07521044  1
+  F  F11  1  0.00000000  0.00000000  0.39967173  1
+  O  O12  1  0.00000000  0.00000000  0.56319749  1
+  O  O13  1  0.00000000  0.00000000  0.30170503  1
+  F  F14  1  0.33333334  0.66666669  0.23665442  1
+  Ce  Ce15  1  0.66666669  0.33333334  0.84722370  1
+  F  F16  1  0.66666669  0.33333334  0.13548940  1
+  F  F17  1  0.66666669  0.33333334  0.73701560  1
+  F  F18  1  0.66666669  0.33333334  0.46064740  1
+  F  F19  1  0.66666669  0.33333334  0.97492135  1

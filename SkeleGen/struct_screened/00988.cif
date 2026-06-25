@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_SrFeRePHI14O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.52831650
+_cell_length_b   10.52831567
+_cell_length_c   9.25082874
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000560
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrFeRePHI14O
+_chemical_formula_sum   'Sr1 Fe1 Re1 P1 H1 I14 O1'
+_cell_volume   888.03294568
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.11557257  0.22783576  0.76147401  1
+  I  I1  1  0.77216423  0.88773680  0.76147401  1
+  I  I2  1  0.11226319  0.88442743  0.76147401  1
+  I  I3  1  0.71894240  0.67777359  0.12455983  1
+  I  I4  1  0.32222641  0.04116881  0.12455983  1
+  I  I5  1  0.95883119  0.28105760  0.12455983  1
+  I  I6  1  0.29468092  0.42874318  0.38095641  1
+  I  I7  1  0.57125682  0.86593771  0.38095641  1
+  I  I8  1  0.13406226  0.70531905  0.38095641  1
+  I  I9  1  0.33333334  0.66666669  0.84482157  1
+  I  I10  1  0.66666669  0.33333334  0.26719403  1
+  I  I11  1  0.50668103  0.34011707  0.75988424  1
+  I  I12  1  0.65988290  0.16656396  0.75988424  1
+  I  I13  1  0.83343601  0.49331897  0.75988424  1
+  O  O14  1  0.00000000  0.00000000  0.98486274  1
+  Fe  Fe15  1  0.00000000  0.00000000  0.62953520  1
+  Sr  Sr16  1  0.00000000  0.00000000  0.41408676  1
+  Re  Re17  1  0.00000000  0.00000000  0.89701104  1
+  H  H18  1  0.00000000  0.00000000  0.13196541  1
+  P  P19  1  0.33333334  0.66666669  0.29895702  1

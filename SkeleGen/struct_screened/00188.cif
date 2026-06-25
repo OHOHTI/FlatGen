@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaSbPtSO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36682034
+_cell_length_b   5.36682011
+_cell_length_c   6.86063766
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000431
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSbPtSO8
+_chemical_formula_sum   'Na1 Sb1 Pt1 S1 O8'
+_cell_volume   171.13119831
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.64028317  0.78460479  0.33881569  1
+  O  O1  1  0.21539521  0.85567838  0.33881569  1
+  O  O2  1  0.14432162  0.35971683  0.33881569  1
+  O  O3  1  0.70628226  0.04064978  0.74681938  1
+  O  O4  1  0.95935023  0.66563249  0.74681938  1
+  O  O5  1  0.33436751  0.29371774  0.74681938  1
+  O  O6  1  0.33333334  0.66666669  0.04565474  1
+  O  O7  1  0.66666669  0.33333334  0.44383997  1
+  Na  Na8  1  0.00000000  0.00000000  0.98392904  1
+  Sb  Sb9  1  0.00000000  0.00000000  0.53065836  1
+  S  S10  1  0.33333334  0.66666669  0.25689629  1
+  Pt  Pt11  1  0.66666669  0.33333334  0.71305650  1

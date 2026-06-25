@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Th(Cr3Se5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.05703735
+_cell_length_b   7.05703694
+_cell_length_c   9.21543503
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999300
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th(Cr3Se5)2
+_chemical_formula_sum   'Th1 Cr6 Se10'
+_cell_volume   397.45806218
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.33333334  0.66666669  0.56643170  1
+  Se  Se1  1  0.66666669  0.33333334  0.43356830  1
+  Se  Se2  1  0.33333334  0.66666669  0.95839661  1
+  Se  Se3  1  0.66666669  0.33333334  0.04160339  1
+  Se  Se4  1  0.15866393  0.84133607  0.25429019  1
+  Se  Se5  1  0.15866393  0.31732786  0.25429019  1
+  Se  Se6  1  0.68267214  0.84133607  0.25429019  1
+  Se  Se7  1  0.84133607  0.15866393  0.74570978  1
+  Se  Se8  1  0.31732786  0.15866393  0.74570978  1
+  Se  Se9  1  0.84133607  0.68267214  0.74570978  1
+  Th  Th10  1  0.00000000  0.00000000  0.50000000  1
+  Cr  Cr11  1  0.86131954  0.13868046  0.12481181  1
+  Cr  Cr12  1  0.86131954  0.72263908  0.12481181  1
+  Cr  Cr13  1  0.27736092  0.13868046  0.12481181  1
+  Cr  Cr14  1  0.13868046  0.86131954  0.87518817  1
+  Cr  Cr15  1  0.72263908  0.86131954  0.87518817  1
+  Cr  Cr16  1  0.13868046  0.27736092  0.87518817  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_CaPrCrPIrCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.63027239
+_cell_length_b   6.63027225
+_cell_length_c   8.92619991
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000543
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaPrCrPIrCl8
+_chemical_formula_sum   'Ca1 Pr1 Cr1 P1 Ir1 Cl8'
+_cell_volume   339.82861820
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.68726927  0.68487048  0.26034439  1
+  Cl  Cl1  1  0.31512952  0.00239879  0.26034439  1
+  Cl  Cl2  1  0.99760121  0.31273073  0.26034439  1
+  Cl  Cl3  1  0.66290534  0.99362999  0.73523194  1
+  Cl  Cl4  1  0.00637001  0.66927534  0.73523194  1
+  Cl  Cl5  1  0.33072466  0.33709466  0.73523194  1
+  Cl  Cl6  1  0.33333334  0.66666669  0.97494251  1
+  Cl  Cl7  1  0.66666669  0.33333334  0.49027067  1
+  Cr  Cr8  1  0.00000000  0.00000000  0.21078569  1
+  P  P9  1  0.00000000  0.00000000  0.98170263  1
+  Ir  Ir10  1  0.00000000  0.00000000  0.75694829  1
+  Pr  Pr11  1  0.33333334  0.66666669  0.53102291  1
+  Ca  Ca12  1  0.66666669  0.33333334  0.95232850  1

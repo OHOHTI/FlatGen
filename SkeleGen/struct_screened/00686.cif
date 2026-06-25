@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_BaVCoAgTeH2S8ClO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.04783535
+_cell_length_b   6.04783502
+_cell_length_c   12.16246319
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000703
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaVCoAgTeH2S8ClO
+_chemical_formula_sum   'Ba1 V1 Co1 Ag1 Te1 H2 S8 Cl1 O1'
+_cell_volume   385.25832683
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.33333334  0.66666669  0.08226203  1
+  S  S1  1  0.66666669  0.33333334  0.88798708  1
+  S  S2  1  0.48432851  0.51567149  0.81171352  1
+  S  S3  1  0.48432851  0.96865702  0.81171352  1
+  S  S4  1  0.03134298  0.51567149  0.81171352  1
+  S  S5  1  0.49465537  0.50534463  0.30691579  1
+  S  S6  1  0.49465537  0.98931074  0.30691579  1
+  S  S7  1  0.01068926  0.50534463  0.30691579  1
+  H  H8  1  0.00000000  0.00000000  0.13461654  1
+  H  H9  1  0.00000000  0.00000000  0.01167691  1
+  Ag  Ag10  1  0.00000000  0.00000000  0.83150655  1
+  Cl  Cl11  1  0.00000000  0.00000000  0.65049219  1
+  Ba  Ba12  1  0.00000000  0.00000000  0.39710844  1
+  O  O13  1  0.00000000  0.00000000  0.05224340  1
+  V  V14  1  0.33333334  0.66666669  0.89824408  1
+  Co  Co15  1  0.33333334  0.66666669  0.24915476  1
+  Te  Te16  1  0.66666669  0.33333334  0.56994098  1

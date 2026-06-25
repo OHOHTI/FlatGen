@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_KNaLiSnF5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.06497158
+_cell_length_b   6.00191187
+_cell_length_c   7.45854330
+_cell_angle_alpha   87.02997672
+_cell_angle_beta   88.38039378
+_cell_angle_gamma   83.34765779
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNaLiSnF5
+_chemical_formula_sum   'K2 Na2 Li2 Sn2 F10'
+_cell_volume   269.24361838
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.77904671  0.26224798  0.48903126  1
+  F  F1  1  0.22095329  0.73775202  0.51096874  1
+  F  F2  1  0.51452863  0.97608823  0.79516190  1
+  F  F3  1  0.48547137  0.02391177  0.20483810  1
+  F  F4  1  0.47654107  0.46786544  0.77900612  1
+  F  F5  1  0.52345896  0.53213453  0.22099388  1
+  F  F6  1  0.96354127  0.53489691  0.79384202  1
+  F  F7  1  0.03645873  0.46510309  0.20615798  1
+  Na  Na8  1  0.74421787  0.74651718  0.00018816  1
+  Na  Na9  1  0.25578213  0.25348282  0.99981183  1
+  K  K10  1  0.72857982  0.76135159  0.50415921  1
+  K  K11  1  0.27142018  0.23864841  0.49584079  1
+  F  F12  1  0.04101188  0.04835584  0.79451144  1
+  F  F13  1  0.95898813  0.95164418  0.20548856  1
+  Sn  Sn14  1  0.74613875  0.25028077  0.24671973  1
+  Sn  Sn15  1  0.25386125  0.74971926  0.75328028  1
+  Li  Li16  1  0.75447404  0.25979269  0.74272966  1
+  Li  Li17  1  0.24552596  0.74020731  0.25727034  1

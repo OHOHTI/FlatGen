@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_TiCoClF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.62488222
+_cell_length_b   5.62488216
+_cell_length_c   6.32860661
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000319
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiCoClF8
+_chemical_formula_sum   'Ti1 Co1 Cl1 F8'
+_cell_volume   173.40658255
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.98125869  1
+  F  F1  1  0.66666669  0.33333334  0.97872913  1
+  F  F2  1  0.43784663  0.05271085  0.64439708  1
+  F  F3  1  0.94728917  0.38513577  0.64439708  1
+  F  F4  1  0.61486423  0.56215334  0.64439708  1
+  F  F5  1  0.63914436  0.99622339  0.29907578  1
+  F  F6  1  0.00377659  0.64292097  0.29907578  1
+  F  F7  1  0.35707903  0.36085564  0.29907578  1
+  Cl  Cl8  1  0.00000000  0.00000000  0.79951537  1
+  Ti  Ti9  1  0.00000000  0.00000000  0.27222660  1
+  Co  Co10  1  0.33333334  0.66666669  0.23018222  1

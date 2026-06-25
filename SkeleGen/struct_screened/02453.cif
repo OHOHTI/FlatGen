@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_RbAlTlVAgIF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.94104195
+_cell_length_b   6.94104156
+_cell_length_c   7.46374416
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000638
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbAlTlVAgIF12
+_chemical_formula_sum   'Rb1 Al1 Tl1 V1 Ag1 I1 F12'
+_cell_volume   311.41294544
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.82603055  0.25540087  0.55496997  1
+  F  F1  1  0.74459910  0.57062972  0.55496997  1
+  F  F2  1  0.42937028  0.17396945  0.55496997  1
+  F  F3  1  0.15371746  0.76154017  0.70276040  1
+  F  F4  1  0.23845983  0.39217728  0.70276040  1
+  F  F5  1  0.60782272  0.84628254  0.70276040  1
+  F  F6  1  0.30838376  0.38017425  0.21463977  1
+  F  F7  1  0.61982572  0.92820954  0.21463977  1
+  F  F8  1  0.07179049  0.69161624  0.21463977  1
+  Tl  Tl9  1  0.00000000  0.00000000  0.93310618  1
+  Rb  Rb10  1  0.00000000  0.00000000  0.45036915  1
+  Al  Al11  1  0.33333334  0.66666669  0.69594175  1
+  Ag  Ag12  1  0.33333334  0.66666669  0.14309359  1
+  I  I13  1  0.66666669  0.33333334  0.20055397  1
+  V  V14  1  0.66666669  0.33333334  0.69973874  1
+  F  F15  1  0.94302523  0.43357044  0.88532811  1
+  F  F16  1  0.56642956  0.50945479  0.88532811  1
+  F  F17  1  0.49054521  0.05697477  0.88532811  1

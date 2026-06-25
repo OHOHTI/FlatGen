@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_TiMn2FeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30920410
+_cell_length_b   5.30920382
+_cell_length_c   8.98756123
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000475
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiMn2FeO6
+_chemical_formula_sum   'Ti2 Mn4 Fe2 O12'
+_cell_volume   219.39730675
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.00000000  0.00000000  1
+  Mn  Mn1  1  0.33333334  0.66666669  0.29285279  1
+  Mn  Mn2  1  0.66666669  0.33333334  0.70714724  1
+  Mn  Mn3  1  0.00000000  0.00000000  0.50000000  1
+  Fe  Fe4  1  0.33333334  0.66666669  0.71090007  1
+  Fe  Fe5  1  0.66666669  0.33333334  0.28909993  1
+  Ti  Ti6  1  0.33333334  0.66666669  0.00063089  1
+  Ti  Ti7  1  0.66666669  0.33333334  0.99936908  1
+  O  O8  1  0.98111141  0.30636725  0.37673417  1
+  O  O9  1  0.69363272  0.67474413  0.37673417  1
+  O  O10  1  0.32525587  0.01888859  0.37673417  1
+  O  O11  1  0.01888859  0.69363272  0.62326586  1
+  O  O12  1  0.30636725  0.32525587  0.62326586  1
+  O  O13  1  0.67474413  0.98111141  0.62326586  1
+  O  O14  1  0.63221604  0.99707127  0.12006601  1
+  O  O15  1  0.00292873  0.63514477  0.12006601  1
+  O  O16  1  0.36485523  0.36778396  0.12006601  1
+  O  O17  1  0.36778396  0.00292873  0.87993401  1
+  O  O18  1  0.99707127  0.36485523  0.87993401  1
+  O  O19  1  0.63514477  0.63221604  0.87993401  1

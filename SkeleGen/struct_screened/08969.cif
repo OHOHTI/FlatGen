@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KBaTmCoPH2S(OF5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.00400400
+_cell_length_b   6.00400405
+_cell_length_c   10.53227425
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000499
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KBaTmCoPH2S(OF5)2
+_chemical_formula_sum   'K1 Ba1 Tm1 Co1 P1 H2 S1 O2 F10'
+_cell_volume   328.80220279
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.92490768  0.28581655  0.63760304  1
+  F  F1  1  0.71418345  0.63909113  0.63760304  1
+  F  F2  1  0.36090887  0.07509232  0.63760304  1
+  F  F3  1  0.10578699  0.73832029  0.85527295  1
+  F  F4  1  0.26167971  0.36746669  0.85527295  1
+  F  F5  1  0.63253331  0.89421302  0.85527295  1
+  F  F6  1  0.71187282  0.80903119  0.13557449  1
+  F  F7  1  0.19096881  0.90284163  0.13557449  1
+  F  F8  1  0.09715837  0.28812718  0.13557449  1
+  Co  Co9  1  0.00000000  0.00000000  0.24503376  1
+  Tm  Tm10  1  0.00000000  0.00000000  0.91591763  1
+  O  O11  1  0.00000000  0.00000000  0.40583602  1
+  S  S12  1  0.33333334  0.66666669  0.83865660  1
+  Ba  Ba13  1  0.33333334  0.66666669  0.45798823  1
+  H  H14  1  0.66666669  0.33333334  0.30326986  1
+  K  K15  1  0.66666669  0.33333334  0.09113493  1
+  P  P16  1  0.66666669  0.33333334  0.65422463  1
+  H  H17  1  0.66666669  0.33333334  0.49484903  1
+  F  F18  1  0.66666669  0.33333334  0.83870280  1
+  O  O19  1  0.66666669  0.33333334  0.42622933  1

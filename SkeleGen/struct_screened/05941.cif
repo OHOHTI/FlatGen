@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_RbBeTlCu2BHO3F10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.87400007
+_cell_length_b   4.87399973
+_cell_length_c   12.95257950
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000556
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbBeTlCu2BHO3F10
+_chemical_formula_sum   'Rb1 Be1 Tl1 Cu2 B1 H1 O3 F10'
+_cell_volume   266.47588051
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.22346534  1
+  F  F1  1  0.66666669  0.33333334  0.95750076  1
+  F  F2  1  0.51227731  0.48772269  0.73720479  1
+  F  F3  1  0.51227731  0.02455461  0.73720479  1
+  F  F4  1  0.97544539  0.48772269  0.73720479  1
+  F  F5  1  0.49286470  0.50713527  0.37381214  1
+  F  F6  1  0.49286470  0.98572940  0.37381214  1
+  F  F7  1  0.01427060  0.50713527  0.37381214  1
+  F  F8  1  0.00000000  0.00000000  0.87060034  1
+  F  F9  1  0.00000000  0.00000000  0.47898844  1
+  O  O10  1  0.00000000  0.00000000  0.12253379  1
+  O  O11  1  0.00000000  0.00000000  0.65224528  1
+  Tl  Tl12  1  0.00000000  0.00000000  0.28915009  1
+  Cu  Cu13  1  0.00000000  0.00000000  0.99094594  1
+  Be  Be14  1  0.33333334  0.66666669  0.34588081  1
+  Rb  Rb15  1  0.66666669  0.33333334  0.14866677  1
+  H  H16  1  0.66666669  0.33333334  0.45218745  1
+  B  B17  1  0.66666669  0.33333334  0.64378798  1
+  O  O18  1  0.66666669  0.33333334  0.55025190  1
+  Cu  Cu19  1  0.66666669  0.33333334  0.82850558  1

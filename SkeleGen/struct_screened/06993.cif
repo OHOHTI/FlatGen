@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Na2ReCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.53340820
+_cell_length_b   7.41072032
+_cell_length_c   9.93149948
+_cell_angle_alpha   87.00340751
+_cell_angle_beta   88.40885536
+_cell_angle_gamma   90.43190134
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2ReCl6
+_chemical_formula_sum   'Na4 Re2 Cl12'
+_cell_volume   479.99388088
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.67514020  0.32535288  0.54019243  1
+  Cl  Cl1  1  0.32485980  0.67464709  0.45980757  1
+  Cl  Cl2  1  0.54732984  0.97018927  0.75964469  1
+  Cl  Cl3  1  0.45267016  0.02981073  0.24035531  1
+  Cl  Cl4  1  0.44287184  0.44216526  0.84368962  1
+  Cl  Cl5  1  0.55712819  0.55783474  0.15631038  1
+  Cl  Cl6  1  0.92254746  0.55827361  0.76214474  1
+  Cl  Cl7  1  0.07745254  0.44172639  0.23785526  1
+  Cl  Cl8  1  0.82270116  0.17497258  0.97614622  1
+  Cl  Cl9  1  0.17729884  0.82502741  0.02385378  1
+  Re  Re10  1  0.26100782  0.73910040  0.24891178  1
+  Re  Re11  1  0.73899221  0.26089960  0.75108820  1
+  Cl  Cl12  1  0.94445366  0.91415733  0.33162010  1
+  Cl  Cl13  1  0.05554634  0.08584267  0.66837990  1
+  Na  Na14  1  0.25738230  0.20007811  0.46666306  1
+  Na  Na15  1  0.74261773  0.79992187  0.53333694  1
+  Na  Na16  1  0.73756450  0.81228387  0.02146714  1
+  Na  Na17  1  0.26243550  0.18771613  0.97853285  1

@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_KMnGeSbPCl14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.27652931
+_cell_length_b   9.27652910
+_cell_length_c   7.80831432
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000415
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KMnGeSbPCl14
+_chemical_formula_sum   'K1 Mn1 Ge1 Sb1 P1 Cl14'
+_cell_volume   581.91417132
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.03948242  0.20209710  0.66066635  1
+  Cl  Cl1  1  0.79790288  0.83738530  0.66066635  1
+  Cl  Cl2  1  0.16261469  0.96051759  0.66066635  1
+  Cl  Cl3  1  0.81968927  0.76259190  0.09998684  1
+  Cl  Cl4  1  0.23740810  0.05709738  0.09998684  1
+  Cl  Cl5  1  0.94290262  0.18031073  0.09998684  1
+  Cl  Cl6  1  0.32197848  0.44344673  0.38136730  1
+  Cl  Cl7  1  0.55655324  0.87853175  0.38136730  1
+  Cl  Cl8  1  0.12146825  0.67802155  0.38136730  1
+  Cl  Cl9  1  0.33333334  0.66666669  0.72629476  1
+  Cl  Cl10  1  0.66666669  0.33333334  0.18715045  1
+  Cl  Cl11  1  0.46713376  0.36454943  0.69409174  1
+  Cl  Cl12  1  0.63545060  0.10258433  0.69409174  1
+  Cl  Cl13  1  0.89741564  0.53286624  0.69409174  1
+  Ge  Ge14  1  0.00000000  0.00000000  0.91633117  1
+  Mn  Mn15  1  0.00000000  0.00000000  0.43628541  1
+  P  P16  1  0.33333334  0.66666669  0.48727024  1
+  K  K17  1  0.33333334  0.66666669  0.08159234  1
+  Sb  Sb18  1  0.66666669  0.33333334  0.84809440  1

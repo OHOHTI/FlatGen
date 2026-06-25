@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CaEu4AlSiBPN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.29616070
+_cell_length_b   4.29616048
+_cell_length_c   14.30648994
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000534
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaEu4AlSiBPN
+_chemical_formula_sum   'Ca1 Eu4 Al1 Si1 B1 P1 N1'
+_cell_volume   228.67817415
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.00000000  0.00000000  0.97822422  1
+  Eu  Eu1  1  0.66666669  0.33333334  0.68960458  1
+  Eu  Eu2  1  0.33333334  0.66666669  0.34892890  1
+  Eu  Eu3  1  0.00000000  0.00000000  0.52889705  1
+  Ca  Ca4  1  0.33333334  0.66666669  0.85105938  1
+  P  P5  1  0.33333334  0.66666669  0.13053066  1
+  Al  Al6  1  0.66666669  0.33333334  0.07244732  1
+  N  N7  1  0.66666669  0.33333334  0.90596241  1
+  Si  Si8  1  0.66666669  0.33333334  0.23962109  1
+  B  B9  1  0.66666669  0.33333334  0.43903258  1

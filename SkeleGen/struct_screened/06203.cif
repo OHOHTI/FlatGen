@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_KMnAlCu4SnTeO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.81723785
+_cell_length_b   4.81723784
+_cell_length_c   12.12655640
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000337
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KMnAlCu4SnTeO9
+_chemical_formula_sum   'K1 Mn1 Al1 Cu4 Sn1 Te1 O9'
+_cell_volume   243.70491464
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000000  0.00000000  0.98901772  1
+  Cu  Cu1  1  0.66666669  0.33333334  0.54054809  1
+  Cu  Cu2  1  0.33333334  0.66666669  0.35627836  1
+  Cu  Cu3  1  0.00000000  0.00000000  0.49706337  1
+  K  K4  1  0.00000000  0.00000000  0.73476827  1
+  Te  Te5  1  0.00000000  0.00000000  0.29304454  1
+  O  O6  1  0.00000000  0.00000000  0.13008529  1
+  Sn  Sn7  1  0.33333334  0.66666669  0.07158078  1
+  O  O8  1  0.33333334  0.66666669  0.68812746  1
+  Al  Al9  1  0.33333334  0.66666669  0.55540019  1
+  Mn  Mn10  1  0.33333334  0.66666669  0.84182239  1
+  O  O11  1  0.33333334  0.66666669  0.23557422  1
+  O  O12  1  0.33967426  0.98158735  0.93987405  1
+  O  O13  1  0.01841265  0.35808694  0.93987405  1
+  O  O14  1  0.64191306  0.66032577  0.93987405  1
+  O  O15  1  0.02480159  0.66341072  0.45131201  1
+  O  O16  1  0.33658928  0.36139089  0.45131201  1
+  O  O17  1  0.63860911  0.97519839  0.45131201  1

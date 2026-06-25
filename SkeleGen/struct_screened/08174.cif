@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_RbTl(ReCl4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.55149364
+_cell_length_b   6.55149371
+_cell_length_c   9.76913452
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999246
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbTl(ReCl4)2
+_chemical_formula_sum   'Rb1 Tl1 Re2 Cl8'
+_cell_volume   363.13441250
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.60134768  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.39865232  1
+  Cl  Cl2  1  0.66272783  0.04130051  0.80146837  1
+  Cl  Cl3  1  0.95869946  0.62142730  0.80146837  1
+  Cl  Cl4  1  0.37857270  0.33727217  0.80146837  1
+  Cl  Cl5  1  0.33727217  0.95869946  0.19853163  1
+  Cl  Cl6  1  0.04130051  0.37857270  0.19853163  1
+  Cl  Cl7  1  0.62142730  0.66272783  0.19853163  1
+  Tl  Tl8  1  0.00000000  0.00000000  0.00000000  1
+  Rb  Rb9  1  0.00000000  0.00000000  0.50000000  1
+  Re  Re10  1  0.33333334  0.66666669  0.28720582  1
+  Re  Re11  1  0.66666669  0.33333334  0.71279418  1

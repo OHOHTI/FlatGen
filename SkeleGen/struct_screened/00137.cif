@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_ScMn3Br10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.62124252
+_cell_length_b   10.62124210
+_cell_length_c   4.37279510
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000430
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScMn3Br10
+_chemical_formula_sum   'Sc1 Mn3 Br10'
+_cell_volume   427.20898157
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.74816817  0.18353859  0.72391146  1
+  Br  Br1  1  0.81646144  0.56462955  0.72391146  1
+  Br  Br2  1  0.43537045  0.25183183  0.72391146  1
+  Br  Br3  1  0.19490160  0.85356885  0.72348183  1
+  Br  Br4  1  0.14643115  0.34133273  0.72348183  1
+  Br  Br5  1  0.65866727  0.80509841  0.72348183  1
+  Br  Br6  1  0.02854281  0.55599964  0.23167655  1
+  Br  Br7  1  0.44400036  0.47254318  0.23167655  1
+  Br  Br8  1  0.52745682  0.97145718  0.23167655  1
+  Br  Br9  1  0.00000000  0.00000000  0.21460956  1
+  Sc  Sc10  1  0.33333334  0.66666669  0.22194439  1
+  Mn  Mn11  1  0.14850353  0.04163912  0.73459148  1
+  Mn  Mn12  1  0.95836085  0.10686441  0.73459148  1
+  Mn  Mn13  1  0.89313561  0.85149646  0.73459148  1

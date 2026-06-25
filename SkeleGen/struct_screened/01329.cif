@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_KCaCu2HgF10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24452788
+_cell_length_b   5.88861262
+_cell_length_c   7.23723841
+_cell_angle_alpha   89.53602774
+_cell_angle_beta   91.22680692
+_cell_angle_gamma   99.02140607
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCaCu2HgF10
+_chemical_formula_sum   'K1 Ca1 Cu2 Hg1 F10'
+_cell_volume   220.68961317
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.62862247  0.32945424  0.48490551  1
+  F  F1  1  0.31676671  0.74263740  0.46276128  1
+  F  F2  1  0.52841997  0.00197214  0.78287488  1
+  F  F3  1  0.44216546  0.46758771  0.84549862  1
+  F  F4  1  0.91673332  0.59360629  0.68821740  1
+  F  F5  1  0.44649413  0.08973387  0.16229166  1
+  F  F6  1  0.61875331  0.57019508  0.16247205  1
+  F  F7  1  0.05413902  0.43066385  0.18994011  1
+  Cu  Cu8  1  0.94297141  0.63543344  0.43092096  1
+  Hg  Hg9  1  0.33696753  0.76665926  0.02023971  1
+  Cu  Cu10  1  0.10588329  0.13315052  0.21647833  1
+  F  F11  1  0.91593093  0.95164692  0.36138597  1
+  F  F12  1  0.95905322  0.94257969  0.98462933  1
+  Ca  Ca13  1  0.72250319  0.26864174  0.00413990  1
+  K  K14  1  0.08278622  0.15586334  0.68011689  1

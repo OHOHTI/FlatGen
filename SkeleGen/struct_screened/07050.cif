@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Li3ZrFeBiO3F8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.64232635
+_cell_length_b   5.64232596
+_cell_length_c   7.72759056
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000513
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3ZrFeBiO3F8
+_chemical_formula_sum   'Li3 Zr1 Fe1 Bi1 O3 F8'
+_cell_volume   213.05468400
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.67552137  0.78012913  0.30993786  1
+  F  F1  1  0.21987087  0.89539224  0.30993786  1
+  F  F2  1  0.10460776  0.32447863  0.30993786  1
+  F  F3  1  0.64578050  0.96032125  0.67466742  1
+  F  F4  1  0.03967875  0.68545926  0.67466742  1
+  F  F5  1  0.31454074  0.35421950  0.67466742  1
+  F  F6  1  0.33333334  0.66666669  0.00118375  1
+  F  F7  1  0.66666669  0.33333334  0.44816265  1
+  Fe  Fe8  1  0.00000000  0.00000000  0.14501309  1
+  Bi  Bi9  1  0.33333334  0.66666669  0.51509380  1
+  Zr  Zr10  1  0.66666669  0.33333334  0.15846235  1
+  O  O11  1  0.81260896  0.13907665  0.03034551  1
+  O  O12  1  0.86092335  0.67353231  0.03034551  1
+  O  O13  1  0.32646769  0.18739104  0.03034551  1
+  Li  Li14  1  0.65536702  0.64615738  0.83999234  1
+  Li  Li15  1  0.35384262  0.00920963  0.83999234  1
+  Li  Li16  1  0.99079037  0.34463298  0.83999234  1

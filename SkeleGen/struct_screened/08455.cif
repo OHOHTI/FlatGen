@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_U3Te5Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.43911457
+_cell_length_b   8.43911423
+_cell_length_c   9.05123997
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000506
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U3Te5Pb
+_chemical_formula_sum   'U6 Te10 Pb2'
+_cell_volume   558.25476310
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.33333334  0.66666669  0.60910058  1
+  Te  Te1  1  0.66666669  0.33333334  0.10910058  1
+  Te  Te2  1  0.30127347  0.32974163  0.23236650  1
+  Te  Te3  1  0.67025840  0.97153187  0.23236650  1
+  Te  Te4  1  0.02846816  0.69872653  0.23236650  1
+  Te  Te5  1  0.32974163  0.30127347  0.73236650  1
+  Te  Te6  1  0.97153187  0.67025840  0.73236650  1
+  Te  Te7  1  0.69872653  0.02846816  0.73236650  1
+  Te  Te8  1  0.33333334  0.66666669  0.94890869  1
+  Te  Te9  1  0.66666669  0.33333334  0.44890869  1
+  Pb  Pb10  1  0.00000000  0.00000000  0.89539576  1
+  Pb  Pb11  1  0.00000000  0.00000000  0.39539576  1
+  U  U12  1  0.00953713  0.34479228  0.50900781  1
+  U  U13  1  0.65520775  0.66474485  0.50900781  1
+  U  U14  1  0.33525515  0.99046284  0.50900781  1
+  U  U15  1  0.34479228  0.00953713  0.00900781  1
+  U  U16  1  0.66474485  0.65520775  0.00900781  1
+  U  U17  1  0.99046284  0.33525515  0.00900781  1

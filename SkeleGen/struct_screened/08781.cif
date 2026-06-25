@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_EuCrCoSi(O3F2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21150875
+_cell_length_b   5.21150847
+_cell_length_c   8.70785809
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000479
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuCrCoSi(O3F2)2
+_chemical_formula_sum   'Eu1 Cr1 Co1 Si1 O6 F4'
+_cell_volume   204.81835456
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.00000000  0.00000000  0.94446027  1
+  F  F1  1  0.66666669  0.33333334  0.48550463  1
+  F  F2  1  0.33333334  0.66666669  0.46611428  1
+  F  F3  1  0.00000000  0.00000000  0.53496683  1
+  Co  Co4  1  0.00000000  0.00000000  0.33918488  1
+  Cr  Cr5  1  0.00000000  0.00000000  0.12574206  1
+  Si  Si6  1  0.00000000  0.00000000  0.73239559  1
+  Eu  Eu7  1  0.66666669  0.33333334  0.93970531  1
+  O  O8  1  0.99563599  0.70295829  0.74273354  1
+  O  O9  1  0.29704171  0.29267770  0.74273354  1
+  O  O10  1  0.70732230  0.00436401  0.74273354  1
+  O  O11  1  0.70963341  0.71934450  0.20051369  1
+  O  O12  1  0.28065550  0.99028891  0.20051369  1
+  O  O13  1  0.00971109  0.29036659  0.20051369  1

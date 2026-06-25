@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_TiFeCu4BO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.93003082
+_cell_length_b   4.93003076
+_cell_length_c   9.23151875
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000360
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiFeCu4BO12
+_chemical_formula_sum   'Ti1 Fe1 Cu4 B1 O12'
+_cell_volume   194.31352736
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000000  0.00000000  0.91178238  1
+  Cu  Cu1  1  0.66666669  0.33333334  0.41992664  1
+  Cu  Cu2  1  0.33333334  0.66666669  0.39988810  1
+  Cu  Cu3  1  0.00000000  0.00000000  0.41374144  1
+  Fe  Fe4  1  0.66666669  0.33333334  0.89953732  1
+  Ti  Ti5  1  0.66666669  0.33333334  0.17122234  1
+  B  B6  1  0.66666669  0.33333334  0.66356176  1
+  O  O7  1  0.96236974  0.64344156  0.77633166  1
+  O  O8  1  0.35655844  0.31892818  0.77633166  1
+  O  O9  1  0.68107182  0.03763026  0.77633166  1
+  O  O10  1  0.34815100  0.02173959  0.53895825  1
+  O  O11  1  0.97826040  0.32641140  0.53895825  1
+  O  O12  1  0.67358863  0.65184903  0.53895825  1
+  O  O13  1  0.71799636  0.63660812  0.03033404  1
+  O  O14  1  0.36339188  0.08138824  0.03033404  1
+  O  O15  1  0.91861176  0.28200364  0.03033404  1
+  O  O16  1  0.97727299  0.63955867  0.27661979  1
+  O  O17  1  0.36044133  0.33771431  0.27661979  1
+  O  O18  1  0.66228569  0.02272701  0.27661979  1

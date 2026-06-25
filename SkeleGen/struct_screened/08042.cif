@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_KTiTcCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.63590527
+_cell_length_b   6.63590498
+_cell_length_c   8.18480873
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000617
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KTiTcCl8
+_chemical_formula_sum   'K1 Ti1 Tc1 Cl8'
+_cell_volume   312.13284864
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.66666669  0.33333334  0.39591125  1
+  Cl  Cl1  1  0.33333334  0.66666669  0.58028191  1
+  Cl  Cl2  1  0.52420586  0.03375347  0.84720361  1
+  Cl  Cl3  1  0.96624655  0.49045238  0.84720361  1
+  Cl  Cl4  1  0.50954759  0.47579414  0.84720361  1
+  Cl  Cl5  1  0.24126408  0.92428893  0.20617053  1
+  Cl  Cl6  1  0.07571107  0.31697512  0.20617053  1
+  Cl  Cl7  1  0.68302488  0.75873590  0.20617053  1
+  Ti  Ti8  1  0.00000000  0.00000000  0.32520065  1
+  K  K9  1  0.00000000  0.00000000  0.80632341  1
+  Tc  Tc10  1  0.33333334  0.66666669  0.32128802  1

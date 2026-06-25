@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_NbTlGe(SeI3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.11570358
+_cell_length_b   9.11570320
+_cell_length_c   8.58574486
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000484
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbTlGe(SeI3)3
+_chemical_formula_sum   'Nb1 Tl1 Ge1 Se3 I9'
+_cell_volume   617.85840670
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.67367935  0.11458970  0.72701883  1
+  I  I1  1  0.88541031  0.55908966  0.72701883  1
+  I  I2  1  0.44091034  0.32632065  0.72701883  1
+  I  I3  1  0.22000526  0.85393661  0.50993484  1
+  I  I4  1  0.14606339  0.36606866  0.50993484  1
+  I  I5  1  0.63393134  0.77999473  0.50993484  1
+  I  I6  1  0.03191140  0.62126338  0.22061162  1
+  I  I7  1  0.37873662  0.41064799  0.22061162  1
+  I  I8  1  0.58935201  0.96808863  0.22061162  1
+  Ge  Ge9  1  0.00000000  0.00000000  0.05696429  1
+  Nb  Nb10  1  0.33333334  0.66666669  0.43137378  1
+  Tl  Tl11  1  0.66666669  0.33333334  0.16196668  1
+  Se  Se12  1  0.05192768  0.23987055  0.96423250  1
+  Se  Se13  1  0.76012945  0.81205714  0.96423250  1
+  Se  Se14  1  0.18794286  0.94807231  0.96423250  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_BaNaCdInP2(Se3Br)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.50985241
+_cell_length_b   8.50985202
+_cell_length_c   8.25057793
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000524
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNaCdInP2(Se3Br)3
+_chemical_formula_sum   'Ba1 Na1 Cd1 In1 P2 Se9 Br3'
+_cell_volume   517.43882871
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.80207640  0.23757096  0.53208649  1
+  Se  Se1  1  0.76242906  0.56450546  0.53208649  1
+  Se  Se2  1  0.43549454  0.19792360  0.53208649  1
+  Se  Se3  1  0.20501383  0.76115769  0.54469925  1
+  Se  Se4  1  0.23884231  0.44385612  0.54469925  1
+  Se  Se5  1  0.55614388  0.79498619  0.54469925  1
+  Se  Se6  1  0.37222180  0.34732199  0.17083988  1
+  Se  Se7  1  0.65267801  0.02489981  0.17083988  1
+  Se  Se8  1  0.97510016  0.62777817  0.17083988  1
+  Na  Na9  1  0.00000000  0.00000000  0.52498019  1
+  Ba  Ba10  1  0.00000000  0.00000000  0.11053672  1
+  P  P11  1  0.33333334  0.66666669  0.72933233  1
+  Cd  Cd12  1  0.33333334  0.66666669  0.09328146  1
+  In  In13  1  0.66666669  0.33333334  0.12248937  1
+  P  P14  1  0.66666669  0.33333334  0.66589552  1
+  Br  Br15  1  0.29840142  0.91985559  0.87138838  1
+  Br  Br16  1  0.08014441  0.37854582  0.87138838  1
+  Br  Br17  1  0.62145418  0.70159858  0.87138838  1

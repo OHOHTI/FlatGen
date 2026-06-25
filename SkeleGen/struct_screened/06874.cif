@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Li3CoCl5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.71792316
+_cell_length_b   6.71792295
+_cell_length_c   10.05712700
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000575
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3CoCl5
+_chemical_formula_sum   'Li6 Co2 Cl10'
+_cell_volume   393.07424744
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.51696610  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.01696610  1
+  Cl  Cl2  1  0.33333334  0.66666669  0.86978388  1
+  Cl  Cl3  1  0.66666669  0.33333334  0.36978388  1
+  Cl  Cl4  1  0.88003850  0.69515908  0.68421328  1
+  Cl  Cl5  1  0.30484092  0.18487942  0.68421328  1
+  Cl  Cl6  1  0.81512058  0.11996150  0.68421328  1
+  Cl  Cl7  1  0.69515908  0.88003850  0.18421328  1
+  Cl  Cl8  1  0.18487942  0.30484092  0.18421328  1
+  Cl  Cl9  1  0.11996150  0.81512058  0.18421328  1
+  Co  Co10  1  0.00000000  0.00000000  0.08655287  1
+  Co  Co11  1  0.00000000  0.00000000  0.58655286  1
+  Li  Li12  1  0.64030147  0.64877349  0.39770901  1
+  Li  Li13  1  0.35122651  0.99152797  0.39770901  1
+  Li  Li14  1  0.00847203  0.35969853  0.39770901  1
+  Li  Li15  1  0.64877349  0.64030147  0.89770901  1
+  Li  Li16  1  0.99152797  0.35122651  0.89770901  1
+  Li  Li17  1  0.35969853  0.00847203  0.89770901  1

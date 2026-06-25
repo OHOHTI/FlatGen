@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsInSiPbO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50008440
+_cell_length_b   5.50008399
+_cell_length_c   6.87835217
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000533
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsInSiPbO8
+_chemical_formula_sum   'Cs1 In1 Si1 Pb1 O8'
+_cell_volume   180.19954558
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.66666669  0.33333334  0.49366251  1
+  O  O1  1  0.33333334  0.66666669  0.56651753  1
+  O  O2  1  0.67005217  0.04038509  0.78966546  1
+  O  O3  1  0.95961493  0.62966710  0.78966546  1
+  O  O4  1  0.37033290  0.32994783  0.78966546  1
+  O  O5  1  0.39154288  0.98124528  0.16586807  1
+  O  O6  1  0.01875472  0.41029763  0.16586807  1
+  O  O7  1  0.58970237  0.60845709  0.16586807  1
+  Pb  Pb8  1  0.00000000  0.00000000  0.89890712  1
+  Cs  Cs9  1  0.00000000  0.00000000  0.38260880  1
+  In  In10  1  0.33333334  0.66666669  0.04497974  1
+  Si  Si11  1  0.66666669  0.33333334  0.71222407  1

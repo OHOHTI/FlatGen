@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Tl2ZnGeBr9Cl2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.05158717
+_cell_length_b   8.06570281
+_cell_length_c   9.66307640
+_cell_angle_alpha   89.17764779
+_cell_angle_beta   90.52682865
+_cell_angle_gamma   81.26795929
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl2ZnGeBr9Cl2
+_chemical_formula_sum   'Tl2 Zn1 Ge1 Br9 Cl2'
+_cell_volume   543.13497290
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.69774401  0.28735614  0.77605468  1
+  Br  Br1  1  0.18375227  0.77281213  0.25321606  1
+  Br  Br2  1  0.02214186  0.27780253  0.06578606  1
+  Br  Br3  1  0.71588540  0.96058494  0.49901471  1
+  Br  Br4  1  0.90001410  0.87433541  0.90412605  1
+  Br  Br5  1  0.21584754  0.16263600  0.49631545  1
+  Br  Br6  1  0.57438135  0.05246286  0.15786442  1
+  Ge  Ge7  1  0.76692194  0.10630107  0.98320425  1
+  Cl  Cl8  1  0.05873789  0.57655942  0.64551032  1
+  Tl  Tl9  1  0.47286105  0.71589112  0.62990165  1
+  Tl  Tl10  1  0.85422093  0.62940216  0.26980799  1
+  Zn  Zn11  1  0.52208865  0.22858365  0.52781397  1
+  Br  Br12  1  0.37260929  0.96870017  0.86026436  1
+  Br  Br13  1  0.57967663  0.45245415  0.39226073  1
+  Cl  Cl14  1  0.53677130  0.55190879  0.02954527  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_CsUAlCoI9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.94567919
+_cell_length_b   7.94567880
+_cell_length_c   11.08819580
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000558
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsUAlCoI9
+_chemical_formula_sum   'Cs1 U1 Al1 Co1 I9'
+_cell_volume   606.25247522
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.66666669  0.33333334  0.45134234  1
+  I  I1  1  0.33333334  0.66666669  0.47757798  1
+  I  I2  1  0.62174118  0.96901906  0.75583839  1
+  I  I3  1  0.03098094  0.65272212  0.75583839  1
+  I  I4  1  0.34727788  0.37825882  0.75583839  1
+  I  I5  1  0.33401930  0.97787505  0.13694312  1
+  I  I6  1  0.02212495  0.35614425  0.13694312  1
+  I  I7  1  0.64385575  0.66598070  0.13694312  1
+  I  I8  1  0.00000000  0.00000000  0.41509831  1
+  Cs  Cs9  1  0.00000000  0.00000000  0.92274982  1
+  Co  Co10  1  0.33333334  0.66666669  0.80712175  1
+  U  U11  1  0.33333334  0.66666669  0.98891979  1
+  Al  Al12  1  0.33333334  0.66666669  0.25133455  1

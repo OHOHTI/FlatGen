@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaZrTiBeTeO4F11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21591711
+_cell_length_b   5.21591708
+_cell_length_c   10.94312763
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000323
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaZrTiBeTeO4F11
+_chemical_formula_sum   'Na1 Zr1 Ti1 Be1 Te1 O4 F11'
+_cell_volume   257.82999586
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66297424  0.68959767  0.18262100  1
+  F  F1  1  0.31040233  0.97337657  0.18262100  1
+  F  F2  1  0.02662343  0.33702576  0.18262100  1
+  F  F3  1  0.63230330  0.97031051  0.72476494  1
+  F  F4  1  0.02968949  0.66199279  0.72476494  1
+  F  F5  1  0.33800721  0.36769670  0.72476494  1
+  F  F6  1  0.33333334  0.66666669  0.03040800  1
+  F  F7  1  0.66666669  0.33333334  0.59428501  1
+  Na  Na8  1  0.00000000  0.00000000  0.51536989  1
+  Te  Te9  1  0.00000000  0.00000000  0.03539444  1
+  Zr  Zr10  1  0.33333334  0.66666669  0.28316414  1
+  O  O11  1  0.33333334  0.66666669  0.56482470  1
+  Be  Be12  1  0.33333334  0.66666669  0.68494493  1
+  Ti  Ti13  1  0.66666669  0.33333334  0.81887645  1
+  O  O14  1  0.76660174  0.65794998  0.90988213  1
+  O  O15  1  0.34205002  0.10865176  0.90988213  1
+  O  O16  1  0.89134824  0.23339826  0.90988213  1
+  F  F17  1  0.63907355  0.97254628  0.37631831  1
+  F  F18  1  0.02745372  0.66652727  0.37631831  1
+  F  F19  1  0.33347273  0.36092645  0.37631831  1

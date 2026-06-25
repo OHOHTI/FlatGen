@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_AlCrSe5I3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.55942917
+_cell_length_b   6.55942884
+_cell_length_c   15.83035469
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000648
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlCrSe5I3
+_chemical_formula_sum   'Al2 Cr2 Se10 I6'
+_cell_volume   589.86594099
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.33333334  0.66666669  0.43281823  1
+  Se  Se1  1  0.66666669  0.33333334  0.93281823  1
+  Se  Se2  1  0.29962218  0.28838620  0.32246789  1
+  Se  Se3  1  0.71161377  0.01123598  0.32246789  1
+  Se  Se4  1  0.98876405  0.70037782  0.32246789  1
+  Se  Se5  1  0.28838620  0.29962218  0.82246792  1
+  Se  Se6  1  0.01123598  0.71161377  0.82246792  1
+  Se  Se7  1  0.70037782  0.98876405  0.82246792  1
+  Se  Se8  1  0.33333334  0.66666669  0.97468418  1
+  Se  Se9  1  0.66666669  0.33333334  0.47468424  1
+  Al  Al10  1  0.00000000  0.00000000  0.94192070  1
+  Al  Al11  1  0.00000000  0.00000000  0.44192076  1
+  Cr  Cr12  1  0.00000000  0.00000000  0.73098367  1
+  Cr  Cr13  1  0.00000000  0.00000000  0.23098373  1
+  I  I14  1  0.99206448  0.68278176  0.12154195  1
+  I  I15  1  0.31721824  0.30928272  0.12154195  1
+  I  I16  1  0.69071728  0.00793552  0.12154195  1
+  I  I17  1  0.68278176  0.99206448  0.62154198  1
+  I  I18  1  0.30928272  0.31721824  0.62154198  1
+  I  I19  1  0.00793552  0.69071728  0.62154198  1

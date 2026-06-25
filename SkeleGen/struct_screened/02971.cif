@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BaSrAlAg3BCl9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.82764816
+_cell_length_b   8.82764798
+_cell_length_c   6.14822197
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000426
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSrAlAg3BCl9
+_chemical_formula_sum   'Ba1 Sr1 Al1 Ag3 B1 Cl9'
+_cell_volume   414.92554541
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.67889202  0.15242925  0.71516120  1
+  Cl  Cl1  1  0.84757078  0.52646279  0.71516120  1
+  Cl  Cl2  1  0.47353721  0.32110798  0.71516120  1
+  Cl  Cl3  1  0.21261425  0.79446864  0.72290784  1
+  Cl  Cl4  1  0.20553136  0.41814560  0.72290784  1
+  Cl  Cl5  1  0.58185440  0.78738576  0.72290784  1
+  Cl  Cl6  1  0.37057668  0.31640330  0.22002195  1
+  Cl  Cl7  1  0.68359673  0.05417338  0.22002195  1
+  Cl  Cl8  1  0.94582665  0.62942332  0.22002195  1
+  Ba  Ba9  1  0.00000000  0.00000000  0.56943768  1
+  B  B10  1  0.33333334  0.66666669  0.61909449  1
+  Sr  Sr11  1  0.33333334  0.66666669  0.18150964  1
+  Al  Al12  1  0.66666669  0.33333334  0.18698208  1
+  Ag  Ag13  1  0.95105183  0.32011986  0.98891795  1
+  Ag  Ag14  1  0.67988014  0.63093197  0.98891795  1
+  Ag  Ag15  1  0.36906803  0.04894817  0.98891795  1

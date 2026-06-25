@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CaTe2(OF)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.62430429
+_cell_length_b   5.62430407
+_cell_length_c   9.38169098
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000411
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaTe2(OF)3
+_chemical_formula_sum   'Ca2 Te4 O6 F6'
+_cell_volume   257.00959627
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.00000000  0.00000000  0.00000000  1
+  Te  Te1  1  0.33333334  0.66666669  0.22425695  1
+  Te  Te2  1  0.66666669  0.33333334  0.77574307  1
+  Te  Te3  1  0.00000000  0.00000000  0.50000000  1
+  Ca  Ca4  1  0.33333334  0.66666669  0.73077840  1
+  Ca  Ca5  1  0.66666669  0.33333334  0.26922160  1
+  F  F6  1  0.32683879  0.99655789  0.38021749  1
+  F  F7  1  0.00344211  0.33028090  0.38021749  1
+  F  F8  1  0.66971910  0.67316121  0.38021749  1
+  F  F9  1  0.67316121  0.00344211  0.61978251  1
+  F  F10  1  0.99655789  0.66971910  0.61978251  1
+  F  F11  1  0.33028090  0.32683879  0.61978251  1
+  O  O12  1  0.30953640  0.35631958  0.13685614  1
+  O  O13  1  0.64368045  0.95321679  0.13685614  1
+  O  O14  1  0.04678318  0.69046360  0.13685614  1
+  O  O15  1  0.69046360  0.64368045  0.86314386  1
+  O  O16  1  0.35631958  0.04678318  0.86314386  1
+  O  O17  1  0.95321679  0.30953640  0.86314386  1

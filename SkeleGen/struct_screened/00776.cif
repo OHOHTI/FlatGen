@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_GeAuCl5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.51599036
+_cell_length_b   7.74928202
+_cell_length_c   7.59588528
+_cell_angle_alpha   81.12723174
+_cell_angle_beta   90.07132334
+_cell_angle_gamma   92.20075736
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GeAuCl5
+_chemical_formula_sum   'Ge2 Au2 Cl10'
+_cell_volume   436.78963875
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.76230586  0.28159446  0.54937166  1
+  Cl  Cl1  1  0.23769414  0.71840554  0.45062834  1
+  Cl  Cl2  1  0.59775853  0.95165616  0.77284777  1
+  Cl  Cl3  1  0.40224147  0.04834384  0.22715223  1
+  Cl  Cl4  1  0.40845603  0.43320230  0.74758059  1
+  Cl  Cl5  1  0.59154397  0.56679773  0.25241941  1
+  Cl  Cl6  1  0.87024432  0.58872896  0.80627811  1
+  Cl  Cl7  1  0.12975568  0.41127104  0.19372189  1
+  Cl  Cl8  1  0.04726519  0.04768937  0.75243437  1
+  Cl  Cl9  1  0.95273483  0.95231062  0.24756563  1
+  Au  Au10  1  0.81878972  0.90295964  0.57087165  1
+  Au  Au11  1  0.18121028  0.09704036  0.42912835  1
+  Ge  Ge12  1  0.33326602  0.57064819  0.26551011  1
+  Ge  Ge13  1  0.66673398  0.42935181  0.73448992  1

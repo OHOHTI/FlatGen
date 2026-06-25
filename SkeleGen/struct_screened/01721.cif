@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Cs2KLiCuBHCF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44016266
+_cell_length_b   5.44016228
+_cell_length_c   16.84000397
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000518
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2KLiCuBHCF12
+_chemical_formula_sum   'Cs2 K1 Li1 Cu1 B1 H1 C1 F12'
+_cell_volume   431.61500940
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.10515377  1
+  F  F1  1  0.66666669  0.33333334  0.01876658  1
+  F  F2  1  0.51151580  0.48848420  0.67971820  1
+  F  F3  1  0.51151580  0.02303159  0.67971820  1
+  F  F4  1  0.97696841  0.48848420  0.67971820  1
+  F  F5  1  0.48894930  0.51105070  0.30457208  1
+  F  F6  1  0.48894930  0.97789860  0.30457208  1
+  F  F7  1  0.02210140  0.51105070  0.30457208  1
+  Cs  Cs8  1  0.00000000  0.00000000  0.13247351  1
+  K  K9  1  0.00000000  0.00000000  0.48314080  1
+  Cs  Cs10  1  0.33333334  0.66666669  0.85895109  1
+  Cu  Cu11  1  0.66666669  0.33333334  0.28562480  1
+  H  H12  1  0.66666669  0.33333334  0.06229030  1
+  F  F13  1  0.66666669  0.33333334  0.17884119  1
+  F  F14  1  0.66666669  0.33333334  0.40553734  1
+  F  F15  1  0.66666669  0.33333334  0.81050992  1
+  B  B16  1  0.66666669  0.33333334  0.62346500  1
+  Li  Li17  1  0.66666669  0.33333334  0.93463045  1
+  F  F18  1  0.66666669  0.33333334  0.53737241  1
+  C  C19  1  0.66666669  0.33333334  0.74121583  1

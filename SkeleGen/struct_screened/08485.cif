@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Gd2CoCu(SeS)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.68629646
+_cell_length_b   6.68629625
+_cell_length_c   10.54253006
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000578
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd2CoCu(SeS)3
+_chemical_formula_sum   'Gd4 Co2 Cu2 Se6 S6'
+_cell_volume   408.17527885
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.00000000  0.00000000  0.00000000  1
+  Gd  Gd1  1  0.33333334  0.66666669  0.38661373  1
+  Gd  Gd2  1  0.66666669  0.33333334  0.61338627  1
+  Gd  Gd3  1  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu4  1  0.33333334  0.66666669  0.73165584  1
+  Cu  Cu5  1  0.66666669  0.33333334  0.26834416  1
+  Co  Co6  1  0.33333334  0.66666669  0.00398776  1
+  Co  Co7  1  0.66666669  0.33333334  0.99601221  1
+  S  S8  1  0.02439370  0.34550685  0.62929296  1
+  S  S9  1  0.65449315  0.67888689  0.62929296  1
+  S  S10  1  0.32111314  0.97560632  0.62929296  1
+  S  S11  1  0.97560632  0.65449315  0.37070704  1
+  S  S12  1  0.34550685  0.32111314  0.37070704  1
+  S  S13  1  0.67888689  0.02439370  0.37070704  1
+  Se  Se14  1  0.00869975  0.35636508  0.12689607  1
+  Se  Se15  1  0.64363492  0.65233469  0.12689607  1
+  Se  Se16  1  0.34766534  0.99130023  0.12689607  1
+  Se  Se17  1  0.99130023  0.64363492  0.87310392  1
+  Se  Se18  1  0.35636508  0.34766534  0.87310392  1
+  Se  Se19  1  0.65233469  0.00869975  0.87310392  1

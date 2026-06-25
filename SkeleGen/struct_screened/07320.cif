@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_MnAlAgPbOF10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.19531059
+_cell_length_b   5.19531027
+_cell_length_c   10.56592941
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000511
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnAlAgPbOF10
+_chemical_formula_sum   'Mn1 Al1 Ag1 Pb1 O1 F10'
+_cell_volume   246.97973451
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.53693813  1
+  F  F1  1  0.66666669  0.33333334  0.04956007  1
+  F  F2  1  0.04632993  0.38671219  0.32057235  1
+  F  F3  1  0.61328781  0.65961772  0.32057235  1
+  F  F4  1  0.34038228  0.95367008  0.32057235  1
+  F  F5  1  0.88764739  0.19467559  0.76560366  1
+  F  F6  1  0.80532444  0.69297183  0.76560366  1
+  F  F7  1  0.30702817  0.11235261  0.76560366  1
+  F  F8  1  0.33333334  0.66666669  0.92295110  1
+  F  F9  1  0.66666669  0.33333334  0.54747099  1
+  Ag  Ag10  1  0.00000000  0.00000000  0.97194397  1
+  Mn  Mn11  1  0.33333334  0.66666669  0.40269282  1
+  O  O12  1  0.33333334  0.66666669  0.11709136  1
+  Al  Al13  1  0.33333334  0.66666669  0.21890241  1
+  Pb  Pb14  1  0.33333334  0.66666669  0.73486477  1

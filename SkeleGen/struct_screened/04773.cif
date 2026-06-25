@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Ho4CrCdCuO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.39667273
+_cell_length_b   5.39667229
+_cell_length_c   10.04902267
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000561
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho4CrCdCuO12
+_chemical_formula_sum   'Ho4 Cr1 Cd1 Cu1 O12'
+_cell_volume   253.45832551
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.00000000  0.00000000  0.91309708  1
+  Ho  Ho1  1  0.66666669  0.33333334  0.66566676  1
+  Ho  Ho2  1  0.33333334  0.66666669  0.39892027  1
+  Ho  Ho3  1  0.00000000  0.00000000  0.40969211  1
+  Cr  Cr4  1  0.00000000  0.00000000  0.66398984  1
+  Cu  Cu5  1  0.00000000  0.00000000  0.16023047  1
+  Cd  Cd6  1  0.33333334  0.66666669  0.91350514  1
+  O  O7  1  0.01598433  0.30936041  0.04219444  1
+  O  O8  1  0.69063962  0.70662391  0.04219444  1
+  O  O9  1  0.29337609  0.98401564  0.04219444  1
+  O  O10  1  0.31800508  0.98851377  0.53535932  1
+  O  O11  1  0.01148623  0.32949132  0.53535932  1
+  O  O12  1  0.67050868  0.68199492  0.53535932  1
+  O  O13  1  0.70052201  0.00369955  0.77073485  1
+  O  O14  1  0.99630046  0.69682246  0.77073485  1
+  O  O15  1  0.30317754  0.29947799  0.77073485  1
+  O  O16  1  0.02705262  0.70262718  0.27475199  1
+  O  O17  1  0.29737282  0.32442546  0.27475199  1
+  O  O18  1  0.67557454  0.97294736  0.27475199  1

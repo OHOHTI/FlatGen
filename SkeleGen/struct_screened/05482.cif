@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Si4XeF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.33105898
+_cell_length_b   5.33105888
+_cell_length_c   9.06540298
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000356
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si4XeF12
+_chemical_formula_sum   'Si4 Xe1 F12'
+_cell_volume   223.12318332
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.00000000  0.00000000  0.92377692  1
+  Si  Si1  1  0.66666669  0.33333334  0.70344579  1
+  Si  Si2  1  0.33333334  0.66666669  0.20511724  1
+  Si  Si3  1  0.00000000  0.00000000  0.46396521  1
+  Xe  Xe4  1  0.66666669  0.33333334  0.11200682  1
+  F  F5  1  0.34313846  0.31209540  0.58553779  1
+  F  F6  1  0.68790460  0.03104305  0.58553779  1
+  F  F7  1  0.96895695  0.65686154  0.58553779  1
+  F  F8  1  0.32837081  0.03800220  0.83143145  1
+  F  F9  1  0.96199781  0.29036862  0.83143145  1
+  F  F10  1  0.70963138  0.67162919  0.83143145  1
+  F  F11  1  0.64780134  0.70913249  0.32529876  1
+  F  F12  1  0.29086751  0.93866885  0.32529876  1
+  F  F13  1  0.06133115  0.35219866  0.32529876  1
+  F  F14  1  0.59738880  0.86392760  0.08900253  1
+  F  F15  1  0.13607240  0.73346120  0.08900253  1
+  F  F16  1  0.26653880  0.40261120  0.08900253  1

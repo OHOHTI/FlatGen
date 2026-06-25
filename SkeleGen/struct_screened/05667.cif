@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_U3GaRuI9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.84000015
+_cell_length_b   7.83999972
+_cell_length_c   9.28186226
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000586
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U3GaRuI9
+_chemical_formula_sum   'U3 Ga1 Ru1 I9'
+_cell_volume   494.08064748
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.66666669  0.33333334  0.45833221  1
+  I  I1  1  0.33333334  0.66666669  0.52610159  1
+  I  I2  1  0.68088132  0.02297396  0.76014197  1
+  I  I3  1  0.97702605  0.65790737  0.76014197  1
+  I  I4  1  0.34209263  0.31911868  0.76014197  1
+  I  I5  1  0.38292813  0.99712324  0.16551827  1
+  I  I6  1  0.00287676  0.38580489  0.16551827  1
+  I  I7  1  0.61419511  0.61707187  0.16551827  1
+  I  I8  1  0.00000000  0.00000000  0.00278913  1
+  Ga  Ga9  1  0.33333334  0.66666669  0.98508561  1
+  Ru  Ru10  1  0.66666669  0.33333334  0.71102536  1
+  U  U11  1  0.99230933  0.74992257  0.39295992  1
+  U  U12  1  0.25007743  0.24238676  0.39295992  1
+  U  U13  1  0.75761324  0.00769067  0.39295992  1

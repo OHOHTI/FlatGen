@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ho2SiPb3Br14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.25581646
+_cell_length_b   9.25581642
+_cell_length_c   9.07423019
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000355
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2SiPb3Br14
+_chemical_formula_sum   'Ho2 Si1 Pb3 Br14'
+_cell_volume   673.23994321
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.10908607  0.24014179  0.86166435  1
+  Br  Br1  1  0.75985819  0.86894429  0.86166435  1
+  Br  Br2  1  0.13105573  0.89091396  0.86166435  1
+  Br  Br3  1  0.24014179  0.10908607  0.13833565  1
+  Br  Br4  1  0.86894429  0.75985819  0.13833565  1
+  Br  Br5  1  0.89091396  0.13105573  0.13833565  1
+  Br  Br6  1  0.33185875  0.43998757  0.35683888  1
+  Br  Br7  1  0.56001246  0.89187121  0.35683888  1
+  Br  Br8  1  0.10812882  0.66814125  0.35683888  1
+  Br  Br9  1  0.43998757  0.33185875  0.64316112  1
+  Br  Br10  1  0.89187121  0.56001246  0.64316112  1
+  Br  Br11  1  0.66814125  0.10812882  0.64316112  1
+  Br  Br12  1  0.33333334  0.66666669  0.88226575  1
+  Br  Br13  1  0.66666669  0.33333334  0.11773425  1
+  Si  Si14  1  0.00000000  0.00000000  0.00000000  1
+  Ho  Ho15  1  0.33333334  0.66666669  0.17807271  1
+  Ho  Ho16  1  0.66666669  0.33333334  0.82192731  1
+  Pb  Pb17  1  0.31260344  0.00000000  0.50000000  1
+  Pb  Pb18  1  0.00000000  0.31260344  0.50000000  1
+  Pb  Pb19  1  0.68739653  0.68739653  0.50000000  1

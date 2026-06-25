@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Eu4Co2AgBO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32664061
+_cell_length_b   5.32664034
+_cell_length_c   10.86670971
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000461
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu4Co2AgBO8
+_chemical_formula_sum   'Eu4 Co2 Ag1 B1 O8'
+_cell_volume   267.01486917
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.00000000  0.00000000  0.92781442  1
+  Eu  Eu1  1  0.66666669  0.33333334  0.64575475  1
+  Eu  Eu2  1  0.33333334  0.66666669  0.33569810  1
+  Eu  Eu3  1  0.00000000  0.00000000  0.45843107  1
+  Co  Co4  1  0.33333334  0.66666669  0.11430828  1
+  Co  Co5  1  0.33333334  0.66666669  0.65068114  1
+  O  O6  1  0.33333334  0.66666669  0.51187515  1
+  B  B7  1  0.33333334  0.66666669  0.84440285  1
+  O  O8  1  0.33333334  0.66666669  0.96373212  1
+  Ag  Ag9  1  0.66666669  0.33333334  0.08040917  1
+  O  O10  1  0.04131346  0.65769768  0.74902409  1
+  O  O11  1  0.34230232  0.38361579  0.74902409  1
+  O  O12  1  0.61638421  0.95868653  0.74902409  1
+  O  O13  1  0.35331577  0.97190475  0.20551769  1
+  O  O14  1  0.02809525  0.38141102  0.20551769  1
+  O  O15  1  0.61858898  0.64668423  0.20551769  1

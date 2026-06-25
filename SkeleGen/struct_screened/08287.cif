@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaEuVCuO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02295160
+_cell_length_b   5.02295133
+_cell_length_c   8.19399643
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000491
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaEuVCuO8
+_chemical_formula_sum   'Ba1 Eu1 V1 Cu1 O8'
+_cell_volume   179.03764008
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.66666669  0.33333334  0.52217841  1
+  O  O1  1  0.33333334  0.66666669  0.53134340  1
+  O  O2  1  0.64662331  0.97808903  0.86866206  1
+  O  O3  1  0.02191097  0.66853428  0.86866206  1
+  O  O4  1  0.33146572  0.35337669  0.86866206  1
+  O  O5  1  0.35538566  0.97647369  0.12569501  1
+  O  O6  1  0.02352631  0.37891197  0.12569501  1
+  O  O7  1  0.62108803  0.64461434  0.12569501  1
+  Ba  Ba8  1  0.00000000  0.00000000  0.31046990  1
+  Eu  Eu9  1  0.00000000  0.00000000  0.73023188  1
+  V  V10  1  0.33333334  0.66666669  0.00336515  1
+  Cu  Cu11  1  0.66666669  0.33333334  0.99542779  1

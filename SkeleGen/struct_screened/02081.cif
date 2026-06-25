@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_RbBaNa2VCl10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.73932791
+_cell_length_b   6.73932769
+_cell_length_c   12.46194839
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000576
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbBaNa2VCl10
+_chemical_formula_sum   'Rb1 Ba1 Na2 V1 Cl10'
+_cell_volume   490.17337350
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.51432818  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.36535370  1
+  Cl  Cl2  1  0.83767062  0.16232938  0.73611778  1
+  Cl  Cl3  1  0.83767062  0.67534125  0.73611778  1
+  Cl  Cl4  1  0.32465875  0.16232938  0.73611778  1
+  Cl  Cl5  1  0.66666669  0.33333334  0.02857203  1
+  Cl  Cl6  1  0.17168045  0.82831955  0.28926510  1
+  Cl  Cl7  1  0.17168045  0.34336090  0.28926510  1
+  Cl  Cl8  1  0.65663910  0.82831955  0.28926510  1
+  Cl  Cl9  1  0.33333334  0.66666669  0.96206021  1
+  Ba  Ba10  1  0.00000000  0.00000000  0.95003814  1
+  Na  Na11  1  0.00000000  0.00000000  0.54525143  1
+  Rb  Rb12  1  0.33333334  0.66666669  0.74459153  1
+  V  V13  1  0.33333334  0.66666669  0.36553997  1
+  Na  Na14  1  0.33333334  0.66666669  0.14000753  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_BaErTaGe2(SeBr4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.63998782
+_cell_length_b   7.90190094
+_cell_length_c   11.16504955
+_cell_angle_alpha   82.00700133
+_cell_angle_beta   87.48079662
+_cell_angle_gamma   95.95105204
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaErTaGe2(SeBr4)3
+_chemical_formula_sum   'Ba1 Er1 Ta1 Ge2 Se3 Br12'
+_cell_volume   662.72649159
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.76537490  0.78152466  0.23991953  1
+  Br  Br1  1  0.77505738  0.26020804  0.72530031  1
+  Br  Br2  1  0.26336336  0.77191764  0.73814237  1
+  Br  Br3  1  0.27564898  0.25941473  0.23664840  1
+  Br  Br4  1  0.50744444  0.02920027  0.98773122  1
+  Br  Br5  1  0.97382379  0.01680407  0.47026721  1
+  Br  Br6  1  0.99659008  0.51949072  0.98837227  1
+  Br  Br7  1  0.55509561  0.49955827  0.46186313  1
+  Br  Br8  1  0.02663485  0.54543173  0.46568272  1
+  Br  Br9  1  0.53688580  0.51708955  0.97249252  1
+  Br  Br10  1  0.48172700  0.99401921  0.48878604  1
+  Br  Br11  1  0.97943872  0.01404770  0.99189663  1
+  Ge  Ge12  1  0.13413650  0.99383783  0.23598258  1
+  Er  Er13  1  0.03827702  0.03191606  0.74412793  1
+  Ba  Ba14  1  0.77599519  0.28596902  0.23543099  1
+  Se  Se15  1  0.29197234  0.77025652  0.22972453  1
+  Se  Se16  1  0.25915247  0.27979791  0.72800708  1
+  Ge  Ge17  1  0.50653052  0.35834873  0.80753660  1
+  Se  Se18  1  0.78569072  0.77408713  0.71602350  1
+  Ta  Ta19  1  0.74687809  0.76718587  0.47873583  1

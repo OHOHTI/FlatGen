@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cr2HgPbI10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.61707544
+_cell_length_b   7.61707498
+_cell_length_c   12.19743729
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000614
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr2HgPbI10
+_chemical_formula_sum   'Cr2 Hg1 Pb1 I10'
+_cell_volume   612.88033472
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.33333334  0.66666669  0.58360130  1
+  I  I1  1  0.66666669  0.33333334  0.41639870  1
+  I  I2  1  0.82515490  0.17484510  0.74790800  1
+  I  I3  1  0.82515490  0.65030980  0.74790800  1
+  I  I4  1  0.34969020  0.17484510  0.74790800  1
+  I  I5  1  0.17484510  0.82515490  0.25209200  1
+  I  I6  1  0.65030980  0.82515490  0.25209200  1
+  I  I7  1  0.17484510  0.34969020  0.25209200  1
+  I  I8  1  0.33333334  0.66666669  0.92542297  1
+  I  I9  1  0.66666669  0.33333334  0.07457703  1
+  Hg  Hg10  1  0.00000000  0.00000000  0.00000000  1
+  Pb  Pb11  1  0.00000000  0.00000000  0.50000000  1
+  Cr  Cr12  1  0.33333334  0.66666669  0.16388658  1
+  Cr  Cr13  1  0.66666669  0.33333334  0.83611345  1

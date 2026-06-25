@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_BaBeAlBP2OsO10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.98571157
+_cell_length_b   4.98571171
+_cell_length_c   11.30384254
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999275
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaBeAlBP2OsO10
+_chemical_formula_sum   'Ba1 Be1 Al1 B1 P2 Os1 O10'
+_cell_volume   243.33864000
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.69538724  0.73515451  0.23195039  1
+  O  O1  1  0.26484549  0.96023273  0.23195039  1
+  O  O2  1  0.03976727  0.30461276  0.23195039  1
+  O  O3  1  0.74823415  0.02987661  0.72447103  1
+  O  O4  1  0.97012341  0.71835756  0.72447103  1
+  O  O5  1  0.28164244  0.25176585  0.72447103  1
+  O  O6  1  0.33333334  0.66666669  0.05856244  1
+  O  O7  1  0.66666669  0.33333334  0.57001352  1
+  O  O8  1  0.00000000  0.00000000  0.95434010  1
+  Os  Os9  1  0.00000000  0.00000000  0.61180824  1
+  O  O10  1  0.00000000  0.00000000  0.44599220  1
+  Al  Al11  1  0.00000000  0.00000000  0.81611222  1
+  P  P12  1  0.00000000  0.00000000  0.32157996  1
+  Be  Be13  1  0.00000000  0.00000000  0.10752523  1
+  P  P14  1  0.33333334  0.66666669  0.17374016  1
+  Ba  Ba15  1  0.66666669  0.33333334  0.97881305  1
+  B  B16  1  0.66666669  0.33333334  0.67392093  1

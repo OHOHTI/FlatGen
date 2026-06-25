@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_ThAl2(CuI5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.13416386
+_cell_length_b   7.13416368
+_cell_length_c   12.43758202
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000522
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThAl2(CuI5)2
+_chemical_formula_sum   'Th1 Al2 Cu2 I10'
+_cell_volume   548.21727412
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.33333334  0.66666669  0.57258761  1
+  I  I1  1  0.66666669  0.33333334  0.42741239  1
+  I  I2  1  0.79600435  0.65868974  0.75025088  1
+  I  I3  1  0.34131026  0.13731462  0.75025088  1
+  I  I4  1  0.86268538  0.20399565  0.75025088  1
+  I  I5  1  0.20399565  0.34131026  0.24974912  1
+  I  I6  1  0.65868974  0.86268538  0.24974912  1
+  I  I7  1  0.13731462  0.79600435  0.24974912  1
+  I  I8  1  0.33333334  0.66666669  0.92830807  1
+  I  I9  1  0.66666669  0.33333334  0.07169193  1
+  Th  Th10  1  0.00000000  0.00000000  0.00000000  1
+  Al  Al11  1  0.33333334  0.66666669  0.36991569  1
+  Al  Al12  1  0.66666669  0.33333334  0.63008428  1
+  Cu  Cu13  1  0.33333334  0.66666669  0.12451708  1
+  Cu  Cu14  1  0.66666669  0.33333334  0.87548292  1

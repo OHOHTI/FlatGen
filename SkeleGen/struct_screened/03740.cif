@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Pr4CoReCl6O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.02434301
+_cell_length_b   6.02434288
+_cell_length_c   11.44770622
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000599
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr4CoReCl6O7
+_chemical_formula_sum   'Pr4 Co1 Re1 Cl6 O7'
+_cell_volume   359.80604447
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.00000000  0.00000000  0.04983851  1
+  Pr  Pr1  1  0.66666669  0.33333334  0.60322845  1
+  Pr  Pr2  1  0.33333334  0.66666669  0.39652789  1
+  Pr  Pr3  1  0.00000000  0.00000000  0.56712800  1
+  Co  Co4  1  0.33333334  0.66666669  0.10503084  1
+  O  O5  1  0.33333334  0.66666669  0.61098558  1
+  Re  Re6  1  0.33333334  0.66666669  0.87423790  1
+  O  O7  1  0.36808410  0.03689754  0.47352567  1
+  O  O8  1  0.96310246  0.33118656  0.47352567  1
+  O  O9  1  0.66881347  0.63191593  0.47352567  1
+  Cl  Cl10  1  0.00005318  0.33347431  0.77461374  1
+  Cl  Cl11  1  0.66652572  0.66657889  0.77461374  1
+  Cl  Cl12  1  0.33342111  0.99994683  0.77461374  1
+  O  O13  1  0.06405463  0.66006291  0.97415435  1
+  O  O14  1  0.33993709  0.40399170  0.97415435  1
+  O  O15  1  0.59600830  0.93594539  0.97415435  1
+  Cl  Cl16  1  0.65877318  0.98380780  0.22689079  1
+  Cl  Cl17  1  0.01619220  0.67496538  0.22689079  1
+  Cl  Cl18  1  0.32503462  0.34122682  0.22689079  1

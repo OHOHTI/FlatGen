@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_CsNb2GaI9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.19528770
+_cell_length_b   8.19528754
+_cell_length_c   10.38765526
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999295
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsNb2GaI9
+_chemical_formula_sum   'Cs1 Nb2 Ga1 I9'
+_cell_volume   604.19425461
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.33333334  0.66666669  0.04240866  1
+  I  I1  1  0.66666669  0.33333334  0.11468434  1
+  I  I2  1  0.39671612  0.01114937  0.76446027  1
+  I  I3  1  0.98885065  0.38556674  0.76446027  1
+  I  I4  1  0.61443329  0.60328388  0.76446027  1
+  I  I5  1  0.20413201  0.84766096  0.40663633  1
+  I  I6  1  0.15233904  0.35647106  0.40663633  1
+  I  I7  1  0.64352894  0.79586798  0.40663633  1
+  Cs  Cs8  1  0.00000000  0.00000000  0.66520303  1
+  Nb  Nb9  1  0.33333334  0.66666669  0.56252503  1
+  Ga  Ga10  1  0.66666669  0.33333334  0.88517547  1
+  Nb  Nb11  1  0.66666669  0.33333334  0.64877772  1
+  I  I12  1  0.66666669  0.33333334  0.41855562  1

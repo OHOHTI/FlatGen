@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_TiVZnSOF14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.78333187
+_cell_length_b   6.78333148
+_cell_length_c   7.10569286
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000658
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiVZnSOF14
+_chemical_formula_sum   'Ti1 V1 Zn1 S1 O1 F14'
+_cell_volume   283.15428594
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.44244653  0.52238536  0.56337881  1
+  F  F1  1  0.47761464  0.92006117  0.56337881  1
+  F  F2  1  0.07993883  0.55755347  0.56337881  1
+  F  F3  1  0.91179991  0.45236272  0.95501000  1
+  F  F4  1  0.54763728  0.45943719  0.95501000  1
+  F  F5  1  0.54056281  0.08820009  0.95501000  1
+  F  F6  1  0.66666669  0.33333334  0.55096418  1
+  F  F7  1  0.83180767  0.05451161  0.76827186  1
+  F  F8  1  0.94548839  0.77729607  0.76827186  1
+  F  F9  1  0.22270393  0.16819233  0.76827186  1
+  F  F10  1  0.33333334  0.66666669  0.97064650  1
+  F  F11  1  0.19851626  0.24236521  0.21575513  1
+  F  F12  1  0.75763476  0.95615107  0.21575513  1
+  F  F13  1  0.04384895  0.80148375  0.21575513  1
+  S  S14  1  0.00000000  0.00000000  0.69439870  1
+  V  V15  1  0.00000000  0.00000000  0.32034782  1
+  O  O16  1  0.00000000  0.00000000  0.48459512  1
+  Zn  Zn17  1  0.00000000  0.00000000  0.02344318  1
+  Ti  Ti18  1  0.66666669  0.33333334  0.82555926  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Pr3Mo(I3O)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.06829453
+_cell_length_b   9.06829402
+_cell_length_c   8.58266640
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000531
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr3Mo(I3O)3
+_chemical_formula_sum   'Pr3 Mo1 I9 O3'
+_cell_volume   611.22913951
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.66666669  0.33333334  0.51560950  1
+  I  I1  1  0.33333334  0.66666669  0.41211560  1
+  I  I2  1  0.58711487  0.97766775  0.76809478  1
+  I  I3  1  0.02233225  0.60944712  0.76809478  1
+  I  I4  1  0.39055288  0.41288513  0.76809478  1
+  I  I5  1  0.35640538  0.01127624  0.11486458  1
+  I  I6  1  0.98872375  0.34512913  0.11486458  1
+  I  I7  1  0.65487087  0.64359462  0.11486458  1
+  I  I8  1  0.00000000  0.00000000  0.87885541  1
+  Mo  Mo9  1  0.00000000  0.00000000  0.26700819  1
+  Pr  Pr10  1  0.72194850  0.82496834  0.51812989  1
+  Pr  Pr11  1  0.17503166  0.89698017  0.51812989  1
+  Pr  Pr12  1  0.10301983  0.27805150  0.51812989  1
+  O  O13  1  0.92699564  0.78802210  0.36596566  1
+  O  O14  1  0.21197790  0.13897353  0.36596566  1
+  O  O15  1  0.86102647  0.07300436  0.36596566  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Eu5Ru
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.17318296
+_cell_length_b   7.17318280
+_cell_length_c   8.53562641
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000518
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu5Ru
+_chemical_formula_sum   'Eu10 Ru2'
+_cell_volume   380.35559950
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.33333334  0.66666669  0.48574498  1
+  Eu  Eu1  1  0.66666669  0.33333334  0.98574495  1
+  Eu  Eu2  1  0.33333334  0.66666669  0.93567747  1
+  Eu  Eu3  1  0.66666669  0.33333334  0.43567753  1
+  Eu  Eu4  1  0.72410321  0.69317937  0.71355653  1
+  Eu  Eu5  1  0.30682063  0.03092384  0.71355653  1
+  Eu  Eu6  1  0.96907616  0.27589679  0.71355653  1
+  Eu  Eu7  1  0.69317937  0.72410321  0.21355653  1
+  Eu  Eu8  1  0.03092384  0.30682063  0.21355653  1
+  Eu  Eu9  1  0.27589679  0.96907616  0.21355653  1
+  Ru  Ru10  1  0.00000000  0.00000000  0.95536369  1
+  Ru  Ru11  1  0.00000000  0.00000000  0.45536375  1

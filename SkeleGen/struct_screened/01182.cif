@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_PrTlZnCdTeSO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.61310673
+_cell_length_b   5.61310645
+_cell_length_c   8.70828342
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000442
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrTlZnCdTeSO12
+_chemical_formula_sum   'Pr1 Tl1 Zn1 Cd1 Te1 S1 O12'
+_cell_volume   237.61275325
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.96928442  0.28880742  0.52521092  1
+  O  O1  1  0.71119261  0.68047702  0.52521092  1
+  O  O2  1  0.31952298  0.03071558  0.52521092  1
+  O  O3  1  0.04165259  0.60239506  0.75129718  1
+  O  O4  1  0.39760494  0.43925750  0.75129718  1
+  O  O5  1  0.56074250  0.95834744  0.75129718  1
+  O  O6  1  0.65374655  0.95191187  0.26508716  1
+  O  O7  1  0.04808813  0.70183468  0.26508716  1
+  O  O8  1  0.29816532  0.34625345  0.26508716  1
+  Tl  Tl9  1  0.00000000  0.00000000  0.46146789  1
+  Zn  Zn10  1  0.00000000  0.00000000  0.11847641  1
+  Pr  Pr11  1  0.33333334  0.66666669  0.11825145  1
+  S  S12  1  0.33333334  0.66666669  0.66141909  1
+  Cd  Cd13  1  0.66666669  0.33333334  0.35701472  1
+  Te  Te14  1  0.66666669  0.33333334  0.86170399  1
+  O  O15  1  0.73259425  0.66619849  0.00985566  1
+  O  O16  1  0.33380151  0.06639576  0.00985566  1
+  O  O17  1  0.93360424  0.26740575  0.00985566  1

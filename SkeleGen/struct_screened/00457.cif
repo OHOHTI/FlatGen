@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_ZrTiTlIBr15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.20551469
+_cell_length_b   8.55078611
+_cell_length_c   11.21728992
+_cell_angle_alpha   91.74993795
+_cell_angle_beta   88.57719214
+_cell_angle_gamma   88.60961247
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTiTlIBr15
+_chemical_formula_sum   'Zr1 Ti1 Tl1 I1 Br15'
+_cell_volume   786.18922283
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.24974383  0.59885281  0.49682152  1
+  Br  Br1  1  0.32602540  0.93785483  0.09889167  1
+  Br  Br2  1  0.50822747  0.64652085  0.83516783  1
+  Br  Br3  1  0.02960459  0.14228208  0.46540305  1
+  Br  Br4  1  0.74797338  0.02848778  0.84839606  1
+  Br  Br5  1  0.01195395  0.79914486  0.27081618  1
+  Br  Br6  1  0.24783628  0.29060072  0.86002672  1
+  Br  Br7  1  0.82578099  0.19426602  0.08249947  1
+  Br  Br8  1  0.82211369  0.70576763  0.60709256  1
+  Br  Br9  1  0.19952153  0.44574073  0.13966618  1
+  Br  Br10  1  0.51448357  0.88134825  0.36561167  1
+  Br  Br11  1  0.15492420  0.86505640  0.73152304  1
+  Br  Br12  1  0.64972830  0.48664966  0.24077179  1
+  Br  Br13  1  0.49896896  0.12357160  0.55486596  1
+  Br  Br14  1  0.86727595  0.42679402  0.84300321  1
+  Zr  Zr15  1  0.24172668  0.92165363  0.39915460  1
+  I  I16  1  0.90250683  0.96943980  0.62633234  1
+  Tl  Tl17  1  0.76579630  0.72767550  0.06202644  1
+  Ti  Ti18  1  0.03337625  0.32702094  0.99218446  1

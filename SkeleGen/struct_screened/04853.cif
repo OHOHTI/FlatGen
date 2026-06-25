@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_KEr4FeF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66196299
+_cell_length_b   5.66196267
+_cell_length_c   9.40110397
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000461
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KEr4FeF12
+_chemical_formula_sum   'K1 Er4 Fe1 F12'
+_cell_volume   261.00179565
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.00000000  0.00000000  0.05212520  1
+  Er  Er1  1  0.66666669  0.33333334  0.56968355  1
+  Er  Er2  1  0.33333334  0.66666669  0.32251230  1
+  Er  Er3  1  0.00000000  0.00000000  0.56825441  1
+  Fe  Fe4  1  0.33333334  0.66666669  0.81629884  1
+  K  K5  1  0.66666669  0.33333334  0.05770954  1
+  F  F6  1  0.33651128  0.98382461  0.68548048  1
+  F  F7  1  0.01617539  0.35268664  0.68548048  1
+  F  F8  1  0.64731336  0.66348875  0.68548048  1
+  F  F9  1  0.04463399  0.70360476  0.92165816  1
+  F  F10  1  0.29639524  0.34102923  0.92165816  1
+  F  F11  1  0.65897077  0.95536602  0.92165816  1
+  F  F12  1  0.66935486  0.71890318  0.18914942  1
+  F  F13  1  0.28109682  0.95045167  0.18914942  1
+  F  F14  1  0.04954833  0.33064514  0.18914942  1
+  F  F15  1  0.97227013  0.64893472  0.44100022  1
+  F  F16  1  0.35106528  0.32333541  0.44100022  1
+  F  F17  1  0.67666459  0.02772987  0.44100022  1

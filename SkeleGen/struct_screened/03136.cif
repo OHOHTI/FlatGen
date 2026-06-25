@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_KGd2ZnF10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.79473782
+_cell_length_b   5.79473754
+_cell_length_c   7.42438507
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000429
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KGd2ZnF10
+_chemical_formula_sum   'K1 Gd2 Zn1 F10'
+_cell_volume   215.90299311
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.58416259  1
+  F  F1  1  0.66666669  0.33333334  0.41583741  1
+  F  F2  1  0.33333334  0.66666669  0.95008945  1
+  F  F3  1  0.66666669  0.33333334  0.04991055  1
+  F  F4  1  0.23934445  0.30812266  0.19035034  1
+  F  F5  1  0.69187737  0.93122178  0.19035034  1
+  F  F6  1  0.06877822  0.76065552  0.19035034  1
+  F  F7  1  0.76065552  0.69187737  0.80964965  1
+  F  F8  1  0.30812266  0.06877822  0.80964965  1
+  F  F9  1  0.93122178  0.23934445  0.80964965  1
+  Zn  Zn10  1  0.00000000  0.00000000  0.00000000  1
+  K  K11  1  0.00000000  0.00000000  0.50000000  1
+  Gd  Gd12  1  0.33333334  0.66666669  0.25118193  1
+  Gd  Gd13  1  0.66666669  0.33333334  0.74881804  1

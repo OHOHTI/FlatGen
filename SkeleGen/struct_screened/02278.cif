@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_NaLiV2Te4O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.17160892
+_cell_length_b   5.17160887
+_cell_length_c   11.95256138
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000340
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLiV2Te4O7
+_chemical_formula_sum   'Na1 Li1 V2 Te4 O7'
+_cell_volume   276.84899247
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.00000000  0.00000000  0.04222007  1
+  Te  Te1  1  0.66666669  0.33333334  0.65355188  1
+  Te  Te2  1  0.33333334  0.66666669  0.37068480  1
+  Te  Te3  1  0.00000000  0.00000000  0.53872466  1
+  V  V4  1  0.00000000  0.00000000  0.79545969  1
+  Li  Li5  1  0.00000000  0.00000000  0.30607924  1
+  V  V6  1  0.66666669  0.33333334  0.19415767  1
+  Na  Na7  1  0.66666669  0.33333334  0.93209589  1
+  O  O8  1  0.66666669  0.33333334  0.47857270  1
+  O  O9  1  0.63150954  0.96013498  0.27696031  1
+  O  O10  1  0.03986502  0.67137456  0.27696031  1
+  O  O11  1  0.32862544  0.36849046  0.27696031  1
+  O  O12  1  0.71330613  0.05439904  0.74425042  1
+  O  O13  1  0.94560099  0.65890712  0.74425042  1
+  O  O14  1  0.34109288  0.28669387  0.74425042  1

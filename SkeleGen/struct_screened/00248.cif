@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Eu8AlGaSbRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.99977112
+_cell_length_b   4.49241114
+_cell_length_c   17.28768921
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   90.00000433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu8AlGaSbRu
+_chemical_formula_sum   'Eu8 Al1 Ga1 Sb1 Ru1'
+_cell_volume   388.29926190
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.00000000  0.50000000  0.30843201  1
+  Eu  Eu1  1  0.50000000  0.00000000  0.63726968  1
+  Eu  Eu2  1  0.50000000  0.50000000  0.45510933  1
+  Eu  Eu3  1  0.00000000  0.00000000  0.47717685  1
+  Eu  Eu4  1  0.00000000  0.00000000  0.16940503  1
+  Eu  Eu5  1  0.50000000  0.50000000  0.07876404  1
+  Eu  Eu6  1  0.50000000  0.50000000  0.79741836  1
+  Eu  Eu7  1  0.00000000  0.00000000  0.82801127  1
+  Ru  Ru8  1  0.00000000  0.00000000  0.65683156  1
+  Al  Al9  1  0.00000000  0.00000000  0.99985641  1
+  Sb  Sb10  1  0.50000000  0.00000000  0.28337741  1
+  Ga  Ga11  1  0.50000000  0.00000000  0.94448382  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoAlBPbF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.18095493
+_cell_length_b   5.18095484
+_cell_length_c   7.10292768
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000365
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoAlBPbF8
+_chemical_formula_sum   'Ho1 Al1 B1 Pb1 F8'
+_cell_volume   165.11541865
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66666669  0.33333334  0.48871404  1
+  F  F1  1  0.33333334  0.66666669  0.49264961  1
+  F  F2  1  0.65909415  0.95404130  0.79799229  1
+  F  F3  1  0.04595870  0.70505285  0.79799229  1
+  F  F4  1  0.29494715  0.34090585  0.79799229  1
+  F  F5  1  0.30825818  0.94892472  0.22274080  1
+  F  F6  1  0.05107528  0.35933346  0.22274080  1
+  F  F7  1  0.64066654  0.69174182  0.22274080  1
+  Ho  Ho8  1  0.00000000  0.00000000  0.46680623  1
+  Al  Al9  1  0.33333334  0.66666669  0.72595626  1
+  B  B10  1  0.33333334  0.66666669  0.24765970  1
+  Pb  Pb11  1  0.66666669  0.33333334  0.96104872  1

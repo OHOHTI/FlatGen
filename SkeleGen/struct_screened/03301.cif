@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K2SrCuF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92454386
+_cell_length_b   3.92454386
+_cell_length_c   11.65156746
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   90.00000433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2SrCuF8
+_chemical_formula_sum   'K2 Sr1 Cu1 F8'
+_cell_volume   179.45796038
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.00000000  0.50000000  0.33604923  1
+  F  F1  1  0.50000000  0.00000000  0.66395080  1
+  F  F2  1  0.50000000  0.50000000  0.50000000  1
+  F  F3  1  0.00000000  0.00000000  0.50000000  1
+  F  F4  1  0.00000000  0.00000000  0.14580655  1
+  F  F5  1  0.00000000  0.00000000  0.85419345  1
+  F  F6  1  0.50000000  0.50000000  0.17485595  1
+  F  F7  1  0.50000000  0.50000000  0.82514405  1
+  Cu  Cu8  1  0.00000000  0.00000000  0.00000000  1
+  Sr  Sr9  1  0.50000000  0.50000000  0.00000000  1
+  K  K10  1  0.00000000  0.50000000  0.64841533  1
+  K  K11  1  0.50000000  0.00000000  0.35158467  1

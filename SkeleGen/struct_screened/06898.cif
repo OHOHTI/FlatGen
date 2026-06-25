@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaCaNbGeF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.34653997
+_cell_length_b   5.34653972
+_cell_length_c   7.61020041
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000452
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCaNbGeF8
+_chemical_formula_sum   'Na1 Ca1 Nb1 Ge1 F8'
+_cell_volume   188.39627923
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66666669  0.33333334  0.53743559  1
+  F  F1  1  0.33333334  0.66666669  0.41786349  1
+  F  F2  1  0.64478475  0.00549944  0.80178648  1
+  F  F3  1  0.99450058  0.63928533  0.80178648  1
+  F  F4  1  0.36071467  0.35521525  0.80178648  1
+  F  F5  1  0.35730448  0.02630029  0.06615253  1
+  F  F6  1  0.97369969  0.33100420  0.06615253  1
+  F  F7  1  0.66899580  0.64269555  0.06615253  1
+  Ca  Ca8  1  0.00000000  0.00000000  0.18204737  1
+  Na  Na9  1  0.00000000  0.00000000  0.57079697  1
+  Nb  Nb10  1  0.33333334  0.66666669  0.91977179  1
+  Ge  Ge11  1  0.66666669  0.33333334  0.91713125  1

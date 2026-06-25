@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Mn2VCrCoF15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.14466256
+_cell_length_b   5.80338683
+_cell_length_c   7.45154428
+_cell_angle_alpha   92.02048849
+_cell_angle_beta   90.97150132
+_cell_angle_gamma   92.41290729
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2VCrCoF15
+_chemical_formula_sum   'Mn2 V1 Cr1 Co1 F15'
+_cell_volume   265.27508085
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.44374132  0.49432889  0.52370739  1
+  F  F1  1  0.02803814  0.57210815  0.48763832  1
+  F  F2  1  0.91849303  0.47290903  0.98739606  1
+  F  F3  1  0.73917568  0.27720788  0.30967629  1
+  F  F4  1  0.76673561  0.16954255  0.69705528  1
+  F  F5  1  0.51319879  0.00402013  0.97364652  1
+  F  F6  1  0.22033134  0.72872114  0.77770054  1
+  F  F7  1  0.40375683  0.01617857  0.47330356  1
+  F  F8  1  0.17227058  0.16280249  0.68638885  1
+  F  F9  1  0.19307919  0.30667689  0.27070096  1
+  F  F10  1  0.67302287  0.73121363  0.26532370  1
+  F  F11  1  0.48072320  0.48071885  0.99973196  1
+  F  F12  1  0.16284004  0.77157086  0.20874874  1
+  F  F13  1  0.72588629  0.73812121  0.69639874  1
+  V  V14  1  0.96854395  0.85756576  0.71423769  1
+  Cr  Cr15  1  0.63597780  0.30236614  0.88480031  1
+  Co  Co16  1  0.93654591  0.51892591  0.24016878  1
+  Mn  Mn17  1  0.26755118  0.30074647  0.48531100  1
+  F  F18  1  0.00867358  0.98422348  0.97271508  1
+  Mn  Mn19  1  0.34218425  0.76699531  0.04072695  1

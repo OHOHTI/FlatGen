@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_RbNiHgBF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51510143
+_cell_length_b   5.51510113
+_cell_length_c   7.16691875
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000466
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbNiHgBF8
+_chemical_formula_sum   'Rb1 Ni1 Hg1 B1 F8'
+_cell_volume   188.78612728
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.96621853  1
+  F  F1  1  0.66666669  0.33333334  0.95527023  1
+  F  F2  1  0.51288295  0.48711705  0.66686618  1
+  F  F3  1  0.51288295  0.02576590  0.66686618  1
+  F  F4  1  0.97423410  0.48711705  0.66686618  1
+  F  F5  1  0.48569319  0.51430678  0.32903612  1
+  F  F6  1  0.48569319  0.97138637  0.32903612  1
+  F  F7  1  0.02861363  0.51430678  0.32903612  1
+  Rb  Rb8  1  0.00000000  0.00000000  0.16714950  1
+  Hg  Hg9  1  0.00000000  0.00000000  0.71167213  1
+  Ni  Ni10  1  0.33333334  0.66666669  0.46946985  1
+  B  B11  1  0.66666669  0.33333334  0.74642980  1

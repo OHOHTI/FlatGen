@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_RbLiFeNi2HO2F11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.53176737
+_cell_length_b   5.53176729
+_cell_length_c   10.64745140
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000330
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbLiFeNi2HO2F11
+_chemical_formula_sum   'Rb1 Li1 Fe1 Ni2 H1 O2 F11'
+_cell_volume   282.16561823
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.42064434  1
+  F  F1  1  0.66666669  0.33333334  0.12980662  1
+  F  F2  1  0.25932220  0.35286343  0.18927543  1
+  F  F3  1  0.64713657  0.90645874  0.18927543  1
+  F  F4  1  0.09354123  0.74067783  0.18927543  1
+  F  F5  1  0.90419376  0.24442273  0.79982358  1
+  F  F6  1  0.75557727  0.65977103  0.79982358  1
+  F  F7  1  0.34022897  0.09580624  0.79982358  1
+  F  F8  1  0.33333334  0.66666669  0.97653550  1
+  F  F9  1  0.66666669  0.33333334  0.40982154  1
+  H  H10  1  0.00000000  0.00000000  0.45455679  1
+  O  O11  1  0.00000000  0.00000000  0.33166471  1
+  O  O12  1  0.00000000  0.00000000  0.55586946  1
+  Ni  Ni13  1  0.00000000  0.00000000  0.76746207  1
+  F  F14  1  0.00000000  0.00000000  0.98878050  1
+  Ni  Ni15  1  0.00000000  0.00000000  0.16529636  1
+  Fe  Fe16  1  0.33333334  0.66666669  0.25823572  1
+  Rb  Rb17  1  0.33333334  0.66666669  0.67008793  1
+  Li  Li18  1  0.66666669  0.33333334  0.93223560  1

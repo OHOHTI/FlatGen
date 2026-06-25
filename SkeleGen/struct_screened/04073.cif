@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_SiTeXeF13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.17153517
+_cell_length_b   6.09933787
+_cell_length_c   7.52502775
+_cell_angle_alpha   88.19905923
+_cell_angle_beta   102.02209196
+_cell_angle_gamma   91.85362344
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiTeXeF13
+_chemical_formula_sum   'Si1 Te1 Xe1 F13'
+_cell_volume   231.96003709
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.56372672  0.85044575  0.19590546  1
+  F  F1  1  0.79273039  0.21759231  0.64614731  1
+  F  F2  1  0.06039603  0.76766092  0.68771851  1
+  F  F3  1  0.39953497  0.25551790  0.30011931  1
+  F  F4  1  0.47314560  0.04300625  0.82305402  1
+  F  F5  1  0.97692090  0.98564428  0.39518550  1
+  F  F6  1  0.99023533  0.48146585  0.05660351  1
+  F  F7  1  0.50793993  0.52161127  0.58491868  1
+  F  F8  1  0.82083732  0.46005991  0.39198402  1
+  F  F9  1  0.51351923  0.54083961  0.94957846  1
+  F  F10  1  0.44855547  0.89011782  0.53582394  1
+  F  F11  1  0.00900738  0.97314149  0.00874021  1
+  Te  Te12  1  0.70597684  0.15354753  0.21357000  1
+  Si  Si13  1  0.21371825  0.97680217  0.60961914  1
+  F  F14  1  0.18491219  0.21804769  0.64076495  1
+  Xe  Xe15  1  0.85795683  0.55849016  0.95179278  1

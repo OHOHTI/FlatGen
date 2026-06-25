@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Mn5VCrCuO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.25511885
+_cell_length_b   5.25511853
+_cell_length_c   9.31009483
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000497
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn5VCrCuO12
+_chemical_formula_sum   'Mn5 V1 Cr1 Cu1 O12'
+_cell_volume   222.66388038
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.00000000  0.96956402  1
+  Mn  Mn1  1  0.66666669  0.33333334  0.72211081  1
+  Mn  Mn2  1  0.33333334  0.66666669  0.46122956  1
+  Mn  Mn3  1  0.00000000  0.00000000  0.46229360  1
+  V  V4  1  0.00000000  0.00000000  0.71717811  1
+  Cr  Cr5  1  0.00000000  0.00000000  0.22008504  1
+  Mn  Mn6  1  0.33333334  0.66666669  0.97637755  1
+  Cu  Cu7  1  0.66666669  0.33333334  0.20888096  1
+  O  O8  1  0.30842537  0.98914492  0.58949703  1
+  O  O9  1  0.01085508  0.31928045  0.58949703  1
+  O  O10  1  0.68071955  0.69157463  0.58949703  1
+  O  O11  1  0.32389078  0.30581746  0.32972801  1
+  O  O12  1  0.69418252  0.01807332  0.32972801  1
+  O  O13  1  0.98192668  0.67610919  0.32972801  1
+  O  O14  1  0.01204000  0.69069713  0.83343881  1
+  O  O15  1  0.30930287  0.32134289  0.83343881  1
+  O  O16  1  0.67865711  0.98795998  0.83343881  1
+  O  O17  1  0.68570912  0.67173028  0.09398058  1
+  O  O18  1  0.32826972  0.01397884  0.09398058  1
+  O  O19  1  0.98602116  0.31429088  0.09398058  1

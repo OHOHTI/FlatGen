@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_TbTa4AlCuWO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32912064
+_cell_length_b   5.32912029
+_cell_length_c   9.39131546
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000511
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbTa4AlCuWO12
+_chemical_formula_sum   'Tb1 Ta4 Al1 Cu1 W1 O12'
+_cell_volume   230.97666859
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.00000000  0.00000000  0.04009341  1
+  Ta  Ta1  1  0.66666669  0.33333334  0.54356670  1
+  Ta  Ta2  1  0.33333334  0.66666669  0.28350595  1
+  Ta  Ta3  1  0.00000000  0.00000000  0.54680067  1
+  Al  Al4  1  0.00000000  0.00000000  0.78810108  1
+  W  W5  1  0.00000000  0.00000000  0.29020774  1
+  Cu  Cu6  1  0.33333334  0.66666669  0.78316212  1
+  Tb  Tb7  1  0.66666669  0.33333334  0.03041754  1
+  O  O8  1  0.70548373  0.01317489  0.65705037  1
+  O  O9  1  0.98682511  0.69230884  0.65705037  1
+  O  O10  1  0.30769116  0.29451627  0.65705037  1
+  O  O11  1  0.99116355  0.32991326  0.40247041  1
+  O  O12  1  0.67008674  0.66125029  0.40247041  1
+  O  O13  1  0.33874971  0.00883645  0.40247041  1
+  O  O14  1  0.00756184  0.30154818  0.90518892  1
+  O  O15  1  0.69845182  0.70601368  0.90518892  1
+  O  O16  1  0.29398635  0.99243814  0.90518892  1
+  O  O17  1  0.68761480  0.97905833  0.16737232  1
+  O  O18  1  0.02094167  0.70855647  0.16737232  1
+  O  O19  1  0.29144353  0.31238520  0.16737232  1

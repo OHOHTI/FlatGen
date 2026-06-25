@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_SiPAuBr14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.63868523
+_cell_length_b   10.63868513
+_cell_length_c   5.39787197
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000328
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiPAuBr14
+_chemical_formula_sum   'Si1 P1 Au1 Br14'
+_cell_volume   529.08946173
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.11227082  0.23750432  0.72656167  1
+  Br  Br1  1  0.76249570  0.87476647  0.72656167  1
+  Br  Br2  1  0.12523350  0.88772917  0.72656167  1
+  Br  Br3  1  0.84048593  0.78214550  0.17845631  1
+  Br  Br4  1  0.21785450  0.05834043  0.17845631  1
+  Br  Br5  1  0.94165957  0.15951407  0.17845631  1
+  Br  Br6  1  0.37967768  0.48579291  0.22378269  1
+  Br  Br7  1  0.51420712  0.89388478  0.22378269  1
+  Br  Br8  1  0.10611522  0.62032235  0.22378269  1
+  Br  Br9  1  0.33333334  0.66666669  0.75588495  1
+  Br  Br10  1  0.66666669  0.33333334  0.27552521  1
+  Br  Br11  1  0.45731744  0.16231433  0.69782668  1
+  Br  Br12  1  0.83768570  0.29500312  0.69782668  1
+  Br  Br13  1  0.70499688  0.54268253  0.69782668  1
+  P  P14  1  0.00000000  0.00000000  0.92889798  1
+  Au  Au15  1  0.33333334  0.66666669  0.12450611  1
+  Si  Si16  1  0.66666669  0.33333334  0.59033984  1

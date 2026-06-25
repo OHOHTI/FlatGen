@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_NaTlCo2CCl13O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.62377119
+_cell_length_b   5.62377106
+_cell_length_c   19.15430069
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000358
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTlCo2CCl13O
+_chemical_formula_sum   'Na1 Tl1 Co2 C1 Cl13 O1'
+_cell_volume   524.62887730
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.00000000  0.00000000  0.09265073  1
+  Cl  Cl1  1  0.00000000  0.00000000  0.61368734  1
+  Cl  Cl2  1  0.00000000  0.00000000  0.30391213  1
+  Cl  Cl3  1  0.00000000  0.00000000  0.85059547  1
+  Cl  Cl4  1  0.50421315  0.49578685  0.49529758  1
+  Cl  Cl5  1  0.50421315  0.00842631  0.49529758  1
+  Cl  Cl6  1  0.99157369  0.49578685  0.49529758  1
+  Cl  Cl7  1  0.50652015  0.49347985  0.98752165  1
+  Cl  Cl8  1  0.50652015  0.01304030  0.98752165  1
+  Cl  Cl9  1  0.98695970  0.49347985  0.98752165  1
+  Cl  Cl10  1  0.33333334  0.66666669  0.73863709  1
+  Cl  Cl11  1  0.66666669  0.33333334  0.20323253  1
+  Tl  Tl12  1  0.00000000  0.00000000  0.45589584  1
+  Na  Na13  1  0.33333334  0.66666669  0.24035692  1
+  Co  Co14  1  0.66666669  0.33333334  0.07638756  1
+  Co  Co15  1  0.66666669  0.33333334  0.57819009  1
+  Cl  Cl16  1  0.66666669  0.33333334  0.69957864  1
+  C  C17  1  0.66666669  0.33333334  0.93192917  1
+  O  O18  1  0.66666669  0.33333334  0.88561916  1

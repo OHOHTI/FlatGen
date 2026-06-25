@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CsKGdMnNiCl9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.09308601
+_cell_length_b   4.42652130
+_cell_length_c   17.09426308
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   86.68656135
+_cell_angle_gamma   90.00000446
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsKGdMnNiCl9
+_chemical_formula_sum   'Cs1 K1 Gd1 Mn1 Ni1 Cl9'
+_cell_volume   384.73999018
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.94930309  0.50000000  0.26919553  1
+  Cl  Cl1  1  0.45009351  0.00000000  0.59669119  1
+  Cl  Cl2  1  0.44373441  0.50000000  0.43413261  1
+  Cl  Cl3  1  0.94553459  0.00000000  0.44484609  1
+  Cl  Cl4  1  0.95516324  0.00000000  0.08039570  1
+  Cl  Cl5  1  0.44380844  0.50000000  0.16807170  1
+  Cl  Cl6  1  0.44773352  0.50000000  0.76939881  1
+  Cl  Cl7  1  0.94956332  0.00000000  0.78204888  1
+  Cl  Cl8  1  0.46980917  0.00000000  0.93361348  1
+  K  K9  1  0.43716091  0.00000000  0.31967241  1
+  Gd  Gd10  1  0.47479108  0.50000000  0.99494803  1
+  Cs  Cs11  1  0.94642895  0.50000000  0.58667457  1
+  Mn  Mn12  1  0.92634147  0.50000000  0.87279296  1
+  Ni  Ni13  1  0.92987013  0.50000000  0.12591553  1

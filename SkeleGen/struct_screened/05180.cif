@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Zr(Mn2Br5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.89705801
+_cell_length_b   6.89705765
+_cell_length_c   11.56412888
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000632
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr(Mn2Br5)2
+_chemical_formula_sum   'Zr1 Mn4 Br10'
+_cell_volume   476.39946126
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.33333334  0.66666669  0.57770890  1
+  Br  Br1  1  0.66666669  0.33333334  0.42229110  1
+  Br  Br2  1  0.76111168  0.65417987  0.74648064  1
+  Br  Br3  1  0.34582013  0.10693181  0.74648064  1
+  Br  Br4  1  0.89306819  0.23888832  0.74648064  1
+  Br  Br5  1  0.23888832  0.34582013  0.25351936  1
+  Br  Br6  1  0.65417987  0.89306819  0.25351936  1
+  Br  Br7  1  0.10693181  0.76111168  0.25351936  1
+  Br  Br8  1  0.33333334  0.66666669  0.92315072  1
+  Br  Br9  1  0.66666669  0.33333334  0.07684928  1
+  Zr  Zr10  1  0.00000000  0.00000000  0.50000000  1
+  Mn  Mn11  1  0.33333334  0.66666669  0.37052271  1
+  Mn  Mn12  1  0.66666669  0.33333334  0.62947726  1
+  Mn  Mn13  1  0.33333334  0.66666669  0.12325824  1
+  Mn  Mn14  1  0.66666669  0.33333334  0.87674177  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_AlAgRhF7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.83744894
+_cell_length_b   4.76216591
+_cell_length_c   5.80772829
+_cell_angle_alpha   97.50864173
+_cell_angle_beta   98.52636693
+_cell_angle_gamma   97.06737186
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlAgRhF7
+_chemical_formula_sum   'Al1 Ag1 Rh1 F7'
+_cell_volume   129.78673905
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.55685860  0.29570338  0.65597671  1
+  F  F1  1  0.31362391  0.70354533  0.25246409  1
+  F  F2  1  0.63695091  0.29153857  0.15802035  1
+  F  F3  1  0.27533180  0.74091798  0.75033367  1
+  F  F4  1  0.07547489  0.27760848  0.89482921  1
+  F  F5  1  0.80935466  0.81076080  0.50934088  1
+  Ag  Ag6  1  0.05765251  0.26021931  0.39470962  1
+  F  F7  1  0.76912212  0.75022030  0.95808357  1
+  Rh  Rh8  1  0.79397529  0.05352610  0.75485736  1
+  Al  Al9  1  0.48478535  0.52250212  0.94777769  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_PuSbBr8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.21452713
+_cell_length_b   7.21452707
+_cell_length_c   9.20967770
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000464
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PuSbBr8
+_chemical_formula_sum   'Pu1 Sb1 Br8'
+_cell_volume   415.13636812
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.66666669  0.33333334  0.48834163  1
+  Br  Br1  1  0.33333334  0.66666669  0.53508365  1
+  Br  Br2  1  0.66539884  0.98668182  0.82366639  1
+  Br  Br3  1  0.01331818  0.67871702  0.82366639  1
+  Br  Br4  1  0.32128298  0.33460116  0.82366639  1
+  Br  Br5  1  0.30529854  0.97375888  0.18916550  1
+  Br  Br6  1  0.02624112  0.33153963  0.18916550  1
+  Br  Br7  1  0.66846037  0.69470143  0.18916550  1
+  Pu  Pu8  1  0.00000000  0.00000000  0.99619269  1
+  Sb  Sb9  1  0.33333334  0.66666669  0.02415495  1

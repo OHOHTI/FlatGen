@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_RbFeGeBiF14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.00291109
+_cell_length_b   6.00291111
+_cell_length_c   8.73263168
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000515
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbFeGeBiF14
+_chemical_formula_sum   'Rb1 Fe1 Ge1 Bi1 F14'
+_cell_volume   272.52075031
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66666669  0.33333334  0.48332840  1
+  F  F1  1  0.33333334  0.66666669  0.45728925  1
+  F  F2  1  0.54423600  0.02564100  0.75758493  1
+  F  F3  1  0.97435898  0.51859498  0.75758493  1
+  F  F4  1  0.48140502  0.45576400  0.75758493  1
+  F  F5  1  0.29964048  0.00934472  0.26039726  1
+  F  F6  1  0.99065530  0.29029575  0.26039726  1
+  F  F7  1  0.70970428  0.70035952  0.26039726  1
+  Fe  Fe8  1  0.00000000  0.00000000  0.37149706  1
+  Rb  Rb9  1  0.33333334  0.66666669  0.99685347  1
+  Ge  Ge10  1  0.66666669  0.33333334  0.69717759  1
+  Bi  Bi11  1  0.66666669  0.33333334  0.17194434  1
+  F  F12  1  0.19199008  0.21360277  0.51246899  1
+  F  F13  1  0.78639722  0.97838730  0.51246899  1
+  F  F14  1  0.02161269  0.80800992  0.51246899  1
+  F  F15  1  0.31058034  0.23586635  0.00895793  1
+  F  F16  1  0.76413363  0.07471399  0.00895793  1
+  F  F17  1  0.92528600  0.68941963  0.00895793  1

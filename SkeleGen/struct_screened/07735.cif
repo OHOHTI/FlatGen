@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_KEuMnCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.78672409
+_cell_length_b   6.78672373
+_cell_length_c   8.95567513
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000638
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KEuMnCl8
+_chemical_formula_sum   'K1 Eu1 Mn1 Cl8'
+_cell_volume   357.23113137
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.66666669  0.33333334  0.47043636  1
+  Cl  Cl1  1  0.33333334  0.66666669  0.46626997  1
+  Cl  Cl2  1  0.65724444  0.99178994  0.78644115  1
+  Cl  Cl3  1  0.00821006  0.66545451  0.78644115  1
+  Cl  Cl4  1  0.33454549  0.34275556  0.78644115  1
+  Cl  Cl5  1  0.31760520  0.97020030  0.17115653  1
+  Cl  Cl6  1  0.02979970  0.34740490  0.17115653  1
+  Cl  Cl7  1  0.65259510  0.68239480  0.17115653  1
+  Eu  Eu8  1  0.00000000  0.00000000  0.59969252  1
+  Mn  Mn9  1  0.33333334  0.66666669  0.22879513  1
+  K  K10  1  0.66666669  0.33333334  0.97771895  1

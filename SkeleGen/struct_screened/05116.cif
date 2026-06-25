@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_BaSrLiTlZnP2(Se3I)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.24639797
+_cell_length_b   8.24639778
+_cell_length_c   9.76890755
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000458
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSrLiTlZnP2(Se3I)3
+_chemical_formula_sum   'Ba1 Sr1 Li1 Tl1 Zn1 P2 Se9 I3'
+_cell_volume   575.31431643
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.85034996  0.26655504  0.57058573  1
+  Se  Se1  1  0.73344493  0.58379495  0.57058573  1
+  Se  Se2  1  0.41620505  0.14965004  0.57058573  1
+  Se  Se3  1  0.11650769  0.70861238  0.61839837  1
+  Se  Se4  1  0.29138762  0.40789533  0.61839837  1
+  Se  Se5  1  0.59210467  0.88349229  0.61839837  1
+  Se  Se6  1  0.39532956  0.32826337  0.27245483  1
+  Se  Se7  1  0.67173660  0.06706619  0.27245483  1
+  Se  Se8  1  0.93293381  0.60467041  0.27245483  1
+  Ba  Ba9  1  0.00000000  0.00000000  0.36894897  1
+  Tl  Tl10  1  0.00000000  0.00000000  0.88820797  1
+  Sr  Sr11  1  0.33333334  0.66666669  0.16959986  1
+  P  P12  1  0.33333334  0.66666669  0.54224509  1
+  Li  Li13  1  0.66666669  0.33333334  0.08020730  1
+  P  P14  1  0.66666669  0.33333334  0.70045447  1
+  Zn  Zn15  1  0.66666669  0.33333334  0.37802070  1
+  I  I16  1  0.60815018  0.61534429  0.93959200  1
+  I  I17  1  0.38465571  0.99280590  0.93959200  1
+  I  I18  1  0.00719410  0.39184982  0.93959200  1

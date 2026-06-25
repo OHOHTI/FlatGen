@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_HoReCl5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.41335392
+_cell_length_b   6.41335380
+_cell_length_c   12.21971798
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999324
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoReCl5
+_chemical_formula_sum   'Ho2 Re2 Cl10'
+_cell_volume   435.27352267
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.58999723  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.08999729  1
+  Cl  Cl2  1  0.31133276  0.30177858  0.35461354  1
+  Cl  Cl3  1  0.69822145  0.00955418  0.35461354  1
+  Cl  Cl4  1  0.99044585  0.68866724  0.35461354  1
+  Cl  Cl5  1  0.30177858  0.31133276  0.85461354  1
+  Cl  Cl6  1  0.00955418  0.69822145  0.85461354  1
+  Cl  Cl7  1  0.68866724  0.99044585  0.85461354  1
+  Cl  Cl8  1  0.33333334  0.66666669  0.06177470  1
+  Cl  Cl9  1  0.66666669  0.33333334  0.56177473  1
+  Re  Re10  1  0.00000000  0.00000000  0.47863585  1
+  Re  Re11  1  0.00000000  0.00000000  0.97863585  1
+  Ho  Ho12  1  0.33333334  0.66666669  0.78773063  1
+  Ho  Ho13  1  0.66666669  0.33333334  0.28773069  1

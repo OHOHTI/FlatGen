@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_SrVGaCu3OF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36249065
+_cell_length_b   5.36249023
+_cell_length_c   10.22949219
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000556
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrVGaCu3OF12
+_chemical_formula_sum   'Sr1 V1 Ga1 Cu3 O1 F12'
+_cell_volume   254.75208345
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.69684178  0.63786197  0.12315290  1
+  F  F1  1  0.36213803  0.05897981  0.12315290  1
+  F  F2  1  0.94102019  0.30315822  0.12315290  1
+  F  F3  1  0.67041087  0.98173249  0.75269502  1
+  F  F4  1  0.01826751  0.68867838  0.75269502  1
+  F  F5  1  0.31132162  0.32958913  0.75269502  1
+  F  F6  1  0.33333334  0.66666669  0.92736852  1
+  F  F7  1  0.66666669  0.33333334  0.51098615  1
+  F  F8  1  0.00000000  0.00000000  0.93504059  1
+  Ga  Ga9  1  0.00000000  0.00000000  0.70643026  1
+  O  O10  1  0.00000000  0.00000000  0.55284309  1
+  V  V11  1  0.00000000  0.00000000  0.22321759  1
+  Sr  Sr12  1  0.33333334  0.66666669  0.49721900  1
+  Cu  Cu13  1  0.36052617  0.99444163  0.95095021  1
+  Cu  Cu14  1  0.00555837  0.36608458  0.95095021  1
+  Cu  Cu15  1  0.63391542  0.63947380  0.95095021  1
+  F  F16  1  0.25783581  0.33169413  0.32657298  1
+  F  F17  1  0.66830587  0.92614168  0.32657298  1
+  F  F18  1  0.07385832  0.74216419  0.32657298  1

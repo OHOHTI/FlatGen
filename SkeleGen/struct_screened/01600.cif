@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Ca2Cu3(Te2O3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.65239191
+_cell_length_b   6.65239170
+_cell_length_c   7.86403751
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000580
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Cu3(Te2O3)2
+_chemical_formula_sum   'Ca2 Cu3 Te4 O6'
+_cell_volume   301.39207085
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.00000000  0.00000000  0.00000000  1
+  Te  Te1  1  0.33333334  0.66666669  0.37305838  1
+  Te  Te2  1  0.66666669  0.33333334  0.62694162  1
+  Te  Te3  1  0.00000000  0.00000000  0.50000000  1
+  Ca  Ca4  1  0.33333334  0.66666669  0.78401452  1
+  Ca  Ca5  1  0.66666669  0.33333334  0.21598548  1
+  Cu  Cu6  1  0.50000000  0.00000000  0.00000000  1
+  Cu  Cu7  1  0.00000000  0.50000000  0.00000000  1
+  Cu  Cu8  1  0.50000000  0.50000000  0.00000000  1
+  O  O9  1  0.51684976  0.48315024  0.71767664  1
+  O  O10  1  0.51684976  0.03369951  0.71767664  1
+  O  O11  1  0.96630049  0.48315024  0.71767664  1
+  O  O12  1  0.48315024  0.51684976  0.28232336  1
+  O  O13  1  0.03369951  0.51684976  0.28232336  1
+  O  O14  1  0.48315024  0.96630049  0.28232336  1

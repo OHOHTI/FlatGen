@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_CsRbCoAuF9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.80749130
+_cell_length_b   5.80749115
+_cell_length_c   8.90341568
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000361
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsRbCoAuF9
+_chemical_formula_sum   'Cs1 Rb1 Co1 Au1 F9'
+_cell_volume   260.05451022
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.01857650  1
+  F  F1  1  0.66666669  0.33333334  0.92998385  1
+  F  F2  1  0.65558547  0.03362385  0.70184624  1
+  F  F3  1  0.96637613  0.62196159  0.70184624  1
+  F  F4  1  0.37803841  0.34441453  0.70184624  1
+  F  F5  1  0.48348925  0.00122784  0.39549896  1
+  F  F6  1  0.99877214  0.48226139  0.39549896  1
+  F  F7  1  0.51773858  0.51651073  0.39549896  1
+  Cs  Cs8  1  0.00000000  0.00000000  0.98272586  1
+  Rb  Rb9  1  0.00000000  0.00000000  0.47927275  1
+  Au  Au10  1  0.66666669  0.33333334  0.43960792  1
+  Co  Co11  1  0.66666669  0.33333334  0.74869120  1
+  F  F12  1  0.66666669  0.33333334  0.20952798  1

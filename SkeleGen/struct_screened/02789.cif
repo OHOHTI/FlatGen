@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Dy2FeF9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.33865833
+_cell_length_b   5.33865830
+_cell_length_c   7.04263210
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000316
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2FeF9
+_chemical_formula_sum   'Dy2 Fe1 F9'
+_cell_volume   173.83205815
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66666669  0.33333334  0.48048204  1
+  F  F1  1  0.33333334  0.66666669  0.55398124  1
+  F  F2  1  0.56876332  0.02158140  0.91417623  1
+  F  F3  1  0.97841859  0.54718190  0.91417623  1
+  F  F4  1  0.45281810  0.43123668  0.91417623  1
+  F  F5  1  0.31503227  0.01221400  0.23237815  1
+  F  F6  1  0.98778600  0.30281827  0.23237815  1
+  F  F7  1  0.69718170  0.68496776  0.23237815  1
+  F  F8  1  0.00000000  0.00000000  0.69685328  1
+  Dy  Dy9  1  0.00000000  0.00000000  0.40450823  1
+  Dy  Dy10  1  0.33333334  0.66666669  0.06543937  1
+  Fe  Fe11  1  0.66666669  0.33333334  0.07140590  1

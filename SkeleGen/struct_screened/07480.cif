@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_TbYbTl2AgBr14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.54448155
+_cell_length_b   4.30515289
+_cell_length_c   17.17455673
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   98.27720751
+_cell_angle_gamma   90.00000392
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbYbTl2AgBr14
+_chemical_formula_sum   'Yb1 Tb1 Tl2 Ag1 Br14'
+_cell_volume   625.19013819
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.88155198  0.50000000  0.32304585  1
+  Br  Br1  1  0.25444353  0.00000000  0.64134556  1
+  Br  Br2  1  0.51128262  0.50000000  0.49245802  1
+  Br  Br3  1  0.86771333  0.00000000  0.49102917  1
+  Br  Br4  1  0.04559939  0.00000000  0.19007972  1
+  Br  Br5  1  0.39393353  0.50000000  0.22941908  1
+  Br  Br6  1  0.54603148  0.50000000  0.73051918  1
+  Br  Br7  1  0.01297441  0.00000000  0.79295915  1
+  Br  Br8  1  0.24803287  0.00000000  0.39772716  1
+  Ag  Ag9  1  0.64806402  0.00000000  0.61176449  1
+  Br  Br10  1  0.66969413  0.00000000  0.11223895  1
+  Tl  Tl11  1  0.62162924  0.00000000  0.32732973  1
+  Tl  Tl12  1  0.63853800  0.00000000  0.88146561  1
+  Br  Br13  1  0.24596672  0.00000000  0.05110981  1
+  Br  Br14  1  0.30533651  0.50000000  0.90314358  1
+  Yb  Yb15  1  0.16125457  0.50000000  0.74446648  1
+  Br  Br16  1  0.88858718  0.50000000  0.63085711  1
+  Br  Br17  1  0.89269751  0.50000000  0.97172385  1
+  Tb  Tb18  1  0.08135594  0.50000000  0.08478567  1

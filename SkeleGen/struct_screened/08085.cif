@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Eu18Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.59306335
+_cell_length_b   10.59306319
+_cell_length_c   7.85087347
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000349
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu18Au
+_chemical_formula_sum   'Eu18 Au1'
+_cell_volume   762.94235772
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.61688411  0.51892751  0.72067726  1
+  Eu  Eu1  1  0.48107249  0.09795660  0.72067726  1
+  Eu  Eu2  1  0.90204340  0.38311589  0.72067726  1
+  Eu  Eu3  1  0.10536252  0.62604624  0.42799619  1
+  Eu  Eu4  1  0.37395376  0.47931629  0.42799619  1
+  Eu  Eu5  1  0.52068371  0.89463747  0.42799619  1
+  Eu  Eu6  1  0.84853888  0.54917401  0.11002669  1
+  Eu  Eu7  1  0.45082599  0.29936486  0.11002669  1
+  Eu  Eu8  1  0.70063514  0.15146112  0.11002669  1
+  Eu  Eu9  1  0.55260372  0.71054846  0.05673127  1
+  Eu  Eu10  1  0.28945154  0.84205526  0.05673127  1
+  Eu  Eu11  1  0.15794474  0.44739628  0.05673127  1
+  Eu  Eu12  1  0.95358467  0.18067795  0.40862188  1
+  Eu  Eu13  1  0.81932205  0.77290672  0.40862188  1
+  Eu  Eu14  1  0.22709328  0.04641533  0.40862188  1
+  Eu  Eu15  1  0.18828802  0.22023624  0.79042196  1
+  Eu  Eu16  1  0.77976376  0.96805179  0.79042196  1
+  Eu  Eu17  1  0.03194822  0.81171197  0.79042196  1
+  Au  Au18  1  0.33333334  0.66666669  0.69586045  1

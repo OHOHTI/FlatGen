@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_TlNi3Se5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.15999699
+_cell_length_b   7.15999690
+_cell_length_c   9.28820133
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000480
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlNi3Se5
+_chemical_formula_sum   'Tl2 Ni6 Se10'
+_cell_volume   412.37079988
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.33333334  0.66666669  0.58320248  1
+  Se  Se1  1  0.66666669  0.33333334  0.08320248  1
+  Se  Se2  1  0.66666669  0.33333334  0.41679752  1
+  Se  Se3  1  0.33333334  0.66666669  0.91679752  1
+  Se  Se4  1  0.16357528  0.32715055  0.25000000  1
+  Se  Se5  1  0.67284942  0.83642471  0.25000000  1
+  Se  Se6  1  0.16357528  0.83642471  0.25000000  1
+  Se  Se7  1  0.83642471  0.67284942  0.75000000  1
+  Se  Se8  1  0.32715055  0.16357528  0.75000000  1
+  Se  Se9  1  0.83642471  0.16357528  0.75000000  1
+  Tl  Tl10  1  0.00000000  0.00000000  0.00000000  1
+  Tl  Tl11  1  0.00000000  0.00000000  0.50000000  1
+  Ni  Ni12  1  0.81354004  0.62708008  0.25000000  1
+  Ni  Ni13  1  0.37291992  0.18645996  0.25000000  1
+  Ni  Ni14  1  0.81354004  0.18645996  0.25000000  1
+  Ni  Ni15  1  0.18645996  0.37291992  0.75000000  1
+  Ni  Ni16  1  0.62708008  0.81354004  0.75000000  1
+  Ni  Ni17  1  0.18645996  0.81354004  0.75000000  1

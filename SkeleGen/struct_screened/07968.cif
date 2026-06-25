@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_CsZnNiTe4SO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49535608
+_cell_length_b   5.49535588
+_cell_length_c   11.27790737
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000407
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsZnNiTe4SO9
+_chemical_formula_sum   'Cs1 Zn1 Ni1 Te4 S1 O9'
+_cell_volume   294.95162881
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.00000000  0.00000000  0.09060158  1
+  Te  Te1  1  0.66666669  0.33333334  0.63608646  1
+  Te  Te2  1  0.33333334  0.66666669  0.36344001  1
+  Te  Te3  1  0.00000000  0.00000000  0.46026152  1
+  O  O4  1  0.00000000  0.00000000  0.26366252  1
+  Cs  Cs5  1  0.33333334  0.66666669  0.80566394  1
+  Zn  Zn6  1  0.66666669  0.33333334  0.93149501  1
+  O  O7  1  0.66666669  0.33333334  0.77476060  1
+  O  O8  1  0.66666669  0.33333334  0.26467836  1
+  Ni  Ni9  1  0.66666669  0.33333334  0.41971835  1
+  S  S10  1  0.66666669  0.33333334  0.14536040  1
+  O  O11  1  0.92538047  0.26311040  0.54125696  1
+  O  O12  1  0.73688960  0.66227007  0.54125696  1
+  O  O13  1  0.33772993  0.07461953  0.54125696  1
+  O  O14  1  0.93002260  0.24904054  0.02934940  1
+  O  O15  1  0.75095946  0.68098205  0.02934940  1
+  O  O16  1  0.31901795  0.06997740  0.02934940  1

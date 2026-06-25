@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_RbUPI9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.93496561
+_cell_length_b   7.93496528
+_cell_length_c   11.23080826
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999344
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbUPI9
+_chemical_formula_sum   'Rb1 U1 P1 I9'
+_cell_volume   612.39516415
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.66666669  0.33333334  0.50767696  1
+  I  I1  1  0.33333334  0.66666669  0.52069676  1
+  I  I2  1  0.67558569  0.02465243  0.76093876  1
+  I  I3  1  0.97534758  0.65093327  0.76093876  1
+  I  I4  1  0.34906673  0.32441431  0.76093876  1
+  I  I5  1  0.38138658  0.99776560  0.13534619  1
+  I  I6  1  0.00223440  0.38362098  0.13534619  1
+  I  I7  1  0.61637902  0.61861342  0.13534619  1
+  Rb  Rb8  1  0.00000000  0.00000000  0.94606304  1
+  I  I9  1  0.00000000  0.00000000  0.33945468  1
+  P  P10  1  0.66666669  0.33333334  0.78463179  1
+  U  U11  1  0.66666669  0.33333334  0.24639808  1

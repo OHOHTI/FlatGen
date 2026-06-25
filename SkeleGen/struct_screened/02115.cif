@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BaSrNbCoCuPSe10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.31508654
+_cell_length_b   7.17497160
+_cell_length_c   9.22932720
+_cell_angle_alpha   90.33767342
+_cell_angle_beta   92.73052081
+_cell_angle_gamma   96.14939061
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSrNbCoCuPSe10
+_chemical_formula_sum   'Ba1 Sr1 Nb1 Co1 Cu1 P1 Se10'
+_cell_volume   415.28227016
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.67297727  0.29915690  0.53912675  1
+  Se  Se1  1  0.31982461  0.76957029  0.44999436  1
+  Se  Se2  1  0.58839124  0.94270575  0.78378165  1
+  Se  Se3  1  0.33373085  0.42615736  0.87484103  1
+  Se  Se4  1  0.92568457  0.57448012  0.77893645  1
+  Se  Se5  1  0.46087053  0.06462055  0.20093773  1
+  Se  Se6  1  0.58689165  0.58848614  0.17702299  1
+  Se  Se7  1  0.04644878  0.42949289  0.21969827  1
+  Se  Se8  1  0.10486538  0.94100446  0.93357033  1
+  Co  Co9  1  0.11394996  0.76378131  0.13908489  1
+  Cu  Cu10  1  0.53297865  0.79777396  0.01687365  1
+  Sr  Sr11  1  0.79514748  0.25933468  0.95886445  1
+  Nb  Nb12  1  0.26083302  0.70917749  0.71875054  1
+  P  P13  1  0.40020537  0.18495288  0.42684916  1
+  Ba  Ba14  1  0.83111918  0.80927944  0.46896413  1
+  Se  Se15  1  0.18158461  0.21135378  0.54776233  1

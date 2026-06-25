@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Dy6PO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50480566
+_cell_length_b   5.77967597
+_cell_length_c   7.43844795
+_cell_angle_alpha   85.49741230
+_cell_angle_beta   92.05425013
+_cell_angle_gamma   93.42984715
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy6PO9
+_chemical_formula_sum   'Dy6 P1 O9'
+_cell_volume   235.39321671
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.77567691  0.48162487  0.84003067  1
+  Dy  Dy1  1  0.29952991  0.47829813  0.09962194  1
+  Dy  Dy2  1  0.80751956  0.99251133  0.10360759  1
+  Dy  Dy3  1  0.30730304  0.97126895  0.82785702  1
+  Dy  Dy4  1  0.80416393  0.49654832  0.37271968  1
+  Dy  Dy5  1  0.31134778  0.49970716  0.59426492  1
+  O  O6  1  0.14088023  0.35488173  0.38134000  1
+  O  O7  1  0.54711717  0.74130613  0.00098970  1
+  O  O8  1  0.98307133  0.65400720  0.07089195  1
+  O  O9  1  0.10906424  0.88131863  0.44707859  1
+  O  O10  1  0.53759408  0.22664405  0.71416390  1
+  O  O11  1  0.03772441  0.22814685  0.70518529  1
+  O  O12  1  0.72579318  0.11670958  0.36276457  1
+  P  P13  1  0.99610454  0.14461842  0.46071213  1
+  O  O14  1  0.65113735  0.71861869  0.60047430  1
+  O  O15  1  0.33118677  0.11158668  0.09699468  1

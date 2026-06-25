@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_NiSb3F15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.61152077
+_cell_length_b   8.61152048
+_cell_length_c   3.84888363
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000477
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NiSb3F15
+_chemical_formula_sum   'Ni1 Sb3 F15'
+_cell_volume   247.18669069
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.25201246  0.46687081  0.74591160  1
+  F  F1  1  0.53312922  0.78514165  0.74591160  1
+  F  F2  1  0.21485835  0.74798751  0.74591160  1
+  F  F3  1  0.83514881  0.07729412  0.73989469  1
+  F  F4  1  0.92270589  0.75785470  0.73989469  1
+  F  F5  1  0.24214530  0.16485119  0.73989469  1
+  F  F6  1  0.13297078  0.26612678  0.26047909  1
+  F  F7  1  0.73387325  0.86684400  0.26047909  1
+  F  F8  1  0.13315600  0.86702919  0.26047909  1
+  F  F9  1  0.58427078  0.43253109  0.74121451  1
+  F  F10  1  0.56746888  0.15173969  0.74121451  1
+  F  F11  1  0.84826028  0.41572922  0.74121451  1
+  F  F12  1  0.74999601  0.53653026  0.25818110  1
+  F  F13  1  0.46346974  0.21346575  0.25818110  1
+  F  F14  1  0.78653425  0.25000399  0.25818110  1
+  Ni  Ni15  1  0.66666669  0.33333334  0.59411502  1
+  Sb  Sb16  1  0.45911932  0.90179688  0.25884664  1
+  Sb  Sb17  1  0.09820312  0.55732244  0.25884664  1
+  Sb  Sb18  1  0.44267756  0.54088068  0.25884664  1

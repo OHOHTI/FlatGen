@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_NaV2GeF14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.69836712
+_cell_length_b   5.69836693
+_cell_length_c   8.84676647
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000389
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaV2GeF14
+_chemical_formula_sum   'Na1 V2 Ge1 F14'
+_cell_volume   248.78031536
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66666669  0.33333334  0.44713965  1
+  F  F1  1  0.33333334  0.66666669  0.50436413  1
+  F  F2  1  0.62877065  0.04948669  0.70907187  1
+  F  F3  1  0.95051330  0.57928395  0.70907187  1
+  F  F4  1  0.42071605  0.37122935  0.70907187  1
+  F  F5  1  0.42710352  0.98581702  0.20172915  1
+  F  F6  1  0.01418298  0.44128650  0.20172915  1
+  F  F7  1  0.55871350  0.57289648  0.20172915  1
+  V  V8  1  0.00000000  0.00000000  0.33848202  1
+  Na  Na9  1  0.00000000  0.00000000  0.83136570  1
+  Ge  Ge10  1  0.33333334  0.66666669  0.07829101  1
+  V  V11  1  0.66666669  0.33333334  0.64114439  1
+  F  F12  1  0.64317572  0.71267998  0.94963259  1
+  F  F13  1  0.28732002  0.93049574  0.94963259  1
+  F  F14  1  0.06950426  0.35682428  0.94963259  1
+  F  F15  1  0.23736081  0.19882342  0.42910233  1
+  F  F16  1  0.80117655  0.03853738  0.42910233  1
+  F  F17  1  0.96146262  0.76263916  0.42910233  1

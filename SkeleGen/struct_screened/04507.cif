@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaPr(SiS4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13565683
+_cell_length_b   6.13565682
+_cell_length_c   8.34631252
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000522
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaPr(SiS4)2
+_chemical_formula_sum   'Na1 Pr1 Si2 S8'
+_cell_volume   272.11179907
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.33333334  0.66666669  0.50322664  1
+  S  S1  1  0.66666669  0.33333334  0.49677336  1
+  S  S2  1  0.64448744  0.97594780  0.80557013  1
+  S  S3  1  0.02405220  0.66853964  0.80557013  1
+  S  S4  1  0.33146036  0.35551256  0.80557013  1
+  S  S5  1  0.35551256  0.02405220  0.19442987  1
+  S  S6  1  0.97594780  0.33146036  0.19442987  1
+  S  S7  1  0.66853964  0.64448744  0.19442987  1
+  Pr  Pr8  1  0.00000000  0.00000000  0.00000000  1
+  Na  Na9  1  0.00000000  0.00000000  0.50000000  1
+  Si  Si10  1  0.33333334  0.66666669  0.73544431  1
+  Si  Si11  1  0.66666669  0.33333334  0.26455569  1

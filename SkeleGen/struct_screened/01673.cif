@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Cs2RbCoTe8(PI3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.27498531
+_cell_length_b   9.27498518
+_cell_length_c   10.86034393
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000387
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2RbCoTe8(PI3)2
+_chemical_formula_sum   'Cs2 Rb1 Co1 Te8 P2 I6'
+_cell_volume   809.09710800
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.33333334  0.66666669  0.01277048  1
+  Te  Te1  1  0.66666669  0.33333334  0.98722953  1
+  Te  Te2  1  0.54203802  0.45796198  0.62801546  1
+  Te  Te3  1  0.54203802  0.08407605  0.62801546  1
+  Te  Te4  1  0.91592395  0.45796198  0.62801546  1
+  Te  Te5  1  0.45796198  0.54203802  0.37198454  1
+  Te  Te6  1  0.08407605  0.54203802  0.37198454  1
+  Te  Te7  1  0.45796198  0.91592395  0.37198454  1
+  Co  Co8  1  0.00000000  0.00000000  0.00000000  1
+  Rb  Rb9  1  0.00000000  0.00000000  0.50000000  1
+  Cs  Cs10  1  0.33333334  0.66666669  0.68599951  1
+  Cs  Cs11  1  0.66666669  0.33333334  0.31400049  1
+  P  P12  1  0.33333334  0.66666669  0.26291931  1
+  P  P13  1  0.66666669  0.33333334  0.73708069  1
+  I  I14  1  0.86667460  0.13332540  0.14546357  1
+  I  I15  1  0.86667460  0.73334920  0.14546357  1
+  I  I16  1  0.26665080  0.13332540  0.14546357  1
+  I  I17  1  0.13332540  0.86667460  0.85453641  1
+  I  I18  1  0.73334920  0.86667460  0.85453641  1
+  I  I19  1  0.13332540  0.26665080  0.85453641  1

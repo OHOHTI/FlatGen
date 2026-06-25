@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Ba(Eu5Sb3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.37949085
+_cell_length_b   9.37949089
+_cell_length_c   7.76944160
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000323
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba(Eu5Sb3)2
+_chemical_formula_sum   'Ba1 Eu10 Sb6'
+_cell_volume   591.94172605
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.33333334  0.66666669  0.49065641  1
+  Eu  Eu1  1  0.66666669  0.33333334  0.50934362  1
+  Eu  Eu2  1  0.33333334  0.66666669  0.99959505  1
+  Eu  Eu3  1  0.66666669  0.33333334  0.00040495  1
+  Eu  Eu4  1  0.23439917  0.27746093  0.20625907  1
+  Eu  Eu5  1  0.72253907  0.95693827  0.20625907  1
+  Eu  Eu6  1  0.04306176  0.76560080  0.20625907  1
+  Eu  Eu7  1  0.76560080  0.72253907  0.79374093  1
+  Eu  Eu8  1  0.27746093  0.04306176  0.79374093  1
+  Eu  Eu9  1  0.95693827  0.23439917  0.79374093  1
+  Ba  Ba10  1  0.00000000  0.00000000  0.50000000  1
+  Sb  Sb11  1  0.94610620  0.36943674  0.26420781  1
+  Sb  Sb12  1  0.63056326  0.57666945  0.26420781  1
+  Sb  Sb13  1  0.42333055  0.05389380  0.26420781  1
+  Sb  Sb14  1  0.05389380  0.63056326  0.73579216  1
+  Sb  Sb15  1  0.36943674  0.42333055  0.73579216  1
+  Sb  Sb16  1  0.57666945  0.94610620  0.73579216  1

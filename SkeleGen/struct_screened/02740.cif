@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Be2Co3Cu2F13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.92083454
+_cell_length_b   5.92083417
+_cell_length_c   7.38580847
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000471
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be2Co3Cu2F13
+_chemical_formula_sum   'Be2 Co3 Cu2 F13'
+_cell_volume   224.23039139
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.00000000  0.00000000  0.00000000  1
+  F  F1  1  0.33333334  0.66666669  0.33548236  1
+  F  F2  1  0.66666669  0.33333334  0.66451764  1
+  F  F3  1  0.00000000  0.00000000  0.50000000  1
+  Be  Be4  1  0.33333334  0.66666669  0.10670215  1
+  Be  Be5  1  0.66666669  0.33333334  0.89329785  1
+  Cu  Cu6  1  0.33333334  0.66666669  0.80610096  1
+  Cu  Cu7  1  0.66666669  0.33333334  0.19389904  1
+  F  F8  1  0.46871081  0.00000000  0.00000000  1
+  F  F9  1  0.00000000  0.46871081  0.00000000  1
+  F  F10  1  0.53128922  0.53128922  0.00000000  1
+  Co  Co11  1  0.35283017  0.00000000  0.50000000  1
+  Co  Co12  1  0.00000000  0.35283017  0.50000000  1
+  Co  Co13  1  0.64716983  0.64716983  0.50000000  1
+  F  F14  1  0.86727065  0.62993765  0.32326931  1
+  F  F15  1  0.37006235  0.23733300  0.32326931  1
+  F  F16  1  0.76266700  0.13272935  0.32326931  1
+  F  F17  1  0.62993765  0.86727065  0.67673069  1
+  F  F18  1  0.23733300  0.37006235  0.67673069  1
+  F  F19  1  0.13272935  0.76266700  0.67673069  1

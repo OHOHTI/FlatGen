@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_MnFeCl5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.77091026
+_cell_length_b   6.77091027
+_cell_length_c   10.90663910
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000465
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnFeCl5
+_chemical_formula_sum   'Mn2 Fe2 Cl10'
+_cell_volume   433.02769179
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.56474423  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.43525577  1
+  Cl  Cl2  1  0.33333334  0.66666669  0.91854280  1
+  Cl  Cl3  1  0.66666669  0.33333334  0.08145720  1
+  Cl  Cl4  1  0.21418500  0.35976592  0.24946591  1
+  Cl  Cl5  1  0.64023411  0.85441911  0.24946591  1
+  Cl  Cl6  1  0.14558092  0.78581500  0.24946591  1
+  Cl  Cl7  1  0.78581500  0.64023411  0.75053406  1
+  Cl  Cl8  1  0.35976592  0.14558092  0.75053406  1
+  Cl  Cl9  1  0.85441911  0.21418500  0.75053406  1
+  Fe  Fe10  1  0.33333334  0.66666669  0.36568078  1
+  Fe  Fe11  1  0.66666669  0.33333334  0.63431919  1
+  Mn  Mn12  1  0.33333334  0.66666669  0.12140753  1
+  Mn  Mn13  1  0.66666669  0.33333334  0.87859249  1

@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_NaLaBeCuPbCl12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.84799175
+_cell_length_b   5.29831422
+_cell_length_c   14.63950729
+_cell_angle_alpha   81.66976713
+_cell_angle_beta   92.54499242
+_cell_angle_gamma   88.88851918
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLaBeCuPbCl12
+_chemical_formula_sum   'Na1 La1 Be1 Cu1 Pb1 Cl12'
+_cell_volume   448.21628924
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.99860978  0.47464219  0.33867574  1
+  Cl  Cl1  1  0.50105423  0.98066938  0.63752067  1
+  Cl  Cl2  1  0.48171064  0.48014766  0.49294573  1
+  Cl  Cl3  1  0.98067123  0.98346353  0.51289386  1
+  Cl  Cl4  1  0.98755747  0.98165035  0.15916139  1
+  Cl  Cl5  1  0.49697211  0.48145223  0.16194128  1
+  Cl  Cl6  1  0.49564087  0.48515818  0.84624130  1
+  Cl  Cl7  1  0.98947865  0.98644018  0.81796443  1
+  Cl  Cl8  1  0.98481756  0.48547503  0.98643047  1
+  Pb  Pb9  1  0.00408015  0.99221694  0.97823209  1
+  Cu  Cu10  1  0.49209970  0.98247671  0.49965352  1
+  Be  Be11  1  0.49431249  0.49361438  0.99930525  1
+  Na  Na12  1  0.47406369  0.98997039  0.80956495  1
+  Cl  Cl13  1  0.48842186  0.98431683  0.00470173  1
+  Cl  Cl14  1  0.50606704  0.98038417  0.34524205  1
+  La  La15  1  0.00771810  0.98467928  0.33690095  1
+  Cl  Cl16  1  0.99149609  0.48052883  0.66580081  1

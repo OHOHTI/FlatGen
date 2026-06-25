@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CsScTlCuSnBr13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.87307079
+_cell_length_b   7.90842894
+_cell_length_c   11.42033577
+_cell_angle_alpha   90.56873873
+_cell_angle_beta   98.26712692
+_cell_angle_gamma   94.67207763
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsScTlCuSnBr13
+_chemical_formula_sum   'Cs1 Sc1 Tl1 Cu1 Sn1 Br13'
+_cell_volume   701.17533195
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.65663606  0.69068748  0.27710140  1
+  Br  Br1  1  0.52960807  0.94353515  0.61879241  1
+  Br  Br2  1  0.29571828  0.71019220  0.00135925  1
+  Br  Br3  1  0.68248522  0.32008469  0.44679421  1
+  Br  Br4  1  0.27834255  0.01827032  0.27389890  1
+  Br  Br5  1  0.28431836  0.26390189  0.62376547  1
+  Br  Br6  1  0.95362276  0.53096509  0.69601244  1
+  Br  Br7  1  0.03205816  0.43694428  0.19700883  1
+  Br  Br8  1  0.00566188  0.92626470  0.54211617  1
+  Br  Br9  1  0.21592185  0.12884845  0.91708672  1
+  Sn  Sn10  1  0.06378037  0.87243491  0.84918922  1
+  Tl  Tl11  1  0.50757128  0.67407632  0.79161757  1
+  Sc  Sc12  1  0.89785618  0.58328122  0.42752147  1
+  Cs  Cs13  1  0.71805173  0.14926147  0.17537279  1
+  Br  Br14  1  0.67792648  0.38781035  0.92725092  1
+  Cu  Cu15  1  0.38280553  0.13043606  0.47815761  1
+  Br  Br16  1  0.77798337  0.86289507  0.92872065  1
+  Br  Br17  1  0.21954216  0.62386721  0.44478816  1

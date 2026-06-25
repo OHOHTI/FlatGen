@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_TiFeAsF14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.67618895
+_cell_length_b   7.67618883
+_cell_length_c   5.23114681
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000462
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiFeAsF14
+_chemical_formula_sum   'Ti1 Fe1 As1 F14'
+_cell_volume   266.94317756
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.48184431  0.57629579  0.42931449  1
+  F  F1  1  0.42370421  0.90554851  0.42931449  1
+  F  F2  1  0.09445149  0.51815569  0.42931449  1
+  F  F3  1  0.87442112  0.50800008  0.95170099  1
+  F  F4  1  0.49199992  0.36642104  0.95170099  1
+  F  F5  1  0.63357896  0.12557888  0.95170099  1
+  F  F6  1  0.66666669  0.33333334  0.53734231  1
+  F  F7  1  0.02256800  0.20098872  0.68056542  1
+  F  F8  1  0.79901129  0.82157928  0.68056542  1
+  F  F9  1  0.17842072  0.97743201  0.68056542  1
+  F  F10  1  0.33333334  0.66666669  0.97980303  1
+  F  F11  1  0.20504367  0.20385829  0.30391964  1
+  F  F12  1  0.79614174  0.00118539  0.30391964  1
+  F  F13  1  0.99881458  0.79495633  0.30391964  1
+  As  As14  1  0.00000000  0.00000000  0.51025599  1
+  Ti  Ti15  1  0.33333334  0.66666669  0.29681599  1
+  Fe  Fe16  1  0.66666669  0.33333334  0.85754001  1

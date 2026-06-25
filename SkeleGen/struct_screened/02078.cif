@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_KMnPbF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.07911015
+_cell_length_b   4.09131718
+_cell_length_c   10.49028015
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   90.00000433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KMnPbF8
+_chemical_formula_sum   'K1 Mn1 Pb1 F8'
+_cell_volume   175.07158684
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.00000000  0.50000000  0.28065178  1
+  F  F1  1  0.50000000  0.00000000  0.62646961  1
+  F  F2  1  0.50000000  0.50000000  0.45426628  1
+  F  F3  1  0.00000000  0.00000000  0.44417384  1
+  F  F4  1  0.00000000  0.00000000  0.06845466  1
+  F  F5  1  0.50000000  0.50000000  0.07774186  1
+  F  F6  1  0.50000000  0.50000000  0.78966069  1
+  F  F7  1  0.00000000  0.00000000  0.79203033  1
+  Mn  Mn8  1  0.00000000  0.50000000  0.10948010  1
+  K  K9  1  0.00000000  0.50000000  0.58550113  1
+  Pb  Pb10  1  0.50000000  0.00000000  0.88358861  1

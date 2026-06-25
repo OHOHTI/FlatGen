@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CsLaFeSn3Cl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.94434309
+_cell_length_b   7.94434295
+_cell_length_c   8.03134727
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000454
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsLaFeSn3Cl8
+_chemical_formula_sum   'Cs1 La1 Fe1 Sn3 Cl8'
+_cell_volume   438.97015362
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.66666669  0.33333334  0.50312757  1
+  Cl  Cl1  1  0.33333334  0.66666669  0.48420367  1
+  Cl  Cl2  1  0.61297923  0.05270593  0.81097692  1
+  Cl  Cl3  1  0.94729406  0.56027329  0.81097692  1
+  Cl  Cl4  1  0.43972671  0.38702077  0.81097692  1
+  Cl  Cl5  1  0.33062321  0.00547431  0.13061072  1
+  Cl  Cl6  1  0.99452567  0.32514891  0.13061072  1
+  Cl  Cl7  1  0.67485106  0.66937679  0.13061072  1
+  Cs  Cs8  1  0.00000000  0.00000000  0.82095057  1
+  La  La9  1  0.33333334  0.66666669  0.00262290  1
+  Fe  Fe10  1  0.66666669  0.33333334  0.77553958  1
+  Sn  Sn11  1  0.71387780  0.05259606  0.37797314  1
+  Sn  Sn12  1  0.94740397  0.66128176  0.37797314  1
+  Sn  Sn13  1  0.33871824  0.28612220  0.37797314  1

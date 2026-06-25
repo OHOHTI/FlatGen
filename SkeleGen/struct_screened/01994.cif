@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Th2Ag3Cl4O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.12420607
+_cell_length_b   6.12420594
+_cell_length_c   8.57471466
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000582
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th2Ag3Cl4O3
+_chemical_formula_sum   'Th2 Ag3 Cl4 O3'
+_cell_volume   278.51581777
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.00000000  0.00000000  0.00000000  1
+  Cl  Cl1  1  0.33333334  0.66666669  0.31158078  1
+  Cl  Cl2  1  0.66666669  0.33333334  0.68841922  1
+  Cl  Cl3  1  0.00000000  0.00000000  0.50000000  1
+  Th  Th4  1  0.33333334  0.66666669  0.86339688  1
+  Th  Th5  1  0.66666669  0.33333334  0.13660312  1
+  O  O6  1  0.41404551  0.00000000  0.00000000  1
+  O  O7  1  0.00000000  0.41404551  0.00000000  1
+  O  O8  1  0.58595449  0.58595449  0.00000000  1
+  Ag  Ag9  1  0.66121697  0.00000000  0.50000000  1
+  Ag  Ag10  1  0.00000000  0.66121697  0.50000000  1
+  Ag  Ag11  1  0.33878303  0.33878303  0.50000000  1

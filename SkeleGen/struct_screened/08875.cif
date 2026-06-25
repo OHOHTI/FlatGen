@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Eu4Mn2In
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.67008018
+_cell_length_b   5.30589199
+_cell_length_c   13.80201530
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   90.00000433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu4Mn2In
+_chemical_formula_sum   'Eu8 Mn4 In2'
+_cell_volume   415.23132605
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.00000000  0.50000000  0.30195218  1
+  Eu  Eu1  1  0.50000000  0.00000000  0.69804782  1
+  Eu  Eu2  1  0.00000000  0.00000000  0.50546259  1
+  Eu  Eu3  1  0.50000000  0.50000000  0.49453741  1
+  Eu  Eu4  1  0.00000000  0.00000000  0.16579221  1
+  Eu  Eu5  1  0.50000000  0.50000000  0.83420777  1
+  Eu  Eu6  1  0.00000000  0.00000000  0.84457511  1
+  Eu  Eu7  1  0.50000000  0.50000000  0.15542489  1
+  In  In8  1  0.00000000  0.50000000  0.67395574  1
+  In  In9  1  0.50000000  0.00000000  0.32604426  1
+  Mn  Mn10  1  0.76619387  0.75214630  0.99571306  1
+  Mn  Mn11  1  0.23380613  0.24785370  0.99571306  1
+  Mn  Mn12  1  0.73380613  0.25214624  0.00428694  1
+  Mn  Mn13  1  0.26619387  0.74785370  0.00428694  1

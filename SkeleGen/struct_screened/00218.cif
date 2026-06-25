@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_SrEu8Ag
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.60316133
+_cell_length_b   7.60316113
+_cell_length_c   8.01119804
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000504
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrEu8Ag
+_chemical_formula_sum   'Sr1 Eu8 Ag1'
+_cell_volume   401.06658317
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.66841030  0.66757035  0.33462802  1
+  Eu  Eu1  1  0.33242965  0.00083995  0.33462802  1
+  Eu  Eu2  1  0.99916005  0.33158970  0.33462802  1
+  Eu  Eu3  1  0.67449784  0.99523813  0.80963933  1
+  Eu  Eu4  1  0.00476187  0.67925972  0.80963933  1
+  Eu  Eu5  1  0.32074028  0.32550216  0.80963933  1
+  Eu  Eu6  1  0.33333334  0.66666669  0.06012390  1
+  Eu  Eu7  1  0.66666669  0.33333334  0.58272123  1
+  Sr  Sr8  1  0.00000000  0.00000000  0.09445749  1
+  Ag  Ag9  1  0.33333334  0.66666669  0.56038982  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_MnCrFeCo2OF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.15712088
+_cell_length_b   4.90667585
+_cell_length_c   8.75742531
+_cell_angle_alpha   83.24254056
+_cell_angle_beta   86.87482216
+_cell_angle_gamma   81.77957377
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCrFeCo2OF12
+_chemical_formula_sum   'Mn1 Cr1 Fe1 Co2 O1 F12'
+_cell_volume   217.63997935
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.01350582  0.52671373  0.32047337  1
+  F  F1  1  0.54602706  0.00581837  0.53395391  1
+  F  F2  1  0.51994771  0.51684248  0.51086152  1
+  F  F3  1  0.00553507  0.01244544  0.48994914  1
+  F  F4  1  0.03094239  0.00028694  0.17694694  1
+  F  F5  1  0.54472995  0.52416497  0.21075994  1
+  F  F6  1  0.53730935  0.50237495  0.81580275  1
+  F  F7  1  0.96994621  0.01272386  0.82577288  1
+  F  F8  1  0.53008103  0.01234299  0.01518284  1
+  Cr  Cr9  1  0.74276406  0.26612920  0.39411750  1
+  Co  Co10  1  0.76195729  0.76407903  0.66712826  1
+  Mn  Mn11  1  0.76883644  0.79322112  0.13684030  1
+  Co  Co12  1  0.27810985  0.78726095  0.38626486  1
+  Fe  Fe13  1  0.25600687  0.26880863  0.89404017  1
+  F  F14  1  0.45550764  0.00580622  0.75809258  1
+  F  F15  1  0.03125520  0.49280056  0.00247395  1
+  O  O16  1  0.53744006  0.02741818  0.29703140  1
+  F  F17  1  0.02390062  0.53604609  0.67011923  1

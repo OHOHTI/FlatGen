@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_TaSiB2CO15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.71055841
+_cell_length_b   6.71055810
+_cell_length_c   6.60005283
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000624
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaSiB2CO15
+_chemical_formula_sum   'Ta1 Si1 B2 C1 O15'
+_cell_volume   257.39216246
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.41496730  0.52783012  0.45209840  1
+  O  O1  1  0.47216988  0.88713717  0.45209840  1
+  O  O2  1  0.11286283  0.58503270  0.45209840  1
+  O  O3  1  0.91461027  0.53189456  0.94549352  1
+  O  O4  1  0.46810544  0.38271570  0.94549352  1
+  O  O5  1  0.61728430  0.08538973  0.94549352  1
+  O  O6  1  0.66666669  0.33333334  0.31962565  1
+  O  O7  1  0.87629741  0.09072383  0.63025105  1
+  O  O8  1  0.90927619  0.78557360  0.63025105  1
+  O  O9  1  0.21442640  0.12370259  0.63025105  1
+  O  O10  1  0.33333334  0.66666669  0.92385739  1
+  O  O11  1  0.13044868  0.23003477  0.25011253  1
+  O  O12  1  0.76996523  0.90041393  0.25011253  1
+  O  O13  1  0.09958608  0.86955130  0.25011253  1
+  B  B14  1  0.00000000  0.00000000  0.49888378  1
+  O  O15  1  0.00000000  0.00000000  0.95120323  1
+  B  B16  1  0.00000000  0.00000000  0.75717652  1
+  C  C17  1  0.00000000  0.00000000  0.17561029  1
+  Si  Si18  1  0.33333334  0.66666669  0.39649034  1
+  Ta  Ta19  1  0.66666669  0.33333334  0.02440877  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KCdSiWCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.53396034
+_cell_length_b   6.53396007
+_cell_length_c   9.81667137
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000619
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCdSiWCl8
+_chemical_formula_sum   'K1 Cd1 Si1 W1 Cl8'
+_cell_volume   362.95085826
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.02591845  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.99195760  1
+  Cl  Cl2  1  0.46061552  0.98212445  0.66026229  1
+  Cl  Cl3  1  0.01787555  0.47849107  0.66026229  1
+  Cl  Cl4  1  0.52150893  0.53938448  0.66026229  1
+  Cl  Cl5  1  0.51064140  0.02134857  0.31470141  1
+  Cl  Cl6  1  0.97865140  0.48929283  0.31470141  1
+  Cl  Cl7  1  0.51070714  0.48935860  0.31470141  1
+  Cd  Cd8  1  0.00000000  0.00000000  0.24511476  1
+  K  K9  1  0.00000000  0.00000000  0.86436850  1
+  W  W10  1  0.33333334  0.66666669  0.51880682  1
+  Si  Si11  1  0.66666669  0.33333334  0.21814299  1

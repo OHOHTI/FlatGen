@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_EuSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.45846081
+_cell_length_b   7.45846081
+_cell_length_c   7.45846081
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   90.00000433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuSe3
+_chemical_formula_sum   'Eu4 Se12'
+_cell_volume   414.90401349
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.30469245  0.30469245  0.30469245  1
+  Se  Se1  1  0.19530755  0.69530755  0.80469245  1
+  Se  Se2  1  0.69530755  0.80469245  0.19530755  1
+  Se  Se3  1  0.80469245  0.19530755  0.69530755  1
+  Se  Se4  1  0.56130582  0.56130582  0.56130582  1
+  Se  Se5  1  0.93869418  0.43869418  0.06130576  1
+  Se  Se6  1  0.43869418  0.06130576  0.93869418  1
+  Se  Se7  1  0.06130576  0.93869418  0.43869418  1
+  Se  Se8  1  0.05276218  0.05276218  0.05276218  1
+  Se  Se9  1  0.44723782  0.94723785  0.55276215  1
+  Se  Se10  1  0.94723785  0.55276215  0.44723782  1
+  Se  Se11  1  0.55276215  0.44723782  0.94723785  1
+  Eu  Eu12  1  0.81206721  0.81206721  0.81206721  1
+  Eu  Eu13  1  0.68793279  0.18793279  0.31206727  1
+  Eu  Eu14  1  0.18793279  0.31206727  0.68793279  1
+  Eu  Eu15  1  0.31206727  0.68793279  0.18793279  1

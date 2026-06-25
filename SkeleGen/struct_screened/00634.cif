@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_EuTlFeCuCl12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.16535425
+_cell_length_b   7.16535384
+_cell_length_c   9.36041451
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000632
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuTlFeCuCl12
+_chemical_formula_sum   'Eu1 Tl1 Fe1 Cu1 Cl12'
+_cell_volume   416.19896229
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.93383777  0.32544887  0.56403536  1
+  Cl  Cl1  1  0.67455113  0.60838890  0.56403536  1
+  Cl  Cl2  1  0.39161110  0.06616223  0.56403536  1
+  Cl  Cl3  1  0.02082894  0.68068045  0.80271447  1
+  Cl  Cl4  1  0.31931955  0.34014851  0.80271447  1
+  Cl  Cl5  1  0.65985149  0.97917104  0.80271447  1
+  Cl  Cl6  1  0.98714650  0.63132250  0.31124982  1
+  Cl  Cl7  1  0.36867750  0.35582399  0.31124982  1
+  Cl  Cl8  1  0.64417601  0.01285350  0.31124982  1
+  Tl  Tl9  1  0.00000000  0.00000000  0.43625367  1
+  Eu  Eu10  1  0.33333334  0.66666669  0.04492414  1
+  Cu  Cu11  1  0.66666669  0.33333334  0.87171036  1
+  Fe  Fe12  1  0.66666669  0.33333334  0.44589537  1
+  Cl  Cl13  1  0.93436003  0.31975195  0.03915836  1
+  Cl  Cl14  1  0.68024802  0.61460805  0.03915836  1
+  Cl  Cl15  1  0.38539195  0.06563997  0.03915836  1

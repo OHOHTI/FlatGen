@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_LiUVCuTe8S7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.72570419
+_cell_length_b   6.72570406
+_cell_length_c   13.04603481
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000535
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiUVCuTe8S7
+_chemical_formula_sum   'Li1 U1 V1 Cu1 Te8 S7'
+_cell_volume   511.07502400
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.67636931  0.66022116  0.13800097  1
+  Te  Te1  1  0.33977884  0.01614815  0.13800097  1
+  Te  Te2  1  0.98385185  0.32363069  0.13800097  1
+  Te  Te3  1  0.67635626  0.01598844  0.63224810  1
+  Te  Te4  1  0.98401153  0.66036779  0.63224810  1
+  Te  Te5  1  0.33963221  0.32364374  0.63224810  1
+  Te  Te6  1  0.33333334  0.66666669  0.98660660  1
+  Te  Te7  1  0.66666669  0.33333334  0.51349390  1
+  U  U8  1  0.00000000  0.00000000  0.25954989  1
+  S  S9  1  0.33333334  0.66666669  0.72477514  1
+  Li  Li10  1  0.66666669  0.33333334  0.98559040  1
+  V  V11  1  0.66666669  0.33333334  0.26195639  1
+  Cu  Cu12  1  0.66666669  0.33333334  0.76770931  1
+  S  S13  1  0.95584387  0.65666401  0.84867209  1
+  S  S14  1  0.34333599  0.29917985  0.84867209  1
+  S  S15  1  0.70082015  0.04415613  0.84867209  1
+  S  S16  1  0.33456048  0.31782576  0.35849053  1
+  S  S17  1  0.68217421  0.01673472  0.35849053  1
+  S  S18  1  0.98326528  0.66543949  0.35849053  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CsBaNaHfUPb2I12Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.69306816
+_cell_length_b   4.77842808
+_cell_length_c   17.73481750
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   97.31721149
+_cell_angle_gamma   90.00000397
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsBaNaHfUPb2I12Br
+_chemical_formula_sum   'Cs1 Ba1 Na1 Hf1 U1 Pb2 I12 Br1'
+_cell_volume   814.74512141
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.02776152  0.50000000  0.30233395  1
+  I  I1  1  0.52707446  0.00000000  0.64148080  1
+  I  I2  1  0.49140579  0.50000000  0.40604764  1
+  I  I3  1  0.15727617  0.00000000  0.44392344  1
+  I  I4  1  0.06405469  0.00000000  0.12673211  1
+  I  I5  1  0.35907733  0.50000000  0.21047372  1
+  I  I6  1  0.61199993  0.50000000  0.81290537  1
+  I  I7  1  0.97797590  0.00000000  0.73851156  1
+  Ba  Ba8  1  0.37705341  0.00000000  0.85216916  1
+  U  U9  1  0.28095061  0.00000000  0.29351708  1
+  Br  Br10  1  0.72096002  0.00000000  0.24792272  1
+  I  I11  1  0.47128493  0.00000000  0.05535912  1
+  I  I12  1  0.80340958  0.00000000  0.94756430  1
+  Pb  Pb13  1  0.66775030  0.00000000  0.47681978  1
+  Na  Na14  1  0.64875484  0.50000000  0.12899148  1
+  I  I15  1  0.84890431  0.50000000  0.55074310  1
+  Cs  Cs16  1  0.21835847  0.50000000  0.62303555  1
+  I  I17  1  0.13771772  0.50000000  0.90482038  1
+  Pb  Pb18  1  0.95314211  0.50000000  0.04293064  1
+  Hf  Hf19  1  0.86188751  0.50000000  0.81147546  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Eu4PO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.48835516
+_cell_length_b   5.48835495
+_cell_length_c   7.98479557
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000411
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu4PO3
+_chemical_formula_sum   'Eu4 P1 O3'
+_cell_volume   208.29498511
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.00000000  0.00000000  0.92054784  1
+  Eu  Eu1  1  0.66666669  0.33333334  0.67487258  1
+  Eu  Eu2  1  0.33333334  0.66666669  0.21698113  1
+  Eu  Eu3  1  0.00000000  0.00000000  0.46798754  1
+  P  P4  1  0.66666669  0.33333334  0.15880087  1
+  O  O5  1  0.70610672  0.06533577  0.11452901  1
+  O  O6  1  0.93466425  0.64077097  0.11452901  1
+  O  O7  1  0.35922903  0.29389328  0.11452901  1

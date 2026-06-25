@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_EuPtSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.41202021
+_cell_length_b   6.41202020
+_cell_length_c   9.12489319
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999265
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuPtSe4
+_chemical_formula_sum   'Eu2 Pt2 Se8'
+_cell_volume   324.89888244
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.33333334  0.66666669  0.50509411  1
+  Se  Se1  1  0.66666669  0.33333334  0.49490589  1
+  Se  Se2  1  0.64617699  0.99116546  0.84681195  1
+  Se  Se3  1  0.00883454  0.65501153  0.84681195  1
+  Se  Se4  1  0.34498847  0.35382301  0.84681195  1
+  Se  Se5  1  0.35382301  0.00883454  0.15318805  1
+  Se  Se6  1  0.99116546  0.34498847  0.15318805  1
+  Se  Se7  1  0.65501153  0.64617699  0.15318805  1
+  Eu  Eu8  1  0.00000000  0.00000000  0.68185824  1
+  Eu  Eu9  1  0.00000000  0.00000000  0.31814176  1
+  Pt  Pt10  1  0.33333334  0.66666669  0.99296677  1
+  Pt  Pt11  1  0.66666669  0.33333334  0.00703323  1

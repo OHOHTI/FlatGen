@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_BaDyHfMnAg2GePSe10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.99753221
+_cell_length_b   7.11375053
+_cell_length_c   9.18152905
+_cell_angle_alpha   87.36328991
+_cell_angle_beta   93.35235513
+_cell_angle_gamma   94.72981709
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaDyHfMnAg2GePSe10
+_chemical_formula_sum   'Ba1 Dy1 Hf1 Mn1 Ag2 Ge1 P1 Se10'
+_cell_volume   454.31901180
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.70455146  0.30432135  0.46022743  1
+  Se  Se1  1  0.23862749  0.80648756  0.47278813  1
+  Se  Se2  1  0.63134962  0.90907526  0.77157664  1
+  Se  Se3  1  0.47760335  0.42693654  0.81421834  1
+  Se  Se4  1  0.96146321  0.54304087  0.73028278  1
+  Se  Se5  1  0.42023766  0.07367975  0.18603057  1
+  Se  Se6  1  0.49075595  0.56671417  0.18692602  1
+  Se  Se7  1  0.98267215  0.51113719  0.18098974  1
+  Hf  Hf8  1  0.72579336  0.56436640  0.95748258  1
+  Se  Se9  1  0.93332553  0.96935338  0.18703018  1
+  Ag  Ag10  1  0.21190916  0.30685386  0.99036229  1
+  Ba  Ba11  1  0.21088831  0.30839032  0.49863884  1
+  Dy  Dy12  1  0.83289075  0.75595421  0.52353805  1
+  Se  Se13  1  0.03909892  0.05081916  0.71009696  1
+  Ag  Ag14  1  0.33484009  0.82922572  0.90444434  1
+  P  P15  1  0.62031060  0.31153768  0.25142488  1
+  Ge  Ge16  1  0.24388309  0.78930753  0.23439188  1
+  Mn  Mn17  1  0.90866309  0.06219634  0.93774372  1

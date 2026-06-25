@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_KFeOsF15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.95517635
+_cell_length_b   7.95517612
+_cell_length_c   4.17280817
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000493
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KFeOsF15
+_chemical_formula_sum   'K1 Fe1 Os1 F15'
+_cell_volume   228.69603802
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.23720889  0.44007191  0.69220024  1
+  F  F1  1  0.55992806  0.79713696  0.69220024  1
+  F  F2  1  0.20286302  0.76279110  0.69220024  1
+  F  F3  1  0.85778439  0.07322565  0.73239613  1
+  F  F4  1  0.92677438  0.78455877  0.73239613  1
+  F  F5  1  0.21544123  0.14221561  0.73239613  1
+  F  F6  1  0.07578693  0.22087105  0.22705728  1
+  F  F7  1  0.77912897  0.85491586  0.22705728  1
+  F  F8  1  0.14508411  0.92421305  0.22705728  1
+  F  F9  1  0.54844046  0.49189383  0.73014045  1
+  F  F10  1  0.50810617  0.05654663  0.73014045  1
+  F  F11  1  0.94345337  0.45155954  0.73014045  1
+  F  F12  1  0.88418567  0.52995735  0.20584194  1
+  F  F13  1  0.47004265  0.35422832  0.20584194  1
+  F  F14  1  0.64577168  0.11581433  0.20584194  1
+  Fe  Fe15  1  0.00000000  0.00000000  0.99548113  1
+  Os  Os16  1  0.00000000  0.00000000  0.48567981  1
+  K  K17  1  0.33333334  0.66666669  0.21859039  1

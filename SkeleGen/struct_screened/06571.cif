@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_LiMnCrAgPCl12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.13923645
+_cell_length_b   7.13923637
+_cell_length_c   9.31566429
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000479
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiMnCrAgPCl12
+_chemical_formula_sum   'Li1 Mn1 Cr1 Ag1 P1 Cl12'
+_cell_volume   411.19513455
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.73847467  0.13090901  0.75763971  1
+  Cl  Cl1  1  0.86909097  0.60756564  0.75763971  1
+  Cl  Cl2  1  0.39243436  0.26152533  0.75763971  1
+  Cl  Cl3  1  0.18091045  0.82968003  0.58271772  1
+  Cl  Cl4  1  0.17031997  0.35123044  0.58271772  1
+  Cl  Cl5  1  0.64876956  0.81908953  0.58271772  1
+  Cl  Cl6  1  0.70750040  0.04953485  0.28732169  1
+  Cl  Cl7  1  0.95046514  0.65796554  0.28732169  1
+  Cl  Cl8  1  0.34203446  0.29249960  0.28732169  1
+  Ag  Ag9  1  0.00000000  0.00000000  0.94040835  1
+  Mn  Mn10  1  0.00000000  0.00000000  0.40731949  1
+  P  P11  1  0.33333334  0.66666669  0.52160007  1
+  Li  Li12  1  0.33333334  0.66666669  0.10706346  1
+  Cr  Cr13  1  0.66666669  0.33333334  0.15444602  1
+  Cl  Cl14  1  0.62163484  0.61106205  0.04016221  1
+  Cl  Cl15  1  0.38893795  0.01057279  0.04016221  1
+  Cl  Cl16  1  0.98942721  0.37836516  0.04016221  1

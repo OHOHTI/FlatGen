@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_CuGeRuF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.63727604
+_cell_length_b   5.56480225
+_cell_length_c   7.91679955
+_cell_angle_alpha   94.14531994
+_cell_angle_beta   101.54397832
+_cell_angle_gamma   87.41783024
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuGeRuF12
+_chemical_formula_sum   'Cu1 Ge1 Ru1 F12'
+_cell_volume   199.54305297
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.58073378  0.75912523  0.21544623  1
+  F  F1  1  0.82929081  0.24555553  0.74021333  1
+  F  F2  1  0.09472577  0.73604029  0.77294075  1
+  F  F3  1  0.43407685  0.22399582  0.28895283  1
+  F  F4  1  0.48006561  0.96304220  0.92117608  1
+  F  F5  1  0.97595960  0.94742095  0.43769044  1
+  F  F6  1  0.03653938  0.50376636  0.09214526  1
+  F  F7  1  0.43600360  0.47994855  0.57209539  1
+  F  F8  1  0.90230942  0.44416037  0.40901229  1
+  F  F9  1  0.51728028  0.50460804  0.94908512  1
+  F  F10  1  0.52187300  0.00416588  0.56267345  1
+  F  F11  1  0.03744188  0.93150401  0.09666575  1
+  Ru  Ru12  1  0.04260426  0.71417934  0.28897485  1
+  Ge  Ge13  1  0.29675591  0.72061801  0.98964286  1
+  Cu  Cu14  1  0.65745026  0.25118586  0.49432078  1

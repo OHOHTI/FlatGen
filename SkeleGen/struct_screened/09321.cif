@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_BaEu4Al2PPbO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.35752487
+_cell_length_b   5.35752477
+_cell_length_c   12.77801323
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000356
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaEu4Al2PPbO9
+_chemical_formula_sum   'Ba1 Eu4 Al2 P1 Pb1 O9'
+_cell_volume   317.63059876
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.00000000  0.00000000  0.89572775  1
+  Eu  Eu1  1  0.66666669  0.33333334  0.63039637  1
+  Eu  Eu2  1  0.33333334  0.66666669  0.37218726  1
+  Eu  Eu3  1  0.00000000  0.00000000  0.46892977  1
+  O  O4  1  0.33333334  0.66666669  0.56632519  1
+  Ba  Ba5  1  0.33333334  0.66666669  0.08215587  1
+  Pb  Pb6  1  0.33333334  0.66666669  0.73024148  1
+  Al  Al7  1  0.66666669  0.33333334  0.85752773  1
+  Al  Al8  1  0.66666669  0.33333334  0.14528981  1
+  O  O9  1  0.66666669  0.33333334  0.00251424  1
+  P  P10  1  0.66666669  0.33333334  0.32570693  1
+  O  O11  1  0.66666669  0.33333334  0.44361845  1
+  O  O12  1  0.37203619  0.33401653  0.79475200  1
+  O  O13  1  0.66598344  0.03801966  0.79475200  1
+  O  O14  1  0.96198034  0.62796378  0.79475200  1
+  O  O15  1  0.39077300  0.33334541  0.25670990  1
+  O  O16  1  0.66665459  0.05742759  0.25670990  1
+  O  O17  1  0.94257241  0.60922700  0.25670990  1

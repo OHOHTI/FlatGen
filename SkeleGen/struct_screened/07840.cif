@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Al2Fe2Se4O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.11157274
+_cell_length_b   5.11157259
+_cell_length_c   9.52066994
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999170
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al2Fe2Se4O9
+_chemical_formula_sum   'Al2 Fe2 Se4 O9'
+_cell_volume   215.43053299
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.00000000  0.00000000  0.00000000  1
+  Se  Se1  1  0.33333334  0.66666669  0.36836556  1
+  Se  Se2  1  0.66666669  0.33333334  0.63163447  1
+  Se  Se3  1  0.00000000  0.00000000  0.50000000  1
+  Al  Al4  1  0.33333334  0.66666669  0.10955926  1
+  Al  Al5  1  0.66666669  0.33333334  0.89044076  1
+  Fe  Fe6  1  0.33333334  0.66666669  0.81467402  1
+  Fe  Fe7  1  0.66666669  0.33333334  0.18532598  1
+  O  O8  1  0.37251878  0.00000000  0.00000000  1
+  O  O9  1  0.00000000  0.37251878  0.00000000  1
+  O  O10  1  0.62748122  0.62748122  0.00000000  1
+  O  O11  1  0.39142495  0.35493353  0.73564231  1
+  O  O12  1  0.64506650  0.03649142  0.73564231  1
+  O  O13  1  0.96350861  0.60857505  0.73564231  1
+  O  O14  1  0.35493353  0.39142495  0.26435769  1
+  O  O15  1  0.03649142  0.64506650  0.26435769  1
+  O  O16  1  0.60857505  0.96350861  0.26435769  1

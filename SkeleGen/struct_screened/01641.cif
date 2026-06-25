@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KTiTlAg2GePPb(Se3Cl)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.22183609
+_cell_length_b   7.22183585
+_cell_length_c   12.15271091
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000546
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KTiTlAg2GePPb(Se3Cl)3
+_chemical_formula_sum   'K1 Ti1 Tl1 Ag2 Ge1 P1 Pb1 Se9 Cl3'
+_cell_volume   548.90731080
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.95625812  0.30603188  0.48975247  1
+  Se  Se1  1  0.69396812  0.65022624  0.48975247  1
+  Se  Se2  1  0.34977376  0.04374188  0.48975247  1
+  Se  Se3  1  0.02944489  0.66558892  0.73622364  1
+  Se  Se4  1  0.33441108  0.36385596  0.73622364  1
+  Se  Se5  1  0.63614404  0.97055513  0.73622364  1
+  Se  Se6  1  0.34208086  0.32823518  0.22503325  1
+  Se  Se7  1  0.67176485  0.01384568  0.22503325  1
+  Se  Se8  1  0.98615432  0.65791917  0.22503325  1
+  Pb  Pb9  1  0.00000000  0.00000000  0.36282054  1
+  Ag  Ag10  1  0.00000000  0.00000000  0.82498729  1
+  Ag  Ag11  1  0.33333334  0.66666669  0.10580484  1
+  P  P12  1  0.33333334  0.66666669  0.63989347  1
+  Ti  Ti13  1  0.33333334  0.66666669  0.85528928  1
+  Tl  Tl14  1  0.33333334  0.66666669  0.36822259  1
+  K  K15  1  0.66666669  0.33333334  0.98476601  1
+  Ge  Ge16  1  0.66666669  0.33333334  0.38370293  1
+  Cl  Cl17  1  0.06009636  0.35647759  0.95976669  1
+  Cl  Cl18  1  0.64352238  0.70361876  0.95976669  1
+  Cl  Cl19  1  0.29638124  0.93990362  0.95976669  1

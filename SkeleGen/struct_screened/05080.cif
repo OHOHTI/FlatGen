@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Ba2PrEuGaI12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.38465881
+_cell_length_b   9.38465897
+_cell_length_c   10.57397270
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999273
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2PrEuGaI12
+_chemical_formula_sum   'Ba2 Pr1 Eu1 Ga1 I12'
+_cell_volume   806.50271151
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.87818235  0.22977218  0.64757758  1
+  I  I1  1  0.77022779  0.64841020  0.64757758  1
+  I  I2  1  0.35158980  0.12181765  0.64757758  1
+  I  I3  1  0.12107153  0.68446553  0.65585923  1
+  I  I4  1  0.31553447  0.43660599  0.65585923  1
+  I  I5  1  0.56339401  0.87892848  0.65585923  1
+  I  I6  1  0.31330407  0.30968282  0.28428808  1
+  I  I7  1  0.69031715  0.00362125  0.28428808  1
+  I  I8  1  0.99637878  0.68669593  0.28428808  1
+  Pr  Pr9  1  0.00000000  0.00000000  0.14492978  1
+  Eu  Eu10  1  0.00000000  0.00000000  0.50482315  1
+  Ba  Ba11  1  0.33333334  0.66666669  0.15826219  1
+  Ga  Ga12  1  0.33333334  0.66666669  0.77317399  1
+  Ba  Ba13  1  0.66666669  0.33333334  0.91127050  1
+  I  I14  1  0.30658874  0.96896553  0.99646145  1
+  I  I15  1  0.03103447  0.33762324  0.99646145  1
+  I  I16  1  0.66237676  0.69341123  0.99646145  1

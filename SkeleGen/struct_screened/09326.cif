@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ca3Eu10GaAgGePb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.17503738
+_cell_length_b   10.17503693
+_cell_length_c   6.79156971
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000458
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3Eu10GaAgGePb2
+_chemical_formula_sum   'Ca3 Eu10 Ga1 Ag1 Ge1 Pb2'
+_cell_volume   608.93758706
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.61855096  0.08747038  0.58574700  1
+  Eu  Eu1  1  0.91252959  0.53108060  0.58574700  1
+  Eu  Eu2  1  0.46891940  0.38144904  0.58574700  1
+  Eu  Eu3  1  0.22524683  0.94254482  0.60133392  1
+  Eu  Eu4  1  0.05745518  0.28270203  0.60133392  1
+  Eu  Eu5  1  0.71729797  0.77475315  0.60133392  1
+  Eu  Eu6  1  0.99808562  0.74154472  0.12122866  1
+  Eu  Eu7  1  0.25845528  0.25654089  0.12122866  1
+  Eu  Eu8  1  0.74345911  0.00191438  0.12122866  1
+  Ge  Ge9  1  0.00000000  0.00000000  0.40099233  1
+  Pb  Pb10  1  0.00000000  0.00000000  0.84236503  1
+  Pb  Pb11  1  0.33333334  0.66666669  0.35828778  1
+  Eu  Eu12  1  0.33333334  0.66666669  0.86089128  1
+  Ag  Ag13  1  0.66666669  0.33333334  0.28992805  1
+  Ga  Ga14  1  0.66666669  0.33333334  0.88463748  1
+  Ca  Ca15  1  0.98324573  0.39236945  0.09428505  1
+  Ca  Ca16  1  0.60763055  0.59087628  0.09428505  1
+  Ca  Ca17  1  0.40912372  0.01675427  0.09428505  1

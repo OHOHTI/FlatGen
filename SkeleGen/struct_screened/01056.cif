@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_TmFeCuNiHF11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.33543966
+_cell_length_b   5.48944587
+_cell_length_c   6.65573168
+_cell_angle_alpha   90.92483747
+_cell_angle_beta   95.66211364
+_cell_angle_gamma   92.41357286
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmFeCuNiHF11
+_chemical_formula_sum   'Tm1 Fe1 Cu1 Ni1 H1 F11'
+_cell_volume   193.77354360
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66585267  0.34884608  0.67338735  1
+  F  F1  1  0.40066743  0.56391323  0.26268831  1
+  F  F2  1  0.73121107  0.12382978  0.26987427  1
+  F  F3  1  0.25053227  0.74651647  0.86884236  1
+  H  H4  1  0.49152899  0.38161135  0.11395331  1
+  F  F5  1  0.76941764  0.90622580  0.91836661  1
+  Ni  Ni6  1  0.86787820  0.92738664  0.46947280  1
+  F  F7  1  0.94605386  0.65140879  0.38624388  1
+  F  F8  1  0.92840898  0.42664602  0.04508138  1
+  Cu  Cu9  1  0.95328975  0.19590794  0.84398890  1
+  Tm  Tm10  1  0.49050066  0.88241422  0.11675228  1
+  F  F11  1  0.53004044  0.81903887  0.54539961  1
+  F  F12  1  0.06853235  0.17023006  0.58418769  1
+  F  F13  1  0.23973931  0.02750336  0.26416308  1
+  Fe  Fe14  1  0.30511224  0.54638034  0.58176214  1
+  F  F15  1  0.38136002  0.23383524  0.95127887  1

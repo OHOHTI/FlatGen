@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_FeSiPO10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.99738884
+_cell_length_b   4.99738847
+_cell_length_c   8.80358601
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000560
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeSiPO10
+_chemical_formula_sum   'Fe1 Si1 P1 O10'
+_cell_volume   190.40417708
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.71659780  0.69442016  0.22646785  1
+  O  O1  1  0.30557984  0.02217764  0.22646785  1
+  O  O2  1  0.97782236  0.28340220  0.22646785  1
+  O  O3  1  0.69108820  0.05082701  0.72591639  1
+  O  O4  1  0.94917297  0.64026117  0.72591639  1
+  O  O5  1  0.35973883  0.30891180  0.72591639  1
+  O  O6  1  0.33333334  0.66666669  0.06096461  1
+  O  O7  1  0.66666669  0.33333334  0.49318030  1
+  O  O8  1  0.00000000  0.00000000  0.44951135  1
+  Si  Si9  1  0.00000000  0.00000000  0.28171101  1
+  Fe  Fe10  1  0.00000000  0.00000000  0.76425546  1
+  O  O11  1  0.00000000  0.00000000  0.94001609  1
+  P  P12  1  0.66666669  0.33333334  0.66719288  1

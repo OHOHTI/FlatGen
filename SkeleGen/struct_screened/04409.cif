@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_La2HoZnSbO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.56851292
+_cell_length_b   5.56851287
+_cell_length_c   7.47519875
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999180
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2HoZnSbO8
+_chemical_formula_sum   'La2 Ho1 Zn1 Sb1 O8'
+_cell_volume   200.73905271
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.66666669  0.33333334  0.48847729  1
+  O  O1  1  0.33333334  0.66666669  0.61865366  1
+  O  O2  1  0.68176067  0.03829261  0.85395581  1
+  O  O3  1  0.96170741  0.64346808  0.85395581  1
+  O  O4  1  0.35653192  0.31823933  0.85395581  1
+  O  O5  1  0.28839651  0.95731086  0.24390072  1
+  O  O6  1  0.04268914  0.33108568  0.24390072  1
+  O  O7  1  0.66891432  0.71160352  0.24390072  1
+  La  La8  1  0.00000000  0.00000000  0.45833650  1
+  La  La9  1  0.00000000  0.00000000  0.00885391  1
+  Ho  Ho10  1  0.33333334  0.66666669  0.03685104  1
+  Zn  Zn11  1  0.66666669  0.33333334  0.23489226  1
+  Sb  Sb12  1  0.66666669  0.33333334  0.73945749  1

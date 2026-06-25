@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_FeCl5O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.61208916
+_cell_length_b   6.61208908
+_cell_length_c   9.97746849
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000515
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeCl5O
+_chemical_formula_sum   'Fe2 Cl10 O2'
+_cell_volume   377.77078714
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.54642242  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.04642248  1
+  Cl  Cl2  1  0.16626279  0.32682332  0.20869973  1
+  Cl  Cl3  1  0.67317665  0.83943945  0.20869973  1
+  Cl  Cl4  1  0.16056053  0.83373719  0.20869973  1
+  Cl  Cl5  1  0.32682332  0.16626279  0.70869970  1
+  Cl  Cl6  1  0.83943945  0.67317665  0.70869970  1
+  Cl  Cl7  1  0.83373719  0.16056053  0.70869970  1
+  Cl  Cl8  1  0.33333334  0.66666669  0.87436885  1
+  Cl  Cl9  1  0.66666669  0.33333334  0.37436891  1
+  O  O10  1  0.00000000  0.00000000  0.95467591  1
+  O  O11  1  0.00000000  0.00000000  0.45467591  1
+  Fe  Fe12  1  0.00000000  0.00000000  0.76604551  1
+  Fe  Fe13  1  0.00000000  0.00000000  0.26604557  1

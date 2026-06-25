@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_RbCuMo(PCl4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.24563169
+_cell_length_b   6.24563172
+_cell_length_c   10.15244865
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000491
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbCuMo(PCl4)2
+_chemical_formula_sum   'Rb1 Cu1 Mo1 P2 Cl8'
+_cell_volume   342.96843706
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.65168375  0.68755120  0.23801520  1
+  Cl  Cl1  1  0.31244880  0.96413255  0.23801520  1
+  Cl  Cl2  1  0.03586745  0.34831625  0.23801520  1
+  Cl  Cl3  1  0.66425216  0.03796042  0.64735794  1
+  Cl  Cl4  1  0.96203959  0.62629175  0.64735794  1
+  Cl  Cl5  1  0.37370825  0.33574784  0.64735794  1
+  Cl  Cl6  1  0.33333334  0.66666669  0.97239798  1
+  Cl  Cl7  1  0.66666669  0.33333334  0.40560514  1
+  Mo  Mo8  1  0.00000000  0.00000000  0.39631960  1
+  Rb  Rb9  1  0.00000000  0.00000000  0.90304011  1
+  P  P10  1  0.33333334  0.66666669  0.16968200  1
+  P  P11  1  0.66666669  0.33333334  0.59723675  1
+  Cu  Cu12  1  0.66666669  0.33333334  0.09536880  1

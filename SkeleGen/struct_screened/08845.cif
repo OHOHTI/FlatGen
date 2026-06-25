@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Tl2Ir3I10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.64037132
+_cell_length_b   10.64037111
+_cell_length_c   5.76294279
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000362
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl2Ir3I10
+_chemical_formula_sum   'Tl2 Ir3 I10'
+_cell_volume   565.05208742
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.81340492  0.25231797  0.65451038  1
+  I  I1  1  0.74768203  0.56108695  0.65451038  1
+  I  I2  1  0.43891305  0.18659508  0.65451038  1
+  I  I3  1  0.25231797  0.81340492  0.65451038  1
+  I  I4  1  0.56108695  0.74768203  0.65451038  1
+  I  I5  1  0.18659508  0.43891305  0.65451038  1
+  I  I6  1  0.64201975  0.00000000  0.13998163  1
+  I  I7  1  0.00000000  0.64201975  0.13998163  1
+  I  I8  1  0.35798025  0.35798025  0.13998163  1
+  I  I9  1  0.00000000  0.00000000  0.64361030  1
+  Tl  Tl10  1  0.33333334  0.66666669  0.13548826  1
+  Tl  Tl11  1  0.66666669  0.33333334  0.13548826  1
+  Ir  Ir12  1  0.43214390  0.00000000  0.90877807  1
+  Ir  Ir13  1  0.00000000  0.43214390  0.90877807  1
+  Ir  Ir14  1  0.56785607  0.56785607  0.90877807  1

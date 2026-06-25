@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SbWBr10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.16274738
+_cell_length_b   7.16274720
+_cell_length_c   9.24020386
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000525
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SbWBr10
+_chemical_formula_sum   'Sb1 W1 Br10'
+_cell_volume   410.55507005
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.33333334  0.66666669  0.58828330  1
+  Br  Br1  1  0.66666669  0.33333334  0.41171670  1
+  Br  Br2  1  0.88274592  0.68443495  0.69576424  1
+  Br  Br3  1  0.31556505  0.19831097  0.69576424  1
+  Br  Br4  1  0.80168903  0.11725408  0.69576424  1
+  Br  Br5  1  0.68443495  0.88274592  0.30423576  1
+  Br  Br6  1  0.19831097  0.31556505  0.30423576  1
+  Br  Br7  1  0.11725408  0.80168903  0.30423576  1
+  Br  Br8  1  0.33333334  0.66666669  0.97655791  1
+  Br  Br9  1  0.66666669  0.33333334  0.02344209  1
+  Sb  Sb10  1  0.00000000  0.00000000  0.00000000  1
+  W  W11  1  0.00000000  0.00000000  0.50000000  1

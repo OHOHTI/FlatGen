@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_NaSrFeSnOF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27279631
+_cell_length_b   5.58837421
+_cell_length_c   7.27983618
+_cell_angle_alpha   84.91089643
+_cell_angle_beta   89.47662561
+_cell_angle_gamma   83.21806786
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSrFeSnOF12
+_chemical_formula_sum   'Na1 Sr1 Fe1 Sn1 O1 F12'
+_cell_volume   212.16940639
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.67526960  0.86996830  0.24179350  1
+  F  F1  1  0.72816080  0.26025066  0.74665481  1
+  F  F2  1  0.20209312  0.79943627  0.70062155  1
+  F  F3  1  0.35940278  0.26251158  0.22622384  1
+  F  F4  1  0.50691170  0.00560529  0.94913036  1
+  F  F5  1  0.02922308  0.03814121  0.41483226  1
+  F  F6  1  0.99152827  0.48220250  0.02839273  1
+  F  F7  1  0.53562462  0.49400511  0.47882470  1
+  F  F8  1  0.02752795  0.54186994  0.39869481  1
+  F  F9  1  0.52906632  0.52343875  0.98874450  1
+  F  F10  1  0.50657398  0.04361166  0.50817436  1
+  F  F11  1  0.00821809  0.97099751  0.99335575  1
+  Sr  Sr12  1  0.79056549  0.70511228  0.69718593  1
+  Fe  Fe13  1  0.25481585  0.26507783  0.47450086  1
+  Sn  Sn14  1  0.74592179  0.19331470  0.08900009  1
+  Na  Na15  1  0.28483802  0.71502364  0.20250170  1
+  O  O16  1  0.18145756  0.31148329  0.68786478  1

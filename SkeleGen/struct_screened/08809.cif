@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_KLiTlPH3Cl8O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.34484339
+_cell_length_b   6.34484301
+_cell_length_c   11.64935589
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000694
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KLiTlPH3Cl8O3
+_chemical_formula_sum   'K1 Li1 Tl1 P1 H3 Cl8 O3'
+_cell_volume   406.13863239
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.02714548  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.97104251  1
+  Cl  Cl2  1  0.49255389  0.50744611  0.63024122  1
+  Cl  Cl3  1  0.49255389  0.98510778  0.63024122  1
+  Cl  Cl4  1  0.01489222  0.50744611  0.63024122  1
+  Cl  Cl5  1  0.48427781  0.51572216  0.28528225  1
+  Cl  Cl6  1  0.48427781  0.96855563  0.28528225  1
+  Cl  Cl7  1  0.03144437  0.51572216  0.28528225  1
+  O  O8  1  0.00000000  0.00000000  0.91562814  1
+  O  O9  1  0.00000000  0.00000000  0.16383852  1
+  K  K10  1  0.00000000  0.00000000  0.62115169  1
+  H  H11  1  0.00000000  0.00000000  0.27463531  1
+  H  H12  1  0.00000000  0.00000000  0.03252527  1
+  H  H13  1  0.00000000  0.00000000  0.83383024  1
+  P  P14  1  0.33333334  0.66666669  0.22256614  1
+  Li  Li15  1  0.33333334  0.66666669  0.80743706  1
+  Tl  Tl16  1  0.66666669  0.33333334  0.43950427  1
+  O  O17  1  0.66666669  0.33333334  0.74586636  1

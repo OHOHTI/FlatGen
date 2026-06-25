@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LiTiVFePF15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.72285048
+_cell_length_b   6.08485537
+_cell_length_c   7.09904003
+_cell_angle_alpha   89.73040129
+_cell_angle_beta   103.35416900
+_cell_angle_gamma   99.36757372
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTiVFePF15
+_chemical_formula_sum   'Li1 Ti1 V1 Fe1 P1 F15'
+_cell_volume   278.62058204
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.23468758  0.57157987  0.47144210  1
+  F  F1  1  0.39130130  0.88947183  0.21218026  1
+  F  F2  1  0.48462772  0.69124955  0.85435402  1
+  F  F3  1  0.05457988  0.14005935  0.62463570  1
+  F  F4  1  0.89852297  0.03804192  0.94793397  1
+  F  F5  1  0.04328441  0.87129688  0.23839390  1
+  F  F6  1  0.39058164  0.21512061  0.87738186  1
+  F  F7  1  0.75617105  0.15650874  0.20758642  1
+  F  F8  1  0.82976860  0.67397958  0.44801545  1
+  F  F9  1  0.13811798  0.34267712  0.20103806  1
+  F  F10  1  0.60886484  0.87402147  0.54714513  1
+  F  F11  1  0.12153129  0.72150785  0.88619930  1
+  F  F12  1  0.60107279  0.54854661  0.13739507  1
+  F  F13  1  0.52660239  0.30077544  0.53821653  1
+  F  F14  1  0.78823465  0.45823085  0.85021490  1
+  V  V15  1  0.56959647  0.45840827  0.90186852  1
+  P  P16  1  0.96841609  0.12549524  0.14406988  1
+  Ti  Ti17  1  0.22687702  0.66117555  0.17930847  1
+  Fe  Fe18  1  0.23612264  0.26482236  0.52129418  1
+  Li  Li19  1  0.65259022  0.87087929  0.29323629  1

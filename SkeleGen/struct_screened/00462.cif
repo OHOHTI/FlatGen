@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Cs2Al2TlH2F8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.02793121
+_cell_length_b   6.02793114
+_cell_length_c   9.90930939
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000562
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2Al2TlH2F8
+_chemical_formula_sum   'Cs2 Al2 Tl1 H2 F8'
+_cell_volume   311.82473768
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.98344302  1
+  F  F1  1  0.66666669  0.33333334  0.01655698  1
+  F  F2  1  0.52004373  0.47995627  0.77069402  1
+  F  F3  1  0.52004373  0.04008746  0.77069402  1
+  F  F4  1  0.95991254  0.47995627  0.77069402  1
+  F  F5  1  0.47995627  0.52004373  0.22930598  1
+  F  F6  1  0.04008746  0.52004373  0.22930598  1
+  F  F7  1  0.47995627  0.95991254  0.22930598  1
+  Tl  Tl8  1  0.00000000  0.00000000  0.50000000  1
+  Al  Al9  1  0.33333334  0.66666669  0.15501402  1
+  Al  Al10  1  0.66666669  0.33333334  0.84498596  1
+  H  H11  1  0.33333334  0.66666669  0.84062529  1
+  H  H12  1  0.66666669  0.33333334  0.15937471  1
+  Cs  Cs13  1  0.33333334  0.66666669  0.58195215  1
+  Cs  Cs14  1  0.66666669  0.33333334  0.41804785  1

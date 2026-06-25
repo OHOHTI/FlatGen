@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_NaUZnInSnGeTe11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.26882362
+_cell_length_b   7.26882333
+_cell_length_c   13.51998138
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000570
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaUZnInSnGeTe11
+_chemical_formula_sum   'Na1 U1 Zn1 In1 Sn1 Ge1 Te11'
+_cell_volume   618.63565150
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.67552936  0.66784960  0.30838287  1
+  Te  Te1  1  0.33215040  0.00767976  0.30838287  1
+  Te  Te2  1  0.99232024  0.32447064  0.30838287  1
+  Te  Te3  1  0.67549092  0.00264013  0.67062491  1
+  Te  Te4  1  0.99735987  0.67285079  0.67062491  1
+  Te  Te5  1  0.32714921  0.32450908  0.67062491  1
+  Te  Te6  1  0.33333334  0.66666669  0.09244099  1
+  Te  Te7  1  0.66666669  0.33333334  0.47674030  1
+  Sn  Sn8  1  0.00000000  0.00000000  0.12606721  1
+  In  In9  1  0.00000000  0.00000000  0.47173625  1
+  Na  Na10  1  0.33333334  0.66666669  0.52719074  1
+  Zn  Zn11  1  0.33333334  0.66666669  0.26770672  1
+  U  U12  1  0.33333334  0.66666669  0.80933249  1
+  Ge  Ge13  1  0.66666669  0.33333334  0.80497986  1
+  Te  Te14  1  0.69495100  0.66083121  0.92469585  1
+  Te  Te15  1  0.33916879  0.03411978  0.92469585  1
+  Te  Te16  1  0.96588022  0.30504900  0.92469585  1

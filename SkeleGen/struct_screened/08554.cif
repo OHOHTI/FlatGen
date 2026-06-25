@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaNd2CoO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.83415937
+_cell_length_b   5.83415913
+_cell_length_c   9.46475124
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000407
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaNd2CoO6
+_chemical_formula_sum   'Na2 Nd4 Co2 O12'
+_cell_volume   278.99497267
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.00000000  0.00000000  0.00000000  1
+  Nd  Nd1  1  0.33333334  0.66666669  0.25209254  1
+  Nd  Nd2  1  0.66666669  0.33333334  0.74790746  1
+  Nd  Nd3  1  0.00000000  0.00000000  0.50000000  1
+  Co  Co4  1  0.33333334  0.66666669  0.61549532  1
+  Co  Co5  1  0.66666669  0.33333334  0.38450468  1
+  Na  Na6  1  0.33333334  0.66666669  0.90636128  1
+  Na  Na7  1  0.66666669  0.33333334  0.09363872  1
+  O  O8  1  0.32612497  0.00000000  0.00000000  1
+  O  O9  1  0.00000000  0.32612497  0.00000000  1
+  O  O10  1  0.67387503  0.67387503  0.00000000  1
+  O  O11  1  0.39633223  0.00000000  0.50000000  1
+  O  O12  1  0.00000000  0.39633223  0.50000000  1
+  O  O13  1  0.60366774  0.60366774  0.50000000  1
+  O  O14  1  0.63952798  0.95417577  0.70563734  1
+  O  O15  1  0.04582423  0.68535221  0.70563734  1
+  O  O16  1  0.31464779  0.36047202  0.70563734  1
+  O  O17  1  0.95417577  0.63952798  0.29436266  1
+  O  O18  1  0.68535221  0.04582423  0.29436266  1
+  O  O19  1  0.36047202  0.31464779  0.29436266  1

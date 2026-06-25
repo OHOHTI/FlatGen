@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NbAuCl5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.30599451
+_cell_length_b   6.30599447
+_cell_length_c   11.38457489
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000520
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbAuCl5
+_chemical_formula_sum   'Nb2 Au2 Cl10'
+_cell_volume   392.06186488
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.52889293  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.02889299  1
+  Cl  Cl2  1  0.28914821  0.32621664  0.25072297  1
+  Cl  Cl3  1  0.67378336  0.96293157  0.25072297  1
+  Cl  Cl4  1  0.03706843  0.71085179  0.25072297  1
+  Cl  Cl5  1  0.71085179  0.67378336  0.75072300  1
+  Cl  Cl6  1  0.32621664  0.03706843  0.75072300  1
+  Cl  Cl7  1  0.96293157  0.28914821  0.75072300  1
+  Cl  Cl8  1  0.33333334  0.66666669  0.92771930  1
+  Cl  Cl9  1  0.66666669  0.33333334  0.42771935  1
+  Nb  Nb10  1  0.00000000  0.00000000  0.87540877  1
+  Nb  Nb11  1  0.00000000  0.00000000  0.37540877  1
+  Au  Au12  1  0.33333334  0.66666669  0.33165932  1
+  Au  Au13  1  0.66666669  0.33333334  0.83165932  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Na2LiZrAlF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44485474
+_cell_length_b   5.44485449
+_cell_length_c   7.10464811
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000440
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2LiZrAlF8
+_chemical_formula_sum   'Na2 Li1 Zr1 Al1 F8'
+_cell_volume   182.40878926
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66666669  0.33333334  0.48493049  1
+  F  F1  1  0.33333334  0.66666669  0.44032076  1
+  F  F2  1  0.61868596  0.98706013  0.74988568  1
+  F  F3  1  0.01293987  0.63162583  0.74988568  1
+  F  F4  1  0.36837417  0.38131404  0.74988568  1
+  F  F5  1  0.37863126  0.03800774  0.10302426  1
+  F  F6  1  0.96199226  0.34062353  0.10302426  1
+  F  F7  1  0.65937650  0.62136877  0.10302426  1
+  Na  Na8  1  0.00000000  0.00000000  0.38706091  1
+  Na  Na9  1  0.00000000  0.00000000  0.93983167  1
+  Li  Li10  1  0.33333334  0.66666669  0.16386157  1
+  Al  Al11  1  0.33333334  0.66666669  0.66387433  1
+  Zr  Zr12  1  0.66666669  0.33333334  0.91097337  1

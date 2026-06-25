@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_KNaLiTiPIO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27920151
+_cell_length_b   5.27920135
+_cell_length_c   9.71152496
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000395
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNaLiTiPIO9
+_chemical_formula_sum   'K1 Na1 Li1 Ti1 P1 I1 O9'
+_cell_volume   234.39832903
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.66666669  0.33333334  0.55485576  1
+  O  O1  1  0.33333334  0.66666669  0.42495289  1
+  O  O2  1  0.61574882  0.95594895  0.83550209  1
+  O  O3  1  0.04405105  0.65979987  0.83550209  1
+  O  O4  1  0.34020013  0.38425118  0.83550209  1
+  O  O5  1  0.37387744  0.01404462  0.19904432  1
+  O  O6  1  0.98595536  0.35983282  0.19904432  1
+  O  O7  1  0.64016718  0.62612259  0.19904432  1
+  K  K8  1  0.00000000  0.00000000  0.60051209  1
+  Na  Na9  1  0.00000000  0.00000000  0.99262553  1
+  O  O10  1  0.33333334  0.66666669  0.03546488  1
+  P  P11  1  0.33333334  0.66666669  0.87697262  1
+  Ti  Ti12  1  0.33333334  0.66666669  0.25033474  1
+  I  I13  1  0.66666669  0.33333334  0.31777710  1
+  Li  Li14  1  0.66666669  0.33333334  0.75947434  1

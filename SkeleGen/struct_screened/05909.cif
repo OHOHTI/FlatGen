@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KRbNiB(PCl7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.11216927
+_cell_length_b   9.11216888
+_cell_length_c   7.92693520
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000488
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KRbNiB(PCl7)2
+_chemical_formula_sum   'K1 Rb1 Ni1 B1 P2 Cl14'
+_cell_volume   570.00603862
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.07062465  0.24821374  0.73537397  1
+  Cl  Cl1  1  0.75178623  0.82241094  0.73537397  1
+  Cl  Cl2  1  0.17758909  0.92937535  0.73537397  1
+  Cl  Cl3  1  0.91407394  0.79539222  0.31827736  1
+  Cl  Cl4  1  0.20460778  0.11868173  0.31827736  1
+  Cl  Cl5  1  0.88131827  0.08592606  0.31827736  1
+  Cl  Cl6  1  0.47631013  0.56162757  0.31095815  1
+  Cl  Cl7  1  0.43837243  0.91468257  0.31095815  1
+  Cl  Cl8  1  0.08531743  0.52368987  0.31095815  1
+  Cl  Cl9  1  0.33333334  0.66666669  0.60238564  1
+  Cl  Cl10  1  0.66666669  0.33333334  0.07719836  1
+  Cl  Cl11  1  0.49424535  0.38472050  0.76166916  1
+  Cl  Cl12  1  0.61527950  0.10952485  0.76166916  1
+  Cl  Cl13  1  0.89047515  0.50575465  0.76166916  1
+  B  B14  1  0.00000000  0.00000000  0.40147498  1
+  K  K15  1  0.00000000  0.00000000  0.01204747  1
+  Ni  Ni16  1  0.00000000  0.00000000  0.66090715  1
+  P  P17  1  0.33333334  0.66666669  0.37865925  1
+  Rb  Rb18  1  0.33333334  0.66666669  0.96254629  1
+  P  P19  1  0.66666669  0.33333334  0.81674874  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Te5AsCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.33052874
+_cell_length_b   6.33052862
+_cell_length_c   9.14982510
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999312
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Te5AsCl3
+_chemical_formula_sum   'Te5 As1 Cl3'
+_cell_volume   317.55826131
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.00000000  0.00000000  0.01460269  1
+  Te  Te1  1  0.66666669  0.33333334  0.64387614  1
+  Te  Te2  1  0.33333334  0.66666669  0.37709033  1
+  Te  Te3  1  0.00000000  0.00000000  0.47333553  1
+  As  As4  1  0.66666669  0.33333334  0.36631140  1
+  Te  Te5  1  0.66666669  0.33333334  0.10426777  1
+  Cl  Cl6  1  0.68994147  0.98193449  0.88275731  1
+  Cl  Cl7  1  0.01806551  0.70800698  0.88275731  1
+  Cl  Cl8  1  0.29199302  0.31005853  0.88275731  1

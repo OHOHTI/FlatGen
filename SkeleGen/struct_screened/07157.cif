@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_UAlOsI10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.90364933
+_cell_length_b   7.90364898
+_cell_length_c   10.66311646
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000547
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UAlOsI10
+_chemical_formula_sum   'U1 Al1 Os1 I10'
+_cell_volume   576.85952356
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.33333334  0.66666669  0.57394969  1
+  I  I1  1  0.66666669  0.33333334  0.42179555  1
+  I  I2  1  0.84122241  0.15877759  0.72114027  1
+  I  I3  1  0.84122241  0.68244481  0.72114027  1
+  I  I4  1  0.31755519  0.15877759  0.72114027  1
+  I  I5  1  0.66666669  0.33333334  0.02449324  1
+  I  I6  1  0.15569887  0.84430110  0.26377964  1
+  I  I7  1  0.15569887  0.31139773  0.26377964  1
+  I  I8  1  0.68860227  0.84430110  0.26377964  1
+  I  I9  1  0.33333334  0.66666669  0.95571560  1
+  Os  Os10  1  0.00000000  0.00000000  0.37545997  1
+  Al  Al11  1  0.00000000  0.00000000  0.80180305  1
+  U  U12  1  0.00000000  0.00000000  0.06211141  1

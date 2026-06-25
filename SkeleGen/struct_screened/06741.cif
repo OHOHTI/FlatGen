@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CsTl3(AsS4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.41523314
+_cell_length_b   7.41523282
+_cell_length_c   8.89433289
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000565
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsTl3(AsS4)2
+_chemical_formula_sum   'Cs1 Tl3 As2 S8'
+_cell_volume   423.53917648
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.33333334  0.66666669  0.99309474  1
+  S  S1  1  0.66666669  0.33333334  0.00690526  1
+  S  S2  1  0.45423663  0.01040236  0.72482300  1
+  S  S3  1  0.98959762  0.44383428  0.72482300  1
+  S  S4  1  0.55616570  0.54576337  0.72482300  1
+  S  S5  1  0.01040236  0.45423663  0.27517700  1
+  S  S6  1  0.44383428  0.98959762  0.27517700  1
+  S  S7  1  0.54576337  0.55616570  0.27517700  1
+  Cs  Cs8  1  0.00000000  0.00000000  0.00000000  1
+  As  As9  1  0.33333334  0.66666669  0.21689221  1
+  As  As10  1  0.66666669  0.33333334  0.78310776  1
+  Tl  Tl11  1  0.72220904  0.00000000  0.50000000  1
+  Tl  Tl12  1  0.00000000  0.72220904  0.50000000  1
+  Tl  Tl13  1  0.27779096  0.27779096  0.50000000  1

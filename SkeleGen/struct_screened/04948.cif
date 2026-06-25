@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_YNbCr3(MoI3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.69588375
+_cell_length_b   8.69588349
+_cell_length_c   8.01474476
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000463
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YNbCr3(MoI3)3
+_chemical_formula_sum   'Y1 Nb1 Cr3 Mo3 I9'
+_cell_volume   524.86515919
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.64598304  0.66250062  0.32450268  1
+  I  I1  1  0.33749938  0.98348242  0.32450268  1
+  I  I2  1  0.01651758  0.35401696  0.32450268  1
+  I  I3  1  0.70668429  0.01998056  0.77562368  1
+  I  I4  1  0.98001945  0.68670374  0.77562368  1
+  I  I5  1  0.31329626  0.29331571  0.77562368  1
+  I  I6  1  0.33333334  0.66666669  0.02297747  1
+  I  I7  1  0.66666669  0.33333334  0.56751424  1
+  I  I8  1  0.00000000  0.00000000  0.03743678  1
+  Y  Y9  1  0.00000000  0.00000000  0.53076047  1
+  Nb  Nb10  1  0.66666669  0.33333334  0.28815705  1
+  Cr  Cr11  1  0.49055228  0.81939322  0.53799182  1
+  Cr  Cr12  1  0.18060678  0.67115903  0.53799182  1
+  Cr  Cr13  1  0.32884094  0.50944769  0.53799182  1
+  Mo  Mo14  1  0.12782989  0.45703635  0.78486556  1
+  Mo  Mo15  1  0.54296362  0.67079353  0.78486556  1
+  Mo  Mo16  1  0.32920647  0.87217009  0.78486556  1

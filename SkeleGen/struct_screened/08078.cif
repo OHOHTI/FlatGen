@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_CrHgWI14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.03339577
+_cell_length_b   9.03339554
+_cell_length_c   11.05560017
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000432
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrHgWI14
+_chemical_formula_sum   'Cr1 Hg1 W1 I14'
+_cell_volume   781.29492128
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.84867662  0.14487198  0.77696925  1
+  I  I1  1  0.85512805  0.70380461  0.77696925  1
+  I  I2  1  0.29619539  0.15132338  0.77696925  1
+  I  I3  1  0.18563928  0.73033053  0.61334282  1
+  I  I4  1  0.26966947  0.45530874  0.61334282  1
+  I  I5  1  0.54469126  0.81436074  0.61334282  1
+  I  I6  1  0.93519145  0.63956153  0.32567328  1
+  I  I7  1  0.36043847  0.29562992  0.32567328  1
+  I  I8  1  0.70437008  0.06480855  0.32567328  1
+  W  W9  1  0.00000000  0.00000000  0.96439421  1
+  Hg  Hg10  1  0.00000000  0.00000000  0.22655332  1
+  Cr  Cr11  1  0.00000000  0.00000000  0.72184443  1
+  I  I12  1  0.00000000  0.00000000  0.49425736  1
+  I  I13  1  0.66666669  0.33333334  0.99165291  1
+  I  I14  1  0.21903813  0.88781887  0.03356558  1
+  I  I15  1  0.11218113  0.33121926  0.03356558  1
+  I  I16  1  0.66878074  0.78096187  0.03356558  1

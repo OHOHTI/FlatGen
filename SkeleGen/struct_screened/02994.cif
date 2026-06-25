@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NaZrMnAgOF9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44595385
+_cell_length_b   5.44595352
+_cell_length_c   8.64939880
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000487
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaZrMnAgOF9
+_chemical_formula_sum   'Na1 Zr1 Mn1 Ag1 O1 F9'
+_cell_volume   222.15925953
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66666669  0.33333334  0.55915332  1
+  F  F1  1  0.33333334  0.66666669  0.52187234  1
+  F  F2  1  0.57202560  0.01970769  0.81674308  1
+  F  F3  1  0.98029232  0.55231792  0.81674308  1
+  F  F4  1  0.44768208  0.42797440  0.81674308  1
+  F  F5  1  0.31742349  0.97203761  0.11954810  1
+  F  F6  1  0.02796239  0.34538591  0.11954810  1
+  F  F7  1  0.65461409  0.68257654  0.11954810  1
+  O  O8  1  0.00000000  0.00000000  0.31858802  1
+  Zr  Zr9  1  0.00000000  0.00000000  0.11444955  1
+  Ag  Ag10  1  0.00000000  0.00000000  0.55743045  1
+  F  F11  1  0.00000000  0.00000000  0.86250710  1
+  Na  Na12  1  0.66666669  0.33333334  0.28440249  1
+  Mn  Mn13  1  0.66666669  0.33333334  0.76075381  1

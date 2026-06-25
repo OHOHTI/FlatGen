@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_KBaTiCuAgF10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60999870
+_cell_length_b   5.60999833
+_cell_length_c   8.41749382
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000502
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KBaTiCuAgF10
+_chemical_formula_sum   'K1 Ba1 Ti1 Cu1 Ag1 F10'
+_cell_volume   229.42403235
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66666669  0.33333334  0.52019531  1
+  F  F1  1  0.33333334  0.66666669  0.50952828  1
+  F  F2  1  0.59770334  0.98003310  0.78240126  1
+  F  F3  1  0.01996690  0.61767024  0.78240126  1
+  F  F4  1  0.38232976  0.40229666  0.78240126  1
+  F  F5  1  0.38960558  0.98112881  0.24399462  1
+  F  F6  1  0.01887119  0.40847677  0.24399462  1
+  F  F7  1  0.59152323  0.61039442  0.24399462  1
+  F  F8  1  0.00000000  0.00000000  0.78084856  1
+  K  K9  1  0.00000000  0.00000000  0.47858390  1
+  Ba  Ba10  1  0.00000000  0.00000000  0.08080957  1
+  Cu  Cu11  1  0.33333334  0.66666669  0.25986272  1
+  Ti  Ti12  1  0.33333334  0.66666669  0.72612816  1
+  F  F13  1  0.33333334  0.66666669  0.99209428  1
+  Ag  Ag14  1  0.66666669  0.33333334  0.90944219  1

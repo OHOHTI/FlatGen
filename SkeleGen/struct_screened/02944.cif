@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_LiCoHg4WO10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20498991
+_cell_length_b   5.20498981
+_cell_length_c   12.09910297
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000366
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCoHg4WO10
+_chemical_formula_sum   'Li1 Co1 Hg4 W1 O10'
+_cell_volume   283.87265804
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.00000000  0.00000000  0.02861380  1
+  Hg  Hg1  1  0.66666669  0.33333334  0.75851226  1
+  Hg  Hg2  1  0.33333334  0.66666669  0.44963911  1
+  Hg  Hg3  1  0.00000000  0.00000000  0.50522202  1
+  O  O4  1  0.00000000  0.00000000  0.86209190  1
+  O  O5  1  0.00000000  0.00000000  0.34877220  1
+  W  W6  1  0.33333334  0.66666669  0.15507378  1
+  O  O7  1  0.33333334  0.66666669  0.78899980  1
+  Co  Co8  1  0.33333334  0.66666669  0.65977067  1
+  Li  Li9  1  0.33333334  0.66666669  0.92876941  1
+  O  O10  1  0.33333334  0.66666669  0.27720520  1
+  O  O11  1  0.01882192  0.35827848  0.59146130  1
+  O  O12  1  0.64172149  0.66054344  0.59146130  1
+  O  O13  1  0.33945656  0.98117805  0.59146130  1
+  O  O14  1  0.33869258  0.38043118  0.08991589  1
+  O  O15  1  0.61956882  0.95826137  0.08991589  1
+  O  O16  1  0.04173860  0.66130745  0.08991589  1

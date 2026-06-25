@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NaVGaHOF9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.16146946
+_cell_length_b   5.16146906
+_cell_length_c   10.44297218
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000562
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaVGaHOF9
+_chemical_formula_sum   'Na1 V1 Ga1 H1 O1 F9'
+_cell_volume   240.93584613
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66666669  0.33333334  0.49464270  1
+  F  F1  1  0.33333334  0.66666669  0.57542640  1
+  F  F2  1  0.64329392  0.96362913  0.75882798  1
+  F  F3  1  0.03637087  0.67966479  0.75882798  1
+  F  F4  1  0.32033521  0.35670608  0.75882798  1
+  F  F5  1  0.31820044  0.96127474  0.14797625  1
+  F  F6  1  0.03872526  0.35692573  0.14797625  1
+  F  F7  1  0.64307427  0.68179953  0.14797625  1
+  Na  Na8  1  0.00000000  0.00000000  0.95270836  1
+  F  F9  1  0.33333334  0.66666669  0.36535099  1
+  H  H10  1  0.33333334  0.66666669  0.92524773  1
+  O  O11  1  0.33333334  0.66666669  0.99007124  1
+  Ga  Ga12  1  0.33333334  0.66666669  0.20683913  1
+  V  V13  1  0.33333334  0.66666669  0.72389483  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_KNa2SrLuCu(Cl3O)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.19417524
+_cell_length_b   7.19417512
+_cell_length_c   8.59505844
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000497
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNa2SrLuCu(Cl3O)3
+_chemical_formula_sum   'K1 Na2 Sr1 Lu1 Cu1 Cl9 O3'
+_cell_volume   385.24894793
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.85692465  0.21998091  0.62567306  1
+  Cl  Cl1  1  0.78001910  0.63694376  0.62567306  1
+  Cl  Cl2  1  0.36305624  0.14307535  0.62567306  1
+  Cl  Cl3  1  0.16363488  0.73485523  0.61062628  1
+  Cl  Cl4  1  0.26514477  0.42877966  0.61062628  1
+  Cl  Cl5  1  0.57122034  0.83636510  0.61062628  1
+  Cl  Cl6  1  0.67108089  0.98497915  0.24341057  1
+  Cl  Cl7  1  0.01502085  0.68610173  0.24341057  1
+  Cl  Cl8  1  0.31389827  0.32891911  0.24341057  1
+  Na  Na9  1  0.00000000  0.00000000  0.41281280  1
+  Cu  Cu10  1  0.00000000  0.00000000  0.77453560  1
+  Lu  Lu11  1  0.00000000  0.00000000  0.06435529  1
+  K  K12  1  0.33333334  0.66666669  0.06214201  1
+  Sr  Sr13  1  0.66666669  0.33333334  0.87592167  1
+  Na  Na14  1  0.66666669  0.33333334  0.38720331  1
+  O  O15  1  0.02005560  0.25739852  0.93388265  1
+  O  O16  1  0.74260151  0.76265705  0.93388265  1
+  O  O17  1  0.23734292  0.97994441  0.93388265  1

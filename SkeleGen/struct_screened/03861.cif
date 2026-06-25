@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_KFeCuReOF11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.61834508
+_cell_length_b   5.44500191
+_cell_length_c   7.94677019
+_cell_angle_alpha   89.03751282
+_cell_angle_beta   89.43808968
+_cell_angle_gamma   91.32475198
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KFeCuReOF11
+_chemical_formula_sum   'K1 Fe1 Re1 Cu1 O1 F11'
+_cell_volume   242.99488611
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.67640430  0.22458623  0.46597275  1
+  F  F1  1  0.22809543  0.73520517  0.48803672  1
+  F  F2  1  0.48706591  0.96814573  0.74601007  1
+  F  F3  1  0.44672567  0.47998929  0.75007051  1
+  F  F4  1  0.99288970  0.50906479  0.74715894  1
+  F  F5  1  0.48771569  0.99512666  0.22239184  1
+  F  F6  1  0.50244695  0.47847572  0.21711375  1
+  F  F7  1  0.98489863  0.48749509  0.24579577  1
+  K  K8  1  0.71532768  0.72843456  0.49461070  1
+  F  F9  1  0.02921656  0.97831571  0.71763563  1
+  Re  Re10  1  0.23451869  0.74240583  0.71882522  1
+  F  F11  1  0.21821529  0.76714766  0.98084378  1
+  Fe  Fe12  1  0.20795910  0.76483798  0.24197772  1
+  Cu  Cu13  1  0.75136518  0.24399062  0.25592369  1
+  O  O14  1  0.96107155  0.99424040  0.24913332  1
+  F  F15  1  0.72851813  0.70924413  0.97755629  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_SrLaTbHfTiI15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.99067271
+_cell_length_b   8.07308262
+_cell_length_c   14.46329784
+_cell_angle_alpha   92.95140918
+_cell_angle_beta   96.01679120
+_cell_angle_gamma   94.75745404
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrLaTbHfTiI15
+_chemical_formula_sum   'Sr1 Tb1 La1 Hf1 Ti1 I15'
+_cell_volume   922.97503289
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.54347664  0.48915923  0.23985764  1
+  I  I1  1  0.63863277  0.94051671  0.72880393  1
+  I  I2  1  0.26405305  0.62395549  0.99805361  1
+  I  I3  1  0.73622543  0.27236697  0.44485170  1
+  I  I4  1  0.46313155  0.02060537  0.20186071  1
+  I  I5  1  0.38066769  0.30188006  0.76949829  1
+  I  I6  1  0.93099242  0.53073990  0.74825597  1
+  I  I7  1  0.03201119  0.43820846  0.24527295  1
+  I  I8  1  0.06689897  0.01000088  0.85433948  1
+  I  I9  1  0.68997848  0.26142231  0.99486607  1
+  I  I10  1  0.77563918  0.74846619  0.99811155  1
+  I  I11  1  0.95612246  0.00671500  0.20452130  1
+  Sr  Sr12  1  0.23316653  0.26970446  0.09148046  1
+  Tb  Tb13  1  0.05237088  0.26264623  0.64028829  1
+  Hf  Hf14  1  0.73450929  0.26008296  0.22990403  1
+  La  La15  1  0.41815850  0.91257471  0.91179854  1
+  I  I16  1  0.20645958  0.13490576  0.51611924  1
+  Ti  Ti17  1  0.84837919  0.80158025  0.81483746  1
+  I  I18  1  0.81467646  0.78147930  0.47501853  1
+  I  I19  1  0.35179910  0.66123557  0.56444663  1

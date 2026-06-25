@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_CaInPbF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.48328924
+_cell_length_b   5.48328889
+_cell_length_c   7.40941191
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000498
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaInPbF8
+_chemical_formula_sum   'Ca1 In1 Pb1 F8'
+_cell_volume   192.92860854
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66666669  0.33333334  0.52373111  1
+  F  F1  1  0.33333334  0.66666669  0.55721456  1
+  F  F2  1  0.65396386  0.98813915  0.86853755  1
+  F  F3  1  0.01186085  0.66582471  0.86853755  1
+  F  F4  1  0.33417529  0.34603614  0.86853755  1
+  F  F5  1  0.29202169  0.94259125  0.16999868  1
+  F  F6  1  0.05740875  0.34943044  0.16999868  1
+  F  F7  1  0.65056956  0.70797831  0.16999868  1
+  Pb  Pb8  1  0.00000000  0.00000000  0.72801411  1
+  Ca  Ca9  1  0.00000000  0.00000000  0.33314770  1
+  In  In10  1  0.33333334  0.66666669  0.00352120  1

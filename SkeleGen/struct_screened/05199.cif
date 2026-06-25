@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na2MnBr9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.80376387
+_cell_length_b   6.80376375
+_cell_length_c   9.52851295
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000520
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2MnBr9
+_chemical_formula_sum   'Na2 Mn1 Br9'
+_cell_volume   381.99193631
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.63355452  0.67255783  0.24221842  1
+  Br  Br1  1  0.32744217  0.96099669  0.24221842  1
+  Br  Br2  1  0.03900331  0.36644548  0.24221842  1
+  Br  Br3  1  0.68990940  0.02899329  0.74838591  1
+  Br  Br4  1  0.97100669  0.66091609  0.74838591  1
+  Br  Br5  1  0.33908391  0.31009060  0.74838591  1
+  Br  Br6  1  0.33333334  0.66666669  0.98593897  1
+  Br  Br7  1  0.66666669  0.33333334  0.44921628  1
+  Br  Br8  1  0.00000000  0.00000000  0.50664413  1
+  Na  Na9  1  0.00000000  0.00000000  0.91446388  1
+  Mn  Mn10  1  0.33333334  0.66666669  0.34770575  1
+  Na  Na11  1  0.66666669  0.33333334  0.06511851  1

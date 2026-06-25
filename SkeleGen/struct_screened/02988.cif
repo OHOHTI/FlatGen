@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sr2LaMnI10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.99765348
+_cell_length_b   7.99765308
+_cell_length_c   11.24802017
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000561
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2LaMnI10
+_chemical_formula_sum   'Sr2 La1 Mn1 I10'
+_cell_volume   623.06282347
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.33333334  0.66666669  0.58685702  1
+  I  I1  1  0.66666669  0.33333334  0.46013364  1
+  I  I2  1  0.81792325  0.69329721  0.75615776  1
+  I  I3  1  0.30670279  0.12462604  0.75615776  1
+  I  I4  1  0.87537396  0.18207675  0.75615776  1
+  I  I5  1  0.66666669  0.33333334  0.09685708  1
+  I  I6  1  0.11813987  0.32430458  0.31997737  1
+  I  I7  1  0.67569542  0.79383528  0.31997737  1
+  I  I8  1  0.20616472  0.88186014  0.31997737  1
+  I  I9  1  0.33333334  0.66666669  0.06308876  1
+  La  La10  1  0.00000000  0.00000000  0.51616830  1
+  Sr  Sr11  1  0.00000000  0.00000000  0.99663508  1
+  Mn  Mn12  1  0.33333334  0.66666669  0.35544598  1
+  Sr  Sr13  1  0.33333334  0.66666669  0.83524334  1

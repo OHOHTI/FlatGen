@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_NaPuUCdAgI14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.69461918
+_cell_length_b   8.69461879
+_cell_length_c   13.25815201
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000511
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaPuUCdAgI14
+_chemical_formula_sum   'Na1 Pu1 U1 Cd1 Ag1 I14'
+_cell_volume   867.98998360
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.31133404  0.35742217  0.52764952  1
+  I  I1  1  0.64257783  0.95391190  0.52764952  1
+  I  I2  1  0.04608813  0.68866599  0.52764952  1
+  I  I3  1  0.97855556  0.67816591  0.03438302  1
+  I  I4  1  0.32183409  0.30038965  0.03438302  1
+  I  I5  1  0.69961035  0.02144444  0.03438302  1
+  I  I6  1  0.66666669  0.33333334  0.51526356  1
+  I  I7  1  0.00793807  0.30120093  0.75374961  1
+  I  I8  1  0.69879907  0.70673716  0.75374961  1
+  I  I9  1  0.29326284  0.99206191  0.75374961  1
+  I  I10  1  0.33333334  0.66666669  0.92847544  1
+  I  I11  1  0.01663383  0.31416860  0.25374842  1
+  I  I12  1  0.68583143  0.70246524  0.25374842  1
+  I  I13  1  0.29753476  0.98336619  0.25374842  1
+  U  U14  1  0.00000000  0.00000000  0.13184664  1
+  Ag  Ag15  1  0.00000000  0.00000000  0.87832278  1
+  Na  Na16  1  0.00000000  0.00000000  0.38851947  1
+  Pu  Pu17  1  0.00000000  0.00000000  0.62513632  1
+  Cd  Cd18  1  0.33333334  0.66666669  0.67010236  1

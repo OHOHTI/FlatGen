@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_KCeEu4Cu2PO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58934069
+_cell_length_b   5.58934024
+_cell_length_c   10.62425709
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000548
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCeEu4Cu2PO6
+_chemical_formula_sum   'K1 Ce1 Eu4 Cu2 P1 O6'
+_cell_volume   287.44205425
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.00000000  0.00000000  0.91345906  1
+  Eu  Eu1  1  0.66666669  0.33333334  0.60546994  1
+  Eu  Eu2  1  0.33333334  0.66666669  0.34123743  1
+  Eu  Eu3  1  0.00000000  0.00000000  0.57812315  1
+  P  P4  1  0.00000000  0.00000000  0.19830328  1
+  Cu  Cu5  1  0.33333334  0.66666669  0.60366338  1
+  Cu  Cu6  1  0.33333334  0.66666669  0.08505782  1
+  K  K7  1  0.33333334  0.66666669  0.84335279  1
+  Ce  Ce8  1  0.66666669  0.33333334  0.08809121  1
+  O  O9  1  0.98879868  0.66818672  0.69666165  1
+  O  O10  1  0.33181328  0.32061195  0.69666165  1
+  O  O11  1  0.67938805  0.01120132  0.69666165  1
+  O  O12  1  0.99429506  0.29543322  0.19611101  1
+  O  O13  1  0.70456678  0.69886184  0.19611101  1
+  O  O14  1  0.30113816  0.00570494  0.19611101  1

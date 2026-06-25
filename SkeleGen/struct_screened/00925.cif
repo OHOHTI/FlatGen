@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Cs2CoSiPSe8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.48053789
+_cell_length_b   6.48053769
+_cell_length_c   11.39258385
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000591
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2CoSiPSe8
+_chemical_formula_sum   'Cs2 Co1 Si1 P1 Se8'
+_cell_volume   414.35724250
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.33333334  0.66666669  0.08860499  1
+  Se  Se1  1  0.66666669  0.33333334  0.10821258  1
+  Se  Se2  1  0.37320441  0.01476371  0.58638239  1
+  Se  Se3  1  0.98523629  0.35844070  0.58638239  1
+  Se  Se4  1  0.64155930  0.62679559  0.58638239  1
+  Se  Se5  1  0.63111377  0.98347944  0.35000551  1
+  Se  Se6  1  0.01652056  0.64763433  0.35000551  1
+  Se  Se7  1  0.35236567  0.36888623  0.35000551  1
+  Cs  Cs8  1  0.00000000  0.00000000  0.09497271  1
+  Cs  Cs9  1  0.33333334  0.66666669  0.79522038  1
+  Si  Si10  1  0.33333334  0.66666669  0.48104098  1
+  Co  Co11  1  0.33333334  0.66666669  0.25578246  1
+  P  P12  1  0.66666669  0.33333334  0.47770953  1

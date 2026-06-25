@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_FeReMoO11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.77443314
+_cell_length_b   5.77443290
+_cell_length_c   7.72193289
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000408
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeReMoO11
+_chemical_formula_sum   'Fe1 Re1 Mo1 O11'
+_cell_volume   222.98483734
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.33333334  0.66666669  0.57406175  1
+  O  O1  1  0.66666669  0.33333334  0.04208858  1
+  O  O2  1  0.15739419  0.84260583  0.13136168  1
+  O  O3  1  0.15739419  0.31478837  0.13136168  1
+  O  O4  1  0.68521166  0.84260583  0.13136168  1
+  O  O5  1  0.83888638  0.16111362  0.76197577  1
+  O  O6  1  0.83888638  0.67777276  0.76197577  1
+  O  O7  1  0.32222724  0.16111362  0.76197577  1
+  O  O8  1  0.33333334  0.66666669  0.85515922  1
+  O  O9  1  0.66666669  0.33333334  0.48266122  1
+  O  O10  1  0.00000000  0.00000000  0.43428209  1
+  Fe  Fe11  1  0.00000000  0.00000000  0.66639632  1
+  Mo  Mo12  1  0.00000000  0.00000000  0.21161108  1
+  Re  Re13  1  0.66666669  0.33333334  0.82619721  1

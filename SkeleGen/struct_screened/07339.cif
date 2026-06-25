@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_NaCuReAgTe3Cl11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.65934610
+_cell_length_b   6.65934584
+_cell_length_c   13.33396053
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000603
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCuReAgTe3Cl11
+_chemical_formula_sum   'Na1 Re1 Cu1 Ag1 Te3 Cl11'
+_cell_volume   512.09782054
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.69905072  0.69910932  0.40011951  1
+  Cl  Cl1  1  0.30089068  0.99994141  0.40011951  1
+  Cl  Cl2  1  0.00005859  0.30094928  0.40011951  1
+  Cl  Cl3  1  0.66219139  0.94915015  0.65837705  1
+  Cl  Cl4  1  0.05084985  0.71304125  0.65837705  1
+  Cl  Cl5  1  0.28695875  0.33780861  0.65837705  1
+  Cl  Cl6  1  0.33333334  0.66666669  0.01576186  1
+  Cl  Cl7  1  0.66666669  0.33333334  0.53664744  1
+  Re  Re8  1  0.00000000  0.00000000  0.01897260  1
+  Cu  Cu9  1  0.00000000  0.00000000  0.51291364  1
+  Na  Na10  1  0.33333334  0.66666669  0.52261025  1
+  Ag  Ag11  1  0.66666669  0.33333334  0.04048362  1
+  Te  Te12  1  0.97201961  0.28585225  0.89130074  1
+  Te  Te13  1  0.71414775  0.68616736  0.89130074  1
+  Te  Te14  1  0.31383264  0.02798039  0.89130074  1
+  Cl  Cl15  1  0.71334732  0.01798576  0.13987602  1
+  Cl  Cl16  1  0.98201424  0.69536155  0.13987602  1
+  Cl  Cl17  1  0.30463845  0.28665268  0.13987602  1

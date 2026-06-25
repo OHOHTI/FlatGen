@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Cs2TbPrBi3I11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.44241047
+_cell_length_b   9.44241071
+_cell_length_c   10.38631248
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999249
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2TbPrBi3I11
+_chemical_formula_sum   'Cs2 Tb1 Pr1 Bi3 I11'
+_cell_volume   801.96942560
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.66666669  0.33333334  0.44224355  1
+  I  I1  1  0.33333334  0.66666669  0.47078916  1
+  I  I2  1  0.48063573  0.98567092  0.78118849  1
+  I  I3  1  0.01432908  0.49496484  0.78118849  1
+  I  I4  1  0.50503516  0.51936424  0.78118849  1
+  I  I5  1  0.29926577  0.93802160  0.15182781  1
+  I  I6  1  0.06197840  0.36124420  0.15182781  1
+  I  I7  1  0.63875580  0.70073426  0.15182781  1
+  Pr  Pr8  1  0.00000000  0.00000000  0.21922426  1
+  Cs  Cs9  1  0.00000000  0.00000000  0.75788200  1
+  Tb  Tb10  1  0.33333334  0.66666669  0.92311519  1
+  Cs  Cs11  1  0.66666669  0.33333334  0.08172352  1
+  Bi  Bi12  1  0.73365247  0.98755431  0.98669279  1
+  Bi  Bi13  1  0.01244569  0.74609816  0.98669279  1
+  Bi  Bi14  1  0.25390184  0.26634753  0.98669279  1
+  I  I15  1  0.25335732  0.11982498  0.46559361  1
+  I  I16  1  0.88017499  0.13353235  0.46559361  1
+  I  I17  1  0.86646765  0.74664271  0.46559361  1

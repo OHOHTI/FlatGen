@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_KBaThMnInBiBr8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.99863577
+_cell_length_b   6.99863574
+_cell_length_c   11.97543621
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000466
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KBaThMnInBiBr8
+_chemical_formula_sum   'K1 Ba1 Th1 Mn1 In1 Bi1 Br8'
+_cell_volume   507.98248137
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.69535863  0.67799962  0.31004992  1
+  Br  Br1  1  0.32200038  0.01735902  0.31004992  1
+  Br  Br2  1  0.98264098  0.30464137  0.31004992  1
+  Br  Br3  1  0.65352589  0.98286790  0.82273048  1
+  Br  Br4  1  0.01713210  0.67065799  0.82273048  1
+  Br  Br5  1  0.32934201  0.34647411  0.82273048  1
+  Br  Br6  1  0.33333334  0.66666669  0.10720169  1
+  Br  Br7  1  0.66666669  0.33333334  0.51756406  1
+  Th  Th8  1  0.00000000  0.00000000  0.94980866  1
+  Bi  Bi9  1  0.00000000  0.00000000  0.45112360  1
+  Mn  Mn10  1  0.33333334  0.66666669  0.90821803  1
+  Ba  Ba11  1  0.33333334  0.66666669  0.62563992  1
+  In  In12  1  0.33333334  0.66666669  0.36214793  1
+  K  K13  1  0.66666669  0.33333334  0.05700370  1

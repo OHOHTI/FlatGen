@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_CeMnZnNiSbPbI13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.39160997
+_cell_length_b   7.79971749
+_cell_length_c   13.02939510
+_cell_angle_alpha   91.82422324
+_cell_angle_beta   89.62296243
+_cell_angle_gamma   95.41425952
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeMnZnNiSbPbI13
+_chemical_formula_sum   'Ce1 Mn1 Zn1 Ni1 Sb1 Pb1 I13'
+_cell_volume   747.44160551
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.68579912  0.70828772  0.16884431  1
+  I  I1  1  0.61523902  0.94746351  0.75084168  1
+  I  I2  1  0.27455404  0.67021155  0.97571653  1
+  I  I3  1  0.61406064  0.21974163  0.36621380  1
+  I  I4  1  0.18128829  0.96139032  0.26690018  1
+  I  I5  1  0.28470686  0.32577366  0.74550837  1
+  I  I6  1  0.89274412  0.62279868  0.74557477  1
+  I  I7  1  0.11826085  0.43500113  0.20729409  1
+  Sb  Sb8  1  0.61994064  0.67819971  0.86848521  1
+  Zn  Zn9  1  0.77335864  0.83448577  0.58255684  1
+  I  I10  1  0.65456724  0.38273314  0.97323459  1
+  Ni  Ni11  1  0.88305634  0.04468535  0.31054190  1
+  I  I12  1  0.94886619  0.02081145  0.98577559  1
+  Mn  Mn13  1  0.97362125  0.70851058  0.07127044  1
+  I  I14  1  0.49707237  0.67290932  0.52638024  1
+  Ce  Ce15  1  0.22636706  0.38958767  0.45257428  1
+  I  I16  1  0.00083751  0.11475930  0.54078144  1
+  I  I17  1  0.94960260  0.67891365  0.43653986  1
+  Pb  Pb18  1  0.46136713  0.06355964  0.11515070  1

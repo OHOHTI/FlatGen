@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_LiEu8CdSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.64611435
+_cell_length_b   7.64611427
+_cell_length_c   7.83682156
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000448
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiEu8CdSn
+_chemical_formula_sum   'Li1 Eu8 Cd1 Sn1'
+_cell_volume   396.78216509
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.69478577  0.65542454  0.25290248  1
+  Eu  Eu1  1  0.34457546  0.03936124  0.25290248  1
+  Eu  Eu2  1  0.96063876  0.30521423  0.25290248  1
+  Eu  Eu3  1  0.67380613  0.99046403  0.76492506  1
+  Eu  Eu4  1  0.00953597  0.68334210  0.76492506  1
+  Eu  Eu5  1  0.31665790  0.32619387  0.76492506  1
+  Eu  Eu6  1  0.33333334  0.66666669  0.03995399  1
+  Eu  Eu7  1  0.66666669  0.33333334  0.54237664  1
+  Sn  Sn8  1  0.00000000  0.00000000  0.01470049  1
+  Cd  Cd9  1  0.00000000  0.00000000  0.48584095  1
+  Li  Li10  1  0.33333334  0.66666669  0.48781484  1

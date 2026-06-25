@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_MnCoAgF14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.56071711
+_cell_length_b   6.56071672
+_cell_length_c   5.61174917
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000675
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCoAgF14
+_chemical_formula_sum   'Mn1 Co1 Ag1 F14'
+_cell_volume   209.18543910
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.19279240  0.21823086  0.83238202  1
+  F  F1  1  0.78176916  0.97456157  0.83238202  1
+  F  F2  1  0.02543846  0.80720758  0.83238202  1
+  F  F3  1  0.83737469  0.78361547  0.14609762  1
+  F  F4  1  0.21638453  0.05375922  0.14609762  1
+  F  F5  1  0.94624078  0.16262531  0.14609762  1
+  F  F6  1  0.35395110  0.44067588  0.37219402  1
+  F  F7  1  0.55932415  0.91327524  0.37219402  1
+  F  F8  1  0.08672479  0.64604890  0.37219402  1
+  F  F9  1  0.33333334  0.66666669  0.84120405  1
+  F  F10  1  0.66666669  0.33333334  0.16806817  1
+  F  F11  1  0.42569545  0.06754672  0.65190834  1
+  F  F12  1  0.93245327  0.35814872  0.65190834  1
+  F  F13  1  0.64185131  0.57430458  0.65190834  1
+  Mn  Mn14  1  0.00000000  0.00000000  0.00079668  1
+  Ag  Ag15  1  0.00000000  0.00000000  0.50937754  1
+  Co  Co16  1  0.33333334  0.66666669  0.51239067  1

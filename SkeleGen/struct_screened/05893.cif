@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Eu4SiS5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.59572887
+_cell_length_b   7.59572856
+_cell_length_c   11.04156685
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000552
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu4SiS5
+_chemical_formula_sum   'Eu8 Si2 S10'
+_cell_volume   551.69646934
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.33333334  0.66666669  0.46878591  1
+  Eu  Eu1  1  0.66666669  0.33333334  0.53121412  1
+  Eu  Eu2  1  0.67998797  0.02298634  0.85604990  1
+  Eu  Eu3  1  0.97701365  0.65700161  0.85604990  1
+  Eu  Eu4  1  0.34299839  0.32001203  0.85604990  1
+  Eu  Eu5  1  0.32001203  0.97701365  0.14395010  1
+  Eu  Eu6  1  0.02298634  0.34299839  0.14395010  1
+  Eu  Eu7  1  0.65700161  0.67998797  0.14395010  1
+  S  S8  1  0.33333334  0.66666669  0.24732067  1
+  S  S9  1  0.66666669  0.33333334  0.75267935  1
+  S  S10  1  0.33333334  0.66666669  0.94500166  1
+  S  S11  1  0.66666669  0.33333334  0.05499834  1
+  Si  Si12  1  0.33333334  0.66666669  0.73500377  1
+  Si  Si13  1  0.66666669  0.33333334  0.26499623  1
+  S  S14  1  0.09543291  0.35559309  0.63740325  1
+  S  S15  1  0.64440691  0.73983979  0.63740325  1
+  S  S16  1  0.26016018  0.90456706  0.63740325  1
+  S  S17  1  0.90456706  0.64440691  0.36259675  1
+  S  S18  1  0.35559309  0.26016018  0.36259675  1
+  S  S19  1  0.73983979  0.09543291  0.36259675  1

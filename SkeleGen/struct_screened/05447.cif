@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Na3Fe2Hg4Cl6O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.65155983
+_cell_length_b   6.65155952
+_cell_length_c   9.01080418
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999441
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Fe2Hg4Cl6O5
+_chemical_formula_sum   'Na3 Fe2 Hg4 Cl6 O5'
+_cell_volume   345.25596564
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.00000000  0.00000000  0.00000000  1
+  Hg  Hg1  1  0.33333334  0.66666669  0.36262611  1
+  Hg  Hg2  1  0.66666669  0.33333334  0.63737392  1
+  Hg  Hg3  1  0.00000000  0.00000000  0.50000000  1
+  Fe  Fe4  1  0.33333334  0.66666669  0.64757264  1
+  Fe  Fe5  1  0.66666669  0.33333334  0.35242736  1
+  O  O6  1  0.33333334  0.66666669  0.92357832  1
+  O  O7  1  0.66666669  0.33333334  0.07642168  1
+  Na  Na8  1  0.59004372  0.00000000  0.00000000  1
+  Na  Na9  1  0.00000000  0.59004372  0.00000000  1
+  Na  Na10  1  0.40995628  0.40995628  0.00000000  1
+  O  O11  1  0.60820711  0.00000000  0.50000000  1
+  O  O12  1  0.00000000  0.60820711  0.50000000  1
+  O  O13  1  0.39179289  0.39179289  0.50000000  1
+  Cl  Cl14  1  0.33835927  0.02003665  0.25512165  1
+  Cl  Cl15  1  0.97996336  0.31832260  0.25512165  1
+  Cl  Cl16  1  0.68167740  0.66164076  0.25512165  1
+  Cl  Cl17  1  0.02003665  0.33835927  0.74487835  1
+  Cl  Cl18  1  0.31832260  0.97996336  0.74487835  1
+  Cl  Cl19  1  0.66164076  0.68167740  0.74487835  1

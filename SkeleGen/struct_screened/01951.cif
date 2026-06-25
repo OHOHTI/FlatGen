@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_RbTaFeSbF15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.46271038
+_cell_length_b   8.46270988
+_cell_length_c   4.92687321
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000569
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbTaFeSbF15
+_chemical_formula_sum   'Rb1 Ta1 Fe1 Sb1 F15'
+_cell_volume   305.57718325
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.29034021  0.42010525  0.73566633  1
+  F  F1  1  0.57989478  0.87023497  0.73566633  1
+  F  F2  1  0.12976503  0.70965981  0.73566633  1
+  F  F3  1  0.92332166  0.13268125  0.65429318  1
+  F  F4  1  0.86731875  0.79064041  0.65429318  1
+  F  F5  1  0.20935959  0.07667834  0.65429318  1
+  F  F6  1  0.15586004  0.29806554  0.14079203  1
+  F  F7  1  0.70193446  0.85779452  0.14079203  1
+  F  F8  1  0.14220551  0.84413993  0.14079203  1
+  F  F9  1  0.56526947  0.43865445  0.72437191  1
+  F  F10  1  0.56134558  0.12661502  0.72437191  1
+  F  F11  1  0.87338495  0.43473053  0.72437191  1
+  F  F12  1  0.73599619  0.53510457  0.14578702  1
+  F  F13  1  0.46489543  0.20089161  0.14578702  1
+  F  F14  1  0.79910839  0.26400381  0.14578702  1
+  Fe  Fe15  1  0.00000000  0.00000000  0.58085668  1
+  Sb  Sb16  1  0.00000000  0.00000000  0.08382089  1
+  Rb  Rb17  1  0.33333334  0.66666669  0.40984455  1
+  Ta  Ta18  1  0.66666669  0.33333334  0.93439925  1

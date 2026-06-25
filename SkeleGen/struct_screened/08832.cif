@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LaFeCuP3Se14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.41569901
+_cell_length_b   6.41569902
+_cell_length_c   13.19219780
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000483
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaFeCuP3Se14
+_chemical_formula_sum   'La1 Fe1 Cu1 P3 Se14'
+_cell_volume   470.25749642
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.65392834  0.70233071  0.49287072  1
+  Se  Se1  1  0.29766929  0.95159763  0.49287072  1
+  Se  Se2  1  0.04840237  0.34607166  0.49287072  1
+  Se  Se3  1  0.91772479  0.65807706  0.00194094  1
+  Se  Se4  1  0.34192294  0.25964773  0.00194094  1
+  Se  Se5  1  0.74035227  0.08227521  0.00194094  1
+  Se  Se6  1  0.66666669  0.33333334  0.37196359  1
+  Se  Se7  1  0.92688853  0.26702315  0.76784146  1
+  Se  Se8  1  0.73297685  0.65986538  0.76784146  1
+  Se  Se9  1  0.34013462  0.07311147  0.76784146  1
+  Se  Se10  1  0.33333334  0.66666669  0.94492108  1
+  Se  Se11  1  0.32108217  0.36322138  0.26329315  1
+  Se  Se12  1  0.63677859  0.95786083  0.26329315  1
+  Se  Se13  1  0.04213920  0.67891783  0.26329315  1
+  P  P14  1  0.00000000  0.00000000  0.36859596  1
+  Cu  Cu15  1  0.00000000  0.00000000  0.87874460  1
+  La  La16  1  0.33333334  0.66666669  0.70064527  1
+  P  P17  1  0.33333334  0.66666669  0.41084069  1
+  P  P18  1  0.33333334  0.66666669  0.17177805  1
+  Fe  Fe19  1  0.66666669  0.33333334  0.87084728  1

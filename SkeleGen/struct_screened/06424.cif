@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_UZnCoBPtI15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.04265881
+_cell_length_b   8.04265837
+_cell_length_c   14.54913521
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000570
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UZnCoBPtI15
+_chemical_formula_sum   'U1 Zn1 Co1 B1 Pt1 I15'
+_cell_volume   815.01772381
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.47908032  0.48667148  0.55170834  1
+  I  I1  1  0.51332855  0.99240887  0.55170834  1
+  I  I2  1  0.00759116  0.52091968  0.55170834  1
+  I  I3  1  0.98147643  0.67613667  0.04061491  1
+  I  I4  1  0.32386333  0.30533975  0.04061491  1
+  I  I5  1  0.69466025  0.01852357  0.04061491  1
+  I  I6  1  0.66666669  0.33333334  0.28182834  1
+  I  I7  1  0.92626172  0.24693713  0.78163826  1
+  I  I8  1  0.75306284  0.67932463  0.78163826  1
+  I  I9  1  0.32067537  0.07373828  0.78163826  1
+  I  I10  1  0.33333334  0.66666669  0.87516093  1
+  I  I11  1  0.09773453  0.31187069  0.26140127  1
+  I  I12  1  0.68812931  0.78586388  0.26140127  1
+  I  I13  1  0.21413615  0.90226549  0.26140127  1
+  B  B14  1  0.00000000  0.00000000  0.30530286  1
+  Pt  Pt15  1  0.00000000  0.00000000  0.73105991  1
+  I  I16  1  0.00000000  0.00000000  0.47664827  1
+  Co  Co17  1  0.00000000  0.00000000  0.91078079  1
+  Zn  Zn18  1  0.00000000  0.00000000  0.12493558  1
+  U  U19  1  0.66666669  0.33333334  0.90466827  1

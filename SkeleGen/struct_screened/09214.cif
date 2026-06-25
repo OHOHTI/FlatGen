@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Gd4UZnAsS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.91203499
+_cell_length_b   3.91203481
+_cell_length_c   28.69344711
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000557
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd4UZnAsS8
+_chemical_formula_sum   'Gd4 U1 Zn1 As1 S8'
+_cell_volume   380.29338720
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.00000000  0.00000000  0.91568297  1
+  Gd  Gd1  1  0.66666669  0.33333334  0.61920625  1
+  Gd  Gd2  1  0.33333334  0.66666669  0.36326000  1
+  Gd  Gd3  1  0.00000000  0.00000000  0.49281850  1
+  S  S4  1  0.33333334  0.66666669  0.66948330  1
+  S  S5  1  0.33333334  0.66666669  0.15559785  1
+  As  As6  1  0.33333334  0.66666669  0.75404614  1
+  Zn  Zn7  1  0.33333334  0.66666669  0.06528164  1
+  S  S8  1  0.33333334  0.66666669  0.86960655  1
+  S  S9  1  0.33333334  0.66666669  0.55791050  1
+  S  S10  1  0.33333334  0.66666669  0.44687986  1
+  S  S11  1  0.33333334  0.66666669  0.27181172  1
+  S  S12  1  0.33333334  0.66666669  0.98719615  1
+  S  S13  1  0.66666669  0.33333334  0.77985001  1
+  U  U14  1  0.66666669  0.33333334  0.21263933  1

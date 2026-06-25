@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_TiAlBiMo(ClO)8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.16760159
+_cell_length_b   6.16760131
+_cell_length_c   12.65840054
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000661
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiAlBiMo(ClO)8
+_chemical_formula_sum   'Ti1 Al1 Bi1 Mo1 Cl8 O8'
+_cell_volume   417.00574621
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.66753334  0.64705598  0.23729208  1
+  Cl  Cl1  1  0.35294402  0.02047735  0.23729208  1
+  Cl  Cl2  1  0.97952265  0.33246666  0.23729208  1
+  Cl  Cl3  1  0.61460048  0.00071087  0.76885915  1
+  Cl  Cl4  1  0.99928916  0.61388963  0.76885915  1
+  Cl  Cl5  1  0.38611037  0.38539952  0.76885915  1
+  Cl  Cl6  1  0.33333334  0.66666669  0.97211987  1
+  Cl  Cl7  1  0.66666669  0.33333334  0.48537368  1
+  O  O8  1  0.00000000  0.00000000  0.61818641  1
+  Mo  Mo9  1  0.00000000  0.00000000  0.49849382  1
+  Ti  Ti10  1  0.00000000  0.00000000  0.20423394  1
+  Al  Al11  1  0.00000000  0.00000000  0.00814330  1
+  O  O12  1  0.00000000  0.00000000  0.91724437  1
+  Bi  Bi13  1  0.66666669  0.33333334  0.00346925  1
+  O  O14  1  0.09878654  0.80168712  0.43585694  1
+  O  O15  1  0.19831288  0.29709941  0.43585694  1
+  O  O16  1  0.70290059  0.90121347  0.43585694  1
+  O  O17  1  0.91949075  0.71085435  0.08423622  1
+  O  O18  1  0.28914565  0.20863640  0.08423622  1
+  O  O19  1  0.79136360  0.08050925  0.08423622  1

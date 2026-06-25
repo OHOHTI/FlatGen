@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_CsKBeVCoAgH2O3F8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.11493015
+_cell_length_b   5.11492979
+_cell_length_c   12.15625191
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000546
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsKBeVCoAgH2O3F8
+_chemical_formula_sum   'Cs1 K1 Be1 V1 Co1 Ag1 H2 O3 F8'
+_cell_volume   275.42901118
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66666669  0.33333334  0.43931645  1
+  F  F1  1  0.33333334  0.66666669  0.63596100  1
+  F  F2  1  0.63164157  0.00480883  0.79459375  1
+  F  F3  1  0.99519116  0.62683272  0.79459375  1
+  F  F4  1  0.37316728  0.36835843  0.79459375  1
+  F  F5  1  0.35875702  0.01185609  0.20282555  1
+  F  F6  1  0.98814392  0.34690094  0.20282555  1
+  F  F7  1  0.65309906  0.64124298  0.20282555  1
+  Cs  Cs8  1  0.00000000  0.00000000  0.48920265  1
+  K  K9  1  0.00000000  0.00000000  0.95472056  1
+  O  O10  1  0.33333334  0.66666669  0.38311258  1
+  V  V11  1  0.33333334  0.66666669  0.25060657  1
+  H  H12  1  0.33333334  0.66666669  0.73121732  1
+  O  O13  1  0.66666669  0.33333334  0.93364900  1
+  H  H14  1  0.66666669  0.33333334  0.55087924  1
+  O  O15  1  0.66666669  0.33333334  0.64708173  1
+  Be  Be16  1  0.66666669  0.33333334  0.81251901  1
+  Co  Co17  1  0.66666669  0.33333334  0.29771894  1
+  Ag  Ag18  1  0.66666669  0.33333334  0.08317978  1

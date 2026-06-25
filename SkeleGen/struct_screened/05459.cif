@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_KUInOF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.87511396
+_cell_length_b   5.87511364
+_cell_length_c   11.07986450
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000448
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KUInOF4
+_chemical_formula_sum   'K2 U2 In2 O2 F8'
+_cell_volume   331.20556747
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.06417057  1
+  F  F1  1  0.66666669  0.33333334  0.93582940  1
+  F  F2  1  0.36761859  0.02774459  0.65596879  1
+  F  F3  1  0.97225541  0.33987400  0.65596879  1
+  F  F4  1  0.66012597  0.63238144  0.65596879  1
+  F  F5  1  0.63238144  0.97225541  0.34403121  1
+  F  F6  1  0.02774459  0.66012597  0.34403121  1
+  F  F7  1  0.33987400  0.36761859  0.34403121  1
+  K  K8  1  0.00000000  0.00000000  0.00000000  1
+  K  K9  1  0.00000000  0.00000000  0.50000000  1
+  In  In10  1  0.33333334  0.66666669  0.63831168  1
+  In  In11  1  0.66666669  0.33333334  0.36168832  1
+  O  O12  1  0.33333334  0.66666669  0.81616116  1
+  O  O13  1  0.66666669  0.33333334  0.18383884  1
+  U  U14  1  0.33333334  0.66666669  0.24856314  1
+  U  U15  1  0.66666669  0.33333334  0.75143683  1

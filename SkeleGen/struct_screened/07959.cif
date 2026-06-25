@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_RbCaMnAl(CuO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.08283949
+_cell_length_b   5.08283939
+_cell_length_c   10.12126732
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000376
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbCaMnAl(CuO2)4
+_chemical_formula_sum   'Rb1 Ca1 Mn1 Al1 Cu4 O8'
+_cell_volume   226.45311168
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000000  0.00000000  0.98542935  1
+  Cu  Cu1  1  0.66666669  0.33333334  0.48682401  1
+  Cu  Cu2  1  0.33333334  0.66666669  0.29732144  1
+  Cu  Cu3  1  0.00000000  0.00000000  0.49004441  1
+  O  O4  1  0.00000000  0.00000000  0.63511968  1
+  Al  Al5  1  0.00000000  0.00000000  0.27981776  1
+  O  O6  1  0.00000000  0.00000000  0.13930532  1
+  Mn  Mn7  1  0.00000000  0.00000000  0.78559685  1
+  Ca  Ca8  1  0.33333334  0.66666669  0.69045484  1
+  Rb  Rb9  1  0.66666669  0.33333334  0.09605540  1
+  O  O10  1  0.66951352  0.71532905  0.38422322  1
+  O  O11  1  0.28467095  0.95418447  0.38422322  1
+  O  O12  1  0.04581553  0.33048648  0.38422322  1
+  O  O13  1  0.02439368  0.72604871  0.87486726  1
+  O  O14  1  0.27395129  0.29834497  0.87486726  1
+  O  O15  1  0.70165503  0.97560632  0.87486726  1

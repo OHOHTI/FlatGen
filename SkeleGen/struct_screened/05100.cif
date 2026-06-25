@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_MnFeCoSeF15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.94411370
+_cell_length_b   6.20324680
+_cell_length_c   7.32503605
+_cell_angle_alpha   86.87939138
+_cell_angle_beta   88.26029179
+_cell_angle_gamma   79.26275582
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnFeCoSeF15
+_chemical_formula_sum   'Mn1 Fe1 Co1 Se1 F15'
+_cell_volume   264.91601050
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.42765811  0.51114577  0.48035601  1
+  F  F1  1  0.04201826  0.49736264  0.52744466  1
+  F  F2  1  0.95984328  0.49538559  0.07677095  1
+  F  F3  1  0.74785912  0.27269843  0.36371139  1
+  F  F4  1  0.80060536  0.21767516  0.75706381  1
+  F  F5  1  0.55537391  0.97973710  0.99821180  1
+  F  F6  1  0.33400387  0.69437683  0.92342269  1
+  F  F7  1  0.50092697  0.97430819  0.56776446  1
+  F  F8  1  0.29093817  0.16577555  0.78741443  1
+  F  F9  1  0.21892054  0.22949409  0.29726186  1
+  F  F10  1  0.64506853  0.84662056  0.26765859  1
+  F  F11  1  0.48144850  0.39035642  0.09232435  1
+  F  F12  1  0.15813130  0.84057605  0.28238213  1
+  F  F13  1  0.71006179  0.68628752  0.76323187  1
+  Mn  Mn14  1  0.51377398  0.15202326  0.24377199  1
+  Fe  Fe15  1  0.74288875  0.42774111  0.57672411  1
+  F  F16  1  0.12734923  0.86013561  0.76082385  1
+  Se  Se17  1  0.45655766  0.87444812  0.80395478  1
+  Co  Co18  1  0.21542938  0.54388380  0.24072966  1

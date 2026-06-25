@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CoP3(Se7O)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.88528156
+_cell_length_b   8.88528137
+_cell_length_c   7.48141766
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000427
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoP3(Se7O)2
+_chemical_formula_sum   'Co1 P3 Se14 O2'
+_cell_volume   511.51325592
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.08579302  0.26525605  0.84327132  1
+  Se  Se1  1  0.73474395  0.82053697  0.84327132  1
+  Se  Se2  1  0.17946303  0.91420698  0.84327132  1
+  Se  Se3  1  0.92522448  0.77189195  0.26009658  1
+  Se  Se4  1  0.22810805  0.15333253  0.26009658  1
+  Se  Se5  1  0.84666747  0.07477552  0.26009658  1
+  Se  Se6  1  0.22899640  0.43677238  0.29916230  1
+  Se  Se7  1  0.56322765  0.79222405  0.29916230  1
+  Se  Se8  1  0.20777598  0.77100360  0.29916230  1
+  Se  Se9  1  0.33333334  0.66666669  0.79255116  1
+  Se  Se10  1  0.66666669  0.33333334  0.23508313  1
+  Se  Se11  1  0.43772590  0.34146917  0.66002870  1
+  Se  Se12  1  0.65853083  0.09625673  0.66002870  1
+  Se  Se13  1  0.90374327  0.56227410  0.66002870  1
+  O  O14  1  0.00000000  0.00000000  0.58791167  1
+  Co  Co15  1  0.00000000  0.00000000  0.76129287  1
+  O  O16  1  0.00000000  0.00000000  0.98489857  1
+  P  P17  1  0.00000000  0.00000000  0.43965626  1
+  P  P18  1  0.00000000  0.00000000  0.10965687  1
+  P  P19  1  0.66666669  0.33333334  0.53982145  1

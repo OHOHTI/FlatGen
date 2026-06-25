@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_FePt2F6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.46462679
+_cell_length_b   5.46462665
+_cell_length_c   8.46551323
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000374
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FePt2F6
+_chemical_formula_sum   'Fe2 Pt4 F12'
+_cell_volume   218.92981523
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pt  Pt0  1  0.00000000  0.00000000  0.00000000  1
+  Pt  Pt1  1  0.33333334  0.66666669  0.37551415  1
+  Pt  Pt2  1  0.66666669  0.33333334  0.62448585  1
+  Pt  Pt3  1  0.00000000  0.00000000  0.50000000  1
+  Fe  Fe4  1  0.33333334  0.66666669  0.85987413  1
+  Fe  Fe5  1  0.66666669  0.33333334  0.14012587  1
+  F  F6  1  0.63809824  0.00000000  0.00000000  1
+  F  F7  1  0.00000000  0.63809824  0.00000000  1
+  F  F8  1  0.36190176  0.36190176  0.00000000  1
+  F  F9  1  0.62894768  0.00000000  0.50000000  1
+  F  F10  1  0.00000000  0.62894768  0.50000000  1
+  F  F11  1  0.37105232  0.37105232  0.50000000  1
+  F  F12  1  0.68418980  0.67794234  0.75131059  1
+  F  F13  1  0.32205766  0.00624746  0.75131059  1
+  F  F14  1  0.99375254  0.31581020  0.75131059  1
+  F  F15  1  0.67794234  0.68418980  0.24868941  1
+  F  F16  1  0.00624746  0.32205766  0.24868941  1
+  F  F17  1  0.31581020  0.99375254  0.24868941  1

@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_CsKRbNaTlCrNi(Te3I)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.35500813
+_cell_length_b   8.35500780
+_cell_length_c   10.63654518
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000507
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsKRbNaTlCrNi(Te3I)3
+_chemical_formula_sum   'Cs1 K1 Rb1 Na1 Tl1 Cr1 Ni1 Te9 I3'
+_cell_volume   643.02067184
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.85983652  0.21338421  0.67465174  1
+  Te  Te1  1  0.78661579  0.64645231  0.67465174  1
+  Te  Te2  1  0.35354769  0.14016348  0.67465174  1
+  Te  Te3  1  0.25199062  0.83223647  0.52789325  1
+  Te  Te4  1  0.16776353  0.41975415  0.52789325  1
+  Te  Te5  1  0.58024585  0.74800938  0.52789325  1
+  Te  Te6  1  0.29664400  0.25187016  0.28279039  1
+  Te  Te7  1  0.74812984  0.04477385  0.28279039  1
+  Te  Te8  1  0.95522618  0.70335603  0.28279039  1
+  K  K9  1  0.00000000  0.00000000  0.97358429  1
+  Tl  Tl10  1  0.00000000  0.00000000  0.46150225  1
+  Cs  Cs11  1  0.33333334  0.66666669  0.21206559  1
+  Cr  Cr12  1  0.33333334  0.66666669  0.72059250  1
+  Rb  Rb13  1  0.66666669  0.33333334  0.11024429  1
+  Na  Na14  1  0.66666669  0.33333334  0.43302709  1
+  Ni  Ni15  1  0.66666669  0.33333334  0.77176917  1
+  I  I16  1  0.04699450  0.64021945  0.89139378  1
+  I  I17  1  0.35978055  0.40677506  0.89139378  1
+  I  I18  1  0.59322494  0.95300549  0.89139378  1

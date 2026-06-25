@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Eu10In2HgGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.29253583
+_cell_length_b   7.51310708
+_cell_length_c   9.18696404
+_cell_angle_alpha   94.81290912
+_cell_angle_beta   95.09130709
+_cell_angle_gamma   87.69338201
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu10In2HgGe2
+_chemical_formula_sum   'Eu10 In2 Hg1 Ge2'
+_cell_volume   499.32344664
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.36394167  0.65965897  0.61202008  1
+  Eu  Eu1  1  0.63605833  0.34034103  0.38797992  1
+  Eu  Eu2  1  0.73585343  0.54170984  0.04782033  1
+  Eu  Eu3  1  0.26414657  0.45829016  0.95217967  1
+  Eu  Eu4  1  0.11295483  0.34591484  0.34766248  1
+  Eu  Eu5  1  0.88704515  0.65408516  0.65233755  1
+  Eu  Eu6  1  0.86143088  0.19167674  0.78768450  1
+  Eu  Eu7  1  0.13856912  0.80832326  0.21231550  1
+  Eu  Eu8  1  0.40569171  0.14719041  0.67136151  1
+  Eu  Eu9  1  0.59430826  0.85280961  0.32863849  1
+  Hg  Hg10  1  0.00000000  0.00000000  0.50000000  1
+  Ge  Ge11  1  0.60551196  0.85516244  0.87446928  1
+  Ge  Ge12  1  0.39448804  0.14483756  0.12553072  1
+  In  In13  1  0.14444877  0.89717323  0.88557142  1
+  In  In14  1  0.85555124  0.10282677  0.11442858  1

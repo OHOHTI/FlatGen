@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_ScVCuBiOF14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.25749727
+_cell_length_b   5.55740589
+_cell_length_c   8.75080109
+_cell_angle_alpha   86.70647149
+_cell_angle_beta   89.15540179
+_cell_angle_gamma   93.62370824
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScVCuBiOF14
+_chemical_formula_sum   'Sc1 V1 Cu1 Bi1 O1 F14'
+_cell_volume   254.70534620
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.51023203  0.20331801  0.07846712  1
+  F  F1  1  0.75182605  0.98837495  0.83134431  1
+  F  F2  1  0.73376411  0.53627616  0.33111882  1
+  F  F3  1  0.83581966  0.04611516  0.31010237  1
+  F  F4  1  0.99169761  0.74812716  0.07381405  1
+  F  F5  1  0.01042755  0.79706079  0.57451838  1
+  F  F6  1  0.01369525  0.29782107  0.08323040  1
+  F  F7  1  0.00518716  0.32828987  0.59190816  1
+  F  F8  1  0.23269269  0.95572090  0.84122825  1
+  F  F9  1  0.31858271  0.46318075  0.85441494  1
+  F  F10  1  0.33326373  0.87254393  0.31228969  1
+  F  F11  1  0.44328207  0.69888496  0.60144484  1
+  Sc  Sc12  1  0.08900304  0.67877936  0.76513690  1
+  Cu  Cu13  1  0.76458037  0.98982185  0.06158293  1
+  O  O14  1  0.49797991  0.21954292  0.59815013  1
+  F  F15  1  0.21825089  0.41117314  0.33788136  1
+  F  F16  1  0.81554466  0.52003181  0.83022958  1
+  V  V17  1  0.95103735  0.46699014  0.27085003  1
+  Bi  Bi18  1  0.53584653  0.98791349  0.51290530  1

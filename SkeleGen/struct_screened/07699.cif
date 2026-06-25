@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_KZrTiI8O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.26635742
+_cell_length_b   7.26635716
+_cell_length_c   10.21931648
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000554
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KZrTiI8O7
+_chemical_formula_sum   'K1 Zr1 Ti1 I8 O7'
+_cell_volume   467.28942574
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.63682479  0.63033193  0.24817118  1
+  I  I1  1  0.36966807  0.00649285  0.24817118  1
+  I  I2  1  0.99350715  0.36317521  0.24817118  1
+  I  I3  1  0.63214380  0.95870668  0.70233774  1
+  I  I4  1  0.04129332  0.67343712  0.70233774  1
+  I  I5  1  0.32656288  0.36785620  0.70233774  1
+  I  I6  1  0.33333334  0.66666669  0.07023209  1
+  I  I7  1  0.66666669  0.33333334  0.51253074  1
+  K  K8  1  0.00000000  0.00000000  0.90361720  1
+  Zr  Zr9  1  0.00000000  0.00000000  0.46480647  1
+  O  O10  1  0.66666669  0.33333334  0.22387271  1
+  Ti  Ti11  1  0.66666669  0.33333334  0.03951925  1
+  O  O12  1  0.80900210  0.59822917  0.99611658  1
+  O  O13  1  0.40177083  0.21077293  0.99611658  1
+  O  O14  1  0.78922707  0.19099790  0.99611658  1
+  O  O15  1  0.20084397  0.27403599  0.35974184  1
+  O  O16  1  0.72596401  0.92680800  0.35974184  1
+  O  O17  1  0.07319202  0.79915601  0.35974184  1

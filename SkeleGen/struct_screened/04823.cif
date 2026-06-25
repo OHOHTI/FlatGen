@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_CsNbSnPbCl9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.82019997
+_cell_length_b   6.82019984
+_cell_length_c   12.15566254
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000524
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsNbSnPbCl9
+_chemical_formula_sum   'Cs1 Nb1 Sn1 Pb1 Cl9'
+_cell_volume   489.66994860
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.70469397  0.66037858  0.24407397  1
+  Cl  Cl1  1  0.33962142  0.04431540  0.24407397  1
+  Cl  Cl2  1  0.95568460  0.29530603  0.24407397  1
+  Cl  Cl3  1  0.70942742  0.00183238  0.75985754  1
+  Cl  Cl4  1  0.99816763  0.70759505  0.75985754  1
+  Cl  Cl5  1  0.29240495  0.29057258  0.75985754  1
+  Cl  Cl6  1  0.33333334  0.66666669  0.95374846  1
+  Cl  Cl7  1  0.66666669  0.33333334  0.48956227  1
+  Sn  Sn8  1  0.00000000  0.00000000  0.33113113  1
+  Pb  Pb9  1  0.00000000  0.00000000  0.06370676  1
+  Cl  Cl10  1  0.00000000  0.00000000  0.54644459  1
+  Nb  Nb11  1  0.00000000  0.00000000  0.82479674  1
+  Cs  Cs12  1  0.33333334  0.66666669  0.53128856  1

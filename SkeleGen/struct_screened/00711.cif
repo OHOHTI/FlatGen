@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_EuTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.81924629
+_cell_length_b   8.23878860
+_cell_length_c   9.23960686
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   90.00000433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuTe3
+_chemical_formula_sum   'Eu4 Te12'
+_cell_volume   595.22579669
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.61967969  0.81259376  0.26886237  1
+  Te  Te1  1  0.88032031  0.18740624  0.76886237  1
+  Te  Te2  1  0.38032031  0.31259370  0.23113763  1
+  Te  Te3  1  0.11967969  0.68740624  0.73113763  1
+  Te  Te4  1  0.44286045  0.00567902  0.93673587  1
+  Te  Te5  1  0.05713955  0.99432099  0.43673587  1
+  Te  Te6  1  0.55713952  0.50567901  0.56326413  1
+  Te  Te7  1  0.94286048  0.49432099  0.06326413  1
+  Te  Te8  1  0.98742366  0.49428886  0.41941181  1
+  Te  Te9  1  0.51257634  0.50571114  0.91941178  1
+  Te  Te10  1  0.01257634  0.99428886  0.08058819  1
+  Te  Te11  1  0.48742366  0.00571114  0.58058822  1
+  Eu  Eu12  1  0.74693632  0.81556147  0.80754393  1
+  Eu  Eu13  1  0.75306368  0.18443853  0.30754399  1
+  Eu  Eu14  1  0.25306368  0.31556153  0.69245607  1
+  Eu  Eu15  1  0.24693632  0.68443853  0.19245607  1

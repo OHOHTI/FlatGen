@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Li2TiCrAgF14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.69830968
+_cell_length_b   5.44185402
+_cell_length_c   8.07028770
+_cell_angle_alpha   94.29300198
+_cell_angle_beta   94.74881474
+_cell_angle_gamma   94.31853362
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2TiCrAgF14
+_chemical_formula_sum   'Li2 Ti1 Cr1 Ag1 F14'
+_cell_volume   247.85801358
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.68471700  0.76815301  0.26986575  1
+  F  F1  1  0.75787675  0.25511971  0.76883996  1
+  F  F2  1  0.24674460  0.71533853  0.77117825  1
+  F  F3  1  0.32469255  0.26911190  0.28834987  1
+  F  F4  1  0.39600158  0.01497456  0.97470921  1
+  F  F5  1  0.94489342  0.97959495  0.51244104  1
+  F  F6  1  0.04716558  0.50883913  0.04334234  1
+  F  F7  1  0.52466041  0.54010528  0.56659728  1
+  F  F8  1  0.95691198  0.49816087  0.48222181  1
+  F  F9  1  0.61967915  0.43735123  0.99378628  1
+  F  F10  1  0.40455541  0.99950188  0.56844372  1
+  F  F11  1  0.96811694  0.06778818  0.09223243  1
+  Cr  Cr12  1  0.03345936  0.76972556  0.63043535  1
+  Li  Li13  1  0.55121750  0.77044898  0.90050042  1
+  F  F14  1  0.20110700  0.26199150  0.78009236  1
+  Li  Li15  1  0.27677187  0.28015453  0.51548642  1
+  Ti  Ti16  1  0.00635482  0.22994575  0.91577059  1
+  Ag  Ag17  1  0.03290132  0.74423671  0.26211676  1
+  F  F18  1  0.82224977  0.78500342  0.78626418  1

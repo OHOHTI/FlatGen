@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_K2TlZnBF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30965948
+_cell_length_b   5.30965917
+_cell_length_c   9.42485619
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000489
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2TlZnBF8
+_chemical_formula_sum   'K2 Tl1 Zn1 B1 F8'
+_cell_volume   230.11167665
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.17310762  1
+  F  F1  1  0.66666669  0.33333334  0.99128342  1
+  F  F2  1  0.77172625  0.09116317  0.68619221  1
+  F  F3  1  0.90883684  0.68056309  0.68619221  1
+  F  F4  1  0.31943691  0.22827375  0.68619221  1
+  F  F5  1  0.41965693  0.97216535  0.37381926  1
+  F  F6  1  0.02783465  0.44749159  0.37381926  1
+  F  F7  1  0.55250841  0.58034307  0.37381926  1
+  K  K8  1  0.00000000  0.00000000  0.15096872  1
+  B  B9  1  0.33333334  0.66666669  0.32472774  1
+  Tl  Tl10  1  0.33333334  0.66666669  0.62521833  1
+  K  K11  1  0.33333334  0.66666669  0.91719538  1
+  Zn  Zn12  1  0.66666669  0.33333334  0.50618291  1

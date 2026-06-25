@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Li2ThCl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.48426056
+_cell_length_b   6.48426033
+_cell_length_c   9.41331768
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000604
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2ThCl4
+_chemical_formula_sum   'Li4 Th2 Cl8'
+_cell_volume   342.76322569
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.67705286  0.68375403  0.16974370  1
+  Cl  Cl1  1  0.31624597  0.99329883  0.16974370  1
+  Cl  Cl2  1  0.00670117  0.32294714  0.16974370  1
+  Cl  Cl3  1  0.32294714  0.31624597  0.66974372  1
+  Cl  Cl4  1  0.68375403  0.00670117  0.66974372  1
+  Cl  Cl5  1  0.99329883  0.67705286  0.66974372  1
+  Cl  Cl6  1  0.33333334  0.66666669  0.91214842  1
+  Cl  Cl7  1  0.66666669  0.33333334  0.41214848  1
+  Th  Th8  1  0.00000000  0.00000000  0.99397278  1
+  Th  Th9  1  0.00000000  0.00000000  0.49397278  1
+  Li  Li10  1  0.33333334  0.66666669  0.26968405  1
+  Li  Li11  1  0.66666669  0.33333334  0.76968408  1
+  Li  Li12  1  0.33333334  0.66666669  0.60794413  1
+  Li  Li13  1  0.66666669  0.33333334  0.10794413  1

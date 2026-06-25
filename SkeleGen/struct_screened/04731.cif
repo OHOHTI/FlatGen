@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KMnZnPtAuBr15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.16868782
+_cell_length_b   11.16868699
+_cell_length_c   5.65049887
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000529
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KMnZnPtAuBr15
+_chemical_formula_sum   'K1 Mn1 Zn1 Pt1 Au1 Br15'
+_cell_volume   610.41004572
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.23744297  0.43830532  0.79513466  1
+  Br  Br1  1  0.56169468  0.79913765  0.79513466  1
+  Br  Br2  1  0.20086235  0.76255703  0.79513466  1
+  Br  Br3  1  0.90922982  0.11192507  0.81871551  1
+  Br  Br4  1  0.88807493  0.79730475  0.81871551  1
+  Br  Br5  1  0.20269525  0.09077018  0.81871551  1
+  Br  Br6  1  0.17342936  0.23940350  0.28651598  1
+  Br  Br7  1  0.76059651  0.93402588  0.28651598  1
+  Br  Br8  1  0.06597415  0.82657063  0.28651598  1
+  Br  Br9  1  0.51574183  0.39771831  0.78191155  1
+  Br  Br10  1  0.60228169  0.11802351  0.78191155  1
+  Br  Br11  1  0.88197649  0.48425817  0.78191155  1
+  Br  Br12  1  0.66951811  0.53205723  0.33514521  1
+  Br  Br13  1  0.46794277  0.13746089  0.33514521  1
+  Br  Br14  1  0.86253911  0.33048189  0.33514521  1
+  Mn  Mn15  1  0.00000000  0.00000000  0.08753968  1
+  K  K16  1  0.33333334  0.66666669  0.30202198  1
+  Zn  Zn17  1  0.33333334  0.66666669  0.91917658  1
+  Au  Au18  1  0.66666669  0.33333334  0.05993737  1
+  Pt  Pt19  1  0.66666669  0.33333334  0.55130261  1

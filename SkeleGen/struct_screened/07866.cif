@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ce2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82074499
+_cell_length_b   5.82074476
+_cell_length_c   5.49045277
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000402
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2O3
+_chemical_formula_sum   'Ce4 O6'
+_cell_volume   161.10013447
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.00000000  0.00000000  0.00000000  1
+  Ce  Ce1  1  0.33333334  0.66666669  0.26595855  1
+  Ce  Ce2  1  0.66666669  0.33333334  0.73404145  1
+  Ce  Ce3  1  0.00000000  0.00000000  0.50000000  1
+  O  O4  1  0.97122896  0.68022978  0.26515386  1
+  O  O5  1  0.31977022  0.29099917  0.26515386  1
+  O  O6  1  0.70900083  0.02877104  0.26515386  1
+  O  O7  1  0.02877104  0.31977022  0.73484612  1
+  O  O8  1  0.68022978  0.70900083  0.73484612  1
+  O  O9  1  0.29099917  0.97122896  0.73484612  1

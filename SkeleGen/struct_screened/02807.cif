@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Sc(MoSe5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.22506719
+_cell_length_b   6.64596223
+_cell_length_c   9.06644058
+_cell_angle_alpha   90.93775330
+_cell_angle_beta   89.34076637
+_cell_angle_gamma   100.82756408
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc(MoSe5)2
+_chemical_formula_sum   'Sc1 Mo2 Se10'
+_cell_volume   368.35210452
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.64175642  0.65841413  0.86203557  1
+  Se  Se1  1  0.35824358  0.34158587  0.13796443  1
+  Se  Se2  1  0.15163526  0.81608474  0.12065239  1
+  Se  Se3  1  0.84836471  0.18391526  0.87934762  1
+  Se  Se4  1  0.70693678  0.00765285  0.22463247  1
+  Se  Se5  1  0.29306322  0.99234718  0.77536750  1
+  Se  Se6  1  0.01695306  0.26351777  0.43032336  1
+  Se  Se7  1  0.98304695  0.73648226  0.56967664  1
+  Se  Se8  1  0.51396751  0.23964986  0.55045766  1
+  Se  Se9  1  0.48603249  0.76035011  0.44954234  1
+  Sc  Sc10  1  0.50000000  0.00000000  0.00000000  1
+  Mo  Mo11  1  0.74507171  0.93569964  0.66625166  1
+  Mo  Mo12  1  0.25492829  0.06430036  0.33374834  1

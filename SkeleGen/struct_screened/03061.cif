@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_BaSrZrNbAlReBTe9ICl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.35781431
+_cell_length_b   7.35781413
+_cell_length_c   13.43720627
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000511
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSrZrNbAlReBTe9ICl3
+_chemical_formula_sum   'Ba1 Sr1 Zr1 Nb1 Al1 Re1 B1 Te9 I1 Cl3'
+_cell_volume   629.99518352
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.99011254  0.35339442  0.45982546  1
+  Te  Te1  1  0.64660561  0.63671815  0.45982546  1
+  Te  Te2  1  0.36328185  0.00988746  0.45982546  1
+  Te  Te3  1  0.99155438  0.66849273  0.67544580  1
+  Te  Te4  1  0.33150727  0.32306165  0.67544580  1
+  Te  Te5  1  0.67693835  0.00844562  0.67544580  1
+  Te  Te6  1  0.65699768  0.98131746  0.21741858  1
+  Te  Te7  1  0.01868254  0.67568022  0.21741858  1
+  Te  Te8  1  0.32431978  0.34300232  0.21741858  1
+  Sr  Sr9  1  0.00000000  0.00000000  0.37890628  1
+  Ba  Ba10  1  0.00000000  0.00000000  0.02790510  1
+  Zr  Zr11  1  0.33333334  0.66666669  0.78459865  1
+  Nb  Nb12  1  0.33333334  0.66666669  0.37621564  1
+  I  I13  1  0.66666669  0.33333334  0.03844886  1
+  B  B14  1  0.66666669  0.33333334  0.57940835  1
+  Al  Al15  1  0.66666669  0.33333334  0.36218867  1
+  Re  Re16  1  0.66666669  0.33333334  0.78094804  1
+  Cl  Cl17  1  0.66740936  0.66384387  0.88420308  1
+  Cl  Cl18  1  0.33615613  0.00356549  0.88420308  1
+  Cl  Cl19  1  0.99643451  0.33259064  0.88420308  1

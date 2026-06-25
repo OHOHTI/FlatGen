@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_UMoAuCl9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.68766880
+_cell_length_b   6.68766841
+_cell_length_c   9.24756432
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000664
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UMoAuCl9
+_chemical_formula_sum   'U1 Mo1 Au1 Cl9'
+_cell_volume   358.18504725
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.66666669  0.33333334  0.54529679  1
+  Cl  Cl1  1  0.33333334  0.66666669  0.45861527  1
+  Cl  Cl2  1  0.66422790  0.01094269  0.84558445  1
+  Cl  Cl3  1  0.98905730  0.65328521  0.84558445  1
+  Cl  Cl4  1  0.34671479  0.33577210  0.84558445  1
+  Cl  Cl5  1  0.33205456  0.03548549  0.17783366  1
+  Cl  Cl6  1  0.96451449  0.29656905  0.17783366  1
+  Cl  Cl7  1  0.70343095  0.66794544  0.17783366  1
+  Cl  Cl8  1  0.00000000  0.00000000  0.53210926  1
+  U  U9  1  0.00000000  0.00000000  0.00902784  1
+  Au  Au10  1  0.33333334  0.66666669  0.04130485  1
+  Mo  Mo11  1  0.66666669  0.33333334  0.04284506  1

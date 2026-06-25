@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_La4CoAgMo2Se3S5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.59461716
+_cell_length_b   7.34102547
+_cell_length_c   7.65423822
+_cell_angle_alpha   89.62274385
+_cell_angle_beta   100.39043510
+_cell_angle_gamma   95.79713654
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La4CoAgMo2Se3S5
+_chemical_formula_sum   'La4 Co1 Ag1 Mo2 Se3 S5'
+_cell_volume   362.58517564
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.75124890  0.18029243  0.82591832  1
+  La  La1  1  0.44034791  0.66671550  0.26507843  1
+  La  La2  1  0.76071620  0.12314866  0.29995257  1
+  La  La3  1  0.25083476  0.85907829  0.77017647  1
+  S  S4  1  0.62292814  0.62797606  0.62396199  1
+  Se  Se5  1  0.44864011  0.11200794  0.53795552  1
+  Ag  Ag6  1  0.28177732  0.38447511  0.71513271  1
+  Co  Co7  1  0.89838445  0.66375166  0.05134747  1
+  Mo  Mo8  1  0.86731273  0.43709293  0.54126972  1
+  Se  Se9  1  0.12977481  0.96010095  0.15294559  1
+  S  S10  1  0.01316170  0.52149069  0.28999245  1
+  Mo  Mo11  1  0.23668042  0.24958062  0.30887061  1
+  Se  Se12  1  0.45290357  0.32832268  0.03670885  1
+  S  S13  1  0.64510840  0.85364306  0.02132945  1
+  S  S14  1  0.02243512  0.53344226  0.85797477  1
+  S  S15  1  0.00122486  0.10443150  0.59157109  1

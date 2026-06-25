@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaLi2CaLaNbV2O12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.38137425
+_cell_length_b   5.50257816
+_cell_length_c   7.65315628
+_cell_angle_alpha   94.69398850
+_cell_angle_beta   91.42837274
+_cell_angle_gamma   91.63832998
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLi2CaLaNbV2O12
+_chemical_formula_sum   'Na1 Li2 Ca1 La1 Nb1 V2 O12'
+_cell_volume   225.68392114
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.65741199  0.23298539  0.48766300  1
+  O  O1  1  0.36392039  0.73989379  0.47825903  1
+  O  O2  1  0.55458832  0.92419767  0.78693652  1
+  O  O3  1  0.45424116  0.41654161  0.78665501  1
+  O  O4  1  0.93053323  0.51551801  0.68085432  1
+  O  O5  1  0.46097410  0.99808842  0.18660611  1
+  O  O6  1  0.53485405  0.50423843  0.19992237  1
+  O  O7  1  0.05023395  0.42267942  0.28315583  1
+  Li  Li8  1  0.74960846  0.72025800  0.49359167  1
+  Na  Na9  1  0.23725685  0.18537463  0.49002293  1
+  Nb  Nb10  1  0.73241633  0.22767839  0.73618132  1
+  V  V11  1  0.74982321  0.22521645  0.25361249  1
+  O  O12  1  0.16238272  0.74445808  0.00741279  1
+  V  V13  1  0.25152647  0.72481912  0.25346449  1
+  O  O14  1  0.00114146  0.01388357  0.69480926  1
+  O  O15  1  0.94566637  0.91489673  0.29609495  1
+  O  O16  1  0.84017378  0.22418854  0.98377317  1
+  Ca  Ca17  1  0.24783111  0.19707754  0.99048942  1
+  La  La18  1  0.74217796  0.69693190  0.99088567  1
+  Li  Li19  1  0.23613438  0.72441536  0.74305218  1

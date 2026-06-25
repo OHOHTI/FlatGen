@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Tb2AlCoO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.33851576
+_cell_length_b   5.33851570
+_cell_length_c   9.68595886
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000331
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2AlCoO6
+_chemical_formula_sum   'Tb4 Al2 Co2 O12'
+_cell_volume   239.06406003
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.00000000  0.00000000  0.00000000  1
+  Tb  Tb1  1  0.33333334  0.66666669  0.29612565  1
+  Tb  Tb2  1  0.66666669  0.33333334  0.70387435  1
+  Tb  Tb3  1  0.00000000  0.00000000  0.50000000  1
+  Co  Co4  1  0.33333334  0.66666669  0.74604756  1
+  Co  Co5  1  0.66666669  0.33333334  0.25395244  1
+  Al  Al6  1  0.33333334  0.66666669  0.99731553  1
+  Al  Al7  1  0.66666669  0.33333334  0.00268447  1
+  O  O8  1  0.36032796  0.99300206  0.88062841  1
+  O  O9  1  0.00699794  0.36732590  0.88062841  1
+  O  O10  1  0.63267410  0.63967204  0.88062841  1
+  O  O11  1  0.63967204  0.00699794  0.11937159  1
+  O  O12  1  0.99300206  0.63267410  0.11937159  1
+  O  O13  1  0.36732590  0.36032796  0.11937159  1
+  O  O14  1  0.32292530  0.36503315  0.62569547  1
+  O  O15  1  0.63496685  0.95789218  0.62569547  1
+  O  O16  1  0.04210785  0.67707467  0.62569547  1
+  O  O17  1  0.67707467  0.63496685  0.37430453  1
+  O  O18  1  0.36503315  0.04210785  0.37430453  1
+  O  O19  1  0.95789218  0.32292530  0.37430453  1

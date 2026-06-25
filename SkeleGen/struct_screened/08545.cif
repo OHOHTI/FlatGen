@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_HfCu4AgBr10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.62179613
+_cell_length_b   6.62179601
+_cell_length_c   11.24239349
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999348
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfCu4AgBr10
+_chemical_formula_sum   'Hf1 Cu4 Ag1 Br10'
+_cell_volume   426.91463733
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.33333334  0.66666669  0.58362114  1
+  Br  Br1  1  0.66666669  0.33333334  0.41637886  1
+  Br  Br2  1  0.82945377  0.17054623  0.75856614  1
+  Br  Br3  1  0.82945377  0.65890753  0.75856614  1
+  Br  Br4  1  0.34109247  0.17054623  0.75856614  1
+  Br  Br5  1  0.17054623  0.82945377  0.24143386  1
+  Br  Br6  1  0.65890753  0.82945377  0.24143386  1
+  Br  Br7  1  0.17054623  0.34109247  0.24143386  1
+  Br  Br8  1  0.33333334  0.66666669  0.91042566  1
+  Br  Br9  1  0.66666669  0.33333334  0.08957434  1
+  Hf  Hf10  1  0.00000000  0.00000000  0.00000000  1
+  Ag  Ag11  1  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu12  1  0.33333334  0.66666669  0.37530795  1
+  Cu  Cu13  1  0.66666669  0.33333334  0.62469208  1
+  Cu  Cu14  1  0.33333334  0.66666669  0.12632467  1
+  Cu  Cu15  1  0.66666669  0.33333334  0.87367535  1

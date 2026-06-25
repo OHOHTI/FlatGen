@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_PrP2O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.14797640
+_cell_length_b   5.14797638
+_cell_length_c   7.31943369
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000319
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrP2O9
+_chemical_formula_sum   'Pr1 P2 O9'
+_cell_volume   167.98913392
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.66666669  0.33333334  0.46980986  1
+  O  O1  1  0.33333334  0.66666669  0.54764771  1
+  O  O2  1  0.63335139  0.94207102  0.79708278  1
+  O  O3  1  0.05792898  0.69128036  0.79708278  1
+  O  O4  1  0.30871964  0.36664861  0.79708278  1
+  O  O5  1  0.53946179  0.02155056  0.18654676  1
+  O  O6  1  0.97844946  0.51791126  0.18654676  1
+  O  O7  1  0.48208874  0.46053821  0.18654676  1
+  O  O8  1  0.00000000  0.00000000  0.08499959  1
+  Pr  Pr9  1  0.00000000  0.00000000  0.50207865  1
+  P  P10  1  0.33333334  0.66666669  0.74046767  1
+  P  P11  1  0.66666669  0.33333334  0.25783211  1

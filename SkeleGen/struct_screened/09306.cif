@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_KNaLiTaMnVOF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.86938190
+_cell_length_b   5.86938179
+_cell_length_c   9.19863510
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000334
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNaLiTaMnVOF12
+_chemical_formula_sum   'K1 Na1 Li1 Ta1 Mn1 V1 O1 F12'
+_cell_volume   274.43451916
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.71695220  0.05025288  0.51796705  1
+  F  F1  1  0.94974709  0.66669929  0.51796705  1
+  F  F2  1  0.33330071  0.28304780  0.51796705  1
+  F  F3  1  0.25725710  0.85867047  0.73507780  1
+  F  F4  1  0.14132953  0.39858663  0.73507780  1
+  F  F5  1  0.60141337  0.74274290  0.73507780  1
+  F  F6  1  0.76221400  0.02889066  0.23733976  1
+  F  F7  1  0.97110933  0.73332334  0.23733976  1
+  F  F8  1  0.26667666  0.23778600  0.23733976  1
+  K  K9  1  0.00000000  0.00000000  0.96157724  1
+  Mn  Mn10  1  0.00000000  0.00000000  0.39832896  1
+  Li  Li11  1  0.33333334  0.66666669  0.16648264  1
+  O  O12  1  0.33333334  0.66666669  0.38938221  1
+  V  V13  1  0.33333334  0.66666669  0.88617933  1
+  Ta  Ta14  1  0.33333334  0.66666669  0.59200287  1
+  Na  Na15  1  0.66666669  0.33333334  0.27484530  1
+  F  F16  1  0.43284863  0.97941744  0.99675590  1
+  F  F17  1  0.02058256  0.45343119  0.99675590  1
+  F  F18  1  0.54656881  0.56715137  0.99675590  1

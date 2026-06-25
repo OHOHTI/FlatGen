@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_MnTe4Cl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.01717091
+_cell_length_b   7.01717076
+_cell_length_c   12.82191849
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000518
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnTe4Cl3
+_chemical_formula_sum   'Mn2 Te8 Cl6'
+_cell_volume   546.77382989
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.65745801  0.65293795  0.32880098  1
+  Te  Te1  1  0.34706205  0.00452006  0.32880098  1
+  Te  Te2  1  0.99547994  0.34254199  0.32880098  1
+  Te  Te3  1  0.34254199  0.34706205  0.82880098  1
+  Te  Te4  1  0.65293795  0.99547994  0.82880098  1
+  Te  Te5  1  0.00452006  0.65745801  0.82880098  1
+  Te  Te6  1  0.33333334  0.66666669  0.15426834  1
+  Te  Te7  1  0.66666669  0.33333334  0.65426832  1
+  Mn  Mn8  1  0.33333334  0.66666669  0.70840764  1
+  Mn  Mn9  1  0.66666669  0.33333334  0.20840764  1
+  Cl  Cl10  1  0.91026115  0.63697386  0.09461394  1
+  Cl  Cl11  1  0.36302614  0.27328730  0.09461394  1
+  Cl  Cl12  1  0.72671270  0.08973885  0.09461394  1
+  Cl  Cl13  1  0.08973885  0.36302614  0.59461391  1
+  Cl  Cl14  1  0.63697386  0.72671270  0.59461391  1
+  Cl  Cl15  1  0.27328730  0.91026115  0.59461391  1

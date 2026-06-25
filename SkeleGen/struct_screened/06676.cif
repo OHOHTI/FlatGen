@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Rb3Na2AgPbCl11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.56381989
+_cell_length_b   7.56381944
+_cell_length_c   12.18587303
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000610
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb3Na2AgPbCl11
+_chemical_formula_sum   'Rb3 Na2 Ag1 Pb1 Cl11'
+_cell_volume   603.76729666
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.70946085  0.66235054  0.20933150  1
+  Cl  Cl1  1  0.33764946  0.04711032  0.20933150  1
+  Cl  Cl2  1  0.95288968  0.29053915  0.20933150  1
+  Cl  Cl3  1  0.65906465  0.95217079  0.67697346  1
+  Cl  Cl4  1  0.04782921  0.70689386  0.67697346  1
+  Cl  Cl5  1  0.29310614  0.34093535  0.67697346  1
+  Cl  Cl6  1  0.33333334  0.66666669  0.07879040  1
+  Cl  Cl7  1  0.66666669  0.33333334  0.45970699  1
+  Ag  Ag8  1  0.00000000  0.00000000  0.08748851  1
+  Na  Na9  1  0.00000000  0.00000000  0.79955345  1
+  Na  Na10  1  0.66666669  0.33333334  0.73716652  1
+  Pb  Pb11  1  0.66666669  0.33333334  0.07022519  1
+  Cl  Cl12  1  0.33064798  0.12618306  0.93196487  1
+  Cl  Cl13  1  0.87381697  0.20446491  0.93196487  1
+  Cl  Cl14  1  0.79553509  0.66935205  0.93196487  1
+  Rb  Rb15  1  0.30729195  0.35901663  0.35673946  1
+  Rb  Rb16  1  0.64098334  0.94827533  0.35673946  1
+  Rb  Rb17  1  0.05172467  0.69270802  0.35673946  1

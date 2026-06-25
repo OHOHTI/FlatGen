@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_K2UCrCuGeTe8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.46746254
+_cell_length_b   7.46746219
+_cell_length_c   9.98075676
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999311
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2UCrCuGeTe8
+_chemical_formula_sum   'K2 U1 Cr1 Cu1 Ge1 Te8'
+_cell_volume   481.99243092
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.70020854  0.66959327  0.13897556  1
+  Te  Te1  1  0.33040673  0.03061527  0.13897556  1
+  Te  Te2  1  0.96938473  0.29979146  0.13897556  1
+  Te  Te3  1  0.69527072  0.02328357  0.75389993  1
+  Te  Te4  1  0.97671646  0.67198718  0.75389993  1
+  Te  Te5  1  0.32801282  0.30472928  0.75389993  1
+  Te  Te6  1  0.33333334  0.66666669  0.95554614  1
+  Te  Te7  1  0.66666669  0.33333334  0.47713277  1
+  U  U8  1  0.00000000  0.00000000  0.96004075  1
+  K  K9  1  0.00000000  0.00000000  0.40933609  1
+  K  K10  1  0.33333334  0.66666669  0.50301832  1
+  Cu  Cu11  1  0.66666669  0.33333334  0.95864522  1
+  Cr  Cr12  1  0.66666669  0.33333334  0.69930261  1
+  Ge  Ge13  1  0.66666669  0.33333334  0.21460488  1

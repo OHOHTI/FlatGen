@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_KRbLiCdSb3F11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.18348742
+_cell_length_b   7.18348733
+_cell_length_c   7.38466930
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000480
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KRbLiCdSb3F11
+_chemical_formula_sum   'Rb1 K1 Li1 Cd1 Sb3 F11'
+_cell_volume   330.01397220
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66666669  0.33333334  0.56620467  1
+  F  F1  1  0.33333334  0.66666669  0.43216842  1
+  F  F2  1  0.53812063  0.01251875  0.76050454  1
+  F  F3  1  0.98748124  0.52560186  0.76050454  1
+  F  F4  1  0.47439814  0.46187937  0.76050454  1
+  F  F5  1  0.32566476  0.04236709  0.16133857  1
+  F  F6  1  0.95763290  0.28329766  0.16133857  1
+  F  F7  1  0.71670234  0.67433524  0.16133857  1
+  Rb  Rb8  1  0.00000000  0.00000000  0.76564741  1
+  Li  Li9  1  0.00000000  0.00000000  0.26836157  1
+  K  K10  1  0.33333334  0.66666669  0.01096313  1
+  Cd  Cd11  1  0.66666669  0.33333334  0.97461379  1
+  Sb  Sb12  1  0.98870015  0.41157827  0.46597001  1
+  Sb  Sb13  1  0.58842170  0.57712185  0.46597001  1
+  Sb  Sb14  1  0.42287815  0.01129985  0.46597001  1
+  F  F15  1  0.96772033  0.75500226  0.45618531  1
+  F  F16  1  0.24499774  0.21271807  0.45618531  1
+  F  F17  1  0.78728193  0.03227967  0.45618531  1

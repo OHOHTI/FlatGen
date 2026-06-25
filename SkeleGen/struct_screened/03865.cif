@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_KNaZrUFeCoAgI12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.17133141
+_cell_length_b   8.17133118
+_cell_length_c   12.54175186
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000476
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNaZrUFeCoAgI12
+_chemical_formula_sum   'K1 Na1 Zr1 U1 Fe1 Co1 Ag1 I12'
+_cell_volume   725.22781461
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.63692594  0.97695398  0.68921292  1
+  I  I1  1  0.02304602  0.65997195  0.68921292  1
+  I  I2  1  0.34002805  0.36307406  0.68921292  1
+  I  I3  1  0.30164987  0.97158062  0.44003618  1
+  I  I4  1  0.02841938  0.33006924  0.44003618  1
+  I  I5  1  0.66993076  0.69835013  0.44003618  1
+  I  I6  1  0.62599552  0.99080336  0.19401953  1
+  I  I7  1  0.00919664  0.63519216  0.19401953  1
+  I  I8  1  0.36480784  0.37400448  0.19401953  1
+  K  K9  1  0.00000000  0.00000000  0.11180263  1
+  Na  Na10  1  0.00000000  0.00000000  0.57991022  1
+  Co  Co11  1  0.33333334  0.66666669  0.80035359  1
+  U  U12  1  0.33333334  0.66666669  0.06557243  1
+  Zr  Zr13  1  0.33333334  0.66666669  0.36482951  1
+  Fe  Fe14  1  0.33333334  0.66666669  0.58317310  1
+  Ag  Ag15  1  0.66666669  0.33333334  0.06355949  1
+  I  I16  1  0.03482022  0.34786090  0.92690039  1
+  I  I17  1  0.65213907  0.68695933  0.92690039  1
+  I  I18  1  0.31304067  0.96517980  0.92690039  1

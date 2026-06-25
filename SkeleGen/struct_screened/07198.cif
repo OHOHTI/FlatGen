@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_EuAlCoHOF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.09524393
+_cell_length_b   5.09524392
+_cell_length_c   7.25911140
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000317
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuAlCoHOF8
+_chemical_formula_sum   'Eu1 Al1 Co1 H1 O1 F8'
+_cell_volume   163.20897563
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.63297212  0.67470330  0.24955554  1
+  F  F1  1  0.32529670  0.95826882  0.24955554  1
+  F  F2  1  0.04173118  0.36702788  0.24955554  1
+  F  F3  1  0.72441423  0.06602357  0.77941304  1
+  F  F4  1  0.93397641  0.65839064  0.77941304  1
+  F  F5  1  0.34160936  0.27558577  0.77941304  1
+  F  F6  1  0.33333334  0.66666669  0.96268904  1
+  F  F7  1  0.66666669  0.33333334  0.43701026  1
+  Eu  Eu8  1  0.00000000  0.00000000  0.02390936  1
+  H  H9  1  0.33333334  0.66666669  0.75857836  1
+  Al  Al10  1  0.33333334  0.66666669  0.32338890  1
+  O  O11  1  0.33333334  0.66666669  0.54925233  1
+  Co  Co12  1  0.66666669  0.33333334  0.67557782  1

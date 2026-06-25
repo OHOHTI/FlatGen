@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_AlSiBrF14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.31721783
+_cell_length_b   7.31721756
+_cell_length_c   4.90189838
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000551
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlSiBrF14
+_chemical_formula_sum   'Al1 Si1 Br1 F14'
+_cell_volume   227.29342012
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.17104904  0.19216596  0.79182220  1
+  F  F1  1  0.80783403  0.97888309  0.79182220  1
+  F  F2  1  0.02111691  0.82895094  0.79182220  1
+  F  F3  1  0.84348971  0.78899682  0.16567576  1
+  F  F4  1  0.21100318  0.05449289  0.16567576  1
+  F  F5  1  0.94550711  0.15651029  0.16567576  1
+  F  F6  1  0.32370761  0.46664619  0.29173824  1
+  F  F7  1  0.53335381  0.85706139  0.29173824  1
+  F  F8  1  0.14293858  0.67629242  0.29173824  1
+  F  F9  1  0.33333334  0.66666669  0.81995583  1
+  F  F10  1  0.66666669  0.33333334  0.18787341  1
+  F  F11  1  0.45591086  0.19078055  0.59185141  1
+  F  F12  1  0.80921948  0.26513031  0.59185141  1
+  F  F13  1  0.73486972  0.54408914  0.59185141  1
+  Si  Si14  1  0.00000000  0.00000000  0.49813643  1
+  Al  Al15  1  0.00000000  0.00000000  0.97910571  1
+  Br  Br16  1  0.33333334  0.66666669  0.15818144  1

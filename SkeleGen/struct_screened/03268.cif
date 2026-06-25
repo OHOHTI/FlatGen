@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_RePbCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.01160383
+_cell_length_b   7.01160362
+_cell_length_c   7.13994217
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000548
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RePbCl8
+_chemical_formula_sum   'Re1 Pb1 Cl8'
+_cell_volume   303.99051172
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.66666669  0.33333334  0.53309613  1
+  Cl  Cl1  1  0.33333334  0.66666669  0.57105076  1
+  Cl  Cl2  1  0.71243709  0.03635662  0.83171093  1
+  Cl  Cl3  1  0.96364337  0.67608047  0.83171093  1
+  Cl  Cl4  1  0.32391953  0.28756291  0.83171093  1
+  Cl  Cl5  1  0.47831684  0.01036695  0.17081904  1
+  Cl  Cl6  1  0.98963302  0.46794990  0.17081904  1
+  Cl  Cl7  1  0.53205013  0.52168316  0.17081904  1
+  Pb  Pb8  1  0.00000000  0.00000000  0.18477526  1
+  Re  Re9  1  0.66666669  0.33333334  0.01749502  1

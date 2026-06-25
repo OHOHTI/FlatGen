@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Li2YbErCl9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.35298538
+_cell_length_b   7.35298530
+_cell_length_c   6.08286381
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000467
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2YbErCl9
+_chemical_formula_sum   'Li2 Yb1 Er1 Cl9'
+_cell_volume   284.81712898
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.75975394  0.18582241  0.63621199  1
+  Cl  Cl1  1  0.81417757  0.57393152  0.63621199  1
+  Cl  Cl2  1  0.42606848  0.24024606  0.63621199  1
+  Cl  Cl3  1  0.19582283  0.84552050  0.60884434  1
+  Cl  Cl4  1  0.15447950  0.35030234  0.60884434  1
+  Cl  Cl5  1  0.64969766  0.80417717  0.60884434  1
+  Cl  Cl6  1  0.67404115  0.99345744  0.13407153  1
+  Cl  Cl7  1  0.00654256  0.68058372  0.13407153  1
+  Cl  Cl8  1  0.31941628  0.32595885  0.13407153  1
+  Li  Li9  1  0.00000000  0.00000000  0.37157667  1
+  Yb  Yb10  1  0.00000000  0.00000000  0.87099904  1
+  Er  Er11  1  0.33333334  0.66666669  0.35809559  1
+  Li  Li12  1  0.33333334  0.66666669  0.86706227  1

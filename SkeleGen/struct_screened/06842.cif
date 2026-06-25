@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LaIrOF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36903904
+_cell_length_b   5.79638916
+_cell_length_c   7.39611769
+_cell_angle_alpha   91.50230265
+_cell_angle_beta   96.89198448
+_cell_angle_gamma   95.52272773
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaIrOF4
+_chemical_formula_sum   'La2 Ir2 O2 F8'
+_cell_volume   227.28476177
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.70991665  0.32968017  0.52656776  1
+  F  F1  1  0.29008335  0.67031980  0.47343224  1
+  F  F2  1  0.56904888  0.91700232  0.83359480  1
+  F  F3  1  0.43095112  0.08299768  0.16640520  1
+  F  F4  1  0.50640494  0.44504675  0.81899178  1
+  F  F5  1  0.49359506  0.55495322  0.18100822  1
+  F  F6  1  0.07500163  0.57360470  0.83406585  1
+  F  F7  1  0.92499834  0.42639530  0.16593415  1
+  O  O8  1  0.88710988  0.99188077  0.32816356  1
+  O  O9  1  0.11289012  0.00811923  0.67183644  1
+  La  La10  1  0.89621723  0.19000734  0.83474463  1
+  La  La11  1  0.10378277  0.80999267  0.16525537  1
+  Ir  Ir12  1  0.68540442  0.26928791  0.28021875  1
+  Ir  Ir13  1  0.31459558  0.73071206  0.71978128  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Eu14NiIr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.35876751
+_cell_length_b   10.35876695
+_cell_length_c   6.01121235
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000483
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu14NiIr3
+_chemical_formula_sum   'Eu14 Ni1 Ir3'
+_cell_volume   558.61015814
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.08550104  0.26581228  0.73972845  1
+  Eu  Eu1  1  0.73418772  0.81968880  0.73972845  1
+  Eu  Eu2  1  0.18031123  0.91449898  0.73972845  1
+  Eu  Eu3  1  0.26581228  0.08550104  0.26027155  1
+  Eu  Eu4  1  0.81968880  0.73418772  0.26027155  1
+  Eu  Eu5  1  0.91449898  0.18031123  0.26027155  1
+  Eu  Eu6  1  0.31652716  0.45096871  0.24140877  1
+  Eu  Eu7  1  0.54903126  0.86555845  0.24140877  1
+  Eu  Eu8  1  0.13444155  0.68347287  0.24140877  1
+  Eu  Eu9  1  0.45096871  0.31652716  0.75859123  1
+  Eu  Eu10  1  0.86555845  0.54903126  0.75859123  1
+  Eu  Eu11  1  0.68347287  0.13444155  0.75859123  1
+  Eu  Eu12  1  0.33333334  0.66666669  0.72419298  1
+  Eu  Eu13  1  0.66666669  0.33333334  0.27580702  1
+  Ni  Ni14  1  0.00000000  0.00000000  0.00000000  1
+  Ir  Ir15  1  0.41491330  0.00000000  0.00000000  1
+  Ir  Ir16  1  0.00000000  0.41491330  0.00000000  1
+  Ir  Ir17  1  0.58508670  0.58508670  0.00000000  1

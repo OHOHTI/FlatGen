@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Eu10FeCo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.88362741
+_cell_length_b   6.88362725
+_cell_length_c   9.68315697
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000540
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu10FeCo
+_chemical_formula_sum   'Eu10 Fe1 Co1'
+_cell_volume   397.35829220
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.33333334  0.66666669  0.56157660  1
+  Eu  Eu1  1  0.66666669  0.33333334  0.43842340  1
+  Eu  Eu2  1  0.83927923  0.16072077  0.75733304  1
+  Eu  Eu3  1  0.83927923  0.67855847  0.75733304  1
+  Eu  Eu4  1  0.32144153  0.16072077  0.75733304  1
+  Eu  Eu5  1  0.16072077  0.83927923  0.24266696  1
+  Eu  Eu6  1  0.67855847  0.83927923  0.24266696  1
+  Eu  Eu7  1  0.16072077  0.32144153  0.24266696  1
+  Eu  Eu8  1  0.33333334  0.66666669  0.94435227  1
+  Eu  Eu9  1  0.66666669  0.33333334  0.05564773  1
+  Co  Co10  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe11  1  0.00000000  0.00000000  0.50000000  1

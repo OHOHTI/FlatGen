@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_HfGaCl5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.09324716
+_cell_length_b   6.24079940
+_cell_length_c   9.24739075
+_cell_angle_alpha   84.99951200
+_cell_angle_beta   85.14241299
+_cell_angle_gamma   96.38607384
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfGaCl5
+_chemical_formula_sum   'Hf2 Ga2 Cl10'
+_cell_volume   403.42514186
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.74818832  0.30600262  0.55552411  1
+  Cl  Cl1  1  0.25181168  0.69399738  0.44447589  1
+  Cl  Cl2  1  0.78743416  0.81628722  0.34942165  1
+  Cl  Cl3  1  0.21256584  0.18371278  0.65057838  1
+  Cl  Cl4  1  0.56111205  0.20944002  0.91632062  1
+  Cl  Cl5  1  0.43888795  0.79056001  0.08367938  1
+  Cl  Cl6  1  0.91242361  0.34693113  0.15227763  1
+  Cl  Cl7  1  0.08757639  0.65306890  0.84772235  1
+  Cl  Cl8  1  0.57418418  0.80203372  0.73356897  1
+  Cl  Cl9  1  0.42581582  0.19796628  0.26643103  1
+  Ga  Ga10  1  0.34084943  0.96069306  0.84301978  1
+  Ga  Ga11  1  0.65915060  0.03930694  0.15698022  1
+  Hf  Hf12  1  0.93129808  0.28167763  0.74807739  1
+  Hf  Hf13  1  0.06870192  0.71832240  0.25192261  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LaEu4CuSnSb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.82797003
+_cell_length_b   4.82797003
+_cell_length_c   21.51796722
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   90.00000433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaEu4CuSnSb
+_chemical_formula_sum   'La2 Eu8 Cu2 Sn2 Sb2'
+_cell_volume   501.56863702
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.00000000  0.50000000  0.35624370  1
+  Eu  Eu1  1  0.50000000  0.00000000  0.64375627  1
+  Eu  Eu2  1  0.50000000  0.50000000  0.50000000  1
+  Eu  Eu3  1  0.00000000  0.00000000  0.50000000  1
+  Eu  Eu4  1  0.00000000  0.00000000  0.20573823  1
+  Eu  Eu5  1  0.00000000  0.00000000  0.79426175  1
+  Eu  Eu6  1  0.50000000  0.50000000  0.20241484  1
+  Eu  Eu7  1  0.50000000  0.50000000  0.79758513  1
+  Sn  Sn8  1  0.00000000  0.50000000  0.60171288  1
+  Sn  Sn9  1  0.50000000  0.00000000  0.39828712  1
+  La  La10  1  0.00000000  0.50000000  0.05975775  1
+  La  La11  1  0.50000000  0.00000000  0.94024223  1
+  Cu  Cu12  1  0.00000000  0.50000000  0.70908707  1
+  Cu  Cu13  1  0.50000000  0.00000000  0.29091293  1
+  Sb  Sb14  1  0.00000000  0.50000000  0.91564077  1
+  Sb  Sb15  1  0.50000000  0.00000000  0.08435923  1

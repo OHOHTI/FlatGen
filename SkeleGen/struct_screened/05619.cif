@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_RbGdInGaBCl8O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.35506105
+_cell_length_b   6.35506101
+_cell_length_c   11.86474609
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000519
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbGdInGaBCl8O7
+_chemical_formula_sum   'Rb1 Gd1 In1 Ga1 B1 Cl8 O7'
+_cell_volume   414.98128314
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.66666669  0.33333334  0.52697438  1
+  Cl  Cl1  1  0.33333334  0.66666669  0.57773113  1
+  Cl  Cl2  1  0.68427914  0.97741240  0.75026053  1
+  Cl  Cl3  1  0.02258760  0.70686674  0.75026053  1
+  Cl  Cl4  1  0.29313326  0.31572086  0.75026053  1
+  Cl  Cl5  1  0.44838694  0.98328775  0.22815910  1
+  Cl  Cl6  1  0.01671225  0.46509922  0.22815910  1
+  Cl  Cl7  1  0.53490078  0.55161309  0.22815910  1
+  O  O8  1  0.00000000  0.00000000  0.91872162  1
+  Rb  Rb9  1  0.00000000  0.00000000  0.10509830  1
+  B  B10  1  0.00000000  0.00000000  0.37693128  1
+  Gd  Gd11  1  0.00000000  0.00000000  0.59924716  1
+  In  In12  1  0.33333334  0.66666669  0.87873620  1
+  Ga  Ga13  1  0.66666669  0.33333334  0.00546249  1
+  O  O14  1  0.50696808  0.44495291  0.97295207  1
+  O  O15  1  0.55504709  0.06201518  0.97295207  1
+  O  O16  1  0.93798482  0.49303192  0.97295207  1
+  O  O17  1  0.76908493  0.82758290  0.42089379  1
+  O  O18  1  0.17241710  0.94150203  0.42089379  1
+  O  O19  1  0.05849797  0.23091507  0.42089379  1

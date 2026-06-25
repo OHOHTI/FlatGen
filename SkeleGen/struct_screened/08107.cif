@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_HfPbWCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.46748066
+_cell_length_b   6.46748061
+_cell_length_c   10.13458633
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000513
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfPbWCl8
+_chemical_formula_sum   'Hf1 Pb1 W1 Cl8'
+_cell_volume   367.11904072
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.66101491  0.66705793  0.28804496  1
+  Cl  Cl1  1  0.33294207  0.99395698  0.28804496  1
+  Cl  Cl2  1  0.00604302  0.33898509  0.28804496  1
+  Cl  Cl3  1  0.68283486  0.03498575  0.82667595  1
+  Cl  Cl4  1  0.96501422  0.64784908  0.82667595  1
+  Cl  Cl5  1  0.35215092  0.31716514  0.82667595  1
+  Cl  Cl6  1  0.33333334  0.66666669  0.02495964  1
+  Cl  Cl7  1  0.66666669  0.33333334  0.56725442  1
+  Pb  Pb8  1  0.00000000  0.00000000  0.51426834  1
+  W  W9  1  0.33333334  0.66666669  0.23695424  1
+  Hf  Hf10  1  0.66666669  0.33333334  0.93263894  1

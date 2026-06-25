@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_BaMnHgI6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.95221663
+_cell_length_b   6.95221653
+_cell_length_c   19.43659973
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000500
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaMnHgI6
+_chemical_formula_sum   'Ba2 Mn2 Hg2 I12'
+_cell_volume   813.57479720
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.00000000  0.00000000  0.11610979  1
+  I  I1  1  0.00000000  0.00000000  0.61610979  1
+  I  I2  1  0.00000000  0.00000000  0.31205416  1
+  I  I3  1  0.00000000  0.00000000  0.81205416  1
+  I  I4  1  0.38575336  0.00813056  0.46029061  1
+  I  I5  1  0.99186945  0.37762281  0.46029061  1
+  I  I6  1  0.62237716  0.61424661  0.46029061  1
+  I  I7  1  0.00813056  0.38575336  0.96029061  1
+  I  I8  1  0.37762281  0.99186945  0.96029061  1
+  I  I9  1  0.61424661  0.62237716  0.96029061  1
+  I  I10  1  0.33333334  0.66666669  0.71926558  1
+  I  I11  1  0.66666669  0.33333334  0.21926558  1
+  Mn  Mn12  1  0.33333334  0.66666669  0.87057149  1
+  Mn  Mn13  1  0.66666669  0.33333334  0.37057149  1
+  Hg  Hg14  1  0.33333334  0.66666669  0.35062894  1
+  Hg  Hg15  1  0.66666669  0.33333334  0.85062897  1
+  Ba  Ba16  1  0.33333334  0.66666669  0.15327740  1
+  Ba  Ba17  1  0.66666669  0.33333334  0.65327740  1

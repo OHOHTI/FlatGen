@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_TlIn2(AgCl4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.11275101
+_cell_length_b   7.11275073
+_cell_length_c   10.54882812
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000574
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlIn2(AgCl4)2
+_chemical_formula_sum   'Tl1 In2 Ag2 Cl8'
+_cell_volume   462.17879654
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.48138750  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.51861250  1
+  Cl  Cl2  1  0.65858877  0.02053933  0.81144613  1
+  Cl  Cl3  1  0.97946066  0.63804942  0.81144613  1
+  Cl  Cl4  1  0.36195058  0.34141123  0.81144613  1
+  Cl  Cl5  1  0.34141123  0.97946066  0.18855387  1
+  Cl  Cl6  1  0.02053933  0.36195058  0.18855387  1
+  Cl  Cl7  1  0.63804942  0.65858877  0.18855387  1
+  Tl  Tl8  1  0.00000000  0.00000000  0.00000000  1
+  In  In9  1  0.33333334  0.66666669  0.25665429  1
+  In  In10  1  0.66666669  0.33333334  0.74334574  1
+  Ag  Ag11  1  0.33333334  0.66666669  0.72868925  1
+  Ag  Ag12  1  0.66666669  0.33333334  0.27131075  1

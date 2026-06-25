@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CsNaNbHg(BrCl3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.03159714
+_cell_length_b   8.03159673
+_cell_length_c   9.23854065
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000561
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsNaNbHg(BrCl3)3
+_chemical_formula_sum   'Cs1 Na1 Nb1 Hg1 Br3 Cl9'
+_cell_volume   516.10467327
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.85083854  0.25792322  0.58570188  1
+  Cl  Cl1  1  0.74207675  0.59291530  0.58570188  1
+  Cl  Cl2  1  0.40708470  0.14916146  0.58570188  1
+  Cl  Cl3  1  0.13600942  0.75932819  0.60291469  1
+  Cl  Cl4  1  0.24067181  0.37668121  0.60291469  1
+  Cl  Cl5  1  0.62331879  0.86399055  0.60291469  1
+  Cl  Cl6  1  0.01267511  0.64827949  0.25814667  1
+  Cl  Cl7  1  0.35172051  0.36439562  0.25814667  1
+  Cl  Cl8  1  0.63560438  0.98732489  0.25814667  1
+  Na  Na9  1  0.00000000  0.00000000  0.47232273  1
+  Cs  Cs10  1  0.33333334  0.66666669  0.08157997  1
+  Nb  Nb11  1  0.66666669  0.33333334  0.76368988  1
+  Hg  Hg12  1  0.66666669  0.33333334  0.33557379  1
+  Br  Br13  1  0.71014184  0.63388377  0.93024361  1
+  Br  Br14  1  0.36611623  0.07625806  0.93024361  1
+  Br  Br15  1  0.92374194  0.28985816  0.93024361  1

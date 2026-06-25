@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Rb2Na2SmErBr8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.22211409
+_cell_length_b   7.22211389
+_cell_length_c   12.02676678
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000526
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2Na2SmErBr8
+_chemical_formula_sum   'Rb2 Na2 Sm1 Er1 Br8'
+_cell_volume   543.26055803
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.64639324  0.69612539  0.33098277  1
+  Br  Br1  1  0.30387461  0.95026785  0.33098277  1
+  Br  Br2  1  0.04973215  0.35360676  0.33098277  1
+  Br  Br3  1  0.69004047  0.03051081  0.83353859  1
+  Br  Br4  1  0.96948922  0.65952969  0.83353859  1
+  Br  Br5  1  0.34047031  0.30995953  0.83353859  1
+  Br  Br6  1  0.33333334  0.66666669  0.03854248  1
+  Br  Br7  1  0.66666669  0.33333334  0.61427552  1
+  Rb  Rb8  1  0.00000000  0.00000000  0.57075411  1
+  Na  Na9  1  0.00000000  0.00000000  0.00309956  1
+  Sm  Sm10  1  0.33333334  0.66666669  0.45621714  1
+  Er  Er11  1  0.66666669  0.33333334  0.90575868  1
+  Rb  Rb12  1  0.66666669  0.33333334  0.14081603  1
+  Na  Na13  1  0.66666669  0.33333334  0.40013629  1

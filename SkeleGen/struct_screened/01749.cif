@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ho2LuCoO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.92338273
+_cell_length_b   6.21469722
+_cell_length_c   7.11671019
+_cell_angle_alpha   92.55018340
+_cell_angle_beta   99.55668685
+_cell_angle_gamma   92.30093797
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2LuCoO6
+_chemical_formula_sum   'Ho4 Lu2 Co2 O12'
+_cell_volume   257.78825834
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.00000000  0.00000000  0.00000000  1
+  Ho  Ho1  1  0.59682477  0.25073165  0.62065411  1
+  Ho  Ho2  1  0.40317523  0.74926835  0.37934589  1
+  Ho  Ho3  1  0.00000000  0.00000000  0.50000000  1
+  O  O4  1  0.76416987  0.05989946  0.24840111  1
+  O  O5  1  0.23583013  0.94010055  0.75159889  1
+  O  O6  1  0.60312194  0.24158283  0.93921202  1
+  O  O7  1  0.39687806  0.75841719  0.06078798  1
+  Lu  Lu8  1  0.79927003  0.49113917  0.13230123  1
+  Lu  Lu9  1  0.20072997  0.50886083  0.86769879  1
+  O  O10  1  0.84469068  0.68896997  0.91210490  1
+  O  O11  1  0.15530932  0.31103003  0.08789510  1
+  O  O12  1  0.60571414  0.45995101  0.34681529  1
+  O  O13  1  0.39428586  0.54004896  0.65318471  1
+  Co  Co14  1  0.52330428  0.78728694  0.81883538  1
+  Co  Co15  1  0.47669572  0.21271306  0.18116462  1
+  O  O16  1  0.67176425  0.86537665  0.58648705  1
+  O  O17  1  0.32823575  0.13462335  0.41351295  1
+  O  O18  1  0.03936186  0.69699335  0.33888620  1
+  O  O19  1  0.96063817  0.30300665  0.66111380  1

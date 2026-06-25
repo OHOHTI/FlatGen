@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BaCaVCrTeAuO10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.98846197
+_cell_length_b   4.98846196
+_cell_length_c   11.54420090
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000325
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCaVCrTeAuO10
+_chemical_formula_sum   'Ba1 Ca1 V1 Cr1 Te1 Au1 O10'
+_cell_volume   248.78708056
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.66691482  0.66898143  0.29985332  1
+  O  O1  1  0.33101857  0.99793339  0.29985332  1
+  O  O2  1  0.00206661  0.33308518  0.29985332  1
+  O  O3  1  0.65253347  0.01419259  0.77181262  1
+  O  O4  1  0.98580742  0.63834089  0.77181262  1
+  O  O5  1  0.36165911  0.34746653  0.77181262  1
+  O  O6  1  0.33333334  0.66666669  0.05245029  1
+  O  O7  1  0.66666669  0.33333334  0.50845236  1
+  Ba  Ba8  1  0.00000000  0.00000000  0.48996922  1
+  Ca  Ca9  1  0.00000000  0.00000000  0.11937842  1
+  Te  Te10  1  0.33333334  0.66666669  0.87040776  1
+  Au  Au11  1  0.66666669  0.33333334  0.65077192  1
+  O  O12  1  0.66666669  0.33333334  0.17395630  1
+  V  V13  1  0.66666669  0.33333334  0.85842961  1
+  O  O14  1  0.66666669  0.33333334  0.97094136  1
+  Cr  Cr15  1  0.66666669  0.33333334  0.33209157  1

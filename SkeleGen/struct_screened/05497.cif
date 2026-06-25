@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_RbUFeCoTe14P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.49429703
+_cell_length_b   8.49429683
+_cell_length_c   10.29069042
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000448
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbUFeCoTe14P
+_chemical_formula_sum   'Rb1 U1 Fe1 Co1 Te14 P1'
+_cell_volume   643.02817444
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.11483272  0.31397471  0.94443941  1
+  Te  Te1  1  0.68602526  0.80085802  0.94443941  1
+  Te  Te2  1  0.19914198  0.88516730  0.94443941  1
+  Te  Te3  1  0.78406751  0.76427162  0.20258850  1
+  Te  Te4  1  0.23572838  0.01979589  0.20258850  1
+  Te  Te5  1  0.98020411  0.21593249  0.20258850  1
+  Te  Te6  1  0.36314505  0.46298018  0.36918581  1
+  Te  Te7  1  0.53701985  0.90016484  0.36918581  1
+  Te  Te8  1  0.09983513  0.63685495  0.36918581  1
+  Te  Te9  1  0.33333334  0.66666669  0.77911836  1
+  Te  Te10  1  0.66666669  0.33333334  0.41828486  1
+  Te  Te11  1  0.37397757  0.27651060  0.69411951  1
+  Te  Te12  1  0.72348940  0.09746698  0.69411951  1
+  Te  Te13  1  0.90253305  0.62602246  0.69411951  1
+  Fe  Fe14  1  0.00000000  0.00000000  0.04589010  1
+  U  U15  1  0.33333334  0.66666669  0.13089465  1
+  Co  Co16  1  0.66666669  0.33333334  0.80805016  1
+  P  P17  1  0.66666669  0.33333334  0.60766459  1
+  Rb  Rb18  1  0.66666669  0.33333334  0.08794901  1

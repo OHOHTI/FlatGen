@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LuTlCrCu(TeS3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.76640511
+_cell_length_b   7.76640482
+_cell_length_c   6.84130621
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000528
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuTlCrCu(TeS3)3
+_chemical_formula_sum   'Lu1 Tl1 Cr1 Cu1 Te3 S9'
+_cell_volume   357.36309624
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.67201012  0.17241283  0.66964132  1
+  S  S1  1  0.82758719  0.49959731  0.66964132  1
+  S  S2  1  0.50040269  0.32798988  0.66964132  1
+  S  S3  1  0.17034650  0.69794220  0.65383297  1
+  S  S4  1  0.30205780  0.47240430  0.65383297  1
+  S  S5  1  0.52759570  0.82965350  0.65383297  1
+  S  S6  1  0.31256518  0.31093186  0.27026010  1
+  S  S7  1  0.68906814  0.00163332  0.27026010  1
+  S  S8  1  0.99836671  0.68743479  0.27026010  1
+  Cr  Cr9  1  0.00000000  0.00000000  0.16280372  1
+  Tl  Tl10  1  0.00000000  0.00000000  0.61717397  1
+  Lu  Lu11  1  0.33333334  0.66666669  0.18504675  1
+  Cu  Cu12  1  0.66666669  0.33333334  0.20124134  1
+  Te  Te13  1  0.32568249  0.01043999  0.98720360  1
+  Te  Te14  1  0.98956001  0.31524250  0.98720360  1
+  Te  Te15  1  0.68475747  0.67431748  0.98720360  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BaZrMnAlC4ClO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.95306921
+_cell_length_b   4.95306920
+_cell_length_c   10.21540070
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999371
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaZrMnAlC4ClO7
+_chemical_formula_sum   'Ba1 Zr1 Mn1 Al1 C4 Cl1 O7'
+_cell_volume   217.03753961
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C0  1  0.00000000  0.00000000  0.96883059  1
+  C  C1  1  0.66666669  0.33333334  0.63223237  1
+  C  C2  1  0.33333334  0.66666669  0.24113619  1
+  C  C3  1  0.00000000  0.00000000  0.46489489  1
+  Al  Al4  1  0.00000000  0.00000000  0.66200155  1
+  Zr  Zr5  1  0.00000000  0.00000000  0.17532487  1
+  O  O6  1  0.00000000  0.00000000  0.87109047  1
+  Ba  Ba7  1  0.33333334  0.66666669  0.83926845  1
+  Cl  Cl8  1  0.66666669  0.33333334  0.06516570  1
+  Mn  Mn9  1  0.66666669  0.33333334  0.39034644  1
+  O  O10  1  0.30859342  0.93054235  0.28036278  1
+  O  O11  1  0.06945765  0.37805104  0.28036278  1
+  O  O12  1  0.62194896  0.69140661  0.28036278  1
+  O  O13  1  0.74438232  0.09749009  0.58588743  1
+  O  O14  1  0.90250993  0.64689225  0.58588743  1
+  O  O15  1  0.35310775  0.25561768  0.58588743  1

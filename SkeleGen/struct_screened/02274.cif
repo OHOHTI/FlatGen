@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Tm4AlCdCoO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.23848534
+_cell_length_b   5.23848526
+_cell_length_c   9.71740723
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000352
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm4AlCdCoO12
+_chemical_formula_sum   'Tm4 Al1 Cd1 Co1 O12'
+_cell_volume   230.93644592
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.00000000  0.00000000  0.94361699  1
+  Tm  Tm1  1  0.66666669  0.33333334  0.64865625  1
+  Tm  Tm2  1  0.33333334  0.66666669  0.19861120  1
+  Tm  Tm3  1  0.00000000  0.00000000  0.43282107  1
+  Co  Co4  1  0.33333334  0.66666669  0.69939882  1
+  Al  Al5  1  0.66666669  0.33333334  0.25506294  1
+  Cd  Cd6  1  0.66666669  0.33333334  0.96110463  1
+  O  O7  1  0.66472691  0.66895419  0.08077478  1
+  O  O8  1  0.33104581  0.99577272  0.08077478  1
+  O  O9  1  0.00422728  0.33527309  0.08077478  1
+  O  O10  1  0.33352906  0.35925195  0.81084615  1
+  O  O11  1  0.64074802  0.97427714  0.81084615  1
+  O  O12  1  0.02572289  0.66647094  0.81084615  1
+  O  O13  1  0.36275777  0.32515171  0.31374413  1
+  O  O14  1  0.67484832  0.03760606  0.31374413  1
+  O  O15  1  0.96239394  0.63724220  0.31374413  1
+  O  O16  1  0.31502613  0.97523534  0.56150204  1
+  O  O17  1  0.02476466  0.33979082  0.56150204  1
+  O  O18  1  0.66020918  0.68497384  0.56150204  1

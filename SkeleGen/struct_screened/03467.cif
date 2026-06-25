@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Rb3TlCr2(CuCl4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.79376078
+_cell_length_b   6.79376045
+_cell_length_c   12.52914524
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000625
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb3TlCr2(CuCl4)2
+_chemical_formula_sum   'Rb3 Tl1 Cr2 Cu2 Cl8'
+_cell_volume   500.80946437
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.11897703  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.88102299  1
+  Cl  Cl2  1  0.64503926  0.02590590  0.63412797  1
+  Cl  Cl3  1  0.97409409  0.61913335  0.63412797  1
+  Cl  Cl4  1  0.38086665  0.35496074  0.63412797  1
+  Cl  Cl5  1  0.35496074  0.97409409  0.36587203  1
+  Cl  Cl6  1  0.02590590  0.38086665  0.36587203  1
+  Cl  Cl7  1  0.61913335  0.64503926  0.36587203  1
+  Rb  Rb8  1  0.00000000  0.00000000  0.00000000  1
+  Tl  Tl9  1  0.00000000  0.00000000  0.50000000  1
+  Cr  Cr10  1  0.33333334  0.66666669  0.29317272  1
+  Cr  Cr11  1  0.66666669  0.33333334  0.70682728  1
+  Rb  Rb12  1  0.33333334  0.66666669  0.82770360  1
+  Rb  Rb13  1  0.66666669  0.33333334  0.17229640  1
+  Cu  Cu14  1  0.33333334  0.66666669  0.52252483  1
+  Cu  Cu15  1  0.66666669  0.33333334  0.47747517  1

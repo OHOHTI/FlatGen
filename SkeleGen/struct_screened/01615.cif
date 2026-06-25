@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_SrCaAgP2PbBr12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.33856297
+_cell_length_b   8.33856284
+_cell_length_c   10.92297935
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000429
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCaAgP2PbBr12
+_chemical_formula_sum   'Sr1 Ca1 Ag1 P2 Pb1 Br12'
+_cell_volume   657.73983362
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.87144369  0.26550996  0.42712271  1
+  Br  Br1  1  0.73449004  0.60593373  0.42712271  1
+  Br  Br2  1  0.39406627  0.12855631  0.42712271  1
+  Br  Br3  1  0.14864679  0.75870693  0.65826333  1
+  Br  Br4  1  0.24129307  0.38993984  0.65826333  1
+  Br  Br5  1  0.61006016  0.85135323  0.65826333  1
+  Br  Br6  1  0.67313302  0.94239539  0.16967033  1
+  Br  Br7  1  0.05760461  0.73073763  0.16967033  1
+  Br  Br8  1  0.26926237  0.32686698  0.16967033  1
+  Ca  Ca9  1  0.00000000  0.00000000  0.08373359  1
+  P  P10  1  0.33333334  0.66666669  0.74193025  1
+  Sr  Sr11  1  0.33333334  0.66666669  0.31415898  1
+  P  P12  1  0.66666669  0.33333334  0.49396232  1
+  Ag  Ag13  1  0.66666669  0.33333334  0.19152910  1
+  Pb  Pb14  1  0.66666669  0.33333334  0.79089570  1
+  Br  Br15  1  0.72447699  0.65679735  0.91364759  1
+  Br  Br16  1  0.34320265  0.06767964  0.91364759  1
+  Br  Br17  1  0.93232036  0.27552301  0.91364759  1

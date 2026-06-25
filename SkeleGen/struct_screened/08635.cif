@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_ZrAgSnGe(OF6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49458606
+_cell_length_b   5.75578313
+_cell_length_c   8.29792595
+_cell_angle_alpha   84.81457765
+_cell_angle_beta   92.61366982
+_cell_angle_gamma   85.94924934
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrAgSnGe(OF6)2
+_chemical_formula_sum   'Zr1 Ag1 Sn1 Ge1 O2 F12'
+_cell_volume   260.34316877
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.57356012  0.30760136  0.09858577  1
+  F  F1  1  0.71478713  0.09952787  0.84235919  1
+  F  F2  1  0.83792120  0.52988994  0.35362896  1
+  F  F3  1  0.82897937  0.02033874  0.33885106  1
+  F  F4  1  0.03665986  0.77024788  0.10377586  1
+  F  F5  1  0.97024822  0.75421017  0.64731354  1
+  F  F6  1  0.07087094  0.27477717  0.09494442  1
+  F  F7  1  0.06971473  0.31753373  0.59892458  1
+  F  F8  1  0.22245215  0.00941952  0.86312044  1
+  F  F9  1  0.31646943  0.50873214  0.85676736  1
+  F  F10  1  0.29868323  0.96630812  0.33885938  1
+  F  F11  1  0.47969353  0.78314483  0.59394044  1
+  Ge  Ge12  1  0.79550225  0.05334393  0.10024431  1
+  Sn  Sn13  1  0.14236531  0.68326521  0.45150593  1
+  O  O14  1  0.59327781  0.80106223  0.09415074  1
+  Zr  Zr15  1  0.39327115  0.59137851  0.10273650  1
+  Ag  Ag16  1  0.79565489  0.48382255  0.83964217  1
+  O  O17  1  0.32754254  0.51816601  0.32935280  1

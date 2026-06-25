@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_BaCrNiMoF16
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.79120922
+_cell_length_b   5.79120878
+_cell_length_c   11.27833748
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000527
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCrNiMoF16
+_chemical_formula_sum   'Ba1 Cr1 Ni1 Mo1 F16'
+_cell_volume   327.57758078
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.40779054  0.41854981  0.52683008  1
+  F  F1  1  0.58145022  0.98924077  0.52683008  1
+  F  F2  1  0.01075926  0.59220946  0.52683008  1
+  F  F3  1  0.94501984  0.57256204  0.01935606  1
+  F  F4  1  0.42743796  0.37245780  0.01935606  1
+  F  F5  1  0.62754220  0.05498016  0.01935606  1
+  F  F6  1  0.66666669  0.33333334  0.42780611  1
+  F  F7  1  0.89944607  0.24046528  0.68257636  1
+  F  F8  1  0.75953472  0.65898079  0.68257636  1
+  F  F9  1  0.34101921  0.10055393  0.68257636  1
+  F  F10  1  0.33333334  0.66666669  0.86190760  1
+  F  F11  1  0.13685539  0.32697007  0.22868349  1
+  F  F12  1  0.67302990  0.80988532  0.22868349  1
+  F  F13  1  0.19011468  0.86314464  0.22868349  1
+  Ba  Ba14  1  0.00000000  0.00000000  0.34901276  1
+  F  F15  1  0.66666669  0.33333334  0.22703823  1
+  Mo  Mo16  1  0.66666669  0.33333334  0.60075921  1
+  Ni  Ni17  1  0.66666669  0.33333334  0.93733603  1
+  F  F18  1  0.66666669  0.33333334  0.81853896  1
+  Cr  Cr19  1  0.66666669  0.33333334  0.10675409  1

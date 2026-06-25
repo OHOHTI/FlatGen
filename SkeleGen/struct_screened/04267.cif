@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LaHfCuH2Cl11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.49299335
+_cell_length_b   6.49299319
+_cell_length_c   12.92966461
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999353
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaHfCuH2Cl11
+_chemical_formula_sum   'La1 Hf1 Cu1 H2 Cl11'
+_cell_volume   472.07154768
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.56367785  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.16038661  1
+  Cl  Cl2  1  0.17571285  0.82428718  0.31970453  1
+  Cl  Cl3  1  0.17571285  0.35142571  0.31970453  1
+  Cl  Cl4  1  0.64857429  0.82428718  0.31970453  1
+  Cl  Cl5  1  0.83969206  0.16030794  0.80738306  1
+  Cl  Cl6  1  0.83969206  0.67938411  0.80738306  1
+  Cl  Cl7  1  0.32061589  0.16030794  0.80738306  1
+  Cl  Cl8  1  0.33333334  0.66666669  0.03964176  1
+  Cl  Cl9  1  0.66666669  0.33333334  0.44285914  1
+  Cl  Cl10  1  0.00000000  0.00000000  0.08274692  1
+  Cu  Cu11  1  0.00000000  0.00000000  0.89989120  1
+  La  La12  1  0.33333334  0.66666669  0.75111020  1
+  H  H13  1  0.33333334  0.66666669  0.91358274  1
+  Hf  Hf14  1  0.33333334  0.66666669  0.23515967  1
+  H  H15  1  0.33333334  0.66666669  0.40372506  1

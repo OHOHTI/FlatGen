@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_MnZnCu2F11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.12697753
+_cell_length_b   4.73905678
+_cell_length_c   8.81819439
+_cell_angle_alpha   84.75514168
+_cell_angle_beta   89.31021489
+_cell_angle_gamma   79.91737855
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnZnCu2F11
+_chemical_formula_sum   'Mn1 Zn1 Cu2 F11'
+_cell_volume   210.06217661
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.92240983  0.53001821  0.29778805  1
+  F  F1  1  0.42790273  0.98075432  0.65457940  1
+  F  F2  1  0.49025854  0.47906002  0.47679293  1
+  F  F3  1  0.93916410  0.97798914  0.47222319  1
+  F  F4  1  0.92789793  0.97692949  0.15076666  1
+  F  F5  1  0.50575179  0.44998223  0.15259953  1
+  F  F6  1  0.43026015  0.50891685  0.79632306  1
+  F  F7  1  0.93942815  0.01742317  0.81140286  1
+  Cu  Cu8  1  0.72256184  0.24238884  0.35735652  1
+  F  F9  1  0.96583140  0.47366479  0.64983243  1
+  F  F10  1  0.96040195  0.48922655  0.98877239  1
+  Mn  Mn11  1  0.68982244  0.73254627  0.09701984  1
+  Zn  Zn12  1  0.21691711  0.24218555  0.86316031  1
+  F  F13  1  0.46361026  0.96709800  0.99200463  1
+  Cu  Cu14  1  0.69983810  0.74324572  0.60737354  1

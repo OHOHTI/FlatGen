@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CrSeBr5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.70385448
+_cell_length_b   6.82482048
+_cell_length_c   10.26722431
+_cell_angle_alpha   88.49247726
+_cell_angle_beta   85.62832618
+_cell_angle_gamma   93.60490594
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrSeBr5
+_chemical_formula_sum   'Cr2 Se2 Br10'
+_cell_volume   467.23039370
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.65468645  0.31085914  0.54267555  1
+  Br  Br1  1  0.34531355  0.68914086  0.45732445  1
+  Br  Br2  1  0.55937320  0.94501728  0.78280663  1
+  Br  Br3  1  0.44062680  0.05498272  0.21719337  1
+  Br  Br4  1  0.45576462  0.43652388  0.84725386  1
+  Br  Br5  1  0.54423535  0.56347609  0.15274614  1
+  Br  Br6  1  0.91915023  0.51791424  0.76725525  1
+  Br  Br7  1  0.08084977  0.48208576  0.23274475  1
+  Cr  Cr8  1  0.74839222  0.24943228  0.79227746  1
+  Cr  Cr9  1  0.25160778  0.75056773  0.20772254  1
+  Se  Se10  1  0.81442016  0.16628261  0.99353349  1
+  Se  Se11  1  0.18557984  0.83371741  0.00646651  1
+  Br  Br12  1  0.97593063  0.95694703  0.29303887  1
+  Br  Br13  1  0.02406937  0.04305297  0.70696115  1

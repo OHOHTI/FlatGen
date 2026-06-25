@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_HoCuCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.61648639
+_cell_length_b   7.17573296
+_cell_length_c   8.91561222
+_cell_angle_alpha   86.46427286
+_cell_angle_beta   84.94706960
+_cell_angle_gamma   76.60371406
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoCuCl6
+_chemical_formula_sum   'Ho2 Cu2 Cl12'
+_cell_volume   471.74401788
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.21901299  0.43726677  0.94130290  1
+  Cl  Cl1  1  0.78098702  0.56273323  0.05869710  1
+  Cl  Cl2  1  0.80129671  0.02545186  0.05962640  1
+  Cl  Cl3  1  0.19870329  0.97454816  0.94037360  1
+  Cl  Cl4  1  0.52930212  0.33021638  0.29794359  1
+  Cl  Cl5  1  0.47069788  0.66978359  0.70205641  1
+  Cl  Cl6  1  0.86767775  0.28461888  0.75555652  1
+  Cl  Cl7  1  0.13232225  0.71538115  0.24444348  1
+  Cl  Cl8  1  0.55605912  0.78043193  0.38289386  1
+  Cl  Cl9  1  0.44394088  0.21956807  0.61710614  1
+  Ho  Ho10  1  0.27135524  0.50773132  0.48933551  1
+  Ho  Ho11  1  0.72864473  0.49226868  0.51066446  1
+  Cl  Cl12  1  0.02471236  0.27175289  0.39070091  1
+  Cl  Cl13  1  0.97528762  0.72824711  0.60929906  1
+  Cu  Cu14  1  0.97781992  0.74753875  0.01094731  1
+  Cu  Cu15  1  0.02218008  0.25246125  0.98905271  1

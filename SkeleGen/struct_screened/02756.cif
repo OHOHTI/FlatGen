@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_KLaAlCo(BCl6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.98207569
+_cell_length_b   7.98207537
+_cell_length_c   9.29353523
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000530
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KLaAlCo(BCl6)2
+_chemical_formula_sum   'K1 La1 Al1 Co1 B2 Cl12'
+_cell_volume   512.79434115
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.78978133  0.22762620  0.58050996  1
+  Cl  Cl1  1  0.77237380  0.56215513  0.58050996  1
+  Cl  Cl2  1  0.43784487  0.21021867  0.58050996  1
+  Cl  Cl3  1  0.22198544  0.77337128  0.59081483  1
+  Cl  Cl4  1  0.22662872  0.44861418  0.59081483  1
+  Cl  Cl5  1  0.55138582  0.77801454  0.59081483  1
+  Cl  Cl6  1  0.98828304  0.59475863  0.28448802  1
+  Cl  Cl7  1  0.40524137  0.39352441  0.28448802  1
+  Cl  Cl8  1  0.60647559  0.01171696  0.28448802  1
+  K  K9  1  0.00000000  0.00000000  0.79395145  1
+  La  La10  1  0.33333334  0.66666669  0.12680532  1
+  B  B11  1  0.33333334  0.66666669  0.68967742  1
+  B  B12  1  0.33333334  0.66666669  0.87616247  1
+  Co  Co13  1  0.33333334  0.66666669  0.40570736  1
+  Al  Al14  1  0.66666669  0.33333334  0.40853930  1
+  Cl  Cl15  1  0.09335268  0.41045433  0.94482702  1
+  Cl  Cl16  1  0.58954567  0.68289834  0.94482702  1
+  Cl  Cl17  1  0.31710166  0.90664732  0.94482702  1

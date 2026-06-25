@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_MnNbBHO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04208517
+_cell_length_b   5.04208485
+_cell_length_c   10.32173538
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000526
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnNbBHO12
+_chemical_formula_sum   'Mn1 Nb1 B1 H1 O12'
+_cell_volume   227.24987689
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.33333334  0.66666669  0.61151314  1
+  O  O1  1  0.66666669  0.33333334  0.44931141  1
+  O  O2  1  0.93792707  0.70182842  0.76662642  1
+  O  O3  1  0.29817158  0.23609865  0.76662642  1
+  O  O4  1  0.76390135  0.06207293  0.76662642  1
+  O  O5  1  0.66666669  0.33333334  0.15910280  1
+  O  O6  1  0.14793968  0.32476032  0.28097004  1
+  O  O7  1  0.67523968  0.82317936  0.28097004  1
+  O  O8  1  0.17682064  0.85206032  0.28097004  1
+  O  O9  1  0.33333334  0.66666669  0.91613579  1
+  O  O10  1  0.00000000  0.00000000  0.02948121  1
+  H  H11  1  0.00000000  0.00000000  0.44055077  1
+  Mn  Mn12  1  0.00000000  0.00000000  0.88868940  1
+  O  O13  1  0.00000000  0.00000000  0.53766012  1
+  Nb  Nb14  1  0.00000000  0.00000000  0.20016000  1
+  B  B15  1  0.00000000  0.00000000  0.68299276  1

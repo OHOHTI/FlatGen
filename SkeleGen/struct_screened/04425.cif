@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_EuV2CoNiAgO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.16987467
+_cell_length_b   5.16987450
+_cell_length_c   10.61347198
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000410
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuV2CoNiAgO9
+_chemical_formula_sum   'Eu1 V2 Co1 Ni1 Ag1 O9'
+_cell_volume   245.66772683
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.66666669  0.33333334  0.48118895  1
+  O  O1  1  0.33333334  0.66666669  0.56647021  1
+  O  O2  1  0.63902301  0.05255326  0.74371600  1
+  O  O3  1  0.94744676  0.58646977  0.74371600  1
+  O  O4  1  0.41353023  0.36097699  0.74371600  1
+  O  O5  1  0.37550688  0.02264341  0.25074154  1
+  O  O6  1  0.97735661  0.35286346  0.25074154  1
+  O  O7  1  0.64713657  0.62449312  0.25074154  1
+  Ag  Ag8  1  0.00000000  0.00000000  0.81788141  1
+  Eu  Eu9  1  0.33333334  0.66666669  0.05982173  1
+  Co  Co10  1  0.66666669  0.33333334  0.63850403  1
+  Ni  Ni11  1  0.66666669  0.33333334  0.15455478  1
+  V  V12  1  0.66666669  0.33333334  0.35420063  1
+  V  V13  1  0.66666669  0.33333334  0.85919857  1
+  O  O14  1  0.66666669  0.33333334  0.99464470  1

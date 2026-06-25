@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_BaLiCrSCl14O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.83940744
+_cell_length_b   7.83940720
+_cell_length_c   10.98262024
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000504
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLiCrSCl14O
+_chemical_formula_sum   'Ba1 Li1 Cr1 S1 Cl14 O1'
+_cell_volume   584.52492771
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.39156169  0.47558877  0.49254808  1
+  Cl  Cl1  1  0.52441120  0.91597295  0.49254808  1
+  Cl  Cl2  1  0.08402708  0.60843831  0.49254808  1
+  Cl  Cl3  1  0.98238635  0.55915421  0.04753670  1
+  Cl  Cl4  1  0.44084579  0.42323214  0.04753670  1
+  Cl  Cl5  1  0.57676786  0.01761365  0.04753670  1
+  Cl  Cl6  1  0.66666669  0.33333334  0.43256748  1
+  Cl  Cl7  1  0.87835467  0.20754324  0.74040687  1
+  Cl  Cl8  1  0.79245675  0.67081141  0.74040687  1
+  Cl  Cl9  1  0.32918859  0.12164533  0.74040687  1
+  Cl  Cl10  1  0.33333334  0.66666669  0.82733864  1
+  Cl  Cl11  1  0.02923303  0.27137497  0.24316761  1
+  Cl  Cl12  1  0.72862506  0.75785804  0.24316761  1
+  Cl  Cl13  1  0.24214193  0.97076696  0.24316761  1
+  Li  Li14  1  0.00000000  0.00000000  0.31453368  1
+  S  S15  1  0.33333334  0.66666669  0.05033929  1
+  Cr  Cr16  1  0.33333334  0.66666669  0.42443213  1
+  O  O17  1  0.33333334  0.66666669  0.25929952  1
+  Ba  Ba18  1  0.66666669  0.33333334  0.86419779  1

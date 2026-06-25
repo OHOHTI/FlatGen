@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaNaNbGeSe8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.42246389
+_cell_length_b   6.42246379
+_cell_length_c   9.79829597
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000547
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNaNbGeSe8
+_chemical_formula_sum   'Ba1 Na1 Nb1 Ge1 Se8'
+_cell_volume   350.01325971
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.66666669  0.33333334  0.37077633  1
+  Se  Se1  1  0.33333334  0.66666669  0.54828852  1
+  Se  Se2  1  0.64981556  0.00725071  0.83278167  1
+  Se  Se3  1  0.99274927  0.64256483  0.83278167  1
+  Se  Se4  1  0.35743517  0.35018444  0.83278167  1
+  Se  Se5  1  0.36961561  0.00430257  0.10978403  1
+  Se  Se6  1  0.99569744  0.36531305  0.10978403  1
+  Se  Se7  1  0.63468695  0.63038439  0.10978403  1
+  Na  Na8  1  0.00000000  0.00000000  0.24882917  1
+  Ba  Ba9  1  0.00000000  0.00000000  0.63308823  1
+  Nb  Nb10  1  0.33333334  0.66666669  0.97095352  1
+  Ge  Ge11  1  0.66666669  0.33333334  0.97449940  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_GdHoCo2NiBOF9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.96012592
+_cell_length_b   4.96012573
+_cell_length_c   10.65757561
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000448
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdHoCo2NiBOF9
+_chemical_formula_sum   'Gd1 Ho1 Co2 Ni1 B1 O1 F9'
+_cell_volume   227.07766589
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66666669  0.33333334  0.40392005  1
+  F  F1  1  0.33333334  0.66666669  0.47348189  1
+  F  F2  1  0.63312107  0.98438537  0.72736216  1
+  F  F3  1  0.01561463  0.64873570  0.72736216  1
+  F  F4  1  0.35126430  0.36687893  0.72736216  1
+  F  F5  1  0.32436553  0.97106308  0.18999209  1
+  F  F6  1  0.02893692  0.35330248  0.18999209  1
+  F  F7  1  0.64669752  0.67563450  0.18999209  1
+  F  F8  1  0.00000000  0.00000000  0.55532068  1
+  Gd  Gd9  1  0.00000000  0.00000000  0.35437766  1
+  Co  Co10  1  0.33333334  0.66666669  0.29647574  1
+  Ni  Ni11  1  0.33333334  0.66666669  0.61968184  1
+  B  B12  1  0.33333334  0.66666669  0.81809705  1
+  Co  Co13  1  0.33333334  0.66666669  0.08490080  1
+  O  O14  1  0.33333334  0.66666669  0.92559165  1
+  Ho  Ho15  1  0.66666669  0.33333334  0.92729777  1

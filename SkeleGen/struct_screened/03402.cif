@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_BaNa2Sr2Sn2(PCl5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.34489489
+_cell_length_b   6.34489470
+_cell_length_c   16.46591568
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000593
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNa2Sr2Sn2(PCl5)2
+_chemical_formula_sum   'Ba1 Na2 Sr2 Sn2 P2 Cl10'
+_cell_volume   574.07064995
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.43808573  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.56191427  1
+  Cl  Cl2  1  0.33333334  0.66666669  0.95824969  1
+  Cl  Cl3  1  0.66666669  0.33333334  0.04175031  1
+  Cl  Cl4  1  0.17140502  0.82859498  0.22615129  1
+  Cl  Cl5  1  0.17140502  0.34281003  0.22615129  1
+  Cl  Cl6  1  0.65718997  0.82859498  0.22615129  1
+  Cl  Cl7  1  0.82859498  0.17140502  0.77384871  1
+  Cl  Cl8  1  0.34281003  0.17140502  0.77384871  1
+  Cl  Cl9  1  0.82859498  0.65718997  0.77384871  1
+  Ba  Ba10  1  0.00000000  0.00000000  0.00000000  1
+  Na  Na11  1  0.33333334  0.66666669  0.78100425  1
+  Na  Na12  1  0.66666669  0.33333334  0.21899575  1
+  Sn  Sn13  1  0.33333334  0.66666669  0.11884271  1
+  Sn  Sn14  1  0.66666669  0.33333334  0.88115728  1
+  P  P15  1  0.33333334  0.66666669  0.30682218  1
+  P  P16  1  0.66666669  0.33333334  0.69317782  1
+  Sr  Sr17  1  0.33333334  0.66666669  0.60575819  1
+  Sr  Sr18  1  0.66666669  0.33333334  0.39424181  1

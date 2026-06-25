@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Rb3NdCrPI13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.29352951
+_cell_length_b   9.29352949
+_cell_length_c   11.39235115
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000346
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb3NdCrPI13
+_chemical_formula_sum   'Rb3 Nd1 Cr1 P1 I13'
+_cell_volume   852.12899531
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.90455568  0.31765309  0.56777889  1
+  I  I1  1  0.68234694  0.58690262  0.56777889  1
+  I  I2  1  0.41309738  0.09544432  0.56777889  1
+  I  I3  1  0.10998190  0.70771950  0.76499021  1
+  I  I4  1  0.29228050  0.40226239  0.76499021  1
+  I  I5  1  0.59773761  0.89001811  0.76499021  1
+  I  I6  1  0.69223440  0.92333931  0.28788438  1
+  I  I7  1  0.07666069  0.76889509  0.28788438  1
+  I  I8  1  0.23110491  0.30776560  0.28788438  1
+  Nd  Nd9  1  0.00000000  0.00000000  0.16589101  1
+  I  I10  1  0.00000000  0.00000000  0.90887493  1
+  Rb  Rb11  1  0.00000000  0.00000000  0.55567485  1
+  Rb  Rb12  1  0.33333334  0.66666669  0.07224505  1
+  P  P13  1  0.33333334  0.66666669  0.68294299  1
+  Rb  Rb14  1  0.66666669  0.33333334  0.28996912  1
+  Cr  Cr15  1  0.66666669  0.33333334  0.68496364  1
+  I  I16  1  0.91683006  0.32765353  0.03701221  1
+  I  I17  1  0.67234647  0.58917654  0.03701221  1
+  I  I18  1  0.41082346  0.08316994  0.03701221  1

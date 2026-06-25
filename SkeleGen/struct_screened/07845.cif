@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Cu2SCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.57089567
+_cell_length_b   6.57089563
+_cell_length_c   8.84308434
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000504
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu2SCl8
+_chemical_formula_sum   'Cu2 S1 Cl8'
+_cell_volume   330.66141284
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.66460484  0.61605912  0.26556888  1
+  Cl  Cl1  1  0.38394088  0.04854572  0.26556888  1
+  Cl  Cl2  1  0.95145428  0.33539516  0.26556888  1
+  Cl  Cl3  1  0.65390593  0.94051069  0.70689225  1
+  Cl  Cl4  1  0.05948931  0.71339524  0.70689225  1
+  Cl  Cl5  1  0.28660476  0.34609407  0.70689225  1
+  Cl  Cl6  1  0.33333334  0.66666669  0.96183509  1
+  Cl  Cl7  1  0.66666669  0.33333334  0.52831239  1
+  S  S8  1  0.00000000  0.00000000  0.62167311  1
+  Cu  Cu9  1  0.33333334  0.66666669  0.59780622  1
+  Cu  Cu10  1  0.66666669  0.33333334  0.32622024  1

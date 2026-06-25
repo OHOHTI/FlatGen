@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_AlGaPbOF9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.57108927
+_cell_length_b   5.57108923
+_cell_length_c   7.39237738
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000308
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlGaPbOF9
+_chemical_formula_sum   'Al1 Ga1 Pb1 O1 F9'
+_cell_volume   198.69867864
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66666669  0.33333334  0.50357926  1
+  F  F1  1  0.33333334  0.66666669  0.47449651  1
+  F  F2  1  0.67951673  0.03890624  0.75338376  1
+  F  F3  1  0.96109378  0.64061052  0.75338376  1
+  F  F4  1  0.35938948  0.32048327  0.75338376  1
+  F  F5  1  0.41128436  0.01522712  0.25067720  1
+  F  F6  1  0.98477286  0.39605725  0.25067720  1
+  F  F7  1  0.60394275  0.58871567  0.25067720  1
+  O  O8  1  0.00000000  0.00000000  0.04671516  1
+  Pb  Pb9  1  0.00000000  0.00000000  0.27943465  1
+  F  F10  1  0.66666669  0.33333334  0.00465639  1
+  Ga  Ga11  1  0.66666669  0.33333334  0.74858636  1
+  Al  Al12  1  0.66666669  0.33333334  0.26092413  1

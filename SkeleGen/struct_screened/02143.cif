@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_RbNaPbWO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.62048674
+_cell_length_b   5.62048668
+_cell_length_c   7.26089859
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000314
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbNaPbWO8
+_chemical_formula_sum   'Rb1 Na1 Pb1 W1 O8'
+_cell_volume   198.64097551
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.66666669  0.33333334  0.44291428  1
+  O  O1  1  0.33333334  0.66666669  0.54977298  1
+  O  O2  1  0.66284877  0.97435570  0.83728933  1
+  O  O3  1  0.02564430  0.68849307  0.83728933  1
+  O  O4  1  0.31150693  0.33715123  0.83728933  1
+  O  O5  1  0.38663730  0.02158711  0.15804952  1
+  O  O6  1  0.97841287  0.36505020  0.15804952  1
+  O  O7  1  0.63494980  0.61336267  0.15804952  1
+  Na  Na8  1  0.00000000  0.00000000  0.15003420  1
+  Rb  Rb9  1  0.00000000  0.00000000  0.56579208  1
+  Pb  Pb10  1  0.33333334  0.66666669  0.91827047  1
+  W  W11  1  0.66666669  0.33333334  0.21410902  1

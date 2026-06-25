@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_BaTiNbNiF15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.11069393
+_cell_length_b   8.11069370
+_cell_length_c   4.49531221
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000482
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaTiNbNiF15
+_chemical_formula_sum   'Ba1 Ti1 Nb1 Ni1 F15'
+_cell_volume   256.09817560
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.15468927  0.42751488  0.73109537  1
+  F  F1  1  0.57248509  0.72717440  0.73109537  1
+  F  F2  1  0.27282560  0.84531075  0.73109537  1
+  F  F3  1  0.87028515  0.07401938  0.70231313  1
+  F  F4  1  0.92598063  0.79626578  0.70231313  1
+  F  F5  1  0.20373422  0.12971485  0.70231313  1
+  F  F6  1  0.13307148  0.25180018  0.25880331  1
+  F  F7  1  0.74819982  0.88127130  0.25880331  1
+  F  F8  1  0.11872870  0.86692852  0.25880331  1
+  F  F9  1  0.54251468  0.41118923  0.75978929  1
+  F  F10  1  0.58881080  0.13132545  0.75978929  1
+  F  F11  1  0.86867452  0.45748532  0.75978929  1
+  F  F12  1  0.77047563  0.55610847  0.19706780  1
+  F  F13  1  0.44389153  0.21436715  0.19706780  1
+  F  F14  1  0.78563285  0.22952437  0.19706780  1
+  Ti  Ti15  1  0.00000000  0.00000000  0.48639375  1
+  Ni  Ni16  1  0.00000000  0.00000000  0.98972654  1
+  Ba  Ba17  1  0.33333334  0.66666669  0.23166409  1
+  Nb  Nb18  1  0.66666669  0.33333334  0.98024637  1

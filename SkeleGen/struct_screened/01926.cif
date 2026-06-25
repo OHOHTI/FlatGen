@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_RbLiCdTePPbBr12O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.69542122
+_cell_length_b   7.69542093
+_cell_length_c   12.86526871
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000532
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbLiCdTePPbBr12O
+_chemical_formula_sum   'Rb1 Li1 Cd1 Te1 P1 Pb1 Br12 O1'
+_cell_volume   659.80294058
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.66578376  0.05796702  0.69693023  1
+  Br  Br1  1  0.94203299  0.60781676  0.69693023  1
+  Br  Br2  1  0.39218324  0.33421624  0.69693023  1
+  Br  Br3  1  0.26683471  0.96014553  0.45668808  1
+  Br  Br4  1  0.03985447  0.30668914  0.45668808  1
+  Br  Br5  1  0.69331086  0.73316526  0.45668808  1
+  Br  Br6  1  0.63581651  0.99486268  0.22518514  1
+  Br  Br7  1  0.00513732  0.64095384  0.22518514  1
+  Br  Br8  1  0.35904616  0.36418349  0.22518514  1
+  Li  Li9  1  0.00000000  0.00000000  0.31262138  1
+  Te  Te10  1  0.00000000  0.00000000  0.08512086  1
+  Cd  Cd11  1  0.00000000  0.00000000  0.57683539  1
+  O  O12  1  0.00000000  0.00000000  0.79206884  1
+  P  P13  1  0.00000000  0.00000000  0.87429178  1
+  Pb  Pb14  1  0.33333334  0.66666669  0.10926937  1
+  Rb  Rb15  1  0.66666669  0.33333334  0.05671789  1
+  Br  Br16  1  0.06234572  0.33422920  0.94186562  1
+  Br  Br17  1  0.66577077  0.72811651  0.94186562  1
+  Br  Br18  1  0.27188349  0.93765426  0.94186562  1

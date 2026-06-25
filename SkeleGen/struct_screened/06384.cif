@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_KEu4GaSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.92141202
+_cell_length_b   9.61977792
+_cell_length_c   8.57605362
+_cell_angle_alpha   87.81514798
+_cell_angle_beta   90.71622296
+_cell_angle_gamma   94.38104248
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KEu4GaSe3
+_chemical_formula_sum   'K2 Eu8 Ga2 Se6'
+_cell_volume   568.90593382
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.23715316  0.60513991  0.98021567  1
+  Eu  Eu1  1  0.76284683  0.39486009  0.01978433  1
+  Eu  Eu2  1  0.55220336  0.03938077  0.77677059  1
+  Eu  Eu3  1  0.44779664  0.96061921  0.22322941  1
+  Eu  Eu4  1  0.47426355  0.37391734  0.67381144  1
+  Eu  Eu5  1  0.52573645  0.62608266  0.32618856  1
+  Eu  Eu6  1  0.95982379  0.36203879  0.66366601  1
+  Eu  Eu7  1  0.04017621  0.63796121  0.33633399  1
+  Se  Se8  1  0.73436230  0.85805422  0.52324009  1
+  Se  Se9  1  0.26563770  0.14194578  0.47675991  1
+  Ga  Ga10  1  0.55620915  0.70944482  0.78257746  1
+  Ga  Ga11  1  0.44379085  0.29055518  0.21742254  1
+  Se  Se12  1  0.74139708  0.35175702  0.37861794  1
+  Se  Se13  1  0.25860292  0.64824295  0.62138206  1
+  Se  Se14  1  0.25648957  0.21161008  0.97879839  1
+  Se  Se15  1  0.74351043  0.78838992  0.02120161  1
+  K  K16  1  0.04455361  0.92704815  0.74668139  1
+  K  K17  1  0.95544636  0.07295185  0.25331861  1

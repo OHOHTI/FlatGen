@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_BaNaYbZnSnPOF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.45197010
+_cell_length_b   5.45196992
+_cell_length_c   8.75072956
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000397
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNaYbZnSnPOF8
+_chemical_formula_sum   'Ba1 Na1 Yb1 Zn1 Sn1 P1 O1 F8'
+_cell_volume   225.25881409
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.61393946  0.65295029  0.25370091  1
+  F  F1  1  0.34704971  0.96098918  0.25370091  1
+  F  F2  1  0.03901082  0.38606054  0.25370091  1
+  F  F3  1  0.69183624  0.99393135  0.76616389  1
+  F  F4  1  0.00606865  0.69790488  0.76616389  1
+  F  F5  1  0.30209512  0.30816376  0.76616389  1
+  F  F6  1  0.33333334  0.66666669  0.02084209  1
+  F  F7  1  0.66666669  0.33333334  0.54385883  1
+  Yb  Yb8  1  0.00000000  0.00000000  0.56332475  1
+  Ba  Ba9  1  0.00000000  0.00000000  0.04498651  1
+  Zn  Zn10  1  0.33333334  0.66666669  0.74272645  1
+  P  P11  1  0.33333334  0.66666669  0.30997649  1
+  O  O12  1  0.33333334  0.66666669  0.49930310  1
+  Na  Na13  1  0.66666669  0.33333334  0.87100554  1
+  Sn  Sn14  1  0.66666669  0.33333334  0.31349522  1

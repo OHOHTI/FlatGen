@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_SrMnBiSb(OF7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81977320
+_cell_length_b   5.81977289
+_cell_length_c   10.27567482
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999363
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrMnBiSb(OF7)2
+_chemical_formula_sum   'Sr1 Mn1 Bi1 Sb1 O2 F14'
+_cell_volume   301.40684347
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.43555549  0.45905188  0.43651643  1
+  F  F1  1  0.54094815  0.97650361  0.43651643  1
+  F  F2  1  0.02349639  0.56444454  0.43651643  1
+  F  F3  1  0.93665206  0.54791468  0.04221405  1
+  F  F4  1  0.45208532  0.38873738  0.04221405  1
+  F  F5  1  0.61126262  0.06334794  0.04221405  1
+  F  F6  1  0.66666669  0.33333334  0.61929065  1
+  F  F7  1  0.88770682  0.22542749  0.81437945  1
+  F  F8  1  0.77457249  0.66227931  0.81437945  1
+  F  F9  1  0.33772069  0.11229318  0.81437945  1
+  F  F10  1  0.33333334  0.66666669  0.91891015  1
+  F  F11  1  0.10490993  0.34910813  0.21106146  1
+  F  F12  1  0.65089190  0.75580180  0.21106146  1
+  F  F13  1  0.24419820  0.89509010  0.21106146  1
+  O  O14  1  0.00000000  0.00000000  0.53152376  1
+  O  O15  1  0.33333334  0.66666669  0.67622674  1
+  Bi  Bi16  1  0.33333334  0.66666669  0.11601175  1
+  Sb  Sb17  1  0.33333334  0.66666669  0.53589070  1
+  Sr  Sr18  1  0.66666669  0.33333334  0.29606566  1
+  Mn  Mn19  1  0.66666669  0.33333334  0.87419623  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_BaThInFe(PS4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.58641863
+_cell_length_b   6.58641834
+_cell_length_c   9.40763664
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000625
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaThInFe(PS4)2
+_chemical_formula_sum   'Ba1 Th1 In1 Fe1 P2 S8'
+_cell_volume   353.43518474
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.66666669  0.33333334  0.48713258  1
+  S  S1  1  0.33333334  0.66666669  0.53057563  1
+  S  S2  1  0.67968571  0.00523949  0.83149427  1
+  S  S3  1  0.99476051  0.67444623  0.83149427  1
+  S  S4  1  0.32555377  0.32031429  0.83149427  1
+  S  S5  1  0.33884323  0.94935977  0.20469673  1
+  S  S6  1  0.05064023  0.38948345  0.20469673  1
+  S  S7  1  0.61051655  0.66115677  0.20469673  1
+  Ba  Ba8  1  0.00000000  0.00000000  0.56282604  1
+  Th  Th9  1  0.00000000  0.00000000  0.04516009  1
+  Fe  Fe10  1  0.33333334  0.66666669  0.09722730  1
+  P  P11  1  0.33333334  0.66666669  0.93463159  1
+  P  P12  1  0.33333334  0.66666669  0.30668950  1
+  In  In13  1  0.66666669  0.33333334  0.95947254  1

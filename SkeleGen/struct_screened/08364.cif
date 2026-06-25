@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaLiZrMoF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27133417
+_cell_length_b   5.27133383
+_cell_length_c   6.75350571
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000511
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLiZrMoF8
+_chemical_formula_sum   'Na1 Li1 Zr1 Mo1 F8'
+_cell_volume   162.51780582
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66666669  0.33333334  0.44801110  1
+  F  F1  1  0.33333334  0.66666669  0.59319514  1
+  F  F2  1  0.67877692  0.02237331  0.81314546  1
+  F  F3  1  0.97762668  0.65640360  0.81314546  1
+  F  F4  1  0.34359640  0.32122308  0.81314546  1
+  F  F5  1  0.34836459  0.97142202  0.12413199  1
+  F  F6  1  0.02857798  0.37694257  0.12413199  1
+  F  F7  1  0.62305743  0.65163541  0.12413199  1
+  Na  Na8  1  0.00000000  0.00000000  0.57875520  1
+  Zr  Zr9  1  0.33333334  0.66666669  0.30332458  1
+  Mo  Mo10  1  0.33333334  0.66666669  0.92636615  1
+  Li  Li11  1  0.66666669  0.33333334  0.92548740  1

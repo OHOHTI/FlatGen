@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_HfZrAlCrAgF14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.86067089
+_cell_length_b   5.82356164
+_cell_length_c   7.64980316
+_cell_angle_alpha   86.37634824
+_cell_angle_beta   87.71208716
+_cell_angle_gamma   88.93310785
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfZrAlCrAgF14
+_chemical_formula_sum   'Hf1 Zr1 Al1 Cr1 Ag1 F14'
+_cell_volume   260.32399494
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.61002302  0.12567893  0.84257054  1
+  F  F1  1  0.48105773  0.91508365  0.16584651  1
+  F  F2  1  0.63468140  0.16042496  0.50641525  1
+  F  F3  1  0.33258727  0.84840375  0.49838489  1
+  F  F4  1  0.98969495  0.34783041  0.68137634  1
+  F  F5  1  0.00674900  0.60333508  0.28469929  1
+  F  F6  1  0.22593474  0.26637903  0.40533355  1
+  F  F7  1  0.74526477  0.69486809  0.57454824  1
+  F  F8  1  0.90827191  0.09555899  0.23345973  1
+  F  F9  1  0.16097391  0.93599939  0.79298228  1
+  F  F10  1  0.16362844  0.33244413  0.03658993  1
+  F  F11  1  0.83449054  0.59999514  0.93525356  1
+  F  F12  1  0.52043611  0.50551790  0.24580231  1
+  F  F13  1  0.41530260  0.46169788  0.73754251  1
+  Hf  Hf14  1  0.32027093  0.14740333  0.65259719  1
+  Cr  Cr15  1  0.72933197  0.44382277  0.78461009  1
+  Al  Al16  1  0.24667241  0.44644710  0.23350838  1
+  Zr  Zr17  1  0.70354235  0.86858094  0.35653883  1
+  Ag  Ag18  1  0.97124612  0.90637785  0.01130906  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaOs(BrF)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.71494102
+_cell_length_b   5.71494102
+_cell_length_c   14.27786064
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   90.00000433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaOs(BrF)4
+_chemical_formula_sum   'Na2 Os2 Br8 F8'
+_cell_volume   466.32279446
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.00000000  0.50000000  0.35951993  1
+  Br  Br1  1  0.50000000  0.00000000  0.64048004  1
+  Br  Br2  1  0.00000000  0.00000000  0.50000000  1
+  Br  Br3  1  0.50000000  0.50000000  0.50000000  1
+  Br  Br4  1  0.00000000  0.00000000  0.22648543  1
+  Br  Br5  1  0.50000000  0.50000000  0.22648543  1
+  Br  Br6  1  0.50000000  0.50000000  0.77351457  1
+  Br  Br7  1  0.00000000  0.00000000  0.77351457  1
+  Os  Os8  1  0.00000000  0.00000000  0.00000000  1
+  Os  Os9  1  0.50000000  0.50000000  0.00000000  1
+  Na  Na10  1  0.00000000  0.50000000  0.79915011  1
+  Na  Na11  1  0.50000000  0.00000000  0.20084989  1
+  F  F12  1  0.79681617  0.80384588  0.09064330  1
+  F  F13  1  0.20318383  0.19615412  0.09064330  1
+  F  F14  1  0.69615412  0.29681611  0.09064330  1
+  F  F15  1  0.30384588  0.70318383  0.09064330  1
+  F  F16  1  0.70318383  0.30384588  0.90935671  1
+  F  F17  1  0.29681611  0.69615412  0.90935671  1
+  F  F18  1  0.80384588  0.79681617  0.90935671  1
+  F  F19  1  0.19615412  0.20318383  0.90935671  1

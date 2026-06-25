@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_RbBa2FeAuCl12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.05656910
+_cell_length_b   8.05656879
+_cell_length_c   9.60896873
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000517
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbBa2FeAuCl12
+_chemical_formula_sum   'Rb1 Ba2 Fe1 Au1 Cl12'
+_cell_volume   540.14162349
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.88492370  0.25241384  0.46639431  1
+  Cl  Cl1  1  0.74758613  0.63250983  0.46639431  1
+  Cl  Cl2  1  0.36749017  0.11507630  0.46639431  1
+  Cl  Cl3  1  0.11455848  0.70327222  0.68530875  1
+  Cl  Cl4  1  0.29672778  0.41128623  0.68530875  1
+  Cl  Cl5  1  0.58871377  0.88544154  0.68530875  1
+  Cl  Cl6  1  0.10432731  0.65925068  0.25301695  1
+  Cl  Cl7  1  0.34074932  0.44507664  0.25301695  1
+  Cl  Cl8  1  0.55492336  0.89567268  0.25301695  1
+  Ba  Ba9  1  0.00000000  0.00000000  0.71926981  1
+  Rb  Rb10  1  0.33333334  0.66666669  0.97707295  1
+  Au  Au11  1  0.33333334  0.66666669  0.46788207  1
+  Ba  Ba12  1  0.66666669  0.33333334  0.29235497  1
+  Fe  Fe13  1  0.66666669  0.33333334  0.87215298  1
+  Cl  Cl14  1  0.74937218  0.62614566  0.96142316  1
+  Cl  Cl15  1  0.37385434  0.12322652  0.96142316  1
+  Cl  Cl16  1  0.87677348  0.25062782  0.96142316  1

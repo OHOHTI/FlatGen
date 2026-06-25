@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_RbAlCrI9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.18484402
+_cell_length_b   8.18484362
+_cell_length_c   10.77387524
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000547
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbAlCrI9
+_chemical_formula_sum   'Rb1 Al1 Cr1 I9'
+_cell_volume   625.06235387
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.33333334  0.66666669  0.04185206  1
+  I  I1  1  0.66666669  0.33333334  0.99989921  1
+  I  I2  1  0.55713451  0.99290615  0.66129345  1
+  I  I3  1  0.00709385  0.56422836  0.66129345  1
+  I  I4  1  0.43577164  0.44286549  0.66129345  1
+  I  I5  1  0.55215096  0.96898079  0.33494005  1
+  I  I6  1  0.03101921  0.58317018  0.33494005  1
+  I  I7  1  0.41682982  0.44784904  0.33494005  1
+  I  I8  1  0.00000000  0.00000000  0.34085992  1
+  Rb  Rb9  1  0.00000000  0.00000000  0.70639026  1
+  Cr  Cr10  1  0.33333334  0.66666669  0.47292626  1
+  Al  Al11  1  0.66666669  0.33333334  0.75717962  1

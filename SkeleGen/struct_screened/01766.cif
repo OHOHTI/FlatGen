@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_CoCu2Ni2OF11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.84214497
+_cell_length_b   4.05159473
+_cell_length_c   12.89549255
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   90.00000433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoCu2Ni2OF11
+_chemical_formula_sum   'Co1 Cu2 Ni2 O1 F11'
+_cell_volume   200.74173806
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.00000000  0.50000000  0.31654933  1
+  F  F1  1  0.50000000  0.00000000  0.64267248  1
+  F  F2  1  0.50000000  0.50000000  0.48132324  1
+  F  F3  1  0.00000000  0.00000000  0.48589057  1
+  F  F4  1  0.00000000  0.00000000  0.14483114  1
+  F  F5  1  0.50000000  0.50000000  0.15022224  1
+  F  F6  1  0.50000000  0.50000000  0.80482960  1
+  F  F7  1  0.00000000  0.00000000  0.81043172  1
+  F  F8  1  0.00000000  0.50000000  0.64976698  1
+  F  F9  1  0.00000000  0.50000000  0.97235942  1
+  Ni  Ni10  1  0.00000000  0.50000000  0.81709719  1
+  Ni  Ni11  1  0.50000000  0.00000000  0.14396255  1
+  F  F12  1  0.50000000  0.00000000  0.30856994  1
+  O  O13  1  0.50000000  0.00000000  0.99303460  1
+  Cu  Cu14  1  0.50000000  0.50000000  0.98120576  1
+  Cu  Cu15  1  0.50000000  0.50000000  0.64176780  1
+  Co  Co16  1  0.50000000  0.50000000  0.32339594  1

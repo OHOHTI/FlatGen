@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KLa4CrCuH3O9F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20983888
+_cell_length_b   6.29411477
+_cell_length_c   8.52778244
+_cell_angle_alpha   90.82827219
+_cell_angle_beta   94.42222214
+_cell_angle_gamma   91.40588815
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KLa4CrCuH3O9F
+_chemical_formula_sum   'K1 La4 Cr1 Cu1 H3 O9 F1'
+_cell_volume   278.68335636
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.83766240  0.05577102  0.96710622  1
+  La  La1  1  0.75287926  0.41626564  0.62974012  1
+  La  La2  1  0.32399213  0.55779076  0.37834823  1
+  La  La3  1  0.04071576  0.03268863  0.42436120  1
+  O  O4  1  0.37064162  0.23540510  0.57622802  1
+  O  O5  1  0.62336063  0.84160870  0.44580939  1
+  O  O6  1  0.05292094  0.77507079  0.25689891  1
+  O  O7  1  0.94060254  0.31120956  0.21045947  1
+  F  F8  1  0.48492247  0.54326630  0.12364931  1
+  O  O9  1  0.43545660  0.09735762  0.86761779  1
+  Cr  Cr10  1  0.26863459  0.84735805  0.78493059  1
+  O  O11  1  0.94088608  0.06153430  0.70843220  1
+  H  H12  1  0.67908955  0.88588697  0.55195117  1
+  K  K13  1  0.40960729  0.07036352  0.19513905  1
+  Cu  Cu14  1  0.92626470  0.66274059  0.74890548  1
+  H  H15  1  0.37855384  0.17900522  0.69921094  1
+  O  O16  1  0.12350887  0.59939802  0.91965288  1
+  O  O17  1  0.11730181  0.72116989  0.58621997  1
+  O  O18  1  0.58605593  0.71553868  0.79194605  1
+  H  H19  1  0.24407212  0.53664672  0.99963099  1

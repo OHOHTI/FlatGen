@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Tb2SiF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55469418
+_cell_length_b   5.55469395
+_cell_length_c   9.34809971
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000419
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2SiF6
+_chemical_formula_sum   'Tb4 Si2 F12'
+_cell_volume   249.78953394
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.00000000  0.00000000  0.00000000  1
+  Tb  Tb1  1  0.33333334  0.66666669  0.24173225  1
+  Tb  Tb2  1  0.66666669  0.33333334  0.75826776  1
+  Tb  Tb3  1  0.00000000  0.00000000  0.50000000  1
+  Si  Si4  1  0.33333334  0.66666669  0.75789130  1
+  Si  Si5  1  0.66666669  0.33333334  0.24210870  1
+  F  F6  1  0.33019665  0.98488539  0.87032944  1
+  F  F7  1  0.01511461  0.34531128  0.87032944  1
+  F  F8  1  0.65468872  0.66980338  0.87032944  1
+  F  F9  1  0.66980338  0.01511461  0.12967056  1
+  F  F10  1  0.98488539  0.65468872  0.12967056  1
+  F  F11  1  0.34531128  0.33019665  0.12967056  1
+  F  F12  1  0.96353889  0.32138488  0.36723456  1
+  F  F13  1  0.67861509  0.64215398  0.36723456  1
+  F  F14  1  0.35784602  0.03646111  0.36723456  1
+  F  F15  1  0.03646111  0.67861509  0.63276541  1
+  F  F16  1  0.32138488  0.35784602  0.63276541  1
+  F  F17  1  0.64215398  0.96353889  0.63276541  1

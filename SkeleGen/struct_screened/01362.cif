@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_K3BaAgH2PbF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42833281
+_cell_length_b   5.42833252
+_cell_length_c   12.63870239
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000462
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3BaAgH2PbF12
+_chemical_formula_sum   'K3 Ba1 Ag1 H2 Pb1 F12'
+_cell_volume   322.52694900
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.58606684  1
+  F  F1  1  0.66666669  0.33333334  0.48477426  1
+  F  F2  1  0.84190625  0.15809375  0.68855518  1
+  F  F3  1  0.84190625  0.68381250  0.68855518  1
+  F  F4  1  0.31618750  0.15809375  0.68855518  1
+  F  F5  1  0.66666669  0.33333334  0.07312490  1
+  F  F6  1  0.15040512  0.84959489  0.24996477  1
+  F  F7  1  0.15040512  0.30081025  0.24996477  1
+  F  F8  1  0.69918978  0.84959489  0.24996477  1
+  F  F9  1  0.33333334  0.66666669  0.98397321  1
+  Ba  Ba10  1  0.00000000  0.00000000  0.50767642  1
+  K  K11  1  0.00000000  0.00000000  0.98732513  1
+  H  H12  1  0.33333334  0.66666669  0.47809124  1
+  K  K13  1  0.33333334  0.66666669  0.80171376  1
+  F  F14  1  0.33333334  0.66666669  0.39795750  1
+  Pb  Pb15  1  0.33333334  0.66666669  0.15611185  1
+  K  K16  1  0.66666669  0.33333334  0.29652634  1
+  H  H17  1  0.66666669  0.33333334  0.56117547  1
+  Ag  Ag18  1  0.66666669  0.33333334  0.74281746  1
+  F  F19  1  0.66666669  0.33333334  0.88097560  1

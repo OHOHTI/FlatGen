@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CaEu8Cu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.57991123
+_cell_length_b   7.57991083
+_cell_length_c   7.69619465
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000590
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaEu8Cu
+_chemical_formula_sum   'Ca1 Eu8 Cu1'
+_cell_volume   382.94364397
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.68370235  0.66983128  0.24431019  1
+  Eu  Eu1  1  0.33016872  0.01387107  0.24431019  1
+  Eu  Eu2  1  0.98612893  0.31629765  0.24431019  1
+  Eu  Eu3  1  0.66893393  0.00289137  0.77772182  1
+  Eu  Eu4  1  0.99710864  0.66604257  0.77772182  1
+  Eu  Eu5  1  0.33395743  0.33106607  0.77772182  1
+  Eu  Eu6  1  0.33333334  0.66666669  0.01367101  1
+  Eu  Eu7  1  0.66666669  0.33333334  0.50908124  1
+  Ca  Ca8  1  0.00000000  0.00000000  0.52798373  1
+  Cu  Cu9  1  0.00000000  0.00000000  0.02367742  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_BaAlFePF14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.98546839
+_cell_length_b   6.98546812
+_cell_length_c   5.98372936
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000579
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaAlFePF14
+_chemical_formula_sum   'Ba1 Al1 Fe1 P1 F14'
+_cell_volume   252.86783806
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.94493079  1
+  F  F1  1  0.66666669  0.33333334  0.08429800  1
+  F  F2  1  0.57951272  0.11160468  0.66341043  1
+  F  F3  1  0.88839531  0.46790802  0.66341043  1
+  F  F4  1  0.53209198  0.42048728  0.66341043  1
+  F  F5  1  0.43939593  0.89586931  0.30622953  1
+  F  F6  1  0.10413069  0.54352665  0.30622953  1
+  F  F7  1  0.45647338  0.56060410  0.30622953  1
+  Ba  Ba8  1  0.00000000  0.00000000  0.34461677  1
+  Fe  Fe9  1  0.33333334  0.66666669  0.59968871  1
+  P  P10  1  0.33333334  0.66666669  0.19216058  1
+  Al  Al11  1  0.66666669  0.33333334  0.75320542  1
+  F  F12  1  0.84318006  0.70507544  0.08464851  1
+  F  F13  1  0.29492456  0.13810462  0.08464851  1
+  F  F14  1  0.86189538  0.15681994  0.08464851  1
+  F  F15  1  0.16203980  0.82273668  0.68102807  1
+  F  F16  1  0.17726332  0.33930314  0.68102807  1
+  F  F17  1  0.66069686  0.83796018  0.68102807  1

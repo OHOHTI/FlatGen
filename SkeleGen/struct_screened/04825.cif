@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_RbTiFeSnCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.73799658
+_cell_length_b   6.73799633
+_cell_length_c   10.59871483
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000588
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbTiFeSnCl8
+_chemical_formula_sum   'Rb1 Ti1 Fe1 Sn1 Cl8'
+_cell_volume   416.72098359
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.66666669  0.33333334  0.48395404  1
+  Cl  Cl1  1  0.33333334  0.66666669  0.44978201  1
+  Cl  Cl2  1  0.65371853  0.03433722  0.78231257  1
+  Cl  Cl3  1  0.96566278  0.61938131  0.78231257  1
+  Cl  Cl4  1  0.38061869  0.34628147  0.78231257  1
+  Cl  Cl5  1  0.31274593  0.95666677  0.10302045  1
+  Cl  Cl6  1  0.04333323  0.35607916  0.10302045  1
+  Cl  Cl7  1  0.64392084  0.68725407  0.10302045  1
+  Rb  Rb8  1  0.00000000  0.00000000  0.53990555  1
+  Sn  Sn9  1  0.00000000  0.00000000  0.18579671  1
+  Fe  Fe10  1  0.33333334  0.66666669  0.20062612  1
+  Ti  Ti11  1  0.66666669  0.33333334  0.72124606  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaNbGePI12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.46753416
+_cell_length_b   8.16907028
+_cell_length_c   11.62416363
+_cell_angle_alpha   93.57678816
+_cell_angle_beta   95.68504966
+_cell_angle_gamma   92.06769274
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaNbGePI12
+_chemical_formula_sum   'Na1 Nb1 Ge1 P1 I12'
+_cell_volume   703.60653317
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.39702189  0.26617724  0.56324238  1
+  I  I1  1  0.12919202  0.75846821  0.05770215  1
+  I  I2  1  0.63729984  0.84143382  0.56891215  1
+  I  I3  1  0.82123578  0.24983624  0.95396537  1
+  I  I4  1  0.37805626  0.10412594  0.15508620  1
+  I  I5  1  0.12229831  0.76205677  0.42104673  1
+  I  I6  1  0.29132423  0.01682116  0.78824365  1
+  I  I7  1  0.77303022  0.00382624  0.22270928  1
+  I  I8  1  0.87993771  0.26939484  0.53017688  1
+  I  I9  1  0.62443209  0.78111696  0.93376726  1
+  I  I10  1  0.01033580  0.58753067  0.72631168  1
+  I  I11  1  0.67307234  0.53943473  0.30076963  1
+  Nb  Nb12  1  0.59911287  0.11390451  0.73087376  1
+  P  P13  1  0.86621732  0.63947302  0.49349585  1
+  Na  Na14  1  0.37863854  0.40341642  0.88905579  1
+  Ge  Ge15  1  0.87387604  0.93460542  0.04990061  1

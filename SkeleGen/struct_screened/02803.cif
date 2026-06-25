@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CoMo2Ir(ClO)8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.84996891
+_cell_length_b   6.84996880
+_cell_length_c   10.78749275
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000515
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoMo2Ir(ClO)8
+_chemical_formula_sum   'Co1 Mo2 Ir1 Cl8 O8'
+_cell_volume   438.35737705
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.10908196  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.01191218  1
+  Cl  Cl2  1  0.51876664  0.00373090  0.73346442  1
+  Cl  Cl3  1  0.99626911  0.51503575  0.73346442  1
+  Cl  Cl4  1  0.48496425  0.48123336  0.73346442  1
+  Cl  Cl5  1  0.47736776  0.02040263  0.34410861  1
+  Cl  Cl6  1  0.97959739  0.45696515  0.34410861  1
+  Cl  Cl7  1  0.54303485  0.52263224  0.34410861  1
+  Mo  Mo8  1  0.00000000  0.00000000  0.13856006  1
+  Co  Co9  1  0.00000000  0.00000000  0.64752126  1
+  Ir  Ir10  1  0.00000000  0.00000000  0.93722045  1
+  O  O11  1  0.00000000  0.00000000  0.26828432  1
+  Mo  Mo12  1  0.00000000  0.00000000  0.43786448  1
+  O  O13  1  0.00000000  0.00000000  0.81082118  1
+  O  O14  1  0.20989068  0.22905792  0.53295666  1
+  O  O15  1  0.77094209  0.98083276  0.53295666  1
+  O  O16  1  0.01916724  0.79010934  0.53295666  1
+  O  O17  1  0.21921225  0.01923983  0.04260750  1
+  O  O18  1  0.98076016  0.19997242  0.04260750  1
+  O  O19  1  0.80002761  0.78078777  0.04260750  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_EuCuTe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.86326265
+_cell_length_b   6.86326257
+_cell_length_c   9.24924469
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000499
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuCuTe4
+_chemical_formula_sum   'Eu2 Cu2 Te8'
+_cell_volume   377.30982350
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.67346179  0.69911283  0.26638728  1
+  Te  Te1  1  0.30088717  0.97434896  0.26638728  1
+  Te  Te2  1  0.02565104  0.32653821  0.26638728  1
+  Te  Te3  1  0.32653821  0.30088717  0.76638728  1
+  Te  Te4  1  0.69911283  0.02565104  0.76638728  1
+  Te  Te5  1  0.97434896  0.67346179  0.76638728  1
+  Te  Te6  1  0.33333334  0.66666669  0.99200535  1
+  Te  Te7  1  0.66666669  0.33333334  0.49200535  1
+  Cu  Cu8  1  0.00000000  0.00000000  0.89894080  1
+  Cu  Cu9  1  0.00000000  0.00000000  0.39894080  1
+  Eu  Eu10  1  0.33333334  0.66666669  0.53982973  1
+  Eu  Eu11  1  0.66666669  0.33333334  0.03982973  1

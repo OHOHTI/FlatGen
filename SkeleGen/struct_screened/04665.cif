@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_RbSrLiUBPO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31926632
+_cell_length_b   5.31926609
+_cell_length_c   9.16349888
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000440
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbSrLiUBPO8
+_chemical_formula_sum   'Rb1 Sr1 Li1 U1 B1 P1 O8'
+_cell_volume   224.54086635
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.60945642  0.61540604  0.27095097  1
+  O  O1  1  0.38459396  0.99405038  0.27095097  1
+  O  O2  1  0.00594962  0.39054358  0.27095097  1
+  O  O3  1  0.68500161  0.02825135  0.73280025  1
+  O  O4  1  0.97174865  0.65675026  0.73280025  1
+  O  O5  1  0.34324974  0.31499839  0.73280025  1
+  O  O6  1  0.33333334  0.66666669  0.04367485  1
+  O  O7  1  0.66666669  0.33333334  0.50269318  1
+  Rb  Rb8  1  0.00000000  0.00000000  0.98007500  1
+  Sr  Sr9  1  0.00000000  0.00000000  0.45721072  1
+  P  P10  1  0.33333334  0.66666669  0.20956904  1
+  B  B11  1  0.66666669  0.33333334  0.32528070  1
+  U  U12  1  0.66666669  0.33333334  0.74358183  1
+  Li  Li13  1  0.66666669  0.33333334  0.10962258  1

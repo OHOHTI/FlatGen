@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Y4Cu3O10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.53093624
+_cell_length_b   6.53093611
+_cell_length_c   5.68799305
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000550
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y4Cu3O10
+_chemical_formula_sum   'Y4 Cu3 O10'
+_cell_volume   210.10701068
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.33333334  0.66666669  0.54766047  1
+  O  O1  1  0.66666669  0.33333334  0.45233953  1
+  O  O2  1  0.33333334  0.66666669  0.96391565  1
+  O  O3  1  0.66666669  0.33333334  0.03608435  1
+  O  O4  1  0.24387307  0.28864723  0.24088421  1
+  O  O5  1  0.71135277  0.95522583  0.24088421  1
+  O  O6  1  0.04477416  0.75612694  0.24088421  1
+  O  O7  1  0.28864723  0.24387307  0.75911582  1
+  O  O8  1  0.95522583  0.71135277  0.75911582  1
+  O  O9  1  0.75612694  0.04477416  0.75911582  1
+  Y  Y10  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu11  1  0.60863072  0.00000000  0.00000000  1
+  Cu  Cu12  1  0.00000000  0.60863072  0.00000000  1
+  Cu  Cu13  1  0.39136928  0.39136928  0.00000000  1
+  Y  Y14  1  0.34991565  0.00000000  0.50000000  1
+  Y  Y15  1  0.00000000  0.34991565  0.50000000  1
+  Y  Y16  1  0.65008438  0.65008438  0.50000000  1

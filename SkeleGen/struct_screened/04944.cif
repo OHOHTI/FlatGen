@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_RbLaAlSiTeI10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.81508446
+_cell_length_b   7.81508425
+_cell_length_c   13.73752022
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000490
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbLaAlSiTeI10
+_chemical_formula_sum   'Rb1 La1 Al1 Si1 Te1 I10'
+_cell_volume   726.61823908
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.66666669  0.33333334  0.43930951  1
+  I  I1  1  0.33333334  0.66666669  0.47790593  1
+  I  I2  1  0.62969941  0.97255331  0.71991330  1
+  I  I3  1  0.02744669  0.65714610  0.71991330  1
+  I  I4  1  0.34285390  0.37030059  0.71991330  1
+  I  I5  1  0.36833501  0.98101014  0.19710074  1
+  I  I6  1  0.01898986  0.38732487  0.19710074  1
+  I  I7  1  0.61267513  0.63166499  0.19710074  1
+  La  La8  1  0.00000000  0.00000000  0.81175262  1
+  I  I9  1  0.00000000  0.00000000  0.02646328  1
+  I  I10  1  0.00000000  0.00000000  0.54493105  1
+  Rb  Rb11  1  0.00000000  0.00000000  0.30559281  1
+  Si  Si12  1  0.33333334  0.66666669  0.76372772  1
+  Te  Te13  1  0.33333334  0.66666669  0.93438005  1
+  Al  Al14  1  0.33333334  0.66666669  0.09631765  1

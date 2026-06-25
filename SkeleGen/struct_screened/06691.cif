@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_KNaSrFeWOF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.83002424
+_cell_length_b   5.83002407
+_cell_length_c   8.00373459
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000367
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNaSrFeWOF8
+_chemical_formula_sum   'K1 Na1 Sr1 Fe1 W1 O1 F8'
+_cell_volume   235.59387904
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.64656126  0.66736531  0.22684005  1
+  F  F1  1  0.33263469  0.97919595  0.22684005  1
+  F  F2  1  0.02080405  0.35343874  0.22684005  1
+  F  F3  1  0.63221508  0.95770562  0.73570389  1
+  F  F4  1  0.04229438  0.67450947  0.73570389  1
+  F  F5  1  0.32549053  0.36778492  0.73570389  1
+  F  F6  1  0.33333334  0.66666669  0.99510485  1
+  F  F7  1  0.66666669  0.33333334  0.48245227  1
+  K  K8  1  0.00000000  0.00000000  0.98979455  1
+  Sr  Sr9  1  0.00000000  0.00000000  0.53024971  1
+  W  W10  1  0.33333334  0.66666669  0.26944566  1
+  O  O11  1  0.33333334  0.66666669  0.49646965  1
+  Fe  Fe12  1  0.33333334  0.66666669  0.74936944  1
+  Na  Na13  1  0.66666669  0.33333334  0.94892555  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CoAsO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30657530
+_cell_length_b   5.30657518
+_cell_length_c   7.18113327
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000372
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoAsO4
+_chemical_formula_sum   'Co2 As2 O8'
+_cell_volume   175.12665571
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.33333334  0.66666669  0.48122910  1
+  O  O1  1  0.66666669  0.33333334  0.51877093  1
+  O  O2  1  0.64085966  0.00119495  0.83131188  1
+  O  O3  1  0.99880505  0.63966471  0.83131188  1
+  O  O4  1  0.36033529  0.35914034  0.83131188  1
+  O  O5  1  0.35914034  0.99880505  0.16868812  1
+  O  O6  1  0.00119495  0.36033529  0.16868812  1
+  O  O7  1  0.63966471  0.64085966  0.16868812  1
+  As  As8  1  0.33333334  0.66666669  0.23591636  1
+  As  As9  1  0.66666669  0.33333334  0.76408362  1
+  Co  Co10  1  0.33333334  0.66666669  0.73566645  1
+  Co  Co11  1  0.66666669  0.33333334  0.26433355  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sr2LiCo2S8ClO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.95122671
+_cell_length_b   5.95122640
+_cell_length_c   10.51761818
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000437
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2LiCo2S8ClO6
+_chemical_formula_sum   'Sr2 Li1 Co2 S8 Cl1 O6'
+_cell_volume   322.59748745
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.33333334  0.66666669  0.56563401  1
+  S  S1  1  0.66666669  0.33333334  0.43436599  1
+  S  S2  1  0.67698860  0.03033712  0.80141532  1
+  S  S3  1  0.96966290  0.64665151  0.80141532  1
+  S  S4  1  0.35334849  0.32301140  0.80141532  1
+  S  S5  1  0.32301140  0.96966290  0.19858468  1
+  S  S6  1  0.03033712  0.35334849  0.19858468  1
+  S  S7  1  0.64665151  0.67698860  0.19858468  1
+  Cl  Cl8  1  0.00000000  0.00000000  0.00000000  1
+  Li  Li9  1  0.00000000  0.00000000  0.50000000  1
+  Co  Co10  1  0.33333334  0.66666669  0.31789747  1
+  Co  Co11  1  0.66666669  0.33333334  0.68210256  1
+  Sr  Sr12  1  0.33333334  0.66666669  0.93627602  1
+  Sr  Sr13  1  0.66666669  0.33333334  0.06372398  1
+  O  O14  1  0.95144475  0.32308322  0.61175942  1
+  O  O15  1  0.67691678  0.62836152  0.61175942  1
+  O  O16  1  0.37163848  0.04855525  0.61175942  1
+  O  O17  1  0.04855525  0.67691678  0.38824058  1
+  O  O18  1  0.32308322  0.37163848  0.38824058  1
+  O  O19  1  0.62836152  0.95144475  0.38824058  1

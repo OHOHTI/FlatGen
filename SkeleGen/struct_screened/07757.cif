@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_ZrCuTeCl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.34161186
+_cell_length_b   6.34161151
+_cell_length_c   11.27034760
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000683
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrCuTeCl4
+_chemical_formula_sum   'Zr2 Cu2 Te2 Cl8'
+_cell_volume   392.52489236
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.68158674  0.69966745  0.30372718  1
+  Cl  Cl1  1  0.30033255  0.98191929  0.30372718  1
+  Cl  Cl2  1  0.01808071  0.31841326  0.30372718  1
+  Cl  Cl3  1  0.31841326  0.30033255  0.80372715  1
+  Cl  Cl4  1  0.69966745  0.01808071  0.80372715  1
+  Cl  Cl5  1  0.98191929  0.68158674  0.80372715  1
+  Cl  Cl6  1  0.33333334  0.66666669  0.06808288  1
+  Cl  Cl7  1  0.66666669  0.33333334  0.56808287  1
+  Zr  Zr8  1  0.00000000  0.00000000  0.93001920  1
+  Zr  Zr9  1  0.00000000  0.00000000  0.43001914  1
+  Te  Te10  1  0.33333334  0.66666669  0.53421509  1
+  Te  Te11  1  0.66666669  0.33333334  0.03421509  1
+  Cu  Cu12  1  0.33333334  0.66666669  0.28526348  1
+  Cu  Cu13  1  0.66666669  0.33333334  0.78526348  1

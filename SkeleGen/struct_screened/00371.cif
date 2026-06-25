@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Rb2NaTiFeI13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.88651466
+_cell_length_b   9.88651481
+_cell_length_c   9.52157211
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999313
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2NaTiFeI13
+_chemical_formula_sum   'Rb2 Na1 Ti1 Fe1 I13'
+_cell_volume   805.98277193
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.82453763  0.22223718  0.61538965  1
+  I  I1  1  0.77776283  0.60230047  0.61538965  1
+  I  I2  1  0.39769953  0.17546237  0.61538965  1
+  I  I3  1  0.20544055  0.76719970  0.62445790  1
+  I  I4  1  0.23280030  0.43824089  0.62445790  1
+  I  I5  1  0.56175911  0.79455948  0.62445790  1
+  I  I6  1  0.34094405  0.37095177  0.28169531  1
+  I  I7  1  0.62904823  0.96999228  0.28169531  1
+  I  I8  1  0.03000772  0.65905595  0.28169531  1
+  I  I9  1  0.00000000  0.00000000  0.93620747  1
+  Rb  Rb10  1  0.00000000  0.00000000  0.46093181  1
+  Ti  Ti11  1  0.33333334  0.66666669  0.48564306  1
+  Rb  Rb12  1  0.33333334  0.66666669  0.05329300  1
+  Fe  Fe13  1  0.66666669  0.33333334  0.82881916  1
+  Na  Na14  1  0.66666669  0.33333334  0.35562983  1
+  I  I15  1  0.52458304  0.08023895  0.95483679  1
+  I  I16  1  0.91976106  0.44434410  0.95483679  1
+  I  I17  1  0.55565590  0.47541696  0.95483679  1

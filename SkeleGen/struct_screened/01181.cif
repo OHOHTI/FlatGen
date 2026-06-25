@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_NaEu4CuMoF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.64607096
+_cell_length_b   5.64607060
+_cell_length_c   11.61836624
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000488
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaEu4CuMoF12
+_chemical_formula_sum   'Na1 Eu4 Cu1 Mo1 F12'
+_cell_volume   320.75121421
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.00000000  0.00000000  0.07214944  1
+  Eu  Eu1  1  0.66666669  0.33333334  0.81933033  1
+  Eu  Eu2  1  0.33333334  0.66666669  0.31034267  1
+  Eu  Eu3  1  0.00000000  0.00000000  0.58043569  1
+  Cu  Cu4  1  0.00000000  0.00000000  0.83232903  1
+  Mo  Mo5  1  0.00000000  0.00000000  0.33026701  1
+  Na  Na6  1  0.33333334  0.66666669  0.81032348  1
+  F  F7  1  0.30349112  0.32307026  0.42808726  1
+  F  F8  1  0.67692971  0.98042083  0.42808726  1
+  F  F9  1  0.01957914  0.69650888  0.42808726  1
+  F  F10  1  0.99089271  0.68106776  0.69716823  1
+  F  F11  1  0.31893224  0.30982494  0.69716823  1
+  F  F12  1  0.69017506  0.00910729  0.69716823  1
+  F  F13  1  0.67916358  0.01120963  0.94071341  1
+  F  F14  1  0.98879039  0.66795397  0.94071341  1
+  F  F15  1  0.33204603  0.32083642  0.94071341  1
+  F  F16  1  0.99160171  0.32282010  0.19704889  1
+  F  F17  1  0.67717993  0.66878164  0.19704889  1
+  F  F18  1  0.33121836  0.00839829  0.19704889  1

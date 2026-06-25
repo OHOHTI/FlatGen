@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_PBrCl5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.78344616
+_cell_length_b   6.94164513
+_cell_length_c   9.13682842
+_cell_angle_alpha   101.39279904
+_cell_angle_beta   95.26085353
+_cell_angle_gamma   97.41413774
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PBrCl5
+_chemical_formula_sum   'P2 Br2 Cl10'
+_cell_volume   476.38968038
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.37160903  0.70629883  0.02060175  1
+  Cl  Cl1  1  0.62839097  0.29370117  0.97939825  1
+  Cl  Cl2  1  0.66906267  0.05052935  0.67291409  1
+  Cl  Cl3  1  0.33093733  0.94947064  0.32708591  1
+  Cl  Cl4  1  0.50901097  0.46114221  0.68677515  1
+  Cl  Cl5  1  0.49098903  0.53885782  0.31322485  1
+  Cl  Cl6  1  0.87390441  0.47884279  0.67950147  1
+  Cl  Cl7  1  0.12609559  0.52115721  0.32049853  1
+  Cl  Cl8  1  0.76020086  0.14658742  0.30001679  1
+  Cl  Cl9  1  0.23979914  0.85341257  0.69998324  1
+  Br  Br10  1  0.07377140  0.18667455  0.90891010  1
+  Br  Br11  1  0.92622858  0.81332546  0.09108990  1
+  P  P12  1  0.69495982  0.31955910  0.76510525  1
+  P  P13  1  0.30504018  0.68044090  0.23489475  1

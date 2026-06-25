@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_RbLiAlAsF10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27853727
+_cell_length_b   5.27853686
+_cell_length_c   9.72650146
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000557
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbLiAlAsF10
+_chemical_formula_sum   'Rb1 Li1 Al1 As1 F10'
+_cell_volume   234.70071632
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.52120739  1
+  F  F1  1  0.66666669  0.33333334  0.44917318  1
+  F  F2  1  0.89674383  0.69058740  0.75103003  1
+  F  F3  1  0.30941260  0.20615643  0.75103003  1
+  F  F4  1  0.79384357  0.10325617  0.75103003  1
+  F  F5  1  0.66666669  0.33333334  0.99462861  1
+  F  F6  1  0.16640162  0.35975942  0.27762967  1
+  F  F7  1  0.64024055  0.80664217  0.27762967  1
+  F  F8  1  0.19335780  0.83359838  0.27762967  1
+  F  F9  1  0.33333334  0.66666669  0.74238497  1
+  Li  Li10  1  0.00000000  0.00000000  0.37879729  1
+  As  As11  1  0.00000000  0.00000000  0.66299045  1
+  Al  Al12  1  0.33333334  0.66666669  0.35651025  1
+  Rb  Rb13  1  0.33333334  0.66666669  0.02117117  1

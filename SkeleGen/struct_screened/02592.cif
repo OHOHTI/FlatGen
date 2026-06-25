@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_SrCaEu8Mn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.26441145
+_cell_length_b   7.26441129
+_cell_length_c   10.03356838
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000507
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCaEu8Mn
+_chemical_formula_sum   'Sr1 Ca1 Eu8 Mn1'
+_cell_volume   458.55019585
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.33333334  0.66666669  0.00586367  1
+  Eu  Eu1  1  0.66666669  0.33333334  0.97747624  1
+  Eu  Eu2  1  0.48656750  0.51343250  0.69437933  1
+  Eu  Eu3  1  0.48656750  0.97313499  0.69437933  1
+  Eu  Eu4  1  0.02686501  0.51343250  0.69437933  1
+  Eu  Eu5  1  0.49627936  0.50372064  0.31467980  1
+  Eu  Eu6  1  0.49627936  0.99255872  0.31467980  1
+  Eu  Eu7  1  0.00744128  0.50372064  0.31467980  1
+  Ca  Ca8  1  0.00000000  0.00000000  0.63165450  1
+  Sr  Sr9  1  0.00000000  0.00000000  0.18892652  1
+  Mn  Mn10  1  0.66666669  0.33333334  0.50206530  1

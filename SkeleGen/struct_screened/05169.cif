@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_ZrMoOsPbCI14O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.28924942
+_cell_length_b   9.28924917
+_cell_length_c   11.03651524
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000428
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrMoOsPbCI14O
+_chemical_formula_sum   'Zr1 Mo1 Os1 Pb1 C1 I14 O1'
+_cell_volume   824.75283407
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.32687545  0.30283001  0.90547425  1
+  I  I1  1  0.69717002  0.02404544  0.90547425  1
+  I  I2  1  0.97595453  0.67312455  0.90547425  1
+  I  I3  1  0.76209891  0.75994062  0.16467722  1
+  I  I4  1  0.24005938  0.00215828  0.16467722  1
+  I  I5  1  0.99784172  0.23790109  0.16467722  1
+  I  I6  1  0.41889009  0.50176919  0.39850962  1
+  I  I7  1  0.49823081  0.91712093  0.39850962  1
+  I  I8  1  0.08287910  0.58110988  0.39850962  1
+  I  I9  1  0.33333334  0.66666669  0.73426586  1
+  I  I10  1  0.66666669  0.33333334  0.21836163  1
+  I  I11  1  0.33883375  0.12757064  0.61764735  1
+  I  I12  1  0.87242937  0.21126311  0.61764735  1
+  I  I13  1  0.78873688  0.66116625  0.61764735  1
+  Pb  Pb14  1  0.00000000  0.00000000  0.44268647  1
+  Zr  Zr15  1  0.00000000  0.00000000  0.96393758  1
+  Os  Os16  1  0.33333334  0.66666669  0.50298882  1
+  C  C17  1  0.33333334  0.66666669  0.23280849  1
+  O  O18  1  0.33333334  0.66666669  0.13775139  1
+  Mo  Mo19  1  0.66666669  0.33333334  0.71842355  1

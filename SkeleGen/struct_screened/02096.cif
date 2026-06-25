@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_BaFeP4CO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.17419481
+_cell_length_b   5.17419457
+_cell_length_c   8.59048462
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000460
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaFeP4CO6
+_chemical_formula_sum   'Ba1 Fe1 P4 C1 O6'
+_cell_volume   199.17453332
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.00000000  0.00000000  0.98548084  1
+  P  P1  1  0.66666669  0.33333334  0.68615979  1
+  P  P2  1  0.33333334  0.66666669  0.47358268  1
+  P  P3  1  0.00000000  0.00000000  0.57186466  1
+  C  C4  1  0.00000000  0.00000000  0.79319173  1
+  Fe  Fe5  1  0.00000000  0.00000000  0.30677631  1
+  Ba  Ba6  1  0.66666669  0.33333334  0.13916095  1
+  O  O7  1  0.09098676  0.35446399  0.42178360  1
+  O  O8  1  0.64553601  0.73652279  0.42178360  1
+  O  O9  1  0.26347724  0.90901327  0.42178360  1
+  O  O10  1  0.78316063  0.06286450  0.72234029  1
+  O  O11  1  0.93713552  0.72029614  0.72234029  1
+  O  O12  1  0.27970386  0.21683937  0.72234029  1

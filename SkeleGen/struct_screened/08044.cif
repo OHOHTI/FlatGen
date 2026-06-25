@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_LiNbCuSbF15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.52035453
+_cell_length_b   7.12116892
+_cell_length_c   7.63239527
+_cell_angle_alpha   91.55767509
+_cell_angle_beta   91.47509799
+_cell_angle_gamma   92.85453913
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiNbCuSbF15
+_chemical_formula_sum   'Li1 Nb1 Cu1 Sb1 F15'
+_cell_volume   299.44659447
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.18729517  0.53144753  0.46828797  1
+  F  F1  1  0.45189676  0.94100511  0.12426888  1
+  F  F2  1  0.53310347  0.64865261  0.78576255  1
+  F  F3  1  0.02459713  0.08048417  0.52647859  1
+  F  F4  1  0.90685833  0.02407291  0.83682758  1
+  F  F5  1  0.96041179  0.86985427  0.24386144  1
+  F  F6  1  0.40902859  0.13204792  0.81726664  1
+  F  F7  1  0.78233671  0.22311468  0.19020897  1
+  F  F8  1  0.81925726  0.52601802  0.51973486  1
+  F  F9  1  0.17322533  0.43275914  0.18127303  1
+  F  F10  1  0.54462254  0.84869695  0.44722092  1
+  F  F11  1  0.04930066  0.72349322  0.88042927  1
+  F  F12  1  0.66455215  0.53624457  0.18563969  1
+  F  F13  1  0.53841013  0.17762104  0.47214562  1
+  F  F14  1  0.94104242  0.37243852  0.81530041  1
+  Li  Li15  1  0.82967907  0.64035016  0.74107760  1
+  Cu  Cu16  1  0.13774328  0.16833311  0.73917681  1
+  Sb  Sb17  1  0.93728077  0.49168706  0.30607414  1
+  Nb  Nb18  1  0.63781166  0.02939466  0.31294769  1

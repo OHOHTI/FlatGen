@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_RbTaMnCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.82473993
+_cell_length_b   6.82473963
+_cell_length_c   9.13367367
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000610
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbTaMnCl8
+_chemical_formula_sum   'Rb1 Ta1 Mn1 Cl8'
+_cell_volume   368.42431922
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.66666669  0.33333334  0.45192879  1
+  Cl  Cl1  1  0.33333334  0.66666669  0.45287266  1
+  Cl  Cl2  1  0.63617516  0.98734963  0.75571090  1
+  Cl  Cl3  1  0.01265037  0.64882553  0.75571090  1
+  Cl  Cl4  1  0.35117447  0.36382484  0.75571090  1
+  Cl  Cl5  1  0.41118580  0.98084170  0.11276929  1
+  Cl  Cl6  1  0.01915830  0.43034410  0.11276929  1
+  Cl  Cl7  1  0.56965590  0.58881420  0.11276929  1
+  Rb  Rb8  1  0.00000000  0.00000000  0.93444091  1
+  Ta  Ta9  1  0.33333334  0.66666669  0.18457772  1
+  Mn  Mn10  1  0.33333334  0.66666669  0.68744403  1

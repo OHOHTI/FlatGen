@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CaLaBeCdCuAgF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50055160
+_cell_length_b   6.11252641
+_cell_length_c   7.46345043
+_cell_angle_alpha   95.61083810
+_cell_angle_beta   99.53569830
+_cell_angle_gamma   90.81470876
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaLaBeCdCuAgF12
+_chemical_formula_sum   'Ca1 La1 Be1 Cd1 Cu1 Ag1 F12'
+_cell_volume   246.16685711
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.27314240  0.68270725  0.54013348  1
+  F  F1  1  0.73768246  0.39665836  0.02611968  1
+  F  F2  1  0.14481574  0.24087998  0.39533660  1
+  F  F3  1  0.86667013  0.17897722  0.75940794  1
+  F  F4  1  0.27495342  0.12750435  0.72688550  1
+  F  F5  1  0.63896316  0.92657179  0.37918475  1
+  F  F6  1  0.14043550  0.79897362  0.23171063  1
+  F  F7  1  0.87653404  0.68621761  0.73624468  1
+  F  F8  1  0.40044555  0.64608461  0.94303554  1
+  F  F9  1  0.63412338  0.38526234  0.42653430  1
+  La  La10  1  0.51046699  0.86264759  0.75855112  1
+  Ag  Ag11  1  0.14140481  0.47382128  0.76830620  1
+  Cd  Cd12  1  0.48175168  0.62593311  0.25346762  1
+  Ca  Ca13  1  0.99981135  0.95768851  0.50829989  1
+  F  F14  1  0.73477370  0.97471476  0.03002072  1
+  F  F15  1  0.14747229  0.29444343  0.04547270  1
+  Cu  Cu16  1  0.40656552  0.13795097  0.24891298  1
+  Be  Be17  1  0.87506217  0.20047760  0.97770178  1

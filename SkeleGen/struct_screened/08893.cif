@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Rb2LiTlGa2F10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60912037
+_cell_length_b   5.60912008
+_cell_length_c   10.07145405
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000449
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2LiTlGa2F10
+_chemical_formula_sum   'Rb2 Li1 Tl1 Ga2 F10'
+_cell_volume   274.41780444
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.37673202  1
+  F  F1  1  0.66666669  0.33333334  0.62326801  1
+  F  F2  1  0.33333334  0.66666669  0.93365324  1
+  F  F3  1  0.66666669  0.33333334  0.06634676  1
+  F  F4  1  0.16346540  0.83653462  0.16737552  1
+  F  F5  1  0.16346540  0.32693079  0.16737552  1
+  F  F6  1  0.67306924  0.83653462  0.16737552  1
+  F  F7  1  0.83653462  0.16346540  0.83262450  1
+  F  F8  1  0.32693079  0.16346540  0.83262450  1
+  F  F9  1  0.83653462  0.67306924  0.83262450  1
+  Li  Li10  1  0.00000000  0.00000000  0.00000000  1
+  Tl  Tl11  1  0.00000000  0.00000000  0.50000000  1
+  Rb  Rb12  1  0.33333334  0.66666669  0.65478873  1
+  Rb  Rb13  1  0.66666669  0.33333334  0.34521127  1
+  Ga  Ga14  1  0.33333334  0.66666669  0.11553793  1
+  Ga  Ga15  1  0.66666669  0.33333334  0.88446206  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_FeXeF10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.50997059
+_cell_length_b   4.31563098
+_cell_length_c   8.86825085
+_cell_angle_alpha   80.63678932
+_cell_angle_beta   93.58311994
+_cell_angle_gamma   84.13446541
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeXeF10
+_chemical_formula_sum   'Fe1 Xe1 F10'
+_cell_volume   168.86336626
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.01605169  0.43754786  0.32823467  1
+  F  F1  1  0.50303102  0.90549004  0.67484605  1
+  F  F2  1  0.49426243  0.43862939  0.50766468  1
+  F  F3  1  0.98170042  0.92549014  0.48644325  1
+  F  F4  1  0.99512953  0.89917493  0.17001273  1
+  F  F5  1  0.46749678  0.43731928  0.19606374  1
+  F  F6  1  0.50220251  0.42843667  0.83599079  1
+  F  F7  1  0.01920218  0.92554486  0.82943195  1
+  Fe  Fe8  1  0.27520713  0.68210733  0.32893267  1
+  F  F9  1  0.50361210  0.90497857  0.02849223  1
+  Xe  Xe10  1  0.99501753  0.42883772  0.63749236  1
+  F  F11  1  0.99690998  0.41863173  0.00923488  1

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Mn(Bi2Cl5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.54419899
+_cell_length_b   4.54419899
+_cell_length_c   18.85503578
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   90.00000433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn(Bi2Cl5)2
+_chemical_formula_sum   'Mn1 Bi4 Cl10'
+_cell_volume   389.35167067
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.00000000  0.50000000  0.37261638  1
+  Cl  Cl1  1  0.50000000  0.00000000  0.62738359  1
+  Cl  Cl2  1  0.50000000  0.50000000  0.50000000  1
+  Cl  Cl3  1  0.00000000  0.00000000  0.50000000  1
+  Cl  Cl4  1  0.00000000  0.00000000  0.22525498  1
+  Cl  Cl5  1  0.00000000  0.00000000  0.77474499  1
+  Cl  Cl6  1  0.50000000  0.50000000  0.22341035  1
+  Cl  Cl7  1  0.50000000  0.50000000  0.77658963  1
+  Mn  Mn8  1  0.00000000  0.00000000  0.00000000  1
+  Bi  Bi9  1  0.00000000  0.50000000  0.62460011  1
+  Bi  Bi10  1  0.50000000  0.00000000  0.37539989  1
+  Bi  Bi11  1  0.00000000  0.50000000  0.87831932  1
+  Bi  Bi12  1  0.50000000  0.00000000  0.12168068  1
+  Cl  Cl13  1  0.00000000  0.50000000  0.04938447  1
+  Cl  Cl14  1  0.50000000  0.00000000  0.95061553  1

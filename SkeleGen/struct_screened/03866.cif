@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Rb2GaBiCl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.40241528
+_cell_length_b   7.40241522
+_cell_length_c   12.52468872
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000450
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2GaBiCl4
+_chemical_formula_sum   'Rb4 Ga2 Bi2 Cl8'
+_cell_volume   594.35297461
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.63803709  0.66279167  0.25303307  1
+  Cl  Cl1  1  0.33720833  0.97524542  0.25303307  1
+  Cl  Cl2  1  0.02475458  0.36196291  0.25303307  1
+  Cl  Cl3  1  0.36196291  0.33720833  0.75303304  1
+  Cl  Cl4  1  0.66279167  0.02475458  0.75303304  1
+  Cl  Cl5  1  0.97524542  0.63803709  0.75303304  1
+  Cl  Cl6  1  0.33333334  0.66666669  0.01819781  1
+  Cl  Cl7  1  0.66666669  0.33333334  0.51819783  1
+  Rb  Rb8  1  0.00000000  0.00000000  0.56389886  1
+  Rb  Rb9  1  0.00000000  0.00000000  0.06389880  1
+  Ga  Ga10  1  0.33333334  0.66666669  0.19712514  1
+  Ga  Ga11  1  0.66666669  0.33333334  0.69712514  1
+  Rb  Rb12  1  0.33333334  0.66666669  0.48860928  1
+  Rb  Rb13  1  0.66666669  0.33333334  0.98860931  1
+  Bi  Bi14  1  0.33333334  0.66666669  0.81547838  1
+  Bi  Bi15  1  0.66666669  0.33333334  0.31547832  1

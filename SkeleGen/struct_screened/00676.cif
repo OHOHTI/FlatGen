@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Na2Li2HfMnFeF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.45993308
+_cell_length_b   5.46847554
+_cell_length_c   7.68493080
+_cell_angle_alpha   88.09974144
+_cell_angle_beta   94.53279615
+_cell_angle_gamma   88.69348900
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Li2HfMnFeF12
+_chemical_formula_sum   'Na2 Li2 Hf1 Mn1 Fe1 F12'
+_cell_volume   228.53501580
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.07083742  0.64944464  0.47703511  1
+  F  F1  1  0.51797128  0.31349382  0.49009815  1
+  F  F2  1  0.33446941  0.56344938  0.78815222  1
+  F  F3  1  0.83524567  0.45588869  0.22474572  1
+  F  F4  1  0.16787745  0.08962603  0.67443877  1
+  F  F5  1  0.75856334  0.98397738  0.30217379  1
+  F  F6  1  0.47524562  0.11816531  0.98346013  1
+  F  F7  1  0.90106255  0.76623279  0.98814899  1
+  F  F8  1  0.21655767  0.04843797  0.30174971  1
+  F  F9  1  0.70121968  0.96331161  0.68595552  1
+  F  F10  1  0.31478280  0.58734852  0.15865767  1
+  F  F11  1  0.81857067  0.44881186  0.72758204  1
+  Na  Na12  1  0.04024209  0.27850163  0.99065393  1
+  Li  Li13  1  0.97578084  0.27006859  0.46901390  1
+  Fe  Fe14  1  0.52365762  0.25705984  0.74755526  1
+  Li  Li15  1  0.52156717  0.27391419  0.23723005  1
+  Mn  Mn16  1  0.03314657  0.76748323  0.74668109  1
+  Hf  Hf17  1  0.02616342  0.76655358  0.23776670  1
+  Na  Na18  1  0.51362747  0.75516766  0.48482192  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_SrSmCuAgF9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27286243
+_cell_length_b   5.27286226
+_cell_length_c   8.24934959
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000411
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrSmCuAgF9
+_chemical_formula_sum   'Sr1 Sm1 Cu1 Ag1 F9'
+_cell_volume   198.62924408
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.05272251  1
+  F  F1  1  0.66666669  0.33333334  0.96667928  1
+  F  F2  1  0.37070188  0.99721742  0.65520781  1
+  F  F3  1  0.00278258  0.37348449  0.65520781  1
+  F  F4  1  0.62651551  0.62929809  0.65520781  1
+  F  F5  1  0.57117790  0.02290253  0.35911840  1
+  F  F6  1  0.97709745  0.54827535  0.35911840  1
+  F  F7  1  0.45172465  0.42882210  0.35911840  1
+  F  F8  1  0.00000000  0.00000000  0.84166074  1
+  Sr  Sr9  1  0.00000000  0.00000000  0.15455426  1
+  Ag  Ag10  1  0.00000000  0.00000000  0.56048232  1
+  Sm  Sm11  1  0.33333334  0.66666669  0.79793501  1
+  Cu  Cu12  1  0.66666669  0.33333334  0.48257303  1

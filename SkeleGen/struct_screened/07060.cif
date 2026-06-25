@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CoAg2PbF10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55962753
+_cell_length_b   5.55962735
+_cell_length_c   7.69882011
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000394
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoAg2PbF10
+_chemical_formula_sum   'Co1 Ag2 Pb1 F10'
+_cell_volume   206.08489738
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.56060070  1
+  F  F1  1  0.66666669  0.33333334  0.06314576  1
+  F  F2  1  0.12237122  0.33778113  0.27587688  1
+  F  F3  1  0.66221887  0.78459013  0.27587688  1
+  F  F4  1  0.21540990  0.87762880  0.27587688  1
+  F  F5  1  0.78871244  0.12123778  0.79178476  1
+  F  F6  1  0.87876225  0.66747469  0.79178476  1
+  F  F7  1  0.33252531  0.21128756  0.79178476  1
+  F  F8  1  0.33333334  0.66666669  0.93273306  1
+  F  F9  1  0.66666669  0.33333334  0.56888819  1
+  Pb  Pb10  1  0.00000000  0.00000000  0.04242475  1
+  Ag  Ag11  1  0.00000000  0.00000000  0.50762564  1
+  Co  Co12  1  0.66666669  0.33333334  0.83344859  1
+  Ag  Ag13  1  0.66666669  0.33333334  0.32113788  1

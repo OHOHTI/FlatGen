@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_KVCo2AgHPbOF10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32844639
+_cell_length_b   5.32844627
+_cell_length_c   11.71879959
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000368
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KVCo2AgHPbOF10
+_chemical_formula_sum   'K1 V1 Co2 Ag1 H1 Pb1 O1 F10'
+_cell_volume   288.14755210
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.58633256  1
+  F  F1  1  0.66666669  0.33333334  0.08298774  1
+  F  F2  1  0.26915923  0.32258016  0.25341290  1
+  F  F3  1  0.67741984  0.94657910  0.25341290  1
+  F  F4  1  0.05342093  0.73084080  0.25341290  1
+  F  F5  1  0.85116976  0.18753591  0.75145906  1
+  F  F6  1  0.81246412  0.66363382  0.75145906  1
+  F  F7  1  0.33636618  0.14883024  0.75145906  1
+  F  F8  1  0.33333334  0.66666669  0.85820711  1
+  F  F9  1  0.66666669  0.33333334  0.51739722  1
+  Co  Co10  1  0.00000000  0.00000000  0.84112042  1
+  K  K11  1  0.00000000  0.00000000  0.50037408  1
+  V  V12  1  0.00000000  0.00000000  0.15903658  1
+  O  O13  1  0.00000000  0.00000000  0.00267172  1
+  Pb  Pb14  1  0.66666669  0.33333334  0.26048163  1
+  Co  Co15  1  0.66666669  0.33333334  0.66536760  1
+  H  H16  1  0.66666669  0.33333334  0.40213570  1
+  Ag  Ag17  1  0.66666669  0.33333334  0.91738218  1

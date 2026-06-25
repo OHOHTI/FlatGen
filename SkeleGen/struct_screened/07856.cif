@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_NaLiTaTlFePOF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.71911526
+_cell_length_b   5.71911486
+_cell_length_c   8.93286514
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000506
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLiTaTlFePOF12
+_chemical_formula_sum   'Na1 Li1 Ta1 Tl1 Fe1 P1 O1 F12'
+_cell_volume   253.03410132
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.87333357  0.23929699  0.53021014  1
+  F  F1  1  0.76070303  0.63403660  0.53021014  1
+  F  F2  1  0.36596340  0.12666643  0.53021014  1
+  F  F3  1  0.00474849  0.63491142  0.76762784  1
+  F  F4  1  0.36508858  0.36983711  0.76762784  1
+  F  F5  1  0.63016289  0.99525148  0.76762784  1
+  F  F6  1  0.95286238  0.55752099  0.24520892  1
+  F  F7  1  0.44247901  0.39534140  0.24520892  1
+  F  F8  1  0.60465860  0.04713762  0.24520892  1
+  Tl  Tl9  1  0.00000000  0.00000000  0.34836707  1
+  Li  Li10  1  0.33333334  0.66666669  0.88195395  1
+  Na  Na11  1  0.33333334  0.66666669  0.14389618  1
+  P  P12  1  0.33333334  0.66666669  0.61873734  1
+  O  O13  1  0.33333334  0.66666669  0.46959084  1
+  Ta  Ta14  1  0.66666669  0.33333334  0.85836387  1
+  Fe  Fe15  1  0.66666669  0.33333334  0.39136553  1
+  F  F16  1  0.97638339  0.32998714  0.97469813  1
+  F  F17  1  0.67001283  0.64639628  0.97469813  1
+  F  F18  1  0.35360372  0.02361661  0.97469813  1

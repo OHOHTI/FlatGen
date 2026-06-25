@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_TiV(CoO2)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.89709282
+_cell_length_b   4.89709258
+_cell_length_c   9.35224628
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000482
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiV(CoO2)6
+_chemical_formula_sum   'Ti1 V1 Co6 O12'
+_cell_volume   194.23307960
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.00000000  0.00000000  0.85472482  1
+  Co  Co1  1  0.66666669  0.33333334  0.61768204  1
+  Co  Co2  1  0.33333334  0.66666669  0.36086047  1
+  Co  Co3  1  0.00000000  0.00000000  0.36446998  1
+  Co  Co4  1  0.33333334  0.66666669  0.85286695  1
+  V  V5  1  0.33333334  0.66666669  0.60837495  1
+  Ti  Ti6  1  0.33333334  0.66666669  0.10833457  1
+  Co  Co7  1  0.66666669  0.33333334  0.11063025  1
+  O  O8  1  0.63973868  0.66170287  0.97266501  1
+  O  O9  1  0.33829713  0.97803581  0.97266501  1
+  O  O10  1  0.02196419  0.36026132  0.97266501  1
+  O  O11  1  0.66161877  0.99065644  0.72506082  1
+  O  O12  1  0.00934356  0.67096233  0.72506082  1
+  O  O13  1  0.32903767  0.33838123  0.72506082  1
+  O  O14  1  0.66066915  0.99307984  0.21987550  1
+  O  O15  1  0.00692016  0.66758931  0.21987550  1
+  O  O16  1  0.33241069  0.33933085  0.21987550  1
+  O  O17  1  0.33598512  0.98274511  0.47838899  1
+  O  O18  1  0.01725489  0.35324001  0.47838899  1
+  O  O19  1  0.64675999  0.66401488  0.47838899  1

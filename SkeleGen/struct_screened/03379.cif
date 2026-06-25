@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_RbBaNaCuAgI9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.89955807
+_cell_length_b   7.89955792
+_cell_length_c   11.10901260
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000462
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbBaNaCuAgI9
+_chemical_formula_sum   'Rb1 Ba1 Na1 Cu1 Ag1 I9'
+_cell_volume   600.35986937
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.64873666  0.67469496  0.29158923  1
+  I  I1  1  0.32530504  0.97404170  0.29158923  1
+  I  I2  1  0.02595830  0.35126334  0.29158923  1
+  I  I3  1  0.64498645  0.98947597  0.79312176  1
+  I  I4  1  0.01052403  0.65551049  0.79312176  1
+  I  I5  1  0.34448951  0.35501355  0.79312176  1
+  I  I6  1  0.33333334  0.66666669  0.04823916  1
+  I  I7  1  0.66666669  0.33333334  0.55662435  1
+  I  I8  1  0.00000000  0.00000000  0.56083053  1
+  Na  Na9  1  0.00000000  0.00000000  0.93662840  1
+  Ag  Ag10  1  0.33333334  0.66666669  0.82604843  1
+  Cu  Cu11  1  0.33333334  0.66666669  0.25029016  1
+  Ba  Ba12  1  0.33333334  0.66666669  0.54368424  1
+  Rb  Rb13  1  0.66666669  0.33333334  0.04114103  1

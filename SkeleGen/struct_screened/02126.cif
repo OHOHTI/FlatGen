@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_TiCuO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.34485674
+_cell_length_b   5.34485651
+_cell_length_c   8.14441681
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000434
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiCuO5
+_chemical_formula_sum   'Ti2 Cu2 O10'
+_cell_volume   201.49428104
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.33333334  0.66666669  0.48544544  1
+  O  O1  1  0.66666669  0.33333334  0.51455456  1
+  O  O2  1  0.64503294  0.62728757  0.75189060  1
+  O  O3  1  0.37271243  0.01774538  0.75189060  1
+  O  O4  1  0.98225462  0.35496706  0.75189060  1
+  O  O5  1  0.35496706  0.37271243  0.24810940  1
+  O  O6  1  0.62728757  0.98225462  0.24810940  1
+  O  O7  1  0.01774538  0.64503294  0.24810940  1
+  O  O8  1  0.33333334  0.66666669  0.97139108  1
+  O  O9  1  0.66666669  0.33333334  0.02860892  1
+  Ti  Ti10  1  0.33333334  0.66666669  0.17952423  1
+  Ti  Ti11  1  0.66666669  0.33333334  0.82047576  1
+  Cu  Cu12  1  0.33333334  0.66666669  0.70857340  1
+  Cu  Cu13  1  0.66666669  0.33333334  0.29142660  1

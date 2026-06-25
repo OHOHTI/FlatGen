@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_CsCuXeCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.83974524
+_cell_length_b   7.05067676
+_cell_length_c   8.36422348
+_cell_angle_alpha   78.89849914
+_cell_angle_beta   95.82353110
+_cell_angle_gamma   93.70925825
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsCuXeCl8
+_chemical_formula_sum   'Cs1 Cu1 Xe1 Cl8'
+_cell_volume   335.84152140
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.78022528  0.21041515  0.49087662  1
+  Cl  Cl1  1  0.21977472  0.78958488  0.50912338  1
+  Cl  Cl2  1  0.53836668  0.95273316  0.75911474  1
+  Cl  Cl3  1  0.46163332  0.04726684  0.24088526  1
+  Cl  Cl4  1  0.43123716  0.34992555  0.86873919  1
+  Cl  Cl5  1  0.56876284  0.65007448  0.13126081  1
+  Cl  Cl6  1  0.93227053  0.58384967  0.75056642  1
+  Cl  Cl7  1  0.06772947  0.41615033  0.24943358  1
+  Cs  Cs8  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu9  1  0.50000000  0.00000000  0.50000000  1
+  Xe  Xe10  1  0.00000000  0.50000000  0.50000000  1

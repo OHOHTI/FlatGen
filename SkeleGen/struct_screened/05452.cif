@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsTlVCdBr8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.30890512
+_cell_length_b   7.30890503
+_cell_length_c   10.20763874
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000473
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsTlVCdBr8
+_chemical_formula_sum   'Cs1 Tl1 V1 Cd1 Br8'
+_cell_volume   472.23758147
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.71468180  0.68089497  0.22332096  1
+  Br  Br1  1  0.31910503  0.03378683  0.22332096  1
+  Br  Br2  1  0.96621317  0.28531820  0.22332096  1
+  Br  Br3  1  0.63668209  0.96251476  0.71541876  1
+  Br  Br4  1  0.03748524  0.67416734  0.71541876  1
+  Br  Br5  1  0.32583266  0.36331791  0.71541876  1
+  Br  Br6  1  0.33333334  0.66666669  0.00998022  1
+  Br  Br7  1  0.66666669  0.33333334  0.48636341  1
+  Tl  Tl8  1  0.00000000  0.00000000  0.94705296  1
+  Cd  Cd9  1  0.00000000  0.00000000  0.58548075  1
+  V  V10  1  0.33333334  0.66666669  0.80471927  1
+  Cs  Cs11  1  0.33333334  0.66666669  0.40257531  1

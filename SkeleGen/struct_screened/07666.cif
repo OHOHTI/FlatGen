@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_NaScUTlFeCl12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.96786880
+_cell_length_b   7.96786863
+_cell_length_c   9.22784519
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000469
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaScUTlFeCl12
+_chemical_formula_sum   'Na1 Sc1 U1 Tl1 Fe1 Cl12'
+_cell_volume   507.35886230
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.88287604  0.25637797  0.62099087  1
+  Cl  Cl1  1  0.74362206  0.62649810  0.62099087  1
+  Cl  Cl2  1  0.37350190  0.11712396  0.62099087  1
+  Cl  Cl3  1  0.15077212  0.72761548  0.68568784  1
+  Cl  Cl4  1  0.27238452  0.42315662  0.68568784  1
+  Cl  Cl5  1  0.57684338  0.84922791  0.68568784  1
+  Cl  Cl6  1  0.31968829  0.35973424  0.29889446  1
+  Cl  Cl7  1  0.64026576  0.95995402  0.29889446  1
+  Cl  Cl8  1  0.04004595  0.68031168  0.29889446  1
+  Na  Na9  1  0.00000000  0.00000000  0.48322433  1
+  Tl  Tl10  1  0.00000000  0.00000000  0.93910110  1
+  Sc  Sc11  1  0.33333334  0.66666669  0.47572130  1
+  Fe  Fe12  1  0.33333334  0.66666669  0.84425688  1
+  U  U13  1  0.33333334  0.66666669  0.15912963  1
+  Cl  Cl14  1  0.03057209  0.42137983  0.99837351  1
+  Cl  Cl15  1  0.57862020  0.60919225  0.99837351  1
+  Cl  Cl16  1  0.39080775  0.96942788  0.99837351  1

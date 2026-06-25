@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_TlCrSbPbF13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.38308048
+_cell_length_b   6.38308022
+_cell_length_c   7.63376474
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000628
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlCrSbPbF13
+_chemical_formula_sum   'Tl1 Cr1 Sb1 Pb1 F13'
+_cell_volume   269.35807470
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.80114841  0.20952645  0.55296582  1
+  F  F1  1  0.79047358  0.59162199  0.55296582  1
+  F  F2  1  0.40837801  0.19885159  0.55296582  1
+  F  F3  1  0.04606977  0.59247547  0.79053473  1
+  F  F4  1  0.40752453  0.45359433  0.79053473  1
+  F  F5  1  0.54640567  0.95393026  0.79053473  1
+  F  F6  1  0.20561977  0.29547673  0.25171840  1
+  F  F7  1  0.70452327  0.91014302  0.25171840  1
+  F  F8  1  0.08985697  0.79438025  0.25171840  1
+  Tl  Tl9  1  0.00000000  0.00000000  0.56414151  1
+  F  F10  1  0.00000000  0.00000000  0.91138649  1
+  Cr  Cr11  1  0.00000000  0.00000000  0.13899419  1
+  Pb  Pb12  1  0.66666669  0.33333334  0.30084810  1
+  Sb  Sb13  1  0.66666669  0.33333334  0.78835428  1
+  F  F14  1  0.91674733  0.37733039  0.03729522  1
+  F  F15  1  0.62266958  0.53941691  0.03729522  1
+  F  F16  1  0.46058309  0.08325267  0.03729522  1

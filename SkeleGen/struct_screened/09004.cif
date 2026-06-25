@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NbBiTe5O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.86633587
+_cell_length_b   6.86633557
+_cell_length_c   12.55389595
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000605
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbBiTe5O3
+_chemical_formula_sum   'Nb2 Bi2 Te10 O6'
+_cell_volume   512.57709738
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.33333334  0.66666669  0.57304490  1
+  Te  Te1  1  0.66666669  0.33333334  0.07304490  1
+  Te  Te2  1  0.33333334  0.66666669  0.91992831  1
+  Te  Te3  1  0.66666669  0.33333334  0.41992831  1
+  Te  Te4  1  0.68974417  0.65602624  0.76423979  1
+  Te  Te5  1  0.34397376  0.03371793  0.76423979  1
+  Te  Te6  1  0.96628207  0.31025583  0.76423979  1
+  Te  Te7  1  0.65602624  0.68974417  0.26423979  1
+  Te  Te8  1  0.03371793  0.34397376  0.26423979  1
+  Te  Te9  1  0.31025583  0.96628207  0.26423979  1
+  Nb  Nb10  1  0.00000000  0.00000000  0.14566061  1
+  Nb  Nb11  1  0.00000000  0.00000000  0.64566064  1
+  Bi  Bi12  1  0.00000000  0.00000000  0.93469781  1
+  Bi  Bi13  1  0.00000000  0.00000000  0.43469787  1
+  O  O14  1  0.02520210  0.76101011  0.05269206  1
+  O  O15  1  0.23898989  0.26419199  0.05269206  1
+  O  O16  1  0.73580801  0.97479790  0.05269206  1
+  O  O17  1  0.76101011  0.02520210  0.55269206  1
+  O  O18  1  0.26419199  0.23898989  0.55269206  1
+  O  O19  1  0.97479790  0.73580801  0.55269206  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_UHg4GeSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.21517324
+_cell_length_b   7.21517299
+_cell_length_c   9.76036739
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000552
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UHg4GeSe3
+_chemical_formula_sum   'U2 Hg8 Ge2 Se6'
+_cell_volume   440.03810406
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.66135091  0.67345047  0.18117370  1
+  Hg  Hg1  1  0.32654953  0.98790044  0.18117370  1
+  Hg  Hg2  1  0.01209956  0.33864909  0.18117370  1
+  Hg  Hg3  1  0.33864909  0.32654953  0.68117368  1
+  Hg  Hg4  1  0.67345047  0.01209956  0.68117368  1
+  Hg  Hg5  1  0.98790044  0.66135091  0.68117368  1
+  Hg  Hg6  1  0.33333334  0.66666669  0.86761600  1
+  Hg  Hg7  1  0.66666669  0.33333334  0.36761594  1
+  U  U8  1  0.00000000  0.00000000  0.87218285  1
+  U  U9  1  0.00000000  0.00000000  0.37218285  1
+  Ge  Ge10  1  0.33333334  0.66666669  0.36110687  1
+  Ge  Ge11  1  0.66666669  0.33333334  0.86110687  1
+  Se  Se12  1  0.33833179  0.98208821  0.52082050  1
+  Se  Se13  1  0.01791179  0.35624361  0.52082050  1
+  Se  Se14  1  0.64375639  0.66166818  0.52082050  1
+  Se  Se15  1  0.66166818  0.01791179  0.02082050  1
+  Se  Se16  1  0.98208821  0.64375639  0.02082050  1
+  Se  Se17  1  0.35624361  0.33833179  0.02082050  1

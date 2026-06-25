@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_MnGaIrO2F15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.02739239
+_cell_length_b   6.02739238
+_cell_length_c   9.30882835
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999216
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnGaIrO2F15
+_chemical_formula_sum   'Mn1 Ga1 Ir1 O2 F15'
+_cell_volume   292.87656257
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.18100464  0.22788906  0.85663384  1
+  F  F1  1  0.77211094  0.95311558  0.85663384  1
+  F  F2  1  0.04688442  0.81899536  0.85663384  1
+  F  F3  1  0.91095251  0.71652931  0.10786481  1
+  F  F4  1  0.28347069  0.19442320  0.10786481  1
+  F  F5  1  0.80557680  0.08904749  0.10786481  1
+  F  F6  1  0.38383940  0.43450683  0.35803327  1
+  F  F7  1  0.56549317  0.94933259  0.35803327  1
+  F  F8  1  0.05066743  0.61616063  0.35803327  1
+  F  F9  1  0.33333334  0.66666669  0.81566149  1
+  F  F10  1  0.66666669  0.33333334  0.25129506  1
+  F  F11  1  0.33768037  0.16270834  0.63274992  1
+  F  F12  1  0.83729166  0.17497203  0.63274992  1
+  F  F13  1  0.82502794  0.66231966  0.63274992  1
+  Ga  Ga14  1  0.00000000  0.00000000  0.66596591  1
+  Ir  Ir15  1  0.00000000  0.00000000  0.03025278  1
+  O  O16  1  0.00000000  0.00000000  0.45999375  1
+  O  O17  1  0.33333334  0.66666669  0.55788457  1
+  Mn  Mn18  1  0.33333334  0.66666669  0.39054596  1
+  F  F19  1  0.33333334  0.66666669  0.06830085  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CsLiAgP(HCl3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.39545441
+_cell_length_b   8.39545408
+_cell_length_c   6.61625099
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000506
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsLiAgP(HCl3)3
+_chemical_formula_sum   'Cs1 Li1 Ag1 P1 H3 Cl9'
+_cell_volume   403.86012882
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.80852360  0.21750027  0.57302982  1
+  Cl  Cl1  1  0.78249973  0.59102333  0.57302982  1
+  Cl  Cl2  1  0.40897667  0.19147640  0.57302982  1
+  Cl  Cl3  1  0.20100863  0.77342594  0.55831075  1
+  Cl  Cl4  1  0.22657406  0.42758268  0.55831075  1
+  Cl  Cl5  1  0.57241732  0.79899138  0.55831075  1
+  Cl  Cl6  1  0.43107143  0.36828360  0.12914361  1
+  Cl  Cl7  1  0.63171637  0.06278783  0.12914361  1
+  Cl  Cl8  1  0.93721217  0.56892860  0.12914361  1
+  Cs  Cs9  1  0.00000000  0.00000000  0.93411541  1
+  Li  Li10  1  0.33333334  0.66666669  0.31759393  1
+  P  P11  1  0.33333334  0.66666669  0.75051051  1
+  Ag  Ag12  1  0.66666669  0.33333334  0.34826636  1
+  H  H13  1  0.40299159  0.91630524  0.84605426  1
+  H  H14  1  0.08369476  0.48668635  0.84605426  1
+  H  H15  1  0.51331365  0.59700841  0.84605426  1

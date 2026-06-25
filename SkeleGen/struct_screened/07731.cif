@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_KCrAgCI9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.06619358
+_cell_length_b   8.06619333
+_cell_length_c   11.08942509
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000492
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCrAgCI9
+_chemical_formula_sum   'K1 Cr1 Ag1 C1 I9'
+_cell_volume   624.85163302
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.33333334  0.66666669  0.96840501  1
+  I  I1  1  0.66666669  0.33333334  0.92335916  1
+  I  I2  1  0.51019311  0.48980689  0.60573983  1
+  I  I3  1  0.51019311  0.02038622  0.60573983  1
+  I  I4  1  0.97961378  0.48980689  0.60573983  1
+  I  I5  1  0.48475102  0.51524901  0.25218213  1
+  I  I6  1  0.48475102  0.96950203  0.25218213  1
+  I  I7  1  0.03049797  0.51524901  0.25218213  1
+  I  I8  1  0.00000000  0.00000000  0.26536280  1
+  K  K9  1  0.00000000  0.00000000  0.58439219  1
+  C  C10  1  0.33333334  0.66666669  0.16738717  1
+  Cr  Cr11  1  0.66666669  0.33333334  0.70772672  1
+  Ag  Ag12  1  0.66666669  0.33333334  0.42753917  1

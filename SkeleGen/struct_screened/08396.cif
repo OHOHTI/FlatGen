@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Eu9Fe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.85820436
+_cell_length_b   7.85820424
+_cell_length_c   14.71936035
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000455
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu9Fe
+_chemical_formula_sum   'Eu18 Fe2'
+_cell_volume   787.16573400
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.98916602  0.69146442  0.54693526  1
+  Eu  Eu1  1  0.30853558  0.29770160  0.54693526  1
+  Eu  Eu2  1  0.70229840  0.01083398  0.54693526  1
+  Eu  Eu3  1  0.30853558  0.01083398  0.04693532  1
+  Eu  Eu4  1  0.70229840  0.69146442  0.04693532  1
+  Eu  Eu5  1  0.98916602  0.29770160  0.04693532  1
+  Eu  Eu6  1  0.32686543  0.96778429  0.38257414  1
+  Eu  Eu7  1  0.03221571  0.35908115  0.38257414  1
+  Eu  Eu8  1  0.64091885  0.67313457  0.38257414  1
+  Eu  Eu9  1  0.03221571  0.67313457  0.88257414  1
+  Eu  Eu10  1  0.64091885  0.96778429  0.88257414  1
+  Eu  Eu11  1  0.32686543  0.35908115  0.88257414  1
+  Eu  Eu12  1  0.35031846  0.34687138  0.20966911  1
+  Eu  Eu13  1  0.65312862  0.00344709  0.20966911  1
+  Eu  Eu14  1  0.99655294  0.64968157  0.20966911  1
+  Eu  Eu15  1  0.65312862  0.64968157  0.70966911  1
+  Eu  Eu16  1  0.99655294  0.34687138  0.70966911  1
+  Eu  Eu17  1  0.35031846  0.00344709  0.70966911  1
+  Fe  Fe18  1  0.00000000  0.00000000  0.92636055  1
+  Fe  Fe19  1  0.00000000  0.00000000  0.42636061  1

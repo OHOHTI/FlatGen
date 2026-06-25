@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_BaLiTi2MnF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.53705788
+_cell_length_b   5.53705757
+_cell_length_c   8.71148872
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000466
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLiTi2MnF8
+_chemical_formula_sum   'Ba1 Li1 Ti2 Mn1 F8'
+_cell_volume   231.30290777
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.65424395  0.64356208  0.24580571  1
+  F  F1  1  0.35643792  0.01068187  0.24580571  1
+  F  F2  1  0.98931813  0.34575605  0.24580571  1
+  F  F3  1  0.67234474  0.03746548  0.74763852  1
+  F  F4  1  0.96253455  0.63487929  0.74763852  1
+  F  F5  1  0.36512071  0.32765526  0.74763852  1
+  F  F6  1  0.33333334  0.66666669  0.97428221  1
+  F  F7  1  0.66666669  0.33333334  0.50258690  1
+  Ba  Ba8  1  0.00000000  0.00000000  0.00294045  1
+  Mn  Mn9  1  0.33333334  0.66666669  0.45729041  1
+  Li  Li10  1  0.33333334  0.66666669  0.78951555  1
+  Ti  Ti11  1  0.66666669  0.33333334  0.70104277  1
+  Ti  Ti12  1  0.66666669  0.33333334  0.29287270  1

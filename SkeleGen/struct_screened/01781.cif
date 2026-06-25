@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_SrTbNb(Cl4O3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.28097486
+_cell_length_b   6.28097479
+_cell_length_c   11.28723240
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999286
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrTbNb(Cl4O3)2
+_chemical_formula_sum   'Sr1 Tb1 Nb1 Cl8 O6'
+_cell_volume   385.63126382
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.66835332  0.74243629  0.31806576  1
+  Cl  Cl1  1  0.25756371  0.92591703  0.31806576  1
+  Cl  Cl2  1  0.07408297  0.33164668  0.31806576  1
+  Cl  Cl3  1  0.64870143  0.97783005  0.68232274  1
+  Cl  Cl4  1  0.02216995  0.67087138  0.68232274  1
+  Cl  Cl5  1  0.32912862  0.35129857  0.68232274  1
+  Cl  Cl6  1  0.33333334  0.66666669  0.00723891  1
+  Cl  Cl7  1  0.66666669  0.33333334  0.47855958  1
+  Nb  Nb8  1  0.00000000  0.00000000  0.03291940  1
+  Sr  Sr9  1  0.00000000  0.00000000  0.52181739  1
+  Tb  Tb10  1  0.66666669  0.33333334  0.05028087  1
+  O  O11  1  0.92888975  0.68572170  0.13082600  1
+  O  O12  1  0.31427830  0.24316806  0.13082600  1
+  O  O13  1  0.75683194  0.07111025  0.13082600  1
+  O  O14  1  0.92092347  0.21132359  0.92807049  1
+  O  O15  1  0.78867638  0.70959985  0.92807049  1
+  O  O16  1  0.29040015  0.07907653  0.92807049  1

@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Ce5AlCuAgHgSe8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.58248892
+_cell_length_b   7.25065550
+_cell_length_c   7.63970041
+_cell_angle_alpha   91.26782221
+_cell_angle_beta   94.84276382
+_cell_angle_gamma   102.85698182
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce5AlCuAgHgSe8
+_chemical_formula_sum   'Ce5 Al1 Cu1 Ag1 Hg1 Se8'
+_cell_volume   407.66136257
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.00519875  0.00898367  0.99725622  1
+  Ce  Ce1  1  0.67592084  0.35282710  0.50717777  1
+  Ce  Ce2  1  0.38556510  0.68359172  0.25576842  1
+  Ce  Ce3  1  0.01972100  0.05540942  0.53363532  1
+  Ag  Ag4  1  0.77595860  0.63447022  0.16659804  1
+  Se  Se5  1  0.80942315  0.67037946  0.76034230  1
+  Se  Se6  1  0.65354764  0.90502459  0.40764338  1
+  Se  Se7  1  0.09472936  0.79818302  0.30214092  1
+  Hg  Hg8  1  0.35509038  0.15165101  0.24201331  1
+  Se  Se9  1  0.44055492  0.47341186  0.01216996  1
+  Se  Se10  1  0.93632382  0.30744228  0.26894578  1
+  Cu  Cu11  1  0.04321403  0.57977313  0.53946251  1
+  Se  Se12  1  0.38302699  0.15513757  0.62743962  1
+  Se  Se13  1  0.60749531  0.00553550  0.99835664  1
+  Se  Se14  1  0.04086084  0.29524910  0.78197545  1
+  Al  Al15  1  0.74223953  0.36012217  0.91950196  1
+  Ce  Ce16  1  0.42737126  0.75317472  0.75014508  1

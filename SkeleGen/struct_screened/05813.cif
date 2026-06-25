@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_CsMnBeCuSnCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.45693016
+_cell_length_b   6.45692998
+_cell_length_c   10.56604767
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000582
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsMnBeCuSnCl8
+_chemical_formula_sum   'Cs1 Mn1 Be1 Cu1 Sn1 Cl8'
+_cell_volume   381.50069861
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.68400574  0.64319074  0.19509818  1
+  Cl  Cl1  1  0.35680926  0.04081500  0.19509818  1
+  Cl  Cl2  1  0.95918500  0.31599426  0.19509818  1
+  Cl  Cl3  1  0.69038826  0.03932397  0.69943118  1
+  Cl  Cl4  1  0.96067601  0.65106428  0.69943118  1
+  Cl  Cl5  1  0.34893572  0.30961174  0.69943118  1
+  Cl  Cl6  1  0.33333334  0.66666669  0.99027562  1
+  Cl  Cl7  1  0.66666669  0.33333334  0.46164170  1
+  Cu  Cu8  1  0.00000000  0.00000000  0.57133019  1
+  Cs  Cs9  1  0.00000000  0.00000000  0.92838824  1
+  Sn  Sn10  1  0.33333334  0.66666669  0.40287322  1
+  Mn  Mn11  1  0.66666669  0.33333334  0.10527476  1
+  Be  Be12  1  0.66666669  0.33333334  0.74311781  1

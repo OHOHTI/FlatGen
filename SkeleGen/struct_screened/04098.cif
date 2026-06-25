@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Rb2MgUBr8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.10441208
+_cell_length_b   7.10441182
+_cell_length_c   10.57141399
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000565
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2MgUBr8
+_chemical_formula_sum   'Rb2 Mg1 U1 Br8'
+_cell_volume   462.08296684
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.66666669  0.33333334  0.52904552  1
+  Br  Br1  1  0.33333334  0.66666669  0.51237768  1
+  Br  Br2  1  0.64952588  0.02906124  0.87316835  1
+  Br  Br3  1  0.97093874  0.62046462  0.87316835  1
+  Br  Br4  1  0.37953538  0.35047412  0.87316835  1
+  Br  Br5  1  0.35066789  0.00635173  0.17927469  1
+  Br  Br6  1  0.99364829  0.34431615  0.17927469  1
+  Br  Br7  1  0.65568388  0.64933211  0.17927469  1
+  Rb  Rb8  1  0.00000000  0.00000000  0.69583714  1
+  Rb  Rb9  1  0.00000000  0.00000000  0.36247340  1
+  Mg  Mg10  1  0.33333334  0.66666669  0.24358499  1
+  U  U11  1  0.66666669  0.33333334  0.02912816  1

@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_KMgMnPW(BrCl6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.17668915
+_cell_length_b   8.17668918
+_cell_length_c   9.46373367
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999217
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KMgMnPW(BrCl6)2
+_chemical_formula_sum   'K1 Mg1 Mn1 P1 W1 Br2 Cl12'
+_cell_volume   547.95911110
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.82911098  0.22041018  0.57761830  1
+  Cl  Cl1  1  0.77958983  0.60870081  0.57761830  1
+  Cl  Cl2  1  0.39129919  0.17088902  0.57761830  1
+  Cl  Cl3  1  0.17997864  0.75377995  0.63919324  1
+  Cl  Cl4  1  0.24622005  0.42619872  0.63919324  1
+  Cl  Cl5  1  0.57380128  0.82002139  0.63919324  1
+  Cl  Cl6  1  0.23657303  0.24622393  0.09059092  1
+  Cl  Cl7  1  0.75377607  0.99034911  0.09059092  1
+  Cl  Cl8  1  0.00965090  0.76342696  0.09059092  1
+  K  K9  1  0.00000000  0.00000000  0.82066649  1
+  Br  Br10  1  0.33333334  0.66666669  0.99739850  1
+  Mg  Mg11  1  0.33333334  0.66666669  0.40981707  1
+  P  P12  1  0.33333334  0.66666669  0.72605777  1
+  Br  Br13  1  0.66666669  0.33333334  0.95247036  1
+  W  W14  1  0.66666669  0.33333334  0.44953227  1
+  Mn  Mn15  1  0.66666669  0.33333334  0.71771854  1
+  Cl  Cl16  1  0.98744917  0.43814898  0.32858050  1
+  Cl  Cl17  1  0.56185102  0.54930019  0.32858050  1
+  Cl  Cl18  1  0.45069981  0.01255083  0.32858050  1

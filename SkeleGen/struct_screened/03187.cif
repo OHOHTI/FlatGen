@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_LiNbAlTlCoCl14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.22671604
+_cell_length_b   7.22671595
+_cell_length_c   11.98782921
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999167
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiNbAlTlCoCl14
+_chemical_formula_sum   'Li1 Nb1 Al1 Tl1 Co1 Cl14'
+_cell_volume   542.19210629
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.66666669  0.33333334  0.48205361  1
+  Cl  Cl1  1  0.33333334  0.66666669  0.36219373  1
+  Cl  Cl2  1  0.42823857  0.97296113  0.72536892  1
+  Cl  Cl3  1  0.02703887  0.45527744  0.72536892  1
+  Cl  Cl4  1  0.54472256  0.57176143  0.72536892  1
+  Cl  Cl5  1  0.36888063  0.03595274  0.21771871  1
+  Cl  Cl6  1  0.96404725  0.33292788  0.21771871  1
+  Cl  Cl7  1  0.66707212  0.63111937  0.21771871  1
+  Nb  Nb8  1  0.00000000  0.00000000  0.32007831  1
+  Co  Co9  1  0.33333334  0.66666669  0.83671069  1
+  Al  Al10  1  0.66666669  0.33333334  0.30515948  1
+  Tl  Tl11  1  0.66666669  0.33333334  0.02218795  1
+  Li  Li12  1  0.66666669  0.33333334  0.70690501  1
+  Cl  Cl13  1  0.65134197  0.90978771  0.93796396  1
+  Cl  Cl14  1  0.09021229  0.74155426  0.93796396  1
+  Cl  Cl15  1  0.25844574  0.34865803  0.93796396  1
+  Cl  Cl16  1  0.74804664  0.98321849  0.45224085  1
+  Cl  Cl17  1  0.01678151  0.76482815  0.45224085  1
+  Cl  Cl18  1  0.23517185  0.25195336  0.45224085  1

@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_TaNbAgSCl15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.98194218
+_cell_length_b   10.98194175
+_cell_length_c   4.81629562
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000415
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaNbAgSCl15
+_chemical_formula_sum   'Ta1 Nb1 Ag1 S1 Cl15'
+_cell_volume   503.03944194
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.17854165  0.44710416  0.73374367  1
+  Cl  Cl1  1  0.55289584  0.73143750  0.73374367  1
+  Cl  Cl2  1  0.26856250  0.82145834  0.73374367  1
+  Cl  Cl3  1  0.90437883  0.11273400  0.72010636  1
+  Cl  Cl4  1  0.88726598  0.79164481  0.72010636  1
+  Cl  Cl5  1  0.20835519  0.09562117  0.72010636  1
+  Cl  Cl6  1  0.11787987  0.22363669  0.23972307  1
+  Cl  Cl7  1  0.77636331  0.89424318  0.23972307  1
+  Cl  Cl8  1  0.10575682  0.88212013  0.23972307  1
+  Cl  Cl9  1  0.47861475  0.43072340  0.75852412  1
+  Cl  Cl10  1  0.56927657  0.04789135  0.75852412  1
+  Cl  Cl11  1  0.95210862  0.52138525  0.75852412  1
+  Cl  Cl12  1  0.75023270  0.53873873  0.23180193  1
+  Cl  Cl13  1  0.46126127  0.21149397  0.23180193  1
+  Cl  Cl14  1  0.78850603  0.24976730  0.23180193  1
+  Nb  Nb15  1  0.00000000  0.00000000  0.46990022  1
+  S  S16  1  0.33333334  0.66666669  0.61086208  1
+  Ag  Ag17  1  0.33333334  0.66666669  0.14715041  1
+  Ta  Ta18  1  0.66666669  0.33333334  0.03785390  1

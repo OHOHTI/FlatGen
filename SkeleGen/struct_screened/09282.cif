@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NbSe2Cl11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.84458394
+_cell_length_b   6.17563983
+_cell_length_c   11.77018070
+_cell_angle_alpha   78.02049950
+_cell_angle_beta   91.72411303
+_cell_angle_gamma   78.33773863
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbSe2Cl11
+_chemical_formula_sum   'Nb1 Se2 Cl11'
+_cell_volume   405.84974375
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.92009211  0.50124371  0.30801478  1
+  Cl  Cl1  1  0.46231517  0.00999246  0.61959076  1
+  Cl  Cl2  1  0.44351014  0.54767460  0.48356676  1
+  Cl  Cl3  1  0.98785144  0.97751683  0.45492530  1
+  Cl  Cl4  1  0.98113775  0.00970919  0.13713253  1
+  Cl  Cl5  1  0.44002733  0.53146416  0.18359116  1
+  Cl  Cl6  1  0.44412082  0.55025363  0.79830235  1
+  Cl  Cl7  1  0.99117684  0.02081808  0.80469704  1
+  Nb  Nb8  1  0.17514911  0.25507465  0.07738581  1
+  Cl  Cl9  1  0.44197640  0.04604110  0.98115438  1
+  Se  Se10  1  0.22092780  0.75553942  0.59115916  1
+  Se  Se11  1  0.48967916  0.54337174  0.98876405  1
+  Cl  Cl12  1  0.96392733  0.51637357  0.98312658  1
+  Cl  Cl13  1  0.00781780  0.55332041  0.65662134  1

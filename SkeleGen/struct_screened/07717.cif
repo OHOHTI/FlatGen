@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_CuMoAuCl14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.78217602
+_cell_length_b   9.78217543
+_cell_length_c   5.58143377
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000523
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuMoAuCl14
+_chemical_formula_sum   'Cu1 Mo1 Au1 Cl14'
+_cell_volume   462.53787918
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.00318015  0.22210522  0.79685855  1
+  Cl  Cl1  1  0.77789479  0.78107494  0.79685855  1
+  Cl  Cl2  1  0.21892507  0.99681985  0.79685855  1
+  Cl  Cl3  1  0.93609196  0.79011601  0.26179770  1
+  Cl  Cl4  1  0.20988399  0.14597595  0.26179770  1
+  Cl  Cl5  1  0.85402405  0.06390804  0.26179770  1
+  Cl  Cl6  1  0.39495751  0.50290942  0.27826655  1
+  Cl  Cl7  1  0.49709058  0.89204812  0.27826655  1
+  Cl  Cl8  1  0.10795191  0.60504246  0.27826655  1
+  Cl  Cl9  1  0.33333334  0.66666669  0.70547259  1
+  Cl  Cl10  1  0.66666669  0.33333334  0.26036379  1
+  Cl  Cl11  1  0.48691916  0.38360634  0.76025563  1
+  Cl  Cl12  1  0.61639369  0.10331282  0.76025563  1
+  Cl  Cl13  1  0.89668715  0.51308084  0.76025563  1
+  Cu  Cu14  1  0.00000000  0.00000000  0.02355815  1
+  Mo  Mo15  1  0.33333334  0.66666669  0.41015714  1
+  Au  Au16  1  0.66666669  0.33333334  0.90747452  1

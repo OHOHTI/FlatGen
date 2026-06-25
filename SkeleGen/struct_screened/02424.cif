@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_LaTiVGeSbSe14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.03705168
+_cell_length_b   7.03705156
+_cell_length_c   11.58760643
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999158
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaTiVGeSbSe14
+_chemical_formula_sum   'La1 Ti1 V1 Ge1 Sb1 Se14'
+_cell_volume   496.94219989
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.59649897  0.66271710  0.51236546  1
+  Se  Se1  1  0.33728290  0.93378186  0.51236546  1
+  Se  Se2  1  0.06621814  0.40350103  0.51236546  1
+  Se  Se3  1  0.94925815  0.60504198  0.06024418  1
+  Se  Se4  1  0.39495802  0.34421617  0.06024418  1
+  Se  Se5  1  0.65578383  0.05074185  0.06024418  1
+  Se  Se6  1  0.66666669  0.33333334  0.37920091  1
+  Se  Se7  1  0.99720317  0.31783292  0.77678424  1
+  Se  Se8  1  0.68216705  0.67937028  0.77678424  1
+  Se  Se9  1  0.32062972  0.00279683  0.77678424  1
+  Se  Se10  1  0.33333334  0.66666669  0.99457568  1
+  Se  Se11  1  0.29748958  0.34642690  0.29297224  1
+  Se  Se12  1  0.65357310  0.95106268  0.29297224  1
+  Se  Se13  1  0.04893732  0.70251042  0.29297224  1
+  Sb  Sb14  1  0.00000000  0.00000000  0.90980369  1
+  La  La15  1  0.00000000  0.00000000  0.42413560  1
+  Ti  Ti16  1  0.33333334  0.66666669  0.79543757  1
+  V  V17  1  0.33333334  0.66666669  0.39464986  1
+  Ge  Ge18  1  0.66666669  0.33333334  0.74379253  1

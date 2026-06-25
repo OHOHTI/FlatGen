@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_RbTiH(AuO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.25461292
+_cell_length_b   5.25461255
+_cell_length_c   10.75508881
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000536
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbTiH(AuO2)4
+_chemical_formula_sum   'Rb1 Ti1 H1 Au4 O8'
+_cell_volume   257.17339445
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Au  Au0  1  0.00000000  0.00000000  0.97102880  1
+  Au  Au1  1  0.66666669  0.33333334  0.60165095  1
+  Au  Au2  1  0.33333334  0.66666669  0.30532607  1
+  Au  Au3  1  0.00000000  0.00000000  0.44269043  1
+  Ti  Ti4  1  0.00000000  0.00000000  0.76375365  1
+  H  H5  1  0.00000000  0.00000000  0.23283301  1
+  O  O6  1  0.00000000  0.00000000  0.62522423  1
+  O  O7  1  0.00000000  0.00000000  0.16421631  1
+  Rb  Rb8  1  0.66666669  0.33333334  0.08271619  1
+  O  O9  1  0.28188381  0.30858758  0.85548633  1
+  O  O10  1  0.69141245  0.97329623  0.85548633  1
+  O  O11  1  0.02670377  0.71811616  0.85548633  1
+  O  O12  1  0.34655857  0.37699229  0.38545656  1
+  O  O13  1  0.62300771  0.96956629  0.38545656  1
+  O  O14  1  0.03043371  0.65344143  0.38545656  1

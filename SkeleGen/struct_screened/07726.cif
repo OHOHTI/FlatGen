@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CsNbCu2GeSe15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.71221883
+_cell_length_b   7.25684719
+_cell_length_c   11.33440781
+_cell_angle_alpha   82.73705247
+_cell_angle_beta   91.18216491
+_cell_angle_gamma   88.50015983
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsNbCu2GeSe15
+_chemical_formula_sum   'Cs1 Nb1 Cu2 Ge1 Se15'
+_cell_volume   547.31688473
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.60123450  0.28839189  0.13810927  1
+  Se  Se1  1  0.65045935  0.02333963  0.81199151  1
+  Se  Se2  1  0.71414745  0.57262027  0.36641076  1
+  Se  Se3  1  0.84531951  0.06842604  0.38291186  1
+  Se  Se4  1  0.98935056  0.67707711  0.11355522  1
+  Se  Se5  1  0.97703147  0.78847742  0.57502615  1
+  Se  Se6  1  0.17211026  0.96312743  0.14517030  1
+  Se  Se7  1  0.99206787  0.35232815  0.61687559  1
+  Se  Se8  1  0.16062610  0.89102232  0.85758263  1
+  Se  Se9  1  0.22860371  0.42664561  0.88000780  1
+  Se  Se10  1  0.34627339  0.00774646  0.38058627  1
+  Se  Se11  1  0.44826719  0.71745884  0.61608523  1
+  Ge  Ge12  1  0.55540806  0.29887348  0.36857501  1
+  Cs  Cs13  1  0.73715913  0.53835338  0.88927424  1
+  Cu  Cu14  1  0.29147387  0.54963195  0.11924846  1
+  Se  Se15  1  0.21911591  0.42812559  0.32350123  1
+  Nb  Nb16  1  0.20406033  0.02873702  0.58055961  1
+  Se  Se17  1  0.52324653  0.80301130  0.09636311  1
+  Se  Se18  1  0.50859481  0.21418919  0.61039072  1
+  Cu  Cu19  1  0.18308824  0.67008990  0.72994685  1

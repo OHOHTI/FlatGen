@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_LiVWCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.30563831
+_cell_length_b   6.30563824
+_cell_length_c   9.93381596
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000537
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiVWCl8
+_chemical_formula_sum   'Li1 V1 W1 Cl8'
+_cell_volume   342.06199593
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.70542556  0.69121891  0.25680214  1
+  Cl  Cl1  1  0.30878109  0.01420665  0.25680214  1
+  Cl  Cl2  1  0.98579335  0.29457444  0.25680214  1
+  Cl  Cl3  1  0.69628048  0.02209028  0.76118839  1
+  Cl  Cl4  1  0.97790974  0.67419022  0.76118839  1
+  Cl  Cl5  1  0.32580978  0.30371952  0.76118839  1
+  Cl  Cl6  1  0.33333334  0.66666669  0.03220809  1
+  Cl  Cl7  1  0.66666669  0.33333334  0.49102077  1
+  Li  Li8  1  0.00000000  0.00000000  0.62410170  1
+  V  V9  1  0.00000000  0.00000000  0.34607497  1
+  W  W10  1  0.66666669  0.33333334  0.70259333  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_BaCaAlGaCuNiH6F8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20556593
+_cell_length_b   5.20556576
+_cell_length_c   10.39741230
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000408
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCaAlGaCuNiH6F8
+_chemical_formula_sum   'Ba1 Ca1 Al1 Ga1 Cu1 Ni1 H6 F8'
+_cell_volume   244.00109117
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.64270473  0.64557278  0.21428216  1
+  F  F1  1  0.35442722  0.99713194  0.21428216  1
+  F  F2  1  0.00286806  0.35729527  0.21428216  1
+  F  F3  1  0.67837679  0.03398993  0.71426421  1
+  F  F4  1  0.96601009  0.64438689  0.71426421  1
+  F  F5  1  0.35561311  0.32162321  0.71426421  1
+  F  F6  1  0.33333334  0.66666669  0.94006264  1
+  F  F7  1  0.66666669  0.33333334  0.42918432  1
+  Cu  Cu8  1  0.00000000  0.00000000  0.64726090  1
+  Ba  Ba9  1  0.00000000  0.00000000  0.37153828  1
+  Ca  Ca10  1  0.00000000  0.00000000  0.93240064  1
+  Ni  Ni11  1  0.66666669  0.33333334  0.11232303  1
+  Ga  Ga12  1  0.66666669  0.33333334  0.84827018  1
+  Al  Al13  1  0.66666669  0.33333334  0.60183954  1
+  H  H14  1  0.38484195  0.95009041  0.54776168  1
+  H  H15  1  0.04990959  0.43475151  0.54776168  1
+  H  H16  1  0.56524849  0.61515808  0.54776168  1
+  H  H17  1  0.83437204  0.62808400  0.01773413  1
+  H  H18  1  0.37191600  0.20628804  0.01773413  1
+  H  H19  1  0.79371196  0.16562796  0.01773413  1

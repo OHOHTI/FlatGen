@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_InSbPb(BrCl3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.31309223
+_cell_length_b   10.31309202
+_cell_length_c   4.81030464
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000374
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InSbPb(BrCl3)3
+_chemical_formula_sum   'In1 Sb1 Pb1 Br3 Cl9'
+_cell_volume   443.07882110
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.70782644  0.15456125  0.64852959  1
+  Cl  Cl1  1  0.84543872  0.55326521  0.64852959  1
+  Cl  Cl2  1  0.44673479  0.29217356  0.64852959  1
+  Cl  Cl3  1  0.20203453  0.72476566  0.66511685  1
+  Cl  Cl4  1  0.27523434  0.47726887  0.66511685  1
+  Cl  Cl5  1  0.52273113  0.79796547  0.66511685  1
+  Cl  Cl6  1  0.20645541  0.23796111  0.16015686  1
+  Cl  Cl7  1  0.76203889  0.96849430  0.16015686  1
+  Cl  Cl8  1  0.03150570  0.79354459  0.16015686  1
+  In  In9  1  0.00000000  0.00000000  0.68744540  1
+  Pb  Pb10  1  0.33333334  0.66666669  0.15111206  1
+  Sb  Sb11  1  0.66666669  0.33333334  0.16272099  1
+  Br  Br12  1  0.42350808  0.01800191  0.16086021  1
+  Br  Br13  1  0.98199809  0.40550616  0.16086021  1
+  Br  Br14  1  0.59449387  0.57649195  0.16086021  1

@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_K2Al2H4(I2O)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.52026498
+_cell_length_b   7.45807999
+_cell_length_c   9.14150047
+_cell_angle_alpha   87.52412026
+_cell_angle_beta   101.22023389
+_cell_angle_gamma   92.54374887
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Al2H4(I2O)3
+_chemical_formula_sum   'K2 Al2 H4 I6 O3'
+_cell_volume   435.34149195
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.67456228  0.45163310  0.95410383  1
+  I  I1  1  0.32543772  0.54836690  0.04589617  1
+  I  I2  1  0.74799299  0.86897659  0.72997433  1
+  I  I3  1  0.25200701  0.13102341  0.27002567  1
+  I  I4  1  0.79489231  0.30726472  0.38971633  1
+  I  I5  1  0.20510769  0.69273531  0.61028367  1
+  O  O6  1  0.00000000  0.50000000  0.00000000  1
+  Al  Al7  1  0.08170307  0.45671496  0.24596237  1
+  Al  Al8  1  0.91829693  0.54328501  0.75403762  1
+  O  O9  1  0.25810227  0.80073941  0.93489671  1
+  O  O10  1  0.74189770  0.19926059  0.06510329  1
+  H  H11  1  0.76493114  0.40502593  0.72126329  1
+  H  H12  1  0.23506886  0.59497404  0.27873671  1
+  H  H13  1  0.26670459  0.82292306  0.85058999  1
+  H  H14  1  0.73329544  0.17707694  0.14941001  1
+  K  K15  1  0.31585678  0.21894376  0.62529767  1
+  K  K16  1  0.68414319  0.78105623  0.37470233  1

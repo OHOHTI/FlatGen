@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_BaSrAgHgBiBr8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.12478781
+_cell_length_b   7.12478749
+_cell_length_c   9.43539906
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000588
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSrAgHgBiBr8
+_chemical_formula_sum   'Ba1 Sr1 Ag1 Hg1 Bi1 Br8'
+_cell_volume   414.79616145
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.62415868  0.65771675  0.28325883  1
+  Br  Br1  1  0.34228325  0.96644193  0.28325883  1
+  Br  Br2  1  0.03355807  0.37584132  0.28325883  1
+  Br  Br3  1  0.70074832  0.00960715  0.74322033  1
+  Br  Br4  1  0.99039286  0.69114119  0.74322033  1
+  Br  Br5  1  0.30885881  0.29925168  0.74322033  1
+  Br  Br6  1  0.33333334  0.66666669  0.00511458  1
+  Br  Br7  1  0.66666669  0.33333334  0.50416517  1
+  Ag  Ag8  1  0.00000000  0.00000000  0.55486965  1
+  Hg  Hg9  1  0.00000000  0.00000000  0.27179122  1
+  Bi  Bi10  1  0.00000000  0.00000000  0.90137994  1
+  Sr  Sr11  1  0.33333334  0.66666669  0.54768002  1
+  Ba  Ba12  1  0.66666669  0.33333334  0.02725373  1

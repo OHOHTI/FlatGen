@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Ce4CoReNiO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.65844870
+_cell_length_b   5.65844863
+_cell_length_c   9.55826664
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000315
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce4CoReNiO12
+_chemical_formula_sum   'Ce4 Co1 Re1 Ni1 O12'
+_cell_volume   265.03578728
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.00000000  0.00000000  0.97730839  1
+  Ce  Ce1  1  0.66666669  0.33333334  0.68669593  1
+  Ce  Ce2  1  0.33333334  0.66666669  0.38188690  1
+  Ce  Ce3  1  0.00000000  0.00000000  0.40326479  1
+  Co  Co4  1  0.33333334  0.66666669  0.62760311  1
+  Ni  Ni5  1  0.33333334  0.66666669  0.12542613  1
+  Re  Re6  1  0.33333334  0.66666669  0.87171137  1
+  O  O7  1  0.65928626  0.70358300  0.75997323  1
+  O  O8  1  0.29641700  0.95570326  0.75997323  1
+  O  O9  1  0.04429674  0.34071374  0.75997323  1
+  O  O10  1  0.07160365  0.31585532  0.24341106  1
+  O  O11  1  0.68414468  0.75574833  0.24341106  1
+  O  O12  1  0.24425167  0.92839634  0.24341106  1
+  O  O13  1  0.98438114  0.62845427  0.51997322  1
+  O  O14  1  0.37154573  0.35592687  0.51997322  1
+  O  O15  1  0.64407313  0.01561886  0.51997322  1
+  O  O16  1  0.02777798  0.60400236  0.98620594  1
+  O  O17  1  0.39599764  0.42377561  0.98620594  1
+  O  O18  1  0.57622439  0.97222203  0.98620594  1

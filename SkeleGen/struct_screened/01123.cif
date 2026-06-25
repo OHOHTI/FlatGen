@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Li3HfCl5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.45021868
+_cell_length_b   7.45021825
+_cell_length_c   10.34820938
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000615
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3HfCl5
+_chemical_formula_sum   'Li6 Hf2 Cl10'
+_cell_volume   497.43212313
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.57710892  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.42289108  1
+  Cl  Cl2  1  0.33333334  0.66666669  0.94597387  1
+  Cl  Cl3  1  0.66666669  0.33333334  0.05402613  1
+  Cl  Cl4  1  0.15474191  0.84525812  0.25113583  1
+  Cl  Cl5  1  0.15474191  0.30948383  0.25113583  1
+  Cl  Cl6  1  0.69051617  0.84525812  0.25113583  1
+  Cl  Cl7  1  0.84525812  0.15474191  0.74886417  1
+  Cl  Cl8  1  0.30948383  0.15474191  0.74886417  1
+  Cl  Cl9  1  0.84525812  0.69051617  0.74886417  1
+  Hf  Hf10  1  0.00000000  0.00000000  0.36224508  1
+  Hf  Hf11  1  0.00000000  0.00000000  0.63775492  1
+  Li  Li12  1  0.16006105  0.83993894  0.86928713  1
+  Li  Li13  1  0.16006105  0.32012209  0.86928713  1
+  Li  Li14  1  0.67987788  0.83993894  0.86928713  1
+  Li  Li15  1  0.83993894  0.16006105  0.13071287  1
+  Li  Li16  1  0.32012209  0.16006105  0.13071287  1
+  Li  Li17  1  0.83993894  0.67987788  0.13071287  1

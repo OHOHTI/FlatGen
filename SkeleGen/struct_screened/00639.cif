@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_HoVCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.89154196
+_cell_length_b   6.89154167
+_cell_length_c   7.96295357
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000596
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoVCl8
+_chemical_formula_sum   'Ho1 V1 Cl8'
+_cell_volume   327.51981496
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.70239478  0.78838754  0.41089845  1
+  Cl  Cl1  1  0.21161246  0.91400725  0.41089845  1
+  Cl  Cl2  1  0.08599275  0.29760522  0.41089845  1
+  Cl  Cl3  1  0.68889171  0.05917953  0.80033839  1
+  Cl  Cl4  1  0.94082046  0.62971216  0.80033839  1
+  Cl  Cl5  1  0.37028784  0.31110829  0.80033839  1
+  Cl  Cl6  1  0.33333334  0.66666669  0.02572935  1
+  Cl  Cl7  1  0.66666669  0.33333334  0.44214162  1
+  Ho  Ho8  1  0.00000000  0.00000000  0.59128517  1
+  V  V9  1  0.66666669  0.33333334  0.70953447  1

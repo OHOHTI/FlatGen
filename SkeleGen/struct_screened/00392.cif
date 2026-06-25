@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CoAgSb(AuI4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.88439608
+_cell_length_b   7.88439604
+_cell_length_c   14.86238384
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999214
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoAgSb(AuI4)3
+_chemical_formula_sum   'Co1 Ag1 Sb1 Au3 I12'
+_cell_volume   800.12161684
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.66792321  0.69442993  0.28344956  1
+  I  I1  1  0.30557007  0.97349328  0.28344956  1
+  I  I2  1  0.02650672  0.33207679  0.28344956  1
+  I  I3  1  0.69184953  0.00651639  0.74921221  1
+  I  I4  1  0.99348360  0.68533313  0.74921221  1
+  I  I5  1  0.31466687  0.30815047  0.74921221  1
+  I  I6  1  0.33333334  0.66666669  0.95708066  1
+  I  I7  1  0.66666669  0.33333334  0.44815814  1
+  Co  Co8  1  0.00000000  0.00000000  0.16863097  1
+  Sb  Sb9  1  0.33333334  0.66666669  0.34783465  1
+  I  I10  1  0.33333334  0.66666669  0.55409074  1
+  Ag  Ag11  1  0.33333334  0.66666669  0.73284119  1
+  I  I12  1  0.93853521  0.68511927  0.05727554  1
+  I  I13  1  0.31488073  0.25341594  0.05727554  1
+  I  I14  1  0.74658406  0.06146479  0.05727554  1
+  Au  Au15  1  0.38137355  0.03114477  0.88009173  1
+  Au  Au16  1  0.96885520  0.35022879  0.88009173  1
+  Au  Au17  1  0.64977121  0.61862648  0.88009173  1

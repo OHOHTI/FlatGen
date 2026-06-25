@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_ZnCdRePbO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49548721
+_cell_length_b   5.49548695
+_cell_length_c   7.37202644
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000446
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCdRePbO9
+_chemical_formula_sum   'Zn1 Cd1 Re1 Pb1 O9'
+_cell_volume   192.81014405
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.64262307  0.68916625  0.26343650  1
+  O  O1  1  0.31083375  0.95345682  0.26343650  1
+  O  O2  1  0.04654318  0.35737693  0.26343650  1
+  O  O3  1  0.69607556  0.99455625  0.79626423  1
+  O  O4  1  0.00544375  0.70151931  0.79626423  1
+  O  O5  1  0.29848069  0.30392444  0.79626423  1
+  O  O6  1  0.33333334  0.66666669  0.03336691  1
+  O  O7  1  0.66666669  0.33333334  0.51101494  1
+  Pb  Pb8  1  0.00000000  0.00000000  0.02904997  1
+  Re  Re9  1  0.33333334  0.66666669  0.30334994  1
+  Zn  Zn10  1  0.33333334  0.66666669  0.74751735  1
+  O  O11  1  0.33333334  0.66666669  0.50952476  1
+  Cd  Cd12  1  0.66666669  0.33333334  0.87209183  1

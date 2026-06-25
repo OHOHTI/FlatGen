@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_SrEu4ZnTeAs2S5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.27640247
+_cell_length_b   4.27640231
+_cell_length_c   24.50159264
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000495
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrEu4ZnTeAs2S5
+_chemical_formula_sum   'Sr1 Eu4 Zn1 Te1 As2 S5'
+_cell_volume   388.04496490
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.00000000  0.00000000  0.06020636  1
+  Eu  Eu1  1  0.66666669  0.33333334  0.65639758  1
+  Eu  Eu2  1  0.33333334  0.66666669  0.41127020  1
+  Eu  Eu3  1  0.00000000  0.00000000  0.54016548  1
+  Te  Te4  1  0.00000000  0.00000000  0.92113137  1
+  S  S5  1  0.00000000  0.00000000  0.35463655  1
+  S  S6  1  0.00000000  0.00000000  0.19830731  1
+  S  S7  1  0.00000000  0.00000000  0.68745434  1
+  As  As8  1  0.33333334  0.66666669  0.76039171  1
+  Sr  Sr9  1  0.66666669  0.33333334  0.27625886  1
+  S  S10  1  0.66666669  0.33333334  0.48711741  1
+  As  As11  1  0.66666669  0.33333334  0.11813898  1
+  S  S12  1  0.66666669  0.33333334  0.81759173  1
+  Zn  Zn13  1  0.66666669  0.33333334  0.95117176  1

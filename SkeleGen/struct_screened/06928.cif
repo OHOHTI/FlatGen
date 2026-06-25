@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_ReAgCl4O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.65813303
+_cell_length_b   5.65813268
+_cell_length_c   7.31494427
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000482
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ReAgCl4O3
+_chemical_formula_sum   'Re1 Ag1 Cl4 O3'
+_cell_volume   202.80932220
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.00000000  0.00000000  0.02244154  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.71703696  1
+  Cl  Cl2  1  0.33333334  0.66666669  0.41689885  1
+  Cl  Cl3  1  0.00000000  0.00000000  0.50753915  1
+  Re  Re4  1  0.33333334  0.66666669  0.10752089  1
+  Ag  Ag5  1  0.66666669  0.33333334  0.27896404  1
+  O  O6  1  0.02820323  0.48099312  0.02399957  1
+  O  O7  1  0.51900685  0.54721010  0.02399957  1
+  O  O8  1  0.45278990  0.97179675  0.02399957  1

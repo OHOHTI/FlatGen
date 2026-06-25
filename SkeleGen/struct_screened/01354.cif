@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Eu10CoPt7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.46021271
+_cell_length_b   8.46021230
+_cell_length_c   7.14071798
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000531
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu10CoPt7
+_chemical_formula_sum   'Eu10 Co1 Pt7'
+_cell_volume   442.62407642
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.33333334  0.66666669  0.50669956  1
+  Eu  Eu1  1  0.66666669  0.33333334  0.49330044  1
+  Eu  Eu2  1  0.03039571  0.75681281  0.74920368  1
+  Eu  Eu3  1  0.24318719  0.27358288  0.74920368  1
+  Eu  Eu4  1  0.72641712  0.96960431  0.74920368  1
+  Eu  Eu5  1  0.96960431  0.24318719  0.25079632  1
+  Eu  Eu6  1  0.75681281  0.72641712  0.25079632  1
+  Eu  Eu7  1  0.27358288  0.03039571  0.25079632  1
+  Eu  Eu8  1  0.33333334  0.66666669  0.00142450  1
+  Eu  Eu9  1  0.66666669  0.33333334  0.99857551  1
+  Pt  Pt10  1  0.00000000  0.00000000  0.00000000  1
+  Co  Co11  1  0.00000000  0.00000000  0.50000000  1
+  Pt  Pt12  1  0.62653500  0.59593451  0.74234098  1
+  Pt  Pt13  1  0.40406549  0.03060049  0.74234098  1
+  Pt  Pt14  1  0.96939951  0.37346500  0.74234098  1
+  Pt  Pt15  1  0.37346500  0.40406549  0.25765902  1
+  Pt  Pt16  1  0.59593451  0.96939951  0.25765902  1
+  Pt  Pt17  1  0.03060049  0.62653500  0.25765902  1

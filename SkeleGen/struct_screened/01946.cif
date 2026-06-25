@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Eu4Gd3NiS9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.15060663
+_cell_length_b   7.15060640
+_cell_length_c   9.04699421
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000550
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu4Gd3NiS9
+_chemical_formula_sum   'Eu4 Gd3 Ni1 S9'
+_cell_volume   400.60898025
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.00000000  0.00000000  0.08737610  1
+  Eu  Eu1  1  0.66666669  0.33333334  0.49691173  1
+  Eu  Eu2  1  0.33333334  0.66666669  0.26060635  1
+  Eu  Eu3  1  0.00000000  0.00000000  0.49262163  1
+  Ni  Ni4  1  0.66666669  0.33333334  0.13233292  1
+  Gd  Gd5  1  0.33119851  0.34680113  0.81212044  1
+  Gd  Gd6  1  0.65319884  0.98439741  0.81212044  1
+  Gd  Gd7  1  0.01560262  0.66880149  0.81212044  1
+  S  S8  1  0.00622366  0.33268368  0.67135286  1
+  S  S9  1  0.66731632  0.67354000  0.67135286  1
+  S  S10  1  0.32646003  0.99377632  0.67135286  1
+  S  S11  1  0.62571883  0.62276262  0.00830641  1
+  S  S12  1  0.37723738  0.00295621  0.00830641  1
+  S  S13  1  0.99704379  0.37428117  0.00830641  1
+  S  S14  1  0.70614630  0.04614443  0.29978001  1
+  S  S15  1  0.95385557  0.66000187  0.29978001  1
+  S  S16  1  0.33999813  0.29385370  0.29978001  1

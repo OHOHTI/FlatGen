@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Na2Mn2GaCOF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.62274265
+_cell_length_b   5.62274253
+_cell_length_c   8.93516445
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000354
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Mn2GaCOF12
+_chemical_formula_sum   'Na2 Mn2 Ga1 C1 O1 F12'
+_cell_volume   244.64118413
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.81481761  0.23629421  0.55490470  1
+  F  F1  1  0.76370579  0.57852340  0.55490470  1
+  F  F2  1  0.42147660  0.18518239  0.55490470  1
+  F  F3  1  0.07849835  0.68780112  0.75973982  1
+  F  F4  1  0.31219888  0.39069724  0.75973982  1
+  F  F5  1  0.60930276  0.92150164  0.75973982  1
+  F  F6  1  0.95158827  0.63895762  0.22996122  1
+  F  F7  1  0.36104238  0.31263065  0.22996122  1
+  F  F8  1  0.68736935  0.04841173  0.22996122  1
+  Na  Na9  1  0.00000000  0.00000000  0.40116212  1
+  Na  Na10  1  0.33333334  0.66666669  0.25794929  1
+  Mn  Mn11  1  0.33333334  0.66666669  0.63626897  1
+  Ga  Ga12  1  0.33333334  0.66666669  0.91788626  1
+  O  O13  1  0.33333334  0.66666669  0.49435070  1
+  C  C14  1  0.66666669  0.33333334  0.63405305  1
+  Mn  Mn15  1  0.66666669  0.33333334  0.11411843  1
+  F  F16  1  0.64544576  0.63656580  0.98852819  1
+  F  F17  1  0.36343420  0.00887996  0.98852819  1
+  F  F18  1  0.99112004  0.35455424  0.98852819  1

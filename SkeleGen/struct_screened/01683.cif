@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44916439
+_cell_length_b   5.44916409
+_cell_length_c   9.34245491
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000474
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BiO3
+_chemical_formula_sum   'Bi4 O12'
+_cell_volume   240.24337321
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.00000000  0.00000000  0.00000000  1
+  Bi  Bi1  1  0.33333334  0.66666669  0.23828340  1
+  Bi  Bi2  1  0.66666669  0.33333334  0.76171660  1
+  Bi  Bi3  1  0.00000000  0.00000000  0.50000000  1
+  O  O4  1  0.73614699  0.66638023  0.87799942  1
+  O  O5  1  0.33361977  0.06976676  0.87799942  1
+  O  O6  1  0.93023324  0.26385301  0.87799942  1
+  O  O7  1  0.26385301  0.33361977  0.12200058  1
+  O  O8  1  0.66638023  0.93023324  0.12200058  1
+  O  O9  1  0.06976676  0.73614699  0.12200058  1
+  O  O10  1  0.70519179  0.65683693  0.35770500  1
+  O  O11  1  0.34316307  0.04835486  0.35770500  1
+  O  O12  1  0.95164514  0.29480821  0.35770500  1
+  O  O13  1  0.29480821  0.34316307  0.64229500  1
+  O  O14  1  0.65683693  0.95164514  0.64229500  1
+  O  O15  1  0.04835486  0.70519179  0.64229500  1

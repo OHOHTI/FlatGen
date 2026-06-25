@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaEu8AlGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.26584244
+_cell_length_b   7.26584241
+_cell_length_c   8.49539852
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999143
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaEu8AlGe2
+_chemical_formula_sum   'Na1 Eu8 Al1 Ge2'
+_cell_volume   388.40639855
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.67066926  0.68628514  0.28179017  1
+  Eu  Eu1  1  0.31371486  0.98438412  0.28179017  1
+  Eu  Eu2  1  0.01561588  0.32933074  0.28179017  1
+  Eu  Eu3  1  0.67849743  0.99906772  0.79544938  1
+  Eu  Eu4  1  0.00093226  0.67942971  0.79544938  1
+  Eu  Eu5  1  0.32057029  0.32150257  0.79544938  1
+  Eu  Eu6  1  0.33333334  0.66666669  0.04165206  1
+  Eu  Eu7  1  0.66666669  0.33333334  0.59684330  1
+  Ge  Ge8  1  0.00000000  0.00000000  0.04055582  1
+  Na  Na9  1  0.00000000  0.00000000  0.51065665  1
+  Al  Al10  1  0.66666669  0.33333334  0.29734457  1
+  Ge  Ge11  1  0.66666669  0.33333334  0.99603975  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ba(BSe4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.34891415
+_cell_length_b   6.34891389
+_cell_length_c   8.47144508
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999387
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba(BSe4)2
+_chemical_formula_sum   'Ba1 B2 Se8'
+_cell_volume   295.72432532
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.33333334  0.66666669  0.01037803  1
+  Se  Se1  1  0.66666669  0.33333334  0.98962200  1
+  Se  Se2  1  0.68260944  0.06766272  0.67529678  1
+  Se  Se3  1  0.93233728  0.61494672  0.67529678  1
+  Se  Se4  1  0.38505328  0.31739056  0.67529678  1
+  Se  Se5  1  0.31739056  0.93233728  0.32470322  1
+  Se  Se6  1  0.06766272  0.38505328  0.32470322  1
+  Se  Se7  1  0.61494672  0.68260944  0.32470322  1
+  Ba  Ba8  1  0.00000000  0.00000000  0.00000000  1
+  B  B9  1  0.33333334  0.66666669  0.28057703  1
+  B  B10  1  0.66666669  0.33333334  0.71942294  1

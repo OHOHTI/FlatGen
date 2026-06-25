@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Dy4MnCrSbS12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.57688904
+_cell_length_b   6.57688896
+_cell_length_c   11.76409626
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000518
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy4MnCrSbS12
+_chemical_formula_sum   'Dy4 Mn1 Cr1 Sb1 S12'
+_cell_volume   440.68696305
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.00000000  0.00000000  0.04139173  1
+  Dy  Dy1  1  0.66666669  0.33333334  0.56125963  1
+  Dy  Dy2  1  0.33333334  0.66666669  0.30617180  1
+  Dy  Dy3  1  0.00000000  0.00000000  0.55696964  1
+  Sb  Sb4  1  0.66666669  0.33333334  0.06608033  1
+  Cr  Cr5  1  0.66666669  0.33333334  0.81455696  1
+  Mn  Mn6  1  0.66666669  0.33333334  0.30603793  1
+  S  S7  1  0.33269623  0.32970729  0.68091261  1
+  S  S8  1  0.67029274  0.00298893  0.68091261  1
+  S  S9  1  0.99701107  0.66730380  0.68091261  1
+  S  S10  1  0.66815674  0.00398641  0.17931132  1
+  S  S11  1  0.99601358  0.66417032  0.17931132  1
+  S  S12  1  0.33582968  0.33184326  0.17931132  1
+  S  S13  1  0.67515236  0.64281005  0.91446400  1
+  S  S14  1  0.35718995  0.03234231  0.91446400  1
+  S  S15  1  0.96765769  0.32484764  0.91446400  1
+  S  S16  1  0.33283156  0.01061631  0.42008144  1
+  S  S17  1  0.98938370  0.32221526  0.42008144  1
+  S  S18  1  0.67778474  0.66716844  0.42008144  1

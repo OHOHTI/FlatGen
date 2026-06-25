@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Tb4Y2GaPbO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54656553
+_cell_length_b   5.54656536
+_cell_length_c   10.92757034
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000386
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb4Y2GaPbO12
+_chemical_formula_sum   'Tb4 Y2 Ga1 Pb1 O12'
+_cell_volume   291.14042344
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.00000000  0.00000000  0.04830366  1
+  Tb  Tb1  1  0.66666669  0.33333334  0.54178774  1
+  Tb  Tb2  1  0.33333334  0.66666669  0.28939018  1
+  Tb  Tb3  1  0.00000000  0.00000000  0.54290998  1
+  Ga  Ga4  1  0.00000000  0.00000000  0.31079358  1
+  Y  Y5  1  0.00000000  0.00000000  0.79185545  1
+  Pb  Pb6  1  0.33333334  0.66666669  0.79918641  1
+  Y  Y7  1  0.66666669  0.33333334  0.04739898  1
+  O  O8  1  0.30240333  0.31893620  0.41251335  1
+  O  O9  1  0.68106377  0.98346710  0.41251335  1
+  O  O10  1  0.01653287  0.69759667  0.41251335  1
+  O  O11  1  0.00117004  0.66057068  0.92112851  1
+  O  O12  1  0.33942932  0.34059936  0.92112851  1
+  O  O13  1  0.65940064  0.99882996  0.92112851  1
+  O  O14  1  0.31461725  0.00730382  0.17057970  1
+  O  O15  1  0.99269617  0.30731344  0.17057970  1
+  O  O16  1  0.69268656  0.68538272  0.17057970  1
+  O  O17  1  0.00210702  0.66956073  0.67145938  1
+  O  O18  1  0.33043927  0.33254629  0.67145938  1
+  O  O19  1  0.66745371  0.99789298  0.67145938  1

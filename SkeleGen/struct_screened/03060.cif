@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_La2YFeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66646624
+_cell_length_b   5.66646597
+_cell_length_c   9.99310875
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999323
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2YFeO6
+_chemical_formula_sum   'La4 Y2 Fe2 O12'
+_cell_volume   277.87908801
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.00000000  0.00000000  0.00000000  1
+  La  La1  1  0.33333334  0.66666669  0.38154423  1
+  La  La2  1  0.66666669  0.33333334  0.61845577  1
+  La  La3  1  0.00000000  0.00000000  0.50000000  1
+  Fe  Fe4  1  0.33333334  0.66666669  0.12099665  1
+  Fe  Fe5  1  0.66666669  0.33333334  0.87900335  1
+  Y  Y6  1  0.33333334  0.66666669  0.83226371  1
+  Y  Y7  1  0.66666669  0.33333334  0.16773629  1
+  O  O8  1  0.59005773  0.00000000  0.00000000  1
+  O  O9  1  0.00000000  0.59005773  0.00000000  1
+  O  O10  1  0.40994227  0.40994227  0.00000000  1
+  O  O11  1  0.62006968  0.00000000  0.50000000  1
+  O  O12  1  0.00000000  0.62006968  0.50000000  1
+  O  O13  1  0.37993032  0.37993032  0.50000000  1
+  O  O14  1  0.29114762  0.97794610  0.23563984  1
+  O  O15  1  0.02205390  0.31320155  0.23563984  1
+  O  O16  1  0.68679845  0.70885241  0.23563984  1
+  O  O17  1  0.97794610  0.29114762  0.76436019  1
+  O  O18  1  0.31320155  0.02205390  0.76436019  1
+  O  O19  1  0.70885241  0.68679845  0.76436019  1

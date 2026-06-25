@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_RbEu9GaSbTeO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.68349648
+_cell_length_b   9.68349620
+_cell_length_c   6.60841799
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999443
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbEu9GaSbTeO5
+_chemical_formula_sum   'Rb1 Eu9 Ga1 Sb1 Te1 O5'
+_cell_volume   536.65174501
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.86419344  0.27061841  0.62648845  1
+  Eu  Eu1  1  0.72938156  0.59357500  0.62648845  1
+  Eu  Eu2  1  0.40642500  0.13580656  0.62648845  1
+  Eu  Eu3  1  0.13162874  0.69609874  0.65148050  1
+  Eu  Eu4  1  0.30390126  0.43553001  0.65148050  1
+  Eu  Eu5  1  0.56446999  0.86837125  0.65148050  1
+  Eu  Eu6  1  0.69090313  0.97064072  0.13168007  1
+  Eu  Eu7  1  0.02935928  0.72026241  0.13168007  1
+  Eu  Eu8  1  0.27973759  0.30909687  0.13168007  1
+  O  O9  1  0.00000000  0.00000000  0.49413583  1
+  Sb  Sb10  1  0.00000000  0.00000000  0.79197043  1
+  O  O11  1  0.00000000  0.00000000  0.06405397  1
+  Ga  Ga12  1  0.00000000  0.00000000  0.32707047  1
+  Te  Te13  1  0.33333334  0.66666669  0.19636230  1
+  Rb  Rb14  1  0.66666669  0.33333334  0.14143206  1
+  O  O15  1  0.07117537  0.26545390  0.81103766  1
+  O  O16  1  0.73454607  0.80572146  0.81103766  1
+  O  O17  1  0.19427854  0.92882466  0.81103766  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Na3ErAlB(Mo2O5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50661516
+_cell_length_b   5.50661472
+_cell_length_c   9.42219162
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000553
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3ErAlB(Mo2O5)2
+_chemical_formula_sum   'Na3 Er1 Al1 B1 Mo4 O10'
+_cell_volume   247.42977331
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mo  Mo0  1  0.00000000  0.00000000  0.81980491  1
+  Mo  Mo1  1  0.66666669  0.33333334  0.64131606  1
+  Mo  Mo2  1  0.33333334  0.66666669  0.43948773  1
+  Mo  Mo3  1  0.00000000  0.00000000  0.44351608  1
+  Er  Er4  1  0.33333334  0.66666669  0.76198828  1
+  Al  Al5  1  0.66666669  0.33333334  0.94265711  1
+  B  B6  1  0.66666669  0.33333334  0.29040888  1
+  O  O7  1  0.66666669  0.33333334  0.12762934  1
+  Na  Na8  1  0.14733368  0.34024987  0.12681608  1
+  Na  Na9  1  0.65975010  0.80708385  0.12681608  1
+  Na  Na10  1  0.19291618  0.85266632  0.12681608  1
+  O  O11  1  0.37490034  0.36908862  0.87054861  1
+  O  O12  1  0.63091135  0.00581172  0.87054861  1
+  O  O13  1  0.99418831  0.62509966  0.87054861  1
+  O  O14  1  0.67438918  0.62718523  0.35127938  1
+  O  O15  1  0.37281477  0.04720396  0.35127938  1
+  O  O16  1  0.95279604  0.32561082  0.35127938  1
+  O  O17  1  0.65472472  0.98033881  0.57873422  1
+  O  O18  1  0.01966119  0.67438591  0.57873422  1
+  O  O19  1  0.32561409  0.34527528  0.57873422  1

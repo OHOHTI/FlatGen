@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ca3ReI10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.75453949
+_cell_length_b   8.75453931
+_cell_length_c   9.11025906
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000427
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3ReI10
+_chemical_formula_sum   'Ca3 Re1 I10'
+_cell_volume   604.68325612
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.33333334  0.66666669  0.54244024  1
+  I  I1  1  0.66666669  0.33333334  0.45755976  1
+  I  I2  1  0.33333334  0.66666669  0.87232149  1
+  I  I3  1  0.66666669  0.33333334  0.12767851  1
+  I  I4  1  0.15161665  0.28973028  0.20698404  1
+  I  I5  1  0.71026969  0.86188638  0.20698404  1
+  I  I6  1  0.13811363  0.84838337  0.20698404  1
+  I  I7  1  0.28973028  0.15161665  0.79301596  1
+  I  I8  1  0.86188638  0.71026969  0.79301596  1
+  I  I9  1  0.84838337  0.13811363  0.79301596  1
+  Re  Re10  1  0.00000000  0.00000000  0.00000000  1
+  Ca  Ca11  1  0.42561406  0.00000000  0.00000000  1
+  Ca  Ca12  1  0.00000000  0.42561406  0.00000000  1
+  Ca  Ca13  1  0.57438594  0.57438594  0.00000000  1

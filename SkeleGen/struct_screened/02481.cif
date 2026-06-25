@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_RbNaEuFeGeCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.98511362
+_cell_length_b   6.98511348
+_cell_length_c   8.94355392
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000516
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbNaEuFeGeCl8
+_chemical_formula_sum   'Rb1 Na1 Eu1 Fe1 Ge1 Cl8'
+_cell_volume   377.90938747
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.66666669  0.33333334  0.43191490  1
+  Cl  Cl1  1  0.33333334  0.66666669  0.53143877  1
+  Cl  Cl2  1  0.53671932  0.98388332  0.81275725  1
+  Cl  Cl3  1  0.01611668  0.55283600  0.81275725  1
+  Cl  Cl4  1  0.44716400  0.46328068  0.81275725  1
+  Cl  Cl5  1  0.28907204  0.96753311  0.18473877  1
+  Cl  Cl6  1  0.03246689  0.32153893  0.18473877  1
+  Cl  Cl7  1  0.67846107  0.71092796  0.18473877  1
+  Na  Na8  1  0.00000000  0.00000000  0.38110673  1
+  Rb  Rb9  1  0.00000000  0.00000000  0.81346577  1
+  Fe  Fe10  1  0.33333334  0.66666669  0.75696582  1
+  Ge  Ge11  1  0.33333334  0.66666669  0.26021636  1
+  Eu  Eu12  1  0.66666669  0.33333334  0.06453622  1

@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_CsK2RbNbFeTe9PO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.03059959
+_cell_length_b   8.03059948
+_cell_length_c   10.69985199
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000438
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsK2RbNbFeTe9PO3
+_chemical_formula_sum   'Cs1 K2 Rb1 Nb1 Fe1 Te9 P1 O3'
+_cell_volume   597.59137648
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.95177311  0.33106133  0.46431452  1
+  Te  Te1  1  0.66893864  0.62071180  0.46431452  1
+  Te  Te2  1  0.37928820  0.04822689  0.46431452  1
+  Te  Te3  1  0.08225559  0.71400368  0.68028647  1
+  Te  Te4  1  0.28599632  0.36825192  0.68028647  1
+  Te  Te5  1  0.63174808  0.91774440  0.68028647  1
+  Te  Te6  1  0.62991536  0.95935071  0.11645970  1
+  Te  Te7  1  0.04064929  0.67056465  0.11645970  1
+  Te  Te8  1  0.32943535  0.37008464  0.11645970  1
+  K  K9  1  0.00000000  0.00000000  0.83779281  1
+  Cs  Cs10  1  0.00000000  0.00000000  0.32027459  1
+  K  K11  1  0.33333334  0.66666669  0.92400533  1
+  Nb  Nb12  1  0.66666669  0.33333334  0.69848394  1
+  Fe  Fe13  1  0.66666669  0.33333334  0.41918808  1
+  Rb  Rb14  1  0.66666669  0.33333334  0.21808782  1
+  P  P15  1  0.66666669  0.33333334  0.91625744  1
+  O  O16  1  0.68761748  0.52574444  0.84967041  1
+  O  O17  1  0.47425556  0.16187304  0.84967041  1
+  O  O18  1  0.83812696  0.31238252  0.84967041  1

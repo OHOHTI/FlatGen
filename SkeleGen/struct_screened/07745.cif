@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_KTiMnTeCl15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.39724642
+_cell_length_b   7.63052220
+_cell_length_c   10.63220215
+_cell_angle_alpha   85.89469653
+_cell_angle_beta   93.21902964
+_cell_angle_gamma   88.32936688
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KTiMnTeCl15
+_chemical_formula_sum   'K1 Ti1 Mn1 Te1 Cl15'
+_cell_volume   597.31707352
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.70732105  0.72649115  0.20409375  1
+  Cl  Cl1  1  0.77695495  0.22398470  0.75274402  1
+  Cl  Cl2  1  0.25186163  0.77768934  0.80558282  1
+  Cl  Cl3  1  0.29765320  0.25437638  0.22966234  1
+  Cl  Cl4  1  0.47469789  0.03682965  0.99777305  1
+  Cl  Cl5  1  0.01877635  0.95136929  0.43569356  1
+  Cl  Cl6  1  0.94918442  0.47031066  0.99972159  1
+  Cl  Cl7  1  0.47195995  0.47968039  0.52153265  1
+  Cl  Cl8  1  0.93363822  0.52995569  0.50047702  1
+  Cl  Cl9  1  0.51504660  0.44932562  0.96444505  1
+  Cl  Cl10  1  0.52131093  0.97811186  0.48502147  1
+  Cl  Cl11  1  0.02855445  0.05575231  0.04809143  1
+  Te  Te12  1  0.59531254  0.71604407  0.39446643  1
+  Ti  Ti13  1  0.74084467  0.47213432  0.80982578  1
+  Cl  Cl14  1  0.76503408  0.72690302  0.77679062  1
+  Mn  Mn15  1  0.26562577  0.20849790  0.00345016  1
+  Cl  Cl16  1  0.29846531  0.71024698  0.27102771  1
+  Cl  Cl17  1  0.22913466  0.26494285  0.79760957  1
+  K  K18  1  0.78096563  0.23291799  0.32343394  1

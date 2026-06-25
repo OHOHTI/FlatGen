@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_BaTaCdCuPbI13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.48332977
+_cell_length_b   9.48332944
+_cell_length_c   9.92929268
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000447
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaTaCdCuPbI13
+_chemical_formula_sum   'Ba1 Ta1 Cd1 Cu1 Pb1 I13'
+_cell_volume   773.34025139
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.82699406  0.25616887  0.61979604  1
+  I  I1  1  0.74383116  0.57082522  0.61979604  1
+  I  I2  1  0.42917478  0.17300594  0.61979604  1
+  I  I3  1  0.16218078  0.75232005  0.66204387  1
+  I  I4  1  0.24767995  0.40986073  0.66204387  1
+  I  I5  1  0.59013927  0.83781922  0.66204387  1
+  I  I6  1  0.34793985  0.31711552  0.26051953  1
+  I  I7  1  0.68288445  0.03082433  0.26051953  1
+  I  I8  1  0.96917570  0.65206015  0.26051953  1
+  I  I9  1  0.00000000  0.00000000  0.00658010  1
+  Ba  Ba10  1  0.00000000  0.00000000  0.49419180  1
+  Ta  Ta11  1  0.33333334  0.66666669  0.84543103  1
+  Pb  Pb12  1  0.33333334  0.66666669  0.17582884  1
+  Cu  Cu13  1  0.66666669  0.33333334  0.75541133  1
+  Cd  Cd14  1  0.66666669  0.33333334  0.21198213  1
+  I  I15  1  0.37825835  0.97151124  0.94898582  1
+  I  I16  1  0.02848876  0.40674710  0.94898582  1
+  I  I17  1  0.59325290  0.62174165  0.94898582  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_SmEu4BeZnPCS9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.91475439
+_cell_length_b   3.91475423
+_cell_length_c   29.56642151
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000536
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmEu4BeZnPCS9
+_chemical_formula_sum   'Sm1 Eu4 Be1 Zn1 P1 C1 S9'
+_cell_volume   392.40848954
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.00000000  0.00000000  0.02861439  1
+  Eu  Eu1  1  0.66666669  0.33333334  0.60855597  1
+  Eu  Eu2  1  0.33333334  0.66666669  0.31059891  1
+  Eu  Eu3  1  0.00000000  0.00000000  0.45874238  1
+  S  S4  1  0.00000000  0.00000000  0.65867567  1
+  S  S5  1  0.00000000  0.00000000  0.27919671  1
+  S  S6  1  0.00000000  0.00000000  0.18819341  1
+  C  C7  1  0.00000000  0.00000000  0.12819743  1
+  S  S8  1  0.00000000  0.00000000  0.94967306  1
+  Sm  Sm9  1  0.00000000  0.00000000  0.80342883  1
+  S  S10  1  0.33333334  0.66666669  0.09141131  1
+  S  S11  1  0.33333334  0.66666669  0.40240040  1
+  S  S12  1  0.33333334  0.66666669  0.76269656  1
+  Be  Be13  1  0.33333334  0.66666669  0.90201181  1
+  Zn  Zn14  1  0.66666669  0.33333334  0.20285110  1
+  S  S15  1  0.66666669  0.33333334  0.50757331  1
+  S  S16  1  0.66666669  0.33333334  0.86772233  1
+  P  P17  1  0.66666669  0.33333334  0.71733034  1

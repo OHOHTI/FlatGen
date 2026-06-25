@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Sr(AlBr5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.06150150
+_cell_length_b   7.06150109
+_cell_length_c   10.31467056
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000640
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(AlBr5)2
+_chemical_formula_sum   'Sr1 Al2 Br10'
+_cell_volume   445.43060315
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.33333334  0.66666669  0.53831583  1
+  Br  Br1  1  0.66666669  0.33333334  0.46168417  1
+  Br  Br2  1  0.33333334  0.66666669  0.95572460  1
+  Br  Br3  1  0.66666669  0.33333334  0.04427540  1
+  Br  Br4  1  0.26478079  0.34357473  0.25354037  1
+  Br  Br5  1  0.65642524  0.92120606  0.25354037  1
+  Br  Br6  1  0.07879394  0.73521924  0.25354037  1
+  Br  Br7  1  0.73521924  0.65642524  0.74645960  1
+  Br  Br8  1  0.34357473  0.07879394  0.74645960  1
+  Br  Br9  1  0.92120606  0.26478079  0.74645960  1
+  Sr  Sr10  1  0.00000000  0.00000000  0.00000000  1
+  Al  Al11  1  0.33333334  0.66666669  0.30698466  1
+  Al  Al12  1  0.66666669  0.33333334  0.69301534  1

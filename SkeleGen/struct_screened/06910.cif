@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ErMnS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.19721794
+_cell_length_b   6.19721773
+_cell_length_c   5.79897690
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000622
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErMnS8
+_chemical_formula_sum   'Er1 Mn1 S8'
+_cell_volume   192.87480826
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.68677032  0.68752491  0.23499471  1
+  S  S1  1  0.31247509  0.99924541  0.23499471  1
+  S  S2  1  0.00075459  0.31322968  0.23499471  1
+  S  S3  1  0.67451322  0.00771750  0.73392481  1
+  S  S4  1  0.99228251  0.66679573  0.73392481  1
+  S  S5  1  0.33320427  0.32548678  0.73392481  1
+  S  S6  1  0.33333334  0.66666669  0.96508783  1
+  S  S7  1  0.66666669  0.33333334  0.43873969  1
+  Er  Er8  1  0.00000000  0.00000000  0.94770211  1
+  Mn  Mn9  1  0.33333334  0.66666669  0.48670101  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_YbVCdCO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.89971495
+_cell_length_b   4.89971460
+_cell_length_c   8.31844902
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000559
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbVCdCO9
+_chemical_formula_sum   'Yb1 V1 Cd1 C1 O9'
+_cell_volume   172.94760999
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.66666669  0.33333334  0.40982154  1
+  O  O1  1  0.33333334  0.66666669  0.49596447  1
+  O  O2  1  0.70836312  0.01108908  0.71586835  1
+  O  O3  1  0.98891091  0.69727403  0.71586835  1
+  O  O4  1  0.30272597  0.29163688  0.71586835  1
+  O  O5  1  0.28025711  0.03043878  0.18242978  1
+  O  O6  1  0.96956122  0.24981833  0.18242978  1
+  O  O7  1  0.75018167  0.71974289  0.18242978  1
+  V  V8  1  0.00000000  0.00000000  0.76609224  1
+  Cd  Cd9  1  0.00000000  0.00000000  0.43212771  1
+  C  C10  1  0.00000000  0.00000000  0.13814338  1
+  O  O11  1  0.00000000  0.00000000  0.95289981  1
+  Yb  Yb12  1  0.33333334  0.66666669  0.96413517  1

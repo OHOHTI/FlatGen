@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_YbEuHfVCr(Te4O3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.96905088
+_cell_length_b   6.96905072
+_cell_length_c   10.36885738
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000530
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbEuHfVCr(Te4O3)2
+_chemical_formula_sum   'Yb1 Eu1 Hf1 V1 Cr1 Te8 O6'
+_cell_volume   436.12277863
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.67039222  0.63971424  0.25749537  1
+  Te  Te1  1  0.36028576  0.03067797  0.25749537  1
+  Te  Te2  1  0.96932203  0.32960778  0.25749537  1
+  Te  Te3  1  0.67743695  0.98907220  0.74406546  1
+  Te  Te4  1  0.01092780  0.68836474  0.74406546  1
+  Te  Te5  1  0.31163526  0.32256305  0.74406546  1
+  Te  Te6  1  0.33333334  0.66666669  0.98150051  1
+  Te  Te7  1  0.66666669  0.33333334  0.50768965  1
+  V  V8  1  0.00000000  0.00000000  0.91517323  1
+  Cr  Cr9  1  0.00000000  0.00000000  0.15905090  1
+  Yb  Yb10  1  0.00000000  0.00000000  0.52655298  1
+  Hf  Hf11  1  0.33333334  0.66666669  0.53233159  1
+  Eu  Eu12  1  0.66666669  0.33333334  0.94514388  1
+  O  O13  1  0.19482318  0.81623542  0.39445844  1
+  O  O14  1  0.18376458  0.37858772  0.39445844  1
+  O  O15  1  0.62141228  0.80517685  0.39445844  1
+  O  O16  1  0.28823394  0.04874090  0.08011005  1
+  O  O17  1  0.95125908  0.23949303  0.08011005  1
+  O  O18  1  0.76050699  0.71176606  0.08011005  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KBaAlCr2GeI14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.71693932
+_cell_length_b   8.97997096
+_cell_length_c   11.38329220
+_cell_angle_alpha   85.76650104
+_cell_angle_beta   88.97438140
+_cell_angle_gamma   90.96125166
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KBaAlCr2GeI14
+_chemical_formula_sum   'K1 Ba1 Al1 Cr2 Ge1 I14'
+_cell_volume   888.33978492
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.72185278  0.74512672  0.21780360  1
+  I  I1  1  0.75673562  0.25422868  0.72712749  1
+  I  I2  1  0.12241773  0.75121248  0.79492527  1
+  I  I3  1  0.30276531  0.26632032  0.28156686  1
+  I  I4  1  0.55261761  0.96053320  0.92638713  1
+  I  I5  1  0.98855102  0.98007607  0.47435784  1
+  I  I6  1  0.94968075  0.45107749  0.03960326  1
+  I  I7  1  0.47365788  0.57616198  0.55659181  1
+  I  I8  1  0.92832822  0.54017043  0.48733726  1
+  I  I9  1  0.49369308  0.46336257  0.97203666  1
+  I  I10  1  0.52504796  0.98101616  0.45756850  1
+  I  I11  1  0.00155947  0.05042440  0.05060059  1
+  Cr  Cr12  1  0.75417644  0.25121415  0.94039220  1
+  Al  Al13  1  0.25395864  0.11644764  0.48001784  1
+  I  I14  1  0.22773354  0.74569762  0.22216800  1
+  Ge  Ge15  1  0.30065501  0.92087471  0.05369346  1
+  I  I16  1  0.21573009  0.23859937  0.70566177  1
+  Cr  Cr17  1  0.95985931  0.75755680  0.33967477  1
+  Ba  Ba18  1  0.74416488  0.75577343  0.70771331  1
+  K  K19  1  0.69759220  0.25446376  0.27709788  1

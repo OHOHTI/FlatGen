@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Na2AgC(Cl4O3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.58805084
+_cell_length_b   6.58805061
+_cell_length_c   8.69045734
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999396
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2AgC(Cl4O3)2
+_chemical_formula_sum   'Na2 Ag1 C1 Cl8 O6'
+_cell_volume   326.65338240
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.66666669  0.33333334  0.53308690  1
+  Cl  Cl1  1  0.33333334  0.66666669  0.48921213  1
+  Cl  Cl2  1  0.64043427  0.03174447  0.78892851  1
+  Cl  Cl3  1  0.96825552  0.60868979  0.78892851  1
+  Cl  Cl4  1  0.39131021  0.35956573  0.78892851  1
+  Cl  Cl5  1  0.62038904  0.02579929  0.25763354  1
+  Cl  Cl6  1  0.97420073  0.59458977  0.25763354  1
+  Cl  Cl7  1  0.40541023  0.37961096  0.25763354  1
+  Na  Na8  1  0.00000000  0.00000000  0.10039480  1
+  C  C9  1  0.00000000  0.00000000  0.51078653  1
+  Ag  Ag10  1  0.33333334  0.66666669  0.06487800  1
+  Na  Na11  1  0.66666669  0.33333334  0.07297175  1
+  O  O12  1  0.07713118  0.22162527  0.53558689  1
+  O  O13  1  0.77837473  0.85550594  0.53558689  1
+  O  O14  1  0.14449409  0.92286885  0.53558689  1
+  O  O15  1  0.06789169  0.30390805  0.98688316  1
+  O  O16  1  0.69609195  0.76398361  0.98688316  1
+  O  O17  1  0.23601636  0.93210828  0.98688316  1

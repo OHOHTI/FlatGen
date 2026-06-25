@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_KThNbSnCl10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.94214249
+_cell_length_b   6.94214219
+_cell_length_c   10.69048309
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000596
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KThNbSnCl10
+_chemical_formula_sum   'K1 Th1 Nb1 Sn1 Cl10'
+_cell_volume   446.18499869
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.89244282  0.24925187  0.54646707  1
+  Cl  Cl1  1  0.75074816  0.64319098  0.54646707  1
+  Cl  Cl2  1  0.35680902  0.10755718  0.54646707  1
+  Cl  Cl3  1  0.23298058  0.90277070  0.85833079  1
+  Cl  Cl4  1  0.09722930  0.33020985  0.85833079  1
+  Cl  Cl5  1  0.66979015  0.76701939  0.85833079  1
+  Cl  Cl6  1  0.64080387  0.95900822  0.17885813  1
+  Cl  Cl7  1  0.04099178  0.68179566  0.17885813  1
+  Cl  Cl8  1  0.31820434  0.35919613  0.17885813  1
+  Nb  Nb9  1  0.00000000  0.00000000  0.99802452  1
+  K  K10  1  0.00000000  0.00000000  0.37676260  1
+  Th  Th11  1  0.33333334  0.66666669  0.03538829  1
+  Cl  Cl12  1  0.66666669  0.33333334  0.98953515  1
+  Sn  Sn13  1  0.66666669  0.33333334  0.66149384  1

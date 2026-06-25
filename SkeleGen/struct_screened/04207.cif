@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Mn5NbZnMoO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.18319750
+_cell_length_b   5.18319744
+_cell_length_c   10.70594788
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000343
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn5NbZnMoO12
+_chemical_formula_sum   'Mn5 Nb1 Zn1 Mo1 O12'
+_cell_volume   249.08710828
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.00000000  0.08605604  1
+  Mn  Mn1  1  0.66666669  0.33333334  0.62611896  1
+  Mn  Mn2  1  0.33333334  0.66666669  0.39301562  1
+  Mn  Mn3  1  0.00000000  0.00000000  0.41179845  1
+  Zn  Zn4  1  0.33333334  0.66666669  0.85816199  1
+  Mn  Mn5  1  0.66666669  0.33333334  0.38072193  1
+  Nb  Nb6  1  0.66666669  0.33333334  0.87772137  1
+  Mo  Mo7  1  0.66666669  0.33333334  0.14056435  1
+  O  O8  1  0.35478890  0.34531328  0.50481677  1
+  O  O9  1  0.65468669  0.00947562  0.50481677  1
+  O  O10  1  0.99052441  0.64521110  0.50481677  1
+  O  O11  1  0.32294059  0.30965656  0.24294803  1
+  O  O12  1  0.69034344  0.01328403  0.24294803  1
+  O  O13  1  0.98671597  0.67705941  0.24294803  1
+  O  O14  1  0.66448534  0.64925355  0.74605978  1
+  O  O15  1  0.35074645  0.01523179  0.74605978  1
+  O  O16  1  0.98476821  0.33551466  0.74605978  1
+  O  O17  1  0.67395985  0.62870264  0.99276483  1
+  O  O18  1  0.37129736  0.04525721  0.99276483  1
+  O  O19  1  0.95474279  0.32604015  0.99276483  1

@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_NaSrLiVH3(Cl2O)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.32933712
+_cell_length_b   6.32933686
+_cell_length_c   10.62573242
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000635
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSrLiVH3(Cl2O)4
+_chemical_formula_sum   'Na1 Sr1 Li1 V1 H3 Cl8 O4'
+_cell_volume   368.64293704
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.65050292  0.65981227  0.25183308  1
+  Cl  Cl1  1  0.34018773  0.99069065  0.25183308  1
+  Cl  Cl2  1  0.00930935  0.34949708  0.25183308  1
+  Cl  Cl3  1  0.64733970  0.94169766  0.64357913  1
+  Cl  Cl4  1  0.05830234  0.70564204  0.64357913  1
+  Cl  Cl5  1  0.29435796  0.35266030  0.64357913  1
+  Cl  Cl6  1  0.33333334  0.66666669  0.88409740  1
+  Cl  Cl7  1  0.66666669  0.33333334  0.43874928  1
+  Sr  Sr8  1  0.00000000  0.00000000  0.42339662  1
+  V  V9  1  0.00000000  0.00000000  0.93602544  1
+  O  O10  1  0.00000000  0.00000000  0.79896337  1
+  Li  Li11  1  0.00000000  0.00000000  0.15003861  1
+  Na  Na12  1  0.33333334  0.66666669  0.40238330  1
+  H  H13  1  0.15204673  0.76374787  0.55528522  1
+  H  H14  1  0.23625213  0.38829887  0.55528522  1
+  H  H15  1  0.61170113  0.84795326  0.55528522  1
+  O  O16  1  0.79037684  0.08286802  0.01264523  1
+  O  O17  1  0.91713196  0.70750880  0.01264523  1
+  O  O18  1  0.29249120  0.20962316  0.01264523  1

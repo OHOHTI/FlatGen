@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_UNb3CoSnS11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.46037674
+_cell_length_b   6.46037671
+_cell_length_c   9.40040779
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000504
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UNb3CoSnS11
+_chemical_formula_sum   'U1 Nb3 Co1 Sn1 S11'
+_cell_volume   339.77622812
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.66666669  0.33333334  0.45262641  1
+  S  S1  1  0.33333334  0.66666669  0.46048129  1
+  S  S2  1  0.65933263  0.99980718  0.94297355  1
+  S  S3  1  0.00019282  0.65952545  0.94297355  1
+  S  S4  1  0.34047455  0.34066737  0.94297355  1
+  S  S5  1  0.32443592  0.99488842  0.21136406  1
+  S  S6  1  0.00511158  0.32954752  0.21136406  1
+  S  S7  1  0.67045248  0.67556405  0.21136406  1
+  Sn  Sn8  1  0.00000000  0.00000000  0.04729534  1
+  Co  Co9  1  0.00000000  0.00000000  0.57697797  1
+  U  U10  1  0.66666669  0.33333334  0.06246531  1
+  Nb  Nb11  1  0.66403961  0.97729236  0.35286540  1
+  Nb  Nb12  1  0.02270764  0.68674725  0.35286540  1
+  Nb  Nb13  1  0.31325275  0.33596039  0.35286540  1
+  S  S14  1  0.99502069  0.31140542  0.69059998  1
+  S  S15  1  0.68859458  0.68361527  0.69059998  1
+  S  S16  1  0.31638473  0.00497931  0.69059998  1

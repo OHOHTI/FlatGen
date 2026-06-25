@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_RbVCr3FeSbBr8Cl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.29585505
+_cell_length_b   7.29585470
+_cell_length_c   12.77905369
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000589
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbVCr3FeSbBr8Cl3
+_chemical_formula_sum   'Rb1 V1 Cr3 Fe1 Sb1 Br8 Cl3'
+_cell_volume   589.09003149
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.68971765  0.68786788  0.28452891  1
+  Br  Br1  1  0.31213212  0.00184977  0.28452891  1
+  Br  Br2  1  0.99815023  0.31028235  0.28452891  1
+  Br  Br3  1  0.63924813  0.97271192  0.64422953  1
+  Br  Br4  1  0.02728808  0.66653621  0.64422953  1
+  Br  Br5  1  0.33346379  0.36075187  0.64422953  1
+  Br  Br6  1  0.33333334  0.66666669  0.12898929  1
+  Br  Br7  1  0.66666669  0.33333334  0.47885510  1
+  Fe  Fe8  1  0.00000000  0.00000000  0.90462929  1
+  Sb  Sb9  1  0.33333334  0.66666669  0.44697738  1
+  V  V10  1  0.33333334  0.66666669  0.62066078  1
+  Rb  Rb11  1  0.33333334  0.66666669  0.89402068  1
+  Cr  Cr12  1  0.34854993  0.34575069  0.38389847  1
+  Cr  Cr13  1  0.65424931  0.00279924  0.38389847  1
+  Cr  Cr14  1  0.99720073  0.65145004  0.38389847  1
+  Cl  Cl15  1  0.32008201  0.15116104  0.94628263  1
+  Cl  Cl16  1  0.84883893  0.16892096  0.94628263  1
+  Cl  Cl17  1  0.83107901  0.67991799  0.94628263  1

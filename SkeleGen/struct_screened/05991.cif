@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_TaMnTe4Br3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.94804716
+_cell_length_b   6.94804687
+_cell_length_c   14.18328381
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000594
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaMnTe4Br3
+_chemical_formula_sum   'Ta2 Mn2 Te8 Br6'
+_cell_volume   592.97023767
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.65943879  0.69578618  0.28558129  1
+  Te  Te1  1  0.30421382  0.96365261  0.28558129  1
+  Te  Te2  1  0.03634739  0.34056121  0.28558129  1
+  Te  Te3  1  0.34056121  0.30421382  0.78558129  1
+  Te  Te4  1  0.69578618  0.03634739  0.78558129  1
+  Te  Te5  1  0.96365261  0.65943879  0.78558129  1
+  Te  Te6  1  0.33333334  0.66666669  0.93492472  1
+  Te  Te7  1  0.66666669  0.33333334  0.43492472  1
+  Mn  Mn8  1  0.00000000  0.00000000  0.68025804  1
+  Mn  Mn9  1  0.00000000  0.00000000  0.18025804  1
+  Ta  Ta10  1  0.33333334  0.66666669  0.42505160  1
+  Ta  Ta11  1  0.66666669  0.33333334  0.92505157  1
+  Br  Br12  1  0.29693967  0.95839477  0.56122643  1
+  Br  Br13  1  0.04160523  0.33854491  0.56122643  1
+  Br  Br14  1  0.66145509  0.70306033  0.56122643  1
+  Br  Br15  1  0.70306033  0.04160523  0.06122637  1
+  Br  Br16  1  0.95839477  0.66145509  0.06122637  1
+  Br  Br17  1  0.33854491  0.29693967  0.06122637  1

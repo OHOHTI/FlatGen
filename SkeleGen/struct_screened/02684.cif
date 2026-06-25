@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_KMnVMoF10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43794145
+_cell_length_b   6.39190673
+_cell_length_c   6.50692558
+_cell_angle_alpha   87.86503551
+_cell_angle_beta   92.90635741
+_cell_angle_gamma   91.04436548
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KMnVMoF10
+_chemical_formula_sum   'K1 Mn1 V1 Mo1 F10'
+_cell_volume   225.69505764
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.35262847  0.67781812  0.61110127  1
+  F  F1  1  0.64390635  0.29713282  0.06105535  1
+  F  F2  1  0.18158370  0.39413306  0.29308018  1
+  F  F3  1  0.85409486  0.00088219  0.75323528  1
+  F  F4  1  0.37267244  0.07380823  0.70631635  1
+  F  F5  1  0.68485624  0.82447314  0.27608457  1
+  F  F6  1  0.14657138  0.89305317  0.25013816  1
+  F  F7  1  0.82587659  0.62937152  0.76019377  1
+  F  F8  1  0.39795715  0.66596937  0.00396051  1
+  F  F9  1  0.67428863  0.36251342  0.46227759  1
+  Mn  Mn10  1  0.99283230  0.70668191  0.46084484  1
+  V  V11  1  0.48558626  0.47473145  0.22267248  1
+  Mo  Mo12  1  0.60370868  0.84973174  0.81008404  1
+  K  K13  1  0.08985380  0.33436507  0.86420155  1

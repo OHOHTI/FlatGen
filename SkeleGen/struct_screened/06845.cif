@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_RbLi2ScTlCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.65349197
+_cell_length_b   6.65349179
+_cell_length_c   10.91467094
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000564
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbLi2ScTlCl8
+_chemical_formula_sum   'Rb1 Li2 Sc1 Tl1 Cl8'
+_cell_volume   418.44705635
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.63144904  0.67049044  0.31464735  1
+  Cl  Cl1  1  0.32950956  0.96095860  0.31464735  1
+  Cl  Cl2  1  0.03904140  0.36855096  0.31464735  1
+  Cl  Cl3  1  0.63887030  0.98821628  0.76232344  1
+  Cl  Cl4  1  0.01178372  0.65065402  0.76232344  1
+  Cl  Cl5  1  0.34934598  0.36112970  0.76232344  1
+  Cl  Cl6  1  0.33333334  0.66666669  0.01046956  1
+  Cl  Cl7  1  0.66666669  0.33333334  0.53731054  1
+  Rb  Rb8  1  0.00000000  0.00000000  0.99207282  1
+  Tl  Tl9  1  0.00000000  0.00000000  0.53605771  1
+  Li  Li10  1  0.33333334  0.66666669  0.68964285  1
+  Sc  Sc11  1  0.33333334  0.66666669  0.21473452  1
+  Li  Li12  1  0.33333334  0.66666669  0.45433483  1

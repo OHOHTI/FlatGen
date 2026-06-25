@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CsTbTlCuBiRhI14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.57051159
+_cell_length_b   8.90659063
+_cell_length_c   12.04066658
+_cell_angle_alpha   90.46881992
+_cell_angle_beta   86.94667574
+_cell_angle_gamma   89.75426619
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsTbTlCuBiRhI14
+_chemical_formula_sum   'Cs1 Tb1 Tl1 Cu1 Bi1 Rh1 I14'
+_cell_volume   917.76692735
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.76256192  0.90485388  0.24332954  1
+  I  I1  1  0.80188978  0.22315718  0.67812747  1
+  I  I2  1  0.20481290  0.72955179  0.77719617  1
+  I  I3  1  0.32081890  0.29154119  0.17877944  1
+  I  I4  1  0.51185620  0.06259673  0.93074644  1
+  I  I5  1  0.06391484  0.04605120  0.45183700  1
+  I  I6  1  0.96617544  0.49831063  0.04666130  1
+  I  I7  1  0.57687968  0.44635296  0.43626359  1
+  I  I8  1  0.00659713  0.57555890  0.46259469  1
+  I  I9  1  0.57280803  0.51271617  0.90638155  1
+  I  I10  1  0.47921872  0.87641078  0.54421014  1
+  I  I11  1  0.05765584  0.05169430  0.96465218  1
+  Cs  Cs12  1  0.76692677  0.81103688  0.79968077  1
+  Tb  Tb13  1  0.28610283  0.29934525  0.93005353  1
+  I  I14  1  0.27229497  0.31476748  0.69234598  1
+  Rh  Rh15  1  0.75416845  0.02198278  0.49262357  1
+  I  I16  1  0.33642647  0.71033067  0.19121650  1
+  Tl  Tl17  1  0.46396571  0.14740635  0.37413684  1
+  Cu  Cu18  1  0.83912104  0.38108063  0.51192605  1
+  Bi  Bi19  1  0.81952149  0.23001373  0.27941188  1

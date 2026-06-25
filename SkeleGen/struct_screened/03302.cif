@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Ag4Te2(OF2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73123693
+_cell_length_b   5.73123679
+_cell_length_c   7.63694286
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999258
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ag4Te2(OF2)3
+_chemical_formula_sum   'Ag4 Te2 O3 F6'
+_cell_volume   217.24356475
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.00000000  0.00000000  0.00000000  1
+  Ag  Ag1  1  0.33333334  0.66666669  0.36343476  1
+  Ag  Ag2  1  0.66666669  0.33333334  0.63656521  1
+  Ag  Ag3  1  0.00000000  0.00000000  0.50000000  1
+  Te  Te4  1  0.33333334  0.66666669  0.85138118  1
+  Te  Te5  1  0.66666669  0.33333334  0.14861882  1
+  O  O6  1  0.42830420  0.00000000  0.00000000  1
+  O  O7  1  0.00000000  0.42830420  0.00000000  1
+  O  O8  1  0.57169580  0.57169580  0.00000000  1
+  F  F9  1  0.37551907  0.29542193  0.31635767  1
+  F  F10  1  0.70457804  0.08009714  0.31635767  1
+  F  F11  1  0.91990286  0.62448096  0.31635767  1
+  F  F12  1  0.29542193  0.37551907  0.68364233  1
+  F  F13  1  0.08009714  0.70457804  0.68364233  1
+  F  F14  1  0.62448096  0.91990286  0.68364233  1

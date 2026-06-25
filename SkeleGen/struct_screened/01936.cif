@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_KLi2ZnBi3H3BrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.62610152
+_cell_length_b   5.39436944
+_cell_length_c   8.07812595
+_cell_angle_alpha   95.57678299
+_cell_angle_beta   83.85113167
+_cell_angle_gamma   86.99776243
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KLi2ZnBi3H3BrO4
+_chemical_formula_sum   'K1 Li2 Zn1 Bi3 H3 Br1 O4'
+_cell_volume   242.11225229
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.83885521  0.33585307  0.95874119  1
+  Bi  Bi1  1  0.24849279  0.64000916  0.43406799  1
+  Bi  Bi2  1  0.94330060  0.05603095  0.61373949  1
+  O  O3  1  0.88834262  0.97900188  0.14215578  1
+  O  O4  1  0.74987751  0.83294684  0.78202069  1
+  H  H5  1  0.34214595  0.23264651  0.90285379  1
+  O  O6  1  0.33969757  0.03374434  0.94627875  1
+  O  O7  1  0.39942712  0.56544393  0.97067791  1
+  Br  Br8  1  0.43198684  0.20818296  0.61924624  1
+  Li  Li9  1  0.11551312  0.74992257  0.85782719  1
+  H  H10  1  0.06466485  0.99982929  0.10465854  1
+  Zn  Zn11  1  0.61354363  0.89738357  0.03982463  1
+  K  K12  1  0.26512060  0.28771490  0.25894043  1
+  Li  Li13  1  0.69443065  0.98100257  0.33700007  1
+  H  H14  1  0.56167811  0.80633759  0.78593582  1

@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_FeCu5MoO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.94368935
+_cell_length_b   4.94368911
+_cell_length_c   9.57088470
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000479
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeCu5MoO12
+_chemical_formula_sum   'Fe1 Cu5 Mo1 O12'
+_cell_volume   202.57461373
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000000  0.00000000  0.03796375  1
+  Cu  Cu1  1  0.66666669  0.33333334  0.52781147  1
+  Cu  Cu2  1  0.33333334  0.66666669  0.26874411  1
+  Cu  Cu3  1  0.00000000  0.00000000  0.53405780  1
+  Cu  Cu4  1  0.66666669  0.33333334  0.02872971  1
+  Fe  Fe5  1  0.66666669  0.33333334  0.27244037  1
+  Mo  Mo6  1  0.66666669  0.33333334  0.77562302  1
+  O  O7  1  0.67830640  0.02560171  0.14885674  1
+  O  O8  1  0.97439831  0.65270472  0.14885674  1
+  O  O9  1  0.34729528  0.32169360  0.14885674  1
+  O  O10  1  0.97010183  0.65826237  0.64277899  1
+  O  O11  1  0.34173763  0.31183946  0.64277899  1
+  O  O12  1  0.68816054  0.02989817  0.64277899  1
+  O  O13  1  0.36404386  0.99802291  0.38577625  1
+  O  O14  1  0.00197709  0.36602092  0.38577625  1
+  O  O15  1  0.63397908  0.63595617  0.38577625  1
+  O  O16  1  0.69906533  0.64519280  0.88554466  1
+  O  O17  1  0.35480720  0.05387253  0.88554466  1
+  O  O18  1  0.94612747  0.30093467  0.88554466  1

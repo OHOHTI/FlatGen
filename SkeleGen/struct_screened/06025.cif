@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_KRbTlVSiF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.93059206
+_cell_length_b   5.93059191
+_cell_length_c   8.28626442
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000350
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KRbTlVSiF8
+_chemical_formula_sum   'Rb1 K1 Tl1 V1 Si1 F8'
+_cell_volume   252.39776026
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.00492252  1
+  F  F1  1  0.66666669  0.33333334  0.01971518  1
+  F  F2  1  0.65176469  0.05495505  0.75371110  1
+  F  F3  1  0.94504493  0.59680963  0.75371110  1
+  F  F4  1  0.40319037  0.34823531  0.75371110  1
+  F  F5  1  0.59343779  0.92738241  0.26554897  1
+  F  F6  1  0.07261759  0.66605538  0.26554897  1
+  F  F7  1  0.33394462  0.40656221  0.26554897  1
+  Tl  Tl8  1  0.00000000  0.00000000  0.57370192  1
+  Rb  Rb9  1  0.00000000  0.00000000  0.05689098  1
+  V  V10  1  0.33333334  0.66666669  0.20562373  1
+  Si  Si11  1  0.66666669  0.33333334  0.81496978  1
+  K  K12  1  0.66666669  0.33333334  0.40954730  1

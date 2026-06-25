@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_LiFeNiAsOF14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.41516032
+_cell_length_b   5.78272464
+_cell_length_c   9.09815216
+_cell_angle_alpha   93.57366700
+_cell_angle_beta   99.96530321
+_cell_angle_gamma   104.88511127
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiFeNiAsOF14
+_chemical_formula_sum   'Li1 Fe1 Ni1 As1 O1 F14'
+_cell_volume   269.47635527
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.37705293  0.06926279  0.39316249  1
+  F  F1  1  0.64247555  0.83918339  0.59465539  1
+  F  F2  1  0.26165193  0.68515736  0.77588594  1
+  F  F3  1  0.73688084  0.33522409  0.25444198  1
+  F  F4  1  0.51624596  0.31094304  0.67003590  1
+  F  F5  1  0.48387954  0.60841441  0.39629933  1
+  F  F6  1  0.08179863  0.32889751  0.10572179  1
+  F  F7  1  0.91114891  0.55287457  0.86530429  1
+  Fe  Fe8  1  0.74964106  0.87036288  0.42136303  1
+  F  F9  1  0.90022093  0.13428630  0.49404675  1
+  F  F10  1  0.00242354  0.66406524  0.45757815  1
+  F  F11  1  0.00353511  0.08819049  0.86108404  1
+  Li  Li12  1  0.60700333  0.33264771  0.46252254  1
+  Ni  Ni13  1  0.75701571  0.30928630  0.95106584  1
+  O  O14  1  0.49010843  0.05389289  0.93989694  1
+  F  F15  1  0.58949739  0.55390579  0.99969977  1
+  F  F16  1  0.20164716  0.81677425  0.10269558  1
+  F  F17  1  0.79460150  0.91423076  0.24402829  1
+  As  As18  1  0.24671946  0.86951882  0.92196912  1

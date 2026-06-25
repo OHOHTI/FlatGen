@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KUPaCdReGeBr14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.31774703
+_cell_length_b   8.48783438
+_cell_length_c   10.37300873
+_cell_angle_alpha   86.52193390
+_cell_angle_beta   92.26063800
+_cell_angle_gamma   97.44235723
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KUPaCdReGeBr14
+_chemical_formula_sum   'K1 U1 Pa1 Cd1 Re1 Ge1 Br14'
+_cell_volume   724.45474658
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.71655774  0.82137728  0.25720432  1
+  Br  Br1  1  0.72984588  0.22608985  0.70264030  1
+  Br  Br2  1  0.18418920  0.74130833  0.79262179  1
+  Br  Br3  1  0.34998053  0.24054070  0.28694245  1
+  Br  Br4  1  0.48204991  0.01301940  0.95764142  1
+  Br  Br5  1  0.02699579  0.95695722  0.52763706  1
+  Br  Br6  1  0.94213331  0.48948288  0.05112699  1
+  Br  Br7  1  0.54966950  0.56516039  0.53223950  1
+  Br  Br8  1  0.93358469  0.46351174  0.44261459  1
+  Br  Br9  1  0.55929685  0.50032383  0.03292266  1
+  Br  Br10  1  0.46358308  0.01790340  0.55738407  1
+  Br  Br11  1  0.03937003  0.07686408  0.00534459  1
+  Ge  Ge12  1  0.95976299  0.22461061  0.57427096  1
+  Br  Br13  1  0.23070201  0.70875514  0.23422983  1
+  Br  Br14  1  0.19657700  0.28343692  0.74383825  1
+  Pa  Pa15  1  0.24724419  0.42972854  0.05702227  1
+  U  U16  1  0.70199054  0.52777159  0.25915048  1
+  K  K17  1  0.71294039  0.74301648  0.79140311  1
+  Re  Re18  1  0.28599277  0.01790735  0.77084905  1
+  Cd  Cd19  1  0.68150127  0.20560893  0.39213163  1

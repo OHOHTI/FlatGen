@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaTiMnSbPPbO13F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49445343
+_cell_length_b   5.49445339
+_cell_length_c   9.20379257
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000311
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTiMnSbPPbO13F
+_chemical_formula_sum   'Na1 Ti1 Mn1 Sb1 P1 Pb1 O13 F1'
+_cell_volume   240.62814925
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.92356128  0.29029968  0.47954711  1
+  O  O1  1  0.70970035  0.63326156  0.47954711  1
+  O  O2  1  0.36673844  0.07643872  0.47954711  1
+  O  O3  1  0.03377704  0.63139433  0.71936125  1
+  O  O4  1  0.36860567  0.40238273  0.71936125  1
+  O  O5  1  0.59761727  0.96622294  0.71936125  1
+  O  O6  1  0.94887191  0.63321716  0.26281226  1
+  O  O7  1  0.36678284  0.31565475  0.26281226  1
+  O  O8  1  0.68434525  0.05112809  0.26281226  1
+  Na  Na9  1  0.00000000  0.00000000  0.09506533  1
+  Pb  Pb10  1  0.00000000  0.00000000  0.55825180  1
+  O  O11  1  0.33333334  0.66666669  0.48353711  1
+  F  F12  1  0.33333334  0.66666669  0.10186151  1
+  P  P13  1  0.33333334  0.66666669  0.61807674  1
+  Mn  Mn14  1  0.33333334  0.66666669  0.89664882  1
+  Ti  Ti15  1  0.66666669  0.33333334  0.35659844  1
+  Sb  Sb16  1  0.66666669  0.33333334  0.83932328  1
+  O  O17  1  0.69220662  0.63082641  0.95156622  1
+  O  O18  1  0.36917359  0.06138021  0.95156622  1
+  O  O19  1  0.93861979  0.30779338  0.95156622  1

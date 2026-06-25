@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_NaPr4CrCo3O10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.17685080
+_cell_length_b   6.17685081
+_cell_length_c   8.85436344
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000504
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaPr4CrCo3O10
+_chemical_formula_sum   'Na1 Pr4 Cr1 Co3 O10'
+_cell_volume   292.56487008
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.00000000  0.00000000  0.09295185  1
+  Pr  Pr1  1  0.66666669  0.33333334  0.56617320  1
+  Pr  Pr2  1  0.33333334  0.66666669  0.27647880  1
+  Pr  Pr3  1  0.00000000  0.00000000  0.56098539  1
+  Na  Na4  1  0.33333334  0.66666669  0.74623388  1
+  O  O5  1  0.66666669  0.33333334  0.31962311  1
+  Cr  Cr6  1  0.66666669  0.33333334  0.07062828  1
+  O  O7  1  0.70616263  0.70368922  0.66704464  1
+  O  O8  1  0.29631078  0.00247341  0.66704464  1
+  O  O9  1  0.99752659  0.29383737  0.66704464  1
+  O  O10  1  0.37645060  0.34068230  0.91504163  1
+  O  O11  1  0.65931773  0.03576830  0.91504163  1
+  O  O12  1  0.96423173  0.62354940  0.91504163  1
+  Co  Co13  1  0.00522329  0.33012000  0.90910387  1
+  Co  Co14  1  0.66988003  0.67510331  0.90910387  1
+  Co  Co15  1  0.32489669  0.99477673  0.90910387  1
+  O  O16  1  0.03126581  0.38044927  0.13910547  1
+  O  O17  1  0.61955070  0.65081656  0.13910547  1
+  O  O18  1  0.34918347  0.96873420  0.13910547  1

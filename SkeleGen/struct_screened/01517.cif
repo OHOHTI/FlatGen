@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NaTlCd2P2F8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49549770
+_cell_length_b   5.49549742
+_cell_length_c   9.31116486
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000459
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTlCd2P2F8
+_chemical_formula_sum   'Na1 Tl1 Cd2 P2 F8'
+_cell_volume   243.52786789
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.06959449  1
+  F  F1  1  0.66666669  0.33333334  0.93040550  1
+  F  F2  1  0.51912796  0.48087204  0.67205966  1
+  F  F3  1  0.51912796  0.03825593  0.67205966  1
+  F  F4  1  0.96174407  0.48087204  0.67205966  1
+  F  F5  1  0.48087204  0.51912796  0.32794034  1
+  F  F6  1  0.03825593  0.51912796  0.32794034  1
+  F  F7  1  0.48087204  0.96174407  0.32794034  1
+  Na  Na8  1  0.00000000  0.00000000  0.00000000  1
+  Tl  Tl9  1  0.00000000  0.00000000  0.50000000  1
+  P  P10  1  0.33333334  0.66666669  0.26086041  1
+  P  P11  1  0.66666669  0.33333334  0.73913956  1
+  Cd  Cd12  1  0.33333334  0.66666669  0.82132608  1
+  Cd  Cd13  1  0.66666669  0.33333334  0.17867392  1

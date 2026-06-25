@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_MnAlSbPI14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.73960590
+_cell_length_b   9.73960584
+_cell_length_c   10.80375862
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000345
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnAlSbPI14
+_chemical_formula_sum   'Mn1 Al1 Sb1 P1 I14'
+_cell_volume   887.54065355
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.57607788  0.65977788  0.49929839  1
+  I  I1  1  0.34022212  0.91630000  0.49929839  1
+  I  I2  1  0.08370000  0.42392212  0.49929839  1
+  I  I3  1  0.90305215  0.44053170  0.00155549  1
+  I  I4  1  0.55946827  0.46252045  0.00155549  1
+  I  I5  1  0.53747952  0.09694785  0.00155549  1
+  I  I6  1  0.66666669  0.33333334  0.38034821  1
+  I  I7  1  0.79846853  0.06050695  0.72367424  1
+  I  I8  1  0.93949306  0.73796159  0.72367424  1
+  I  I9  1  0.26203841  0.20153147  0.72367424  1
+  I  I10  1  0.33333334  0.66666669  0.91118622  1
+  I  I11  1  0.25494859  0.25967193  0.23991901  1
+  I  I12  1  0.74032807  0.99527669  0.23991901  1
+  I  I13  1  0.00472334  0.74505138  0.23991901  1
+  Mn  Mn14  1  0.00000000  0.00000000  0.63391143  1
+  P  P15  1  0.00000000  0.00000000  0.37713289  1
+  Al  Al16  1  0.33333334  0.66666669  0.38996521  1
+  Sb  Sb17  1  0.66666669  0.33333334  0.14145480  1

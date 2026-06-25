@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_KRbTlGePbBr8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.35374832
+_cell_length_b   7.35374808
+_cell_length_c   10.81101418
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999249
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KRbTlGePbBr8
+_chemical_formula_sum   'K1 Rb1 Tl1 Ge1 Pb1 Br8'
+_cell_volume   506.30779272
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.66666669  0.33333334  0.60444158  1
+  Br  Br1  1  0.33333334  0.66666669  0.50421202  1
+  Br  Br2  1  0.65920162  0.02477459  0.88693857  1
+  Br  Br3  1  0.97522539  0.63442701  0.88693857  1
+  Br  Br4  1  0.36557299  0.34079838  0.88693857  1
+  Br  Br5  1  0.36479208  0.01101540  0.23774189  1
+  Br  Br6  1  0.98898458  0.35377666  0.23774189  1
+  Br  Br7  1  0.64622331  0.63520789  0.23774189  1
+  K  K8  1  0.00000000  0.00000000  0.04560105  1
+  Pb  Pb9  1  0.00000000  0.00000000  0.34688070  1
+  Rb  Rb10  1  0.00000000  0.00000000  0.66958469  1
+  Tl  Tl11  1  0.33333334  0.66666669  0.08472678  1
+  Ge  Ge12  1  0.66666669  0.33333334  0.06468941  1

@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Hf4Cr(FeO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30535698
+_cell_length_b   5.30535673
+_cell_length_c   9.15996742
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000451
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf4Cr(FeO6)2
+_chemical_formula_sum   'Hf4 Cr1 Fe2 O12'
+_cell_volume   223.28201547
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.00000000  0.00000000  0.97861207  1
+  Hf  Hf1  1  0.66666669  0.33333334  0.68969721  1
+  Hf  Hf2  1  0.33333334  0.66666669  0.44966003  1
+  Hf  Hf3  1  0.00000000  0.00000000  0.45905775  1
+  Fe  Fe4  1  0.33333334  0.66666669  0.76684296  1
+  Cr  Cr5  1  0.66666669  0.33333334  0.24926595  1
+  Fe  Fe6  1  0.66666669  0.33333334  0.98274261  1
+  O  O7  1  0.34156302  0.30912760  0.09744204  1
+  O  O8  1  0.69087243  0.03243542  0.09744204  1
+  O  O9  1  0.96756458  0.65843701  0.09744204  1
+  O  O10  1  0.35987005  0.00392298  0.84720355  1
+  O  O11  1  0.99607700  0.35594708  0.84720355  1
+  O  O12  1  0.64405292  0.64012992  0.84720355  1
+  O  O13  1  0.65885019  0.66669273  0.34024096  1
+  O  O14  1  0.33330727  0.99215746  0.34024096  1
+  O  O15  1  0.00784254  0.34114981  0.34024096  1
+  O  O16  1  0.65363735  0.97068906  0.59230465  1
+  O  O17  1  0.02931094  0.68294829  0.59230465  1
+  O  O18  1  0.31705171  0.34636265  0.59230465  1

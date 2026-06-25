@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_InOsCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.73363066
+_cell_length_b   6.73363055
+_cell_length_c   8.29446602
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000522
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InOsCl8
+_chemical_formula_sum   'In1 Os1 Cl8'
+_cell_volume   325.69989383
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.66666669  0.33333334  0.41984656  1
+  Cl  Cl1  1  0.33333334  0.66666669  0.44677567  1
+  Cl  Cl2  1  0.72775280  0.01776751  0.74912357  1
+  Cl  Cl3  1  0.98223251  0.70998532  0.74912357  1
+  Cl  Cl4  1  0.29001468  0.27224720  0.74912357  1
+  Cl  Cl5  1  0.29297891  0.98264527  0.07970849  1
+  Cl  Cl6  1  0.01735473  0.31033361  0.07970849  1
+  Cl  Cl7  1  0.68966639  0.70702112  0.07970849  1
+  Os  Os8  1  0.00000000  0.00000000  0.88021189  1
+  In  In9  1  0.00000000  0.00000000  0.30710393  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_BaMn3FeCo(OF2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.34671021
+_cell_length_b   6.34671004
+_cell_length_c   7.95437860
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000584
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaMn3FeCo(OF2)4
+_chemical_formula_sum   'Ba1 Mn3 Fe1 Co1 O4 F8'
+_cell_volume   277.48160011
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66666669  0.33333334  0.52436048  1
+  F  F1  1  0.33333334  0.66666669  0.50578183  1
+  F  F2  1  0.40930334  0.99436677  0.76667649  1
+  F  F3  1  0.00563323  0.41493654  0.76667649  1
+  F  F4  1  0.58506346  0.59069669  0.76667649  1
+  F  F5  1  0.39580360  0.00032723  0.25497210  1
+  F  F6  1  0.99967277  0.39547634  0.25497210  1
+  F  F7  1  0.60452366  0.60419643  0.25497210  1
+  Ba  Ba8  1  0.00000000  0.00000000  0.99762368  1
+  Fe  Fe9  1  0.33333334  0.66666669  0.21922243  1
+  O  O10  1  0.33333334  0.66666669  0.00105647  1
+  Co  Co11  1  0.33333334  0.66666669  0.76014143  1
+  Mn  Mn12  1  0.33876002  0.00612641  0.50513464  1
+  Mn  Mn13  1  0.99387360  0.33263361  0.50513464  1
+  Mn  Mn14  1  0.66736639  0.66123998  0.50513464  1
+  O  O15  1  0.23596235  0.25654194  0.52419221  1
+  O  O16  1  0.74345803  0.97942042  0.52419221  1
+  O  O17  1  0.02057959  0.76403767  0.52419221  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LiNb4AlCuF13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43959141
+_cell_length_b   5.43959124
+_cell_length_c   10.00845718
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000393
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiNb4AlCuF13
+_chemical_formula_sum   'Li1 Nb4 Al1 Cu1 F13'
+_cell_volume   256.46629321
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.00000000  0.00000000  0.90520352  1
+  Nb  Nb1  1  0.66666669  0.33333334  0.65599185  1
+  Nb  Nb2  1  0.33333334  0.66666669  0.39951602  1
+  Nb  Nb3  1  0.00000000  0.00000000  0.41537616  1
+  Cu  Cu4  1  0.33333334  0.66666669  0.66761905  1
+  Al  Al5  1  0.33333334  0.66666669  0.91947716  1
+  F  F6  1  0.33333334  0.66666669  0.16232570  1
+  Li  Li7  1  0.66666669  0.33333334  0.17319319  1
+  F  F8  1  0.00674324  0.32167882  0.01083155  1
+  F  F9  1  0.67832118  0.68506444  0.01083155  1
+  F  F10  1  0.31493556  0.99325675  0.01083155  1
+  F  F11  1  0.00676683  0.34766760  0.53476542  1
+  F  F12  1  0.65233243  0.65909922  0.53476542  1
+  F  F13  1  0.34090078  0.99323320  0.53476542  1
+  F  F14  1  0.33904094  0.35717982  0.79140943  1
+  F  F15  1  0.64282018  0.98186111  0.79140943  1
+  F  F16  1  0.01813889  0.66095906  0.79140943  1
+  F  F17  1  0.97878557  0.66044748  0.30665737  1
+  F  F18  1  0.33955252  0.31833810  0.30665737  1
+  F  F19  1  0.68166190  0.02121443  0.30665737  1

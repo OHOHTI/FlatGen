@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_LiTaMnAlF13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.59988004
+_cell_length_b   5.65244621
+_cell_length_c   7.97193766
+_cell_angle_alpha   87.01310604
+_cell_angle_beta   91.31812662
+_cell_angle_gamma   90.09121976
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTaMnAlF13
+_chemical_formula_sum   'Li1 Ta1 Mn1 Al1 F13'
+_cell_volume   251.92640264
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.62366402  0.96928257  0.19355269  1
+  F  F1  1  0.81110328  0.13427351  0.80600274  1
+  F  F2  1  0.17188700  0.67068309  0.75085890  1
+  F  F3  1  0.41274276  0.29467455  0.26559168  1
+  F  F4  1  0.32709351  0.18946081  0.85459751  1
+  F  F5  1  0.05456781  0.93650919  0.46627322  1
+  F  F6  1  0.00469764  0.52985990  0.04988037  1
+  F  F7  1  0.51128983  0.52891982  0.56178820  1
+  F  F8  1  0.00204246  0.46164003  0.45621485  1
+  F  F9  1  0.52407300  0.53914756  0.97564423  1
+  F  F10  1  0.50702029  0.01366609  0.52401578  1
+  F  F11  1  0.11112326  0.05086462  0.13756680  1
+  F  F12  1  0.31332245  0.69915408  0.28511503  1
+  Li  Li13  1  0.79464728  0.44957894  0.72074956  1
+  Mn  Mn14  1  0.34958124  0.99647903  0.32561406  1
+  Ta  Ta15  1  0.26146978  0.36095425  0.04832221  1
+  Al  Al16  1  0.23038524  0.64380813  0.50927508  1

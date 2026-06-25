@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_RbCeSm(NiI7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.31083985
+_cell_length_b   8.42014939
+_cell_length_c   11.07166576
+_cell_angle_alpha   89.79189349
+_cell_angle_beta   91.07024524
+_cell_angle_gamma   91.44362686
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbCeSm(NiI7)2
+_chemical_formula_sum   'Rb1 Ce1 Sm1 Ni2 I14'
+_cell_volume   867.57256157
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.44822663  0.55966103  0.56161159  1
+  I  I1  1  0.06328187  0.56204027  0.52145272  1
+  I  I2  1  0.94935673  0.45709535  0.08362359  1
+  I  I3  1  0.70574522  0.35384947  0.32940561  1
+  I  I4  1  0.83381504  0.25824913  0.70723742  1
+  I  I5  1  0.62843007  0.06266205  0.98132735  1
+  I  I6  1  0.27381530  0.75929075  0.88027763  1
+  I  I7  1  0.46764404  0.01343768  0.56548733  1
+  I  I8  1  0.22426330  0.23262885  0.78661609  1
+  I  I9  1  0.33000371  0.29489151  0.20547874  1
+  I  I10  1  0.69662589  0.81509972  0.30051747  1
+  I  I11  1  0.56179422  0.52064633  0.99329448  1
+  I  I12  1  0.20468448  0.85978562  0.31726977  1
+  I  I13  1  0.82282019  0.74625123  0.73891783  1
+  Rb  Rb14  1  0.04454450  0.04277900  0.05616010  1
+  Ni  Ni15  1  0.53858328  0.54541397  0.25301054  1
+  Sm  Sm16  1  0.52811134  0.27775285  0.76468873  1
+  Ce  Ce17  1  0.02972701  0.51522559  0.82179463  1
+  Ni  Ni18  1  0.27439761  0.76131451  0.51798606  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_SrLiCrCoCuOF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.18662214
+_cell_length_b   5.18662175
+_cell_length_c   9.92716980
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000552
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrLiCrCoCuOF8
+_chemical_formula_sum   'Sr1 Li1 Cr1 Co1 Cu1 O1 F8'
+_cell_volume   231.27316561
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.63388240  0.65890992  0.24433993  1
+  F  F1  1  0.34109008  0.97497249  0.24433993  1
+  F  F2  1  0.02502751  0.36611760  0.24433993  1
+  F  F3  1  0.65162432  0.97637570  0.77143598  1
+  F  F4  1  0.02362430  0.67524862  0.77143598  1
+  F  F5  1  0.32475138  0.34837568  0.77143598  1
+  F  F6  1  0.33333334  0.66666669  0.00968004  1
+  F  F7  1  0.66666669  0.33333334  0.47964013  1
+  Sr  Sr8  1  0.00000000  0.00000000  0.98524165  1
+  Cr  Cr9  1  0.33333334  0.66666669  0.37208897  1
+  Li  Li10  1  0.33333334  0.66666669  0.66707313  1
+  Cu  Cu11  1  0.33333334  0.66666669  0.85695827  1
+  O  O12  1  0.33333334  0.66666669  0.50254571  1
+  Co  Co13  1  0.33333334  0.66666669  0.15821041  1

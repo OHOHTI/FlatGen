@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaCdAgPbBr8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.35080576
+_cell_length_b   7.35080551
+_cell_length_c   10.67905235
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000541
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCdAgPbBr8
+_chemical_formula_sum   'Na1 Cd1 Ag1 Pb1 Br8'
+_cell_volume   499.72744642
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.70809090  0.69737297  0.28253207  1
+  Br  Br1  1  0.30262703  0.01071793  0.28253207  1
+  Br  Br2  1  0.98928207  0.29190910  0.28253207  1
+  Br  Br3  1  0.68046302  0.98501575  0.79332745  1
+  Br  Br4  1  0.01498425  0.69544727  0.79332745  1
+  Br  Br5  1  0.30455273  0.31953698  0.79332745  1
+  Br  Br6  1  0.33333334  0.66666669  0.07116076  1
+  Br  Br7  1  0.66666669  0.33333334  0.51445055  1
+  Cd  Cd8  1  0.00000000  0.00000000  0.14256103  1
+  Ag  Ag9  1  0.33333334  0.66666669  0.31169900  1
+  Na  Na10  1  0.33333334  0.66666669  0.54873747  1
+  Pb  Pb11  1  0.33333334  0.66666669  0.84800935  1

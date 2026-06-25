@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_BaGeMoCl10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13962040
+_cell_length_b   7.07657672
+_cell_length_c   9.15949726
+_cell_angle_alpha   85.46543330
+_cell_angle_beta   93.49163621
+_cell_angle_gamma   101.01826830
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaGeMoCl10
+_chemical_formula_sum   'Ba1 Ge1 Mo1 Cl10'
+_cell_volume   388.97201205
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.65257019  0.32069960  0.52534097  1
+  Cl  Cl1  1  0.27401084  0.71944529  0.46358067  1
+  Cl  Cl2  1  0.67202687  0.03878963  0.81921548  1
+  Cl  Cl3  1  0.54536736  0.47017470  0.83243322  1
+  Cl  Cl4  1  0.08729730  0.64465410  0.82655829  1
+  Cl  Cl5  1  0.39175615  0.13070072  0.18867588  1
+  Cl  Cl6  1  0.55420262  0.68210024  0.13469003  1
+  Cl  Cl7  1  0.90748250  0.33720529  0.20109686  1
+  Cl  Cl8  1  0.83693546  0.82635921  0.52228057  1
+  Ge  Ge9  1  0.50371283  0.23738356  0.70318502  1
+  Ba  Ba10  1  0.88745111  0.90271258  0.21128742  1
+  Mo  Mo11  1  0.15080823  0.84034580  0.62911165  1
+  Cl  Cl12  1  0.21145216  0.06450763  0.80844235  1

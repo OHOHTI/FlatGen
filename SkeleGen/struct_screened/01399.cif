@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_RbSiOsBr8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.09174252
+_cell_length_b   7.09174249
+_cell_length_c   9.30976295
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999123
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbSiOsBr8
+_chemical_formula_sum   'Rb1 Si1 Os1 Br8'
+_cell_volume   405.48538888
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.66666669  0.33333334  0.42911506  1
+  Br  Br1  1  0.33333334  0.66666669  0.48533055  1
+  Br  Br2  1  0.66910702  0.04191893  0.84833699  1
+  Br  Br3  1  0.95808107  0.62718809  0.84833699  1
+  Br  Br4  1  0.37281191  0.33089298  0.84833699  1
+  Br  Br5  1  0.33098686  0.96060884  0.14940658  1
+  Br  Br6  1  0.03939116  0.37037802  0.14940658  1
+  Br  Br7  1  0.62962198  0.66901314  0.14940658  1
+  Rb  Rb8  1  0.00000000  0.00000000  0.59450865  1
+  Si  Si9  1  0.33333334  0.66666669  0.19656339  1
+  Os  Os10  1  0.66666669  0.33333334  0.97418952  1

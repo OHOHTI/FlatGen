@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_KSrPuP2H2PbO10F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22776604
+_cell_length_b   5.22776565
+_cell_length_c   11.82206917
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000548
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KSrPuP2H2PbO10F
+_chemical_formula_sum   'K1 Sr1 Pu1 P2 H2 Pb1 O10 F1'
+_cell_volume   279.80557105
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.33333334  0.66666669  0.13591252  1
+  O  O1  1  0.66666669  0.33333334  0.00546227  1
+  O  O2  1  0.52001327  0.47998673  0.74094075  1
+  O  O3  1  0.52001327  0.04002655  0.74094075  1
+  O  O4  1  0.95997345  0.47998673  0.74094075  1
+  O  O5  1  0.47640815  0.52359188  0.36375526  1
+  O  O6  1  0.47640815  0.95281631  0.36375526  1
+  O  O7  1  0.04718369  0.52359188  0.36375526  1
+  F  F8  1  0.00000000  0.00000000  0.78920853  1
+  H  H9  1  0.00000000  0.00000000  0.33514726  1
+  K  K10  1  0.00000000  0.00000000  0.54274130  1
+  O  O11  1  0.00000000  0.00000000  0.24611191  1
+  Pb  Pb12  1  0.00000000  0.00000000  0.06664742  1
+  H  H13  1  0.00000000  0.00000000  0.90179384  1
+  P  P14  1  0.33333334  0.66666669  0.29215139  1
+  Sr  Sr15  1  0.66666669  0.33333334  0.23741682  1
+  Pu  Pu16  1  0.66666669  0.33333334  0.87452132  1
+  P  P17  1  0.66666669  0.33333334  0.66262323  1
+  O  O18  1  0.66666669  0.33333334  0.54795885  1

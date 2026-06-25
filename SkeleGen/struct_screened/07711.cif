@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_RbZrCrSeO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58405781
+_cell_length_b   5.58405765
+_cell_length_c   7.73537731
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000379
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbZrCrSeO9
+_chemical_formula_sum   'Rb1 Zr1 Cr1 Se1 O9'
+_cell_volume   208.88724208
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.61992300  0.60697132  0.27239686  1
+  O  O1  1  0.39302868  0.01295167  0.27239686  1
+  O  O2  1  0.98704833  0.38007700  0.27239686  1
+  O  O3  1  0.66819698  0.04745098  0.79284525  1
+  O  O4  1  0.95254904  0.62074602  0.79284525  1
+  O  O5  1  0.37925398  0.33180302  0.79284525  1
+  O  O6  1  0.33333334  0.66666669  0.01357085  1
+  O  O7  1  0.66666669  0.33333334  0.53459454  1
+  Rb  Rb8  1  0.00000000  0.00000000  0.06962021  1
+  Zr  Zr9  1  0.33333334  0.66666669  0.75933999  1
+  O  O10  1  0.33333334  0.66666669  0.52913505  1
+  Se  Se11  1  0.33333334  0.66666669  0.29202738  1
+  Cr  Cr12  1  0.66666669  0.33333334  0.74383205  1

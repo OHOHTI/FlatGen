@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaFeCuCl9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.24087474
+_cell_length_b   6.18585780
+_cell_length_c   8.98829842
+_cell_angle_alpha   85.47668236
+_cell_angle_beta   95.66409373
+_cell_angle_gamma   97.32233912
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaFeCuCl9
+_chemical_formula_sum   'Ca1 Fe1 Cu1 Cl9'
+_cell_volume   341.71135701
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.52786225  0.38456193  0.55131650  1
+  Cl  Cl1  1  0.31283638  0.81466466  0.46105465  1
+  Cl  Cl2  1  0.59567052  0.99003440  0.79865956  1
+  Cl  Cl3  1  0.46182942  0.48603866  0.90590686  1
+  Cl  Cl4  1  0.96394891  0.59069633  0.81181830  1
+  Cl  Cl5  1  0.37128109  0.04497249  0.11674504  1
+  Cl  Cl6  1  0.59512377  0.56740993  0.18630141  1
+  Cl  Cl7  1  0.96746391  0.44024512  0.20933066  1
+  Cu  Cu8  1  0.76109874  0.49636298  0.00097906  1
+  Fe  Fe9  1  0.53648204  0.07221846  0.54637420  1
+  Ca  Ca10  1  0.10961488  0.86531293  0.97046530  1
+  Cl  Cl11  1  0.87126917  0.06100515  0.54074728  1

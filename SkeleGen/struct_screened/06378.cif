@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CsNa(VBr5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.99260426
+_cell_length_b   6.99260396
+_cell_length_c   11.77312088
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000592
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsNa(VBr5)2
+_chemical_formula_sum   'Cs1 Na1 V2 Br10'
+_cell_volume   498.54009345
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.33333334  0.66666669  0.47326261  1
+  Br  Br1  1  0.66666669  0.33333334  0.06240144  1
+  Br  Br2  1  0.20314445  0.32956886  0.19988580  1
+  Br  Br3  1  0.67043114  0.87357557  0.19988580  1
+  Br  Br4  1  0.12642442  0.79685557  0.19988580  1
+  Br  Br5  1  0.82363290  0.17856021  0.77043903  1
+  Br  Br6  1  0.82143980  0.64507270  0.77043903  1
+  Br  Br7  1  0.35492730  0.17636710  0.77043903  1
+  Br  Br8  1  0.33333334  0.66666669  0.94765151  1
+  Br  Br9  1  0.66666669  0.33333334  0.37921888  1
+  Cs  Cs10  1  0.00000000  0.00000000  0.51021868  1
+  Na  Na11  1  0.33333334  0.66666669  0.73364365  1
+  V  V12  1  0.33333334  0.66666669  0.26674271  1
+  V  V13  1  0.66666669  0.33333334  0.85293519  1

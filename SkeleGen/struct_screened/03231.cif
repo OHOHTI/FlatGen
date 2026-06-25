@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CrCdFeGeCl14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.73762410
+_cell_length_b   7.09046047
+_cell_length_c   10.39267349
+_cell_angle_alpha   85.37963929
+_cell_angle_beta   90.64194467
+_cell_angle_gamma   85.51545360
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrCdFeGeCl14
+_chemical_formula_sum   'Cr1 Cd1 Fe1 Ge1 Cl14'
+_cell_volume   493.28266961
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.71955562  0.29509819  0.50279588  1
+  Cl  Cl1  1  0.31568849  0.69917929  0.04789545  1
+  Cl  Cl2  1  0.29880103  0.73521829  0.49213004  1
+  Cl  Cl3  1  0.67947268  0.29764083  0.91706276  1
+  Cl  Cl4  1  0.00598841  0.49699765  0.72745770  1
+  Cl  Cl5  1  0.92131007  0.52042788  0.22052298  1
+  Cl  Cl6  1  0.47659323  0.00632983  0.27945265  1
+  Cl  Cl7  1  0.53847957  0.98112297  0.72249448  1
+  Cl  Cl8  1  0.78464776  0.79795760  0.47364894  1
+  Cl  Cl9  1  0.23536508  0.20231955  0.03335602  1
+  Cl  Cl10  1  0.23026603  0.21440856  0.46638870  1
+  Cl  Cl11  1  0.78817338  0.77391368  0.97542375  1
+  Fe  Fe12  1  0.51722389  0.04426872  0.48447186  1
+  Cd  Cd13  1  0.03494627  0.52577484  0.47891870  1
+  Ge  Ge14  1  0.78509092  0.25513491  0.73292220  1
+  Cl  Cl15  1  0.07061256  0.98310196  0.81157357  1
+  Cl  Cl16  1  0.96047586  0.96366727  0.19360219  1
+  Cr  Cr17  1  0.03991421  0.76813096  0.08569482  1

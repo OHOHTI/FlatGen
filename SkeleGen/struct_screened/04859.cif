@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaSrTiOF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.72380214
+_cell_length_b   5.75973806
+_cell_length_c   8.22040081
+_cell_angle_alpha   88.12360618
+_cell_angle_beta   90.93407190
+_cell_angle_gamma   86.94631361
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSrTiOF6
+_chemical_formula_sum   'Na2 Sr2 Ti2 O2 F12'
+_cell_volume   270.43275122
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.75190574  0.27142426  0.49132776  1
+  F  F1  1  0.24809426  0.72857571  0.50867224  1
+  F  F2  1  0.49715447  0.99511766  0.78181791  1
+  F  F3  1  0.50284553  0.00488234  0.21818209  1
+  F  F4  1  0.47528014  0.51123196  0.78372777  1
+  F  F5  1  0.52471983  0.48876804  0.21627223  1
+  F  F6  1  0.94362569  0.49162292  0.77232021  1
+  F  F7  1  0.05637431  0.50837708  0.22767979  1
+  Na  Na8  1  0.82058907  0.74102318  0.33426869  1
+  Na  Na9  1  0.17941093  0.25897682  0.66573131  1
+  F  F10  1  0.00903570  0.03487865  0.21958324  1
+  F  F11  1  0.99096429  0.96512133  0.78041673  1
+  Sr  Sr12  1  0.24114183  0.75135195  0.99452591  1
+  Sr  Sr13  1  0.75885820  0.24864805  0.00547409  1
+  F  F14  1  0.21427125  0.25697449  0.00631724  1
+  F  F15  1  0.78572875  0.74302554  0.99368274  1
+  Ti  Ti16  1  0.27099845  0.25271404  0.24589978  1
+  Ti  Ti17  1  0.72900152  0.74728596  0.75410020  1
+  O  O18  1  0.29251784  0.22834130  0.43737239  1
+  O  O19  1  0.70748216  0.77165872  0.56262761  1

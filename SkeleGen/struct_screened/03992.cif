@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_BaTiCuMoI14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.81079578
+_cell_length_b   10.81079517
+_cell_length_c   7.55561352
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999314
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaTiCuMoI14
+_chemical_formula_sum   'Ba1 Ti1 Cu1 Mo1 I14'
+_cell_volume   764.74333219
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.05512772  0.26126823  0.78111881  1
+  I  I1  1  0.73873174  0.79385948  0.78111881  1
+  I  I2  1  0.20614050  0.94487226  0.78111881  1
+  I  I3  1  0.79594749  0.73109341  0.29582682  1
+  I  I4  1  0.26890659  0.06485409  0.29582682  1
+  I  I5  1  0.93514591  0.20405251  0.29582682  1
+  I  I6  1  0.34035373  0.45804536  0.28978133  1
+  I  I7  1  0.54195464  0.88230836  0.28978133  1
+  I  I8  1  0.11769164  0.65964627  0.28978133  1
+  I  I9  1  0.33333334  0.66666669  0.84504205  1
+  I  I10  1  0.66666669  0.33333334  0.31531316  1
+  I  I11  1  0.44137791  0.32694948  0.78636742  1
+  I  I12  1  0.67305052  0.11442843  0.78636742  1
+  I  I13  1  0.88557160  0.55862212  0.78636742  1
+  Mo  Mo14  1  0.00000000  0.00000000  0.40164477  1
+  Ti  Ti15  1  0.00000000  0.00000000  0.69612706  1
+  Ba  Ba16  1  0.00000000  0.00000000  0.05137636  1
+  Cu  Cu17  1  0.33333334  0.66666669  0.17606667  1

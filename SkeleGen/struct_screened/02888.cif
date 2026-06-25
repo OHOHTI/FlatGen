@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Al2CuNOF11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24836206
+_cell_length_b   5.24836199
+_cell_length_c   9.31782341
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000347
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al2CuNOF11
+_chemical_formula_sum   'Al2 Cu1 N1 O1 F11'
+_cell_volume   222.27604532
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.54783219  1
+  F  F1  1  0.66666669  0.33333334  0.49438429  1
+  F  F2  1  0.66835815  0.69120604  0.74094385  1
+  F  F3  1  0.30879396  0.97715211  0.74094385  1
+  F  F4  1  0.02284789  0.33164185  0.74094385  1
+  F  F5  1  0.66666669  0.33333334  0.08341708  1
+  F  F6  1  0.11918778  0.31903040  0.26602018  1
+  F  F7  1  0.68096960  0.80015737  0.26602018  1
+  F  F8  1  0.19984263  0.88081223  0.26602018  1
+  F  F9  1  0.33333334  0.66666669  0.93419880  1
+  F  F10  1  0.00000000  0.00000000  0.95811468  1
+  O  O11  1  0.00000000  0.00000000  0.51610434  1
+  Al  Al12  1  0.00000000  0.00000000  0.67878222  1
+  Al  Al13  1  0.00000000  0.00000000  0.33747497  1
+  N  N14  1  0.33333334  0.66666669  0.72546190  1
+  Cu  Cu15  1  0.33333334  0.66666669  0.35547009  1

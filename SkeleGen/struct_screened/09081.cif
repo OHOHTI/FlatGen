@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KNaTiRuF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27458096
+_cell_length_b   5.27458071
+_cell_length_c   7.45209789
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000451
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNaTiRuF8
+_chemical_formula_sum   'K1 Na1 Ti1 Ru1 F8'
+_cell_volume   179.54985886
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66666669  0.33333334  0.48440561  1
+  F  F1  1  0.33333334  0.66666669  0.52233028  1
+  F  F2  1  0.63953245  0.98771679  0.86865181  1
+  F  F3  1  0.01228321  0.65181565  0.86865181  1
+  F  F4  1  0.34818435  0.36046755  0.86865181  1
+  F  F5  1  0.37594730  0.99823958  0.16902834  1
+  F  F6  1  0.00176042  0.37770772  0.16902834  1
+  F  F7  1  0.62229228  0.62405270  0.16902834  1
+  K  K8  1  0.00000000  0.00000000  0.64103073  1
+  Na  Na9  1  0.00000000  0.00000000  0.27898860  1
+  Ti  Ti10  1  0.33333334  0.66666669  0.01511453  1
+  Ru  Ru11  1  0.66666669  0.33333334  0.01214143  1

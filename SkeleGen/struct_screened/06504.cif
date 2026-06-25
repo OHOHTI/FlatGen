@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_La3(SbCl7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.96981812
+_cell_length_b   9.96981789
+_cell_length_c   7.65590286
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000392
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3(SbCl7)2
+_chemical_formula_sum   'La3 Sb2 Cl14'
+_cell_volume   659.02439286
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.03699705  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.96300292  1
+  Cl  Cl2  1  0.42790651  0.93107378  0.69449794  1
+  Cl  Cl3  1  0.06892622  0.49683273  0.69449794  1
+  Cl  Cl4  1  0.50316727  0.57209349  0.69449794  1
+  Cl  Cl5  1  0.93107378  0.42790651  0.30550206  1
+  Cl  Cl6  1  0.49683273  0.06892622  0.30550206  1
+  Cl  Cl7  1  0.57209349  0.50316727  0.30550206  1
+  Sb  Sb8  1  0.33333334  0.66666669  0.65375811  1
+  Sb  Sb9  1  0.66666669  0.33333334  0.34624189  1
+  La  La10  1  0.26602480  0.00000000  0.00000000  1
+  La  La11  1  0.00000000  0.26602480  0.00000000  1
+  La  La12  1  0.73397517  0.73397517  0.00000000  1
+  Cl  Cl13  1  0.05862767  0.81682402  0.21714002  1
+  Cl  Cl14  1  0.18317598  0.24180365  0.21714002  1
+  Cl  Cl15  1  0.75819635  0.94137233  0.21714002  1
+  Cl  Cl16  1  0.81682402  0.05862767  0.78285998  1
+  Cl  Cl17  1  0.24180365  0.18317598  0.78285998  1
+  Cl  Cl18  1  0.94137233  0.75819635  0.78285998  1

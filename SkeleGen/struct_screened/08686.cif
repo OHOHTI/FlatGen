@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_NaEu3TmCrB2P10Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.55059433
+_cell_length_b   7.55059392
+_cell_length_c   7.81986189
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000597
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaEu3TmCrB2P10Br
+_chemical_formula_sum   'Na1 Eu3 Tm1 Cr1 B2 P10 Br1'
+_cell_volume   386.09301092
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.60849756  0.10994527  0.59433872  1
+  P  P1  1  0.89005470  0.49855229  0.59433872  1
+  P  P2  1  0.50144768  0.39150244  0.59433872  1
+  P  P3  1  0.18818055  0.82919484  0.50519216  1
+  P  P4  1  0.17080516  0.35898572  0.50519216  1
+  P  P5  1  0.64101428  0.81181943  0.50519216  1
+  P  P6  1  0.37581566  0.35980287  0.31189039  1
+  P  P7  1  0.64019716  0.01601279  0.31189039  1
+  P  P8  1  0.98398721  0.62418437  0.31189039  1
+  Tm  Tm9  1  0.00000000  0.00000000  0.37354872  1
+  P  P10  1  0.33333334  0.66666669  0.62926370  1
+  Br  Br11  1  0.33333334  0.66666669  0.00267986  1
+  Cr  Cr12  1  0.33333334  0.66666669  0.32368049  1
+  B  B13  1  0.66666669  0.33333334  0.76587898  1
+  Na  Na14  1  0.66666669  0.33333334  0.11499441  1
+  B  B15  1  0.66666669  0.33333334  0.42994514  1
+  Eu  Eu16  1  0.72780997  0.72833353  0.86344427  1
+  Eu  Eu17  1  0.27166647  0.99947643  0.86344427  1
+  Eu  Eu18  1  0.00052357  0.27219003  0.86344427  1

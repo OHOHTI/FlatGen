@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Eu5Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.29738092
+_cell_length_b   7.29738088
+_cell_length_c   8.84582043
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000454
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu5Mo
+_chemical_formula_sum   'Eu10 Mo2'
+_cell_volume   407.94607774
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.33333334  0.66666669  0.50628215  1
+  Eu  Eu1  1  0.66666669  0.33333334  0.00628209  1
+  Eu  Eu2  1  0.27512392  0.31146860  0.22919986  1
+  Eu  Eu3  1  0.68853140  0.96365535  0.22919986  1
+  Eu  Eu4  1  0.03634468  0.72487605  0.22919986  1
+  Eu  Eu5  1  0.31146860  0.27512392  0.72919989  1
+  Eu  Eu6  1  0.96365535  0.68853140  0.72919989  1
+  Eu  Eu7  1  0.72487605  0.03634468  0.72919989  1
+  Eu  Eu8  1  0.33333334  0.66666669  0.95456880  1
+  Eu  Eu9  1  0.66666669  0.33333334  0.45456886  1
+  Mo  Mo10  1  0.00000000  0.00000000  0.96846449  1
+  Mo  Mo11  1  0.00000000  0.00000000  0.46846449  1

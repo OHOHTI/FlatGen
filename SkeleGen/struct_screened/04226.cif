@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Eu2PS(I2Br)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.61383723
+_cell_length_b   7.84898108
+_cell_length_c   10.53786182
+_cell_angle_alpha   97.48483794
+_cell_angle_beta   96.16560061
+_cell_angle_gamma   89.33600257
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu2PS(I2Br)2
+_chemical_formula_sum   'Eu4 P2 S2 I8 Br4'
+_cell_volume   702.30444853
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.00000000  0.50000000  0.50000000  1
+  Eu  Eu1  1  0.50000000  0.00000000  0.50000000  1
+  Eu  Eu2  1  0.24233124  0.23988426  0.99801803  1
+  Eu  Eu3  1  0.75766873  0.76011574  0.00198197  1
+  I  I4  1  0.05500761  0.03847101  0.79338008  1
+  I  I5  1  0.94499236  0.96152902  0.20661992  1
+  P  P6  1  0.37097013  0.76312608  0.75872529  1
+  P  P7  1  0.62902987  0.23687392  0.24127471  1
+  Br  Br8  1  0.24343926  0.24929959  0.51450473  1
+  Br  Br9  1  0.75656074  0.75070041  0.48549527  1
+  I  I10  1  0.52341634  0.53539473  0.77225333  1
+  I  I11  1  0.47658366  0.46460527  0.22774667  1
+  Br  Br12  1  0.73859382  0.24394915  0.45886788  1
+  Br  Br13  1  0.26140618  0.75605083  0.54113209  1
+  I  I14  1  0.33018923  0.78265661  0.98116285  1
+  I  I15  1  0.66981077  0.21734339  0.01883715  1
+  I  I16  1  0.98355269  0.52191037  0.79657888  1
+  I  I17  1  0.01644731  0.47808963  0.20342112  1
+  S  S18  1  0.46011668  0.04669761  0.25015599  1
+  S  S19  1  0.53988332  0.95330238  0.74984401  1

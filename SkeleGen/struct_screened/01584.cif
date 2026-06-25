@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_TaFeCl7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.77895355
+_cell_length_b   8.77895317
+_cell_length_c   8.48183823
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000504
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaFeCl7
+_chemical_formula_sum   'Ta2 Fe2 Cl14'
+_cell_volume   566.11684568
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.46954373  0.57903260  0.53587222  1
+  Cl  Cl1  1  0.42096740  0.89051116  0.53587222  1
+  Cl  Cl2  1  0.10948887  0.53045630  0.53587222  1
+  Cl  Cl3  1  0.53045630  0.42096740  0.03587222  1
+  Cl  Cl4  1  0.57903260  0.10948887  0.03587222  1
+  Cl  Cl5  1  0.89051116  0.46954373  0.03587222  1
+  Cl  Cl6  1  0.33333334  0.66666669  0.96502358  1
+  Cl  Cl7  1  0.66666669  0.33333334  0.46502352  1
+  Cl  Cl8  1  0.80448508  0.09622554  0.75121111  1
+  Cl  Cl9  1  0.90377444  0.70825952  0.75121111  1
+  Cl  Cl10  1  0.29174048  0.19551492  0.75121111  1
+  Cl  Cl11  1  0.19551492  0.90377444  0.25121117  1
+  Cl  Cl12  1  0.09622554  0.29174048  0.25121117  1
+  Cl  Cl13  1  0.70825952  0.80448508  0.25121117  1
+  Fe  Fe14  1  0.00000000  0.00000000  0.29801640  1
+  Fe  Fe15  1  0.00000000  0.00000000  0.79801643  1
+  Ta  Ta16  1  0.33333334  0.66666669  0.38277057  1
+  Ta  Ta17  1  0.66666669  0.33333334  0.88277054  1

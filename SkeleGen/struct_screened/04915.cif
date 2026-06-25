@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_ScCuSeF10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.99015392
+_cell_length_b   4.78324410
+_cell_length_c   7.52760124
+_cell_angle_alpha   88.89638737
+_cell_angle_beta   95.42251041
+_cell_angle_gamma   94.29389482
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScCuSeF10
+_chemical_formula_sum   'Sc1 Cu1 Se1 F10'
+_cell_volume   178.35766530
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.72470808  0.23146643  0.47076187  1
+  F  F1  1  0.34244117  0.60301399  0.50621486  1
+  F  F2  1  0.43960151  0.98596978  0.77283460  1
+  F  F3  1  0.42599300  0.44585809  0.87250489  1
+  F  F4  1  0.90313047  0.49745420  0.77298331  1
+  F  F5  1  0.50593376  0.03970819  0.11257631  1
+  F  F6  1  0.58440942  0.51544666  0.21291940  1
+  F  F7  1  0.01307310  0.37639359  0.10285816  1
+  Cu  Cu8  1  0.73312926  0.70324183  0.97356337  1
+  F  F9  1  0.03650530  0.99298692  0.36941665  1
+  Se  Se10  1  0.78750086  0.22051701  0.27778685  1
+  F  F11  1  0.98450232  0.96117371  0.90090060  1
+  Sc  Sc12  1  0.23580875  0.19700588  0.97881162  1

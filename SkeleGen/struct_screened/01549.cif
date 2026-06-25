@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KCuF3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.96495247
+_cell_length_b   5.94293070
+_cell_length_c   8.40231895
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   90.00000433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCuF3
+_chemical_formula_sum   'K4 Cu4 F12'
+_cell_volume   297.85631810
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.68410152  0.74223131  0.24273200  1
+  F  F1  1  0.81589848  0.25776869  0.74273199  1
+  F  F2  1  0.31589848  0.24223137  0.25726801  1
+  F  F3  1  0.18410158  0.75776869  0.75726801  1
+  F  F4  1  0.49758616  0.02229499  0.96034926  1
+  F  F5  1  0.00241384  0.97770500  0.46034932  1
+  F  F6  1  0.50241387  0.52229500  0.53965074  1
+  F  F7  1  0.99758613  0.47770500  0.03965074  1
+  F  F8  1  0.01416655  0.53599727  0.46830872  1
+  F  F9  1  0.48583344  0.46400273  0.96830869  1
+  F  F10  1  0.98583347  0.03599727  0.03169128  1
+  F  F11  1  0.51416653  0.96400273  0.53169131  1
+  K  K12  1  0.25189611  0.77643377  0.17890561  1
+  K  K13  1  0.24810389  0.22356623  0.67890561  1
+  K  K14  1  0.74810386  0.27643371  0.32109439  1
+  K  K15  1  0.75189614  0.72356623  0.82109439  1
+  Cu  Cu16  1  0.24018829  0.25477567  0.03742038  1
+  Cu  Cu17  1  0.25981170  0.74522436  0.53742039  1
+  Cu  Cu18  1  0.75981170  0.75477564  0.46257961  1
+  Cu  Cu19  1  0.74018830  0.24522433  0.96257961  1

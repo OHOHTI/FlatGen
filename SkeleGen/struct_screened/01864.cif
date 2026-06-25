@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_PrHfCuSbAsCl11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.47859969
+_cell_length_b   7.14492479
+_cell_length_c   10.61995411
+_cell_angle_alpha   88.01152957
+_cell_angle_beta   93.04592537
+_cell_angle_gamma   98.20288389
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrHfCuSbAsCl11
+_chemical_formula_sum   'Pr1 Hf1 Cu1 Sb1 As1 Cl11'
+_cell_volume   485.68850396
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.63749319  0.32397968  0.49465954  1
+  Cl  Cl1  1  0.29320896  0.65412039  0.46827388  1
+  Cl  Cl2  1  0.57371312  0.91127253  0.73671269  1
+  Cl  Cl3  1  0.44707182  0.42608812  0.85673743  1
+  Cl  Cl4  1  0.97353101  0.55517447  0.74301445  1
+  Cl  Cl5  1  0.39731917  0.05309023  0.29223198  1
+  Cl  Cl6  1  0.42363411  0.52581900  0.15814325  1
+  Cl  Cl7  1  0.96362096  0.35986778  0.14282165  1
+  Cl  Cl8  1  0.09181793  0.89928740  0.00457418  1
+  Cl  Cl9  1  0.81483489  0.82668531  0.30464891  1
+  Cu  Cu10  1  0.25031602  0.37273693  0.35877332  1
+  Cl  Cl11  1  0.06694365  0.04481095  0.60709137  1
+  Sb  Sb12  1  0.65253228  0.00541228  0.49838459  1
+  Hf  Hf13  1  0.11231946  0.69445330  0.20246357  1
+  Pr  Pr14  1  0.56263399  0.17264351  0.04576362  1
+  As  As15  1  0.21707124  0.75929087  0.67300683  1

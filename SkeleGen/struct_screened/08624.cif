@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Mn4ZnGaBH3O10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.98949099
+_cell_length_b   4.98949061
+_cell_length_c   9.32362366
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000567
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn4ZnGaBH3O10
+_chemical_formula_sum   'Mn4 Zn1 Ga1 B1 H3 O10'
+_cell_volume   201.01468878
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.00000000  0.91363508  1
+  Mn  Mn1  1  0.66666669  0.33333334  0.65802693  1
+  Mn  Mn2  1  0.33333334  0.66666669  0.32711515  1
+  Mn  Mn3  1  0.00000000  0.00000000  0.41646373  1
+  B  B4  1  0.33333334  0.66666669  0.86820507  1
+  Zn  Zn5  1  0.33333334  0.66666669  0.65064406  1
+  O  O6  1  0.33333334  0.66666669  0.98985374  1
+  Ga  Ga7  1  0.66666669  0.33333334  0.09052709  1
+  H  H8  1  0.98087990  0.74622381  0.23594159  1
+  H  H9  1  0.25377619  0.23465610  0.23594159  1
+  H  H10  1  0.76534390  0.01912010  0.23594159  1
+  O  O11  1  0.34953234  0.00819284  0.22488239  1
+  O  O12  1  0.99180716  0.34133950  0.22488239  1
+  O  O13  1  0.65866053  0.65046763  0.22488239  1
+  O  O14  1  0.35704526  0.99855232  0.52002233  1
+  O  O15  1  0.00144768  0.35849297  0.52002233  1
+  O  O16  1  0.64150703  0.64295471  0.52002233  1
+  O  O17  1  0.63364500  0.97498435  0.79079443  1
+  O  O18  1  0.02501565  0.65866065  0.79079443  1
+  O  O19  1  0.34133935  0.36635500  0.79079443  1

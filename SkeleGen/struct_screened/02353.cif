@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_TlGaFeWI15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.81555484
+_cell_length_b   8.22927034
+_cell_length_c   14.90039444
+_cell_angle_alpha   88.59012859
+_cell_angle_beta   97.34542043
+_cell_angle_gamma   102.10698770
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlGaFeWI15
+_chemical_formula_sum   'Tl1 Ga1 Fe1 W1 I15'
+_cell_volume   929.33057402
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.90263677  0.85901916  0.12263536  1
+  I  I1  1  0.96694505  0.99643362  0.63570017  1
+  I  I2  1  0.03024045  0.04803556  0.36450884  1
+  I  I3  1  0.87429243  0.96558893  0.83099461  1
+  I  I4  1  0.51056749  0.01258547  0.53204232  1
+  I  I5  1  0.51794207  0.50891626  0.39246961  1
+  I  I6  1  0.95175004  0.49674079  0.54287589  1
+  I  I7  1  0.51488972  0.00467351  0.93967754  1
+  I  I8  1  0.54076052  0.59910202  0.97345448  1
+  I  I9  1  0.01423828  0.50502789  0.93731219  1
+  I  I10  1  0.29602325  0.68203157  0.71707553  1
+  I  I11  1  0.61358804  0.30531055  0.16420239  1
+  Ga  Ga12  1  0.92851746  0.53248054  0.08841547  1
+  W  W13  1  0.75080591  0.63383412  0.20158841  1
+  Fe  Fe14  1  0.61082172  0.78918701  0.85408771  1
+  I  I15  1  0.32318798  0.26191720  0.75391710  1
+  I  I16  1  0.07081290  0.55813730  0.25670296  1
+  I  I17  1  0.54659849  0.84909868  0.24432872  1
+  Tl  Tl18  1  0.64429224  0.52361429  0.66130424  1

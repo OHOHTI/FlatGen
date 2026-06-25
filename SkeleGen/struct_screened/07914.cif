@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ta4SiSO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24582386
+_cell_length_b   5.24582373
+_cell_length_c   7.84414387
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000386
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta4SiSO7
+_chemical_formula_sum   'Ta4 Si1 S1 O7'
+_cell_volume   186.94056989
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.00000000  0.00000000  0.99482822  1
+  Ta  Ta1  1  0.66666669  0.33333334  0.70461923  1
+  Ta  Ta2  1  0.33333334  0.66666669  0.38158834  1
+  Ta  Ta3  1  0.00000000  0.00000000  0.49032000  1
+  O  O4  1  0.33333334  0.66666669  0.89268661  1
+  Si  Si5  1  0.33333334  0.66666669  0.70839137  1
+  S  S6  1  0.33333334  0.66666669  0.10467903  1
+  O  O7  1  0.03352169  0.66562992  0.60995436  1
+  O  O8  1  0.33437008  0.36789179  0.60995436  1
+  O  O9  1  0.63210821  0.96647829  0.60995436  1
+  O  O10  1  0.66510189  0.96385151  0.21381812  1
+  O  O11  1  0.03614849  0.70125037  0.21381812  1
+  O  O12  1  0.29874963  0.33489811  0.21381812  1

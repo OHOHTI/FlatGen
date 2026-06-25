@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_RbFe2Te9MoCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.75071430
+_cell_length_b   7.75071419
+_cell_length_c   9.57188416
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000453
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbFe2Te9MoCl3
+_chemical_formula_sum   'Rb1 Fe2 Te9 Mo1 Cl3'
+_cell_volume   497.97953703
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.91743320  0.34481061  0.52651775  1
+  Te  Te1  1  0.65518939  0.57262260  0.52651775  1
+  Te  Te2  1  0.42737740  0.08256680  0.52651775  1
+  Te  Te3  1  0.05360879  0.65994048  0.75289810  1
+  Te  Te4  1  0.34005952  0.39366829  0.75289810  1
+  Te  Te5  1  0.60633171  0.94639122  0.75289810  1
+  Te  Te6  1  0.66210842  0.99441290  0.26017636  1
+  Te  Te7  1  0.00558710  0.66769552  0.26017636  1
+  Te  Te8  1  0.33230448  0.33789158  0.26017636  1
+  Rb  Rb9  1  0.00000000  0.00000000  0.66401130  1
+  Fe  Fe10  1  0.33333334  0.66666669  0.61031240  1
+  Mo  Mo11  1  0.33333334  0.66666669  0.14368023  1
+  Fe  Fe12  1  0.66666669  0.33333334  0.12865478  1
+  Cl  Cl13  1  0.66184729  0.62114298  0.02225727  1
+  Cl  Cl14  1  0.37885702  0.04070431  0.02225727  1
+  Cl  Cl15  1  0.95929569  0.33815271  0.02225727  1

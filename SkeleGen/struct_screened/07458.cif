@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Eu10Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.07647181
+_cell_length_b   7.07647156
+_cell_length_c   9.57056904
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999224
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu10Pt
+_chemical_formula_sum   'Eu10 Pt1'
+_cell_volume   415.05148517
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.33333334  0.66666669  0.54843253  1
+  Eu  Eu1  1  0.66666669  0.33333334  0.45156747  1
+  Eu  Eu2  1  0.90758204  0.67702454  0.75103134  1
+  Eu  Eu3  1  0.32297546  0.23055750  0.75103134  1
+  Eu  Eu4  1  0.76944250  0.09241796  0.75103134  1
+  Eu  Eu5  1  0.67702454  0.90758204  0.24896866  1
+  Eu  Eu6  1  0.23055750  0.32297546  0.24896866  1
+  Eu  Eu7  1  0.09241796  0.76944250  0.24896866  1
+  Eu  Eu8  1  0.33333334  0.66666669  0.94242877  1
+  Eu  Eu9  1  0.66666669  0.33333334  0.05757123  1
+  Pt  Pt10  1  0.00000000  0.00000000  0.00000000  1

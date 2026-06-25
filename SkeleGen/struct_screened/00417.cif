@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Na2MgUAl3Tl(Te3I)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.75389767
+_cell_length_b   7.75389732
+_cell_length_c   12.35724449
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000556
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2MgUAl3Tl(Te3I)3
+_chemical_formula_sum   'Na2 Mg1 U1 Al3 Tl1 Te9 I3'
+_cell_volume   643.41674197
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.67764223  0.02218723  0.75989264  1
+  Te  Te1  1  0.97781277  0.65545499  0.75989264  1
+  Te  Te2  1  0.34454501  0.32235777  0.75989264  1
+  Te  Te3  1  0.35688189  0.96723014  0.53150064  1
+  Te  Te4  1  0.03276986  0.38965178  0.53150064  1
+  Te  Te5  1  0.61034822  0.64311814  0.53150064  1
+  Te  Te6  1  0.00475085  0.68635458  0.27508417  1
+  Te  Te7  1  0.31364542  0.31839627  0.27508417  1
+  Te  Te8  1  0.68160373  0.99524915  0.27508417  1
+  Tl  Tl9  1  0.00000000  0.00000000  0.04910801  1
+  Na  Na10  1  0.00000000  0.00000000  0.52595323  1
+  Al  Al11  1  0.33333334  0.66666669  0.67211437  1
+  U  U12  1  0.33333334  0.66666669  0.38139364  1
+  Al  Al13  1  0.66666669  0.33333334  0.87839621  1
+  Al  Al14  1  0.66666669  0.33333334  0.64449096  1
+  Na  Na15  1  0.66666669  0.33333334  0.39044014  1
+  Mg  Mg16  1  0.66666669  0.33333334  0.13982131  1
+  I  I17  1  0.99645096  0.38120681  0.01657023  1
+  I  I18  1  0.61879319  0.61524415  0.01657023  1
+  I  I19  1  0.38475585  0.00354904  0.01657023  1

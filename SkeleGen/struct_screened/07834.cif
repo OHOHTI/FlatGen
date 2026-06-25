@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_RbNa2Hf2(CuS3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.07007504
+_cell_length_b   8.07007460
+_cell_length_c   6.84757710
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000568
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbNa2Hf2(CuS3)3
+_chemical_formula_sum   'Rb1 Na2 Hf2 Cu3 S9'
+_cell_volume   386.20923979
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.79845327  0.19957517  0.65176415  1
+  S  S1  1  0.80042481  0.59887809  0.65176415  1
+  S  S2  1  0.40112191  0.20154673  0.65176415  1
+  S  S3  1  0.19957517  0.79845327  0.65176415  1
+  S  S4  1  0.59887809  0.80042481  0.65176415  1
+  S  S5  1  0.20154673  0.40112191  0.65176415  1
+  S  S6  1  0.63135904  0.00000000  0.26013476  1
+  S  S7  1  0.00000000  0.63135904  0.26013476  1
+  S  S8  1  0.36864096  0.36864096  0.26013476  1
+  Rb  Rb9  1  0.00000000  0.00000000  0.04922894  1
+  Na  Na10  1  0.33333334  0.66666669  0.03569067  1
+  Na  Na11  1  0.66666669  0.33333334  0.03569067  1
+  Hf  Hf12  1  0.33333334  0.66666669  0.44934672  1
+  Hf  Hf13  1  0.66666669  0.33333334  0.44934672  1
+  Cu  Cu14  1  0.50223893  0.00000000  0.75526255  1
+  Cu  Cu15  1  0.00000000  0.50223893  0.75526255  1
+  Cu  Cu16  1  0.49776107  0.49776107  0.75526255  1

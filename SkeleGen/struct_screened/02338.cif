@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_CsFeAu2Cl15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.58397675
+_cell_length_b   10.58397675
+_cell_length_c   5.22079325
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   90.00000433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsFeAu2Cl15
+_chemical_formula_sum   'Cs1 Fe1 Au2 Cl15'
+_cell_volume   584.83620278
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.12962477  0.33877093  0.15843265  1
+  Cl  Cl1  1  0.87037522  0.66122907  0.15843265  1
+  Cl  Cl2  1  0.66122907  0.12962477  0.15843265  1
+  Cl  Cl3  1  0.33877093  0.87037522  0.15843265  1
+  Cl  Cl4  1  0.00000000  0.50000000  0.67579627  1
+  Cl  Cl5  1  0.50000000  0.00000000  0.67579627  1
+  Cl  Cl6  1  0.88084036  0.17666805  0.65827531  1
+  Cl  Cl7  1  0.11915964  0.82333195  0.65827531  1
+  Cl  Cl8  1  0.82333195  0.88084036  0.65827531  1
+  Cl  Cl9  1  0.17666805  0.11915964  0.65827531  1
+  Cl  Cl10  1  0.50000000  0.50000000  0.21870086  1
+  Cl  Cl11  1  0.47424015  0.69742048  0.65215921  1
+  Cl  Cl12  1  0.52575982  0.30257952  0.65215921  1
+  Cl  Cl13  1  0.30257952  0.47424015  0.65215921  1
+  Cl  Cl14  1  0.69742048  0.52575982  0.65215921  1
+  Cs  Cs15  1  0.00000000  0.00000000  0.21830419  1
+  Fe  Fe16  1  0.50000000  0.50000000  0.56016201  1
+  Au  Au17  1  0.00000000  0.50000000  0.04702507  1
+  Au  Au18  1  0.50000000  0.00000000  0.04702507  1

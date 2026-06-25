@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NaMnVCuAgOF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.07932901
+_cell_length_b   5.07932878
+_cell_length_c   10.54221916
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000463
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaMnVCuAgOF8
+_chemical_formula_sum   'Na1 Mn1 V1 Cu1 Ag1 O1 F8'
+_cell_volume   235.54577700
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.72649503  0.67751026  0.22761999  1
+  F  F1  1  0.32248974  0.04898477  0.22761999  1
+  F  F2  1  0.95101523  0.27350497  0.22761999  1
+  F  F3  1  0.68432087  0.02972026  0.73659492  1
+  F  F4  1  0.97027975  0.65460062  0.73659492  1
+  F  F5  1  0.34539938  0.31567913  0.73659492  1
+  F  F6  1  0.33333334  0.66666669  0.04307406  1
+  F  F7  1  0.66666669  0.33333334  0.49915382  1
+  Na  Na8  1  0.00000000  0.00000000  0.47888368  1
+  V  V9  1  0.66666669  0.33333334  0.84071690  1
+  O  O10  1  0.66666669  0.33333334  0.97614276  1
+  Ag  Ag11  1  0.66666669  0.33333334  0.33148283  1
+  Mn  Mn12  1  0.66666669  0.33333334  0.62887299  1
+  Cu  Cu13  1  0.66666669  0.33333334  0.11953822  1

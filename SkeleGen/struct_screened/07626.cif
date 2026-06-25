@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoVAgCO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04097128
+_cell_length_b   5.04097097
+_cell_length_c   7.22527313
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000516
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoVAgCO8
+_chemical_formula_sum   'Ho1 V1 Ag1 C1 O8'
+_cell_volume   159.00592134
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.62987143  0.71794409  0.25671232  1
+  O  O1  1  0.28205591  0.91192734  0.25671232  1
+  O  O2  1  0.08807266  0.37012857  0.25671232  1
+  O  O3  1  0.70321608  0.05197182  0.72729063  1
+  O  O4  1  0.94802821  0.65124428  0.72729063  1
+  O  O5  1  0.34875572  0.29678392  0.72729063  1
+  O  O6  1  0.33333334  0.66666669  0.00336540  1
+  O  O7  1  0.66666669  0.33333334  0.46273938  1
+  Ag  Ag8  1  0.00000000  0.00000000  0.95874232  1
+  Ho  Ho9  1  0.00000000  0.00000000  0.45944372  1
+  C  C10  1  0.33333334  0.66666669  0.19975644  1
+  V  V11  1  0.66666669  0.33333334  0.67826539  1

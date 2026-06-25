@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_MnFeSnF14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31628895
+_cell_length_b   5.31628891
+_cell_length_c   10.14738846
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000321
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnFeSnF14
+_chemical_formula_sum   'Mn1 Fe1 Sn1 F14'
+_cell_volume   248.37166889
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.65051013  0.64014298  0.21857035  1
+  F  F1  1  0.35985702  0.01036716  0.21857035  1
+  F  F2  1  0.98963284  0.34948987  0.21857035  1
+  F  F3  1  0.65613979  0.97973633  0.69384867  1
+  F  F4  1  0.02026367  0.67640346  0.69384867  1
+  F  F5  1  0.32359654  0.34386021  0.69384867  1
+  F  F6  1  0.33333334  0.66666669  0.85829103  1
+  F  F7  1  0.66666669  0.33333334  0.44844291  1
+  Sn  Sn8  1  0.00000000  0.00000000  0.86153805  1
+  Fe  Fe9  1  0.33333334  0.66666669  0.59770250  1
+  Mn  Mn10  1  0.66666669  0.33333334  0.25178206  1
+  F  F11  1  0.29869026  0.23508207  0.97813624  1
+  F  F12  1  0.76491791  0.06360818  0.97813624  1
+  F  F13  1  0.93639183  0.70130974  0.97813624  1
+  F  F14  1  0.62472093  0.91013426  0.47899476  1
+  F  F15  1  0.08986574  0.71458668  0.47899476  1
+  F  F16  1  0.28541332  0.37527907  0.47899476  1

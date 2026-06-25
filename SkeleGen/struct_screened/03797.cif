@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_RbVFeCl12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.50863647
+_cell_length_b   9.50863627
+_cell_length_c   5.48339796
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000403
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbVFeCl12
+_chemical_formula_sum   'Rb1 V1 Fe1 Cl12'
+_cell_volume   429.35533062
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.81657732  0.25224537  0.62935311  1
+  Cl  Cl1  1  0.74775463  0.56433195  0.62935311  1
+  Cl  Cl2  1  0.43566805  0.18342268  0.62935311  1
+  Cl  Cl3  1  0.14390457  0.66905475  0.63915980  1
+  Cl  Cl4  1  0.33094525  0.47484982  0.63915980  1
+  Cl  Cl5  1  0.52515018  0.85609543  0.63915980  1
+  Cl  Cl6  1  0.97765017  0.63995051  0.15383349  1
+  Cl  Cl7  1  0.36004949  0.33769965  0.15383349  1
+  Cl  Cl8  1  0.66230035  0.02234983  0.15383349  1
+  Rb  Rb9  1  0.00000000  0.00000000  0.80066943  1
+  V  V10  1  0.33333334  0.66666669  0.17392711  1
+  Fe  Fe11  1  0.66666669  0.33333334  0.62834942  1
+  Cl  Cl12  1  0.30960569  0.91301417  0.13039166  1
+  Cl  Cl13  1  0.08698583  0.39659154  0.13039166  1
+  Cl  Cl14  1  0.60340846  0.69039428  0.13039166  1

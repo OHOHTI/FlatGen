@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaNbAlCrMoI15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.19570637
+_cell_length_b   8.19570594
+_cell_length_c   13.73328686
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000556
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaNbAlCrMoI15
+_chemical_formula_sum   'Na1 Nb1 Al1 Cr1 Mo1 I15'
+_cell_volume   798.87320929
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.96473002  0.31267923  0.90187472  1
+  I  I1  1  0.68732077  0.65205079  0.90187472  1
+  I  I2  1  0.34794921  0.03526998  0.90187472  1
+  I  I3  1  0.75927693  0.77302378  0.17700461  1
+  I  I4  1  0.22697622  0.98625314  0.17700461  1
+  I  I5  1  0.01374686  0.24072307  0.17700461  1
+  I  I6  1  0.32284188  0.38551977  0.40541625  1
+  I  I7  1  0.61448026  0.93732214  0.40541625  1
+  I  I8  1  0.06267789  0.67715812  0.40541625  1
+  I  I9  1  0.33333334  0.66666669  0.66726923  1
+  I  I10  1  0.66666669  0.33333334  0.21368380  1
+  I  I11  1  0.35712743  0.12090009  0.64574397  1
+  I  I12  1  0.87909991  0.23622733  0.64574397  1
+  I  I13  1  0.76377267  0.64287257  0.64574397  1
+  Na  Na14  1  0.00000000  0.00000000  0.52608037  1
+  Cr  Cr15  1  0.00000000  0.00000000  0.04328655  1
+  Nb  Nb16  1  0.33333334  0.66666669  0.29102367  1
+  Al  Al17  1  0.33333334  0.66666669  0.50435460  1
+  I  I18  1  0.33333334  0.66666669  0.04957136  1
+  Mo  Mo19  1  0.66666669  0.33333334  0.76713520  1

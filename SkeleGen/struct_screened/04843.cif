@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CsLiPrP3I10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.31314850
+_cell_length_b   10.31314821
+_cell_length_c   8.15997410
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000399
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsLiPrP3I10
+_chemical_formula_sum   'Cs1 Li1 Pr1 P3 I10'
+_cell_volume   751.62622487
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.79151827  0.14157355  0.54660332  1
+  I  I1  1  0.85842645  0.64994472  0.54660332  1
+  I  I2  1  0.35005528  0.20848173  0.54660332  1
+  I  I3  1  0.25066614  0.86979598  0.73808837  1
+  I  I4  1  0.13020402  0.38087016  0.73808837  1
+  I  I5  1  0.61912984  0.74933386  0.73808837  1
+  I  I6  1  0.95499671  0.57018453  0.20514235  1
+  I  I7  1  0.42981547  0.38481218  0.20514235  1
+  I  I8  1  0.61518782  0.04500329  0.20514235  1
+  Pr  Pr9  1  0.00000000  0.00000000  0.76374090  1
+  Cs  Cs10  1  0.33333334  0.66666669  0.16687825  1
+  Li  Li11  1  0.66666669  0.33333334  0.16201666  1
+  I  I12  1  0.66666669  0.33333334  0.88826782  1
+  P  P13  1  0.45782194  0.13117759  0.73386651  1
+  P  P14  1  0.86882240  0.32664436  0.73386651  1
+  P  P15  1  0.67335564  0.54217803  0.73386651  1

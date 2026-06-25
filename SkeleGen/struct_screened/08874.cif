@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_YTlCuAgF10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.25883198
+_cell_length_b   5.25883177
+_cell_length_c   8.17711926
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000429
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YTlCuAgF10
+_chemical_formula_sum   'Y1 Tl1 Cu1 Ag1 F10'
+_cell_volume   195.84366040
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.47905347  1
+  F  F1  1  0.66666669  0.33333334  0.04662856  1
+  F  F2  1  0.28529748  0.31876627  0.26282793  1
+  F  F3  1  0.68123376  0.96653122  0.26282793  1
+  F  F4  1  0.03346878  0.71470249  0.26282793  1
+  F  F5  1  0.83897406  0.15719329  0.68893057  1
+  F  F6  1  0.84280670  0.68178076  0.68893057  1
+  F  F7  1  0.31821924  0.16102594  0.68893057  1
+  F  F8  1  0.33333334  0.66666669  0.03009805  1
+  F  F9  1  0.66666669  0.33333334  0.41654286  1
+  Ag  Ag10  1  0.00000000  0.00000000  0.98061389  1
+  Y  Y11  1  0.00000000  0.00000000  0.46814057  1
+  Tl  Tl12  1  0.33333334  0.66666669  0.75449461  1
+  Cu  Cu13  1  0.33333334  0.66666669  0.23706070  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Eu8(SnGe)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.15031242
+_cell_length_b   8.15031195
+_cell_length_c   7.60802937
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000578
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu8(SnGe)3
+_chemical_formula_sum   'Eu8 Sn3 Ge3'
+_cell_volume   437.67453102
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.72010535  0.76257181  0.34082147  1
+  Eu  Eu1  1  0.23742819  0.95753354  0.34082147  1
+  Eu  Eu2  1  0.04246646  0.27989465  0.34082147  1
+  Eu  Eu3  1  0.57378703  0.00200880  0.65483397  1
+  Eu  Eu4  1  0.99799120  0.57177824  0.65483397  1
+  Eu  Eu5  1  0.42822176  0.42621297  0.65483397  1
+  Eu  Eu6  1  0.33333334  0.66666669  0.05753975  1
+  Eu  Eu7  1  0.66666669  0.33333334  0.30394992  1
+  Sn  Sn8  1  0.96478218  0.65819222  0.07341208  1
+  Sn  Sn9  1  0.34180778  0.30658996  0.07341208  1
+  Sn  Sn10  1  0.69341004  0.03521782  0.07341208  1
+  Ge  Ge11  1  0.78121626  0.77305317  0.86313808  1
+  Ge  Ge12  1  0.22694683  0.00816309  0.86313808  1
+  Ge  Ge13  1  0.99183691  0.21878374  0.86313808  1

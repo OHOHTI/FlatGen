@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_SrTaCoS3I11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.77927780
+_cell_length_b   8.77927746
+_cell_length_c   9.13359070
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000488
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrTaCoS3I11
+_chemical_formula_sum   'Sr1 Ta1 Co1 S3 I11'
+_cell_volume   609.66283661
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.74910015  0.75905448  0.28118211  1
+  I  I1  1  0.24094552  0.99004567  0.28118211  1
+  I  I2  1  0.00995433  0.25089985  0.28118211  1
+  I  I3  1  0.59187669  0.97924340  0.70900160  1
+  I  I4  1  0.02075660  0.61263329  0.70900160  1
+  I  I5  1  0.38736671  0.40812331  0.70900160  1
+  I  I6  1  0.33333334  0.66666669  0.09287985  1
+  I  I7  1  0.66666669  0.33333334  0.45382547  1
+  Ta  Ta8  1  0.00000000  0.00000000  0.47115564  1
+  Co  Co9  1  0.00000000  0.00000000  0.09983821  1
+  Sr  Sr10  1  0.33333334  0.66666669  0.48337924  1
+  S  S11  1  0.77009660  0.04810411  0.03488090  1
+  S  S12  1  0.95189589  0.72199249  0.03488090  1
+  S  S13  1  0.27800751  0.22990340  0.03488090  1
+  I  I14  1  0.75875866  0.78535277  0.69833571  1
+  I  I15  1  0.21464723  0.97340590  0.69833571  1
+  I  I16  1  0.02659410  0.24124134  0.69833571  1

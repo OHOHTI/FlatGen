@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsRbVMoCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.40092278
+_cell_length_b   6.40092254
+_cell_length_c   11.29648209
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000613
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsRbVMoCl8
+_chemical_formula_sum   'Cs1 Rb1 V1 Mo1 Cl8'
+_cell_volume   400.82885884
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.66666669  0.33333334  0.58311689  1
+  Cl  Cl1  1  0.33333334  0.66666669  0.52938724  1
+  Cl  Cl2  1  0.64721602  0.00176236  0.84544939  1
+  Cl  Cl3  1  0.99823767  0.64545369  0.84544939  1
+  Cl  Cl4  1  0.35454631  0.35278398  0.84544939  1
+  Cl  Cl5  1  0.37793908  0.00052680  0.08025506  1
+  Cl  Cl6  1  0.99947321  0.37741229  0.08025506  1
+  Cl  Cl7  1  0.62258768  0.62206089  0.08025506  1
+  Rb  Rb8  1  0.00000000  0.00000000  0.66346377  1
+  Cs  Cs9  1  0.00000000  0.00000000  0.26615119  1
+  Mo  Mo10  1  0.33333334  0.66666669  0.96075612  1
+  V  V11  1  0.66666669  0.33333334  0.96963382  1

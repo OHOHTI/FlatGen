@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_BaBeHg3Cl10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.42981386
+_cell_length_b   7.42981341
+_cell_length_c   9.69104958
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000624
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaBeHg3Cl10
+_chemical_formula_sum   'Ba1 Be1 Hg3 Cl10'
+_cell_volume   463.29462387
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.54926080  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.07140198  1
+  Cl  Cl2  1  0.17260829  0.82739174  0.25333154  1
+  Cl  Cl3  1  0.17260829  0.34521657  0.25333154  1
+  Cl  Cl4  1  0.65478343  0.82739174  0.25333154  1
+  Cl  Cl5  1  0.84534311  0.15465689  0.76014906  1
+  Cl  Cl6  1  0.84534311  0.69068623  0.76014906  1
+  Cl  Cl7  1  0.30931377  0.15465689  0.76014906  1
+  Cl  Cl8  1  0.33333334  0.66666669  0.95784688  1
+  Cl  Cl9  1  0.66666669  0.33333334  0.41369095  1
+  Ba  Ba10  1  0.00000000  0.00000000  0.00325687  1
+  Be  Be11  1  0.33333334  0.66666669  0.19820954  1
+  Hg  Hg12  1  0.83265221  0.16734779  0.53268355  1
+  Hg  Hg13  1  0.83265221  0.66530442  0.53268355  1
+  Hg  Hg14  1  0.33469558  0.16734779  0.53268355  1

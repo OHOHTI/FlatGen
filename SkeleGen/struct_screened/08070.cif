@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_BaLi2CoNiOF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36033058
+_cell_length_b   5.36033020
+_cell_length_c   7.92856216
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000532
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLi2CoNiOF8
+_chemical_formula_sum   'Ba1 Li2 Co1 Ni1 O1 F8'
+_cell_volume   197.29140306
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66666669  0.33333334  0.60904640  1
+  F  F1  1  0.33333334  0.66666669  0.58771682  1
+  F  F2  1  0.64381874  0.02681486  0.85578144  1
+  F  F3  1  0.97318512  0.61700386  0.85578144  1
+  F  F4  1  0.38299614  0.35618126  0.85578144  1
+  F  F5  1  0.35167006  0.97876024  0.29631802  1
+  F  F6  1  0.02123976  0.37290978  0.29631802  1
+  F  F7  1  0.62709022  0.64832997  0.29631802  1
+  Ba  Ba8  1  0.00000000  0.00000000  0.60902524  1
+  Ni  Ni9  1  0.33333334  0.66666669  0.85978514  1
+  Co  Co10  1  0.33333334  0.66666669  0.25630185  1
+  O  O11  1  0.33333334  0.66666669  0.06225568  1
+  Li  Li12  1  0.66666669  0.33333334  0.02430558  1
+  Li  Li13  1  0.66666669  0.33333334  0.37602624  1

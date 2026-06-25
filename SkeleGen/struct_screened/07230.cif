@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_ZrBeGaCuF13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.87188005
+_cell_length_b   4.87187986
+_cell_length_c   12.08410835
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000459
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrBeGaCuF13
+_chemical_formula_sum   'Zr1 Be1 Ga1 Cu1 F13'
+_cell_volume   248.39244335
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.00000000  0.00000000  0.12865953  1
+  F  F1  1  0.00000000  0.00000000  0.63391364  1
+  F  F2  1  0.00000000  0.00000000  0.31239200  1
+  F  F3  1  0.00000000  0.00000000  0.86433160  1
+  F  F4  1  0.65748173  0.03206491  0.48909315  1
+  F  F5  1  0.96793509  0.62541682  0.48909315  1
+  F  F6  1  0.37458318  0.34251827  0.48909315  1
+  F  F7  1  0.38864839  0.02324897  0.98323631  1
+  F  F8  1  0.97675103  0.36539942  0.98323631  1
+  F  F9  1  0.63460058  0.61135161  0.98323631  1
+  F  F10  1  0.33333334  0.66666669  0.77851135  1
+  F  F11  1  0.66666669  0.33333334  0.22849201  1
+  Be  Be12  1  0.66666669  0.33333334  0.59023315  1
+  F  F13  1  0.66666669  0.33333334  0.70308542  1
+  Zr  Zr14  1  0.66666669  0.33333334  0.38850507  1
+  Cu  Cu15  1  0.66666669  0.33333334  0.08584953  1
+  Ga  Ga16  1  0.66666669  0.33333334  0.87368542  1

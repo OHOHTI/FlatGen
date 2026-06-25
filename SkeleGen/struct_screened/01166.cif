@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Rb2GaCoTe9O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.98268414
+_cell_length_b   7.98268379
+_cell_length_c   9.31563759
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000538
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2GaCoTe9O7
+_chemical_formula_sum   'Rb2 Ga1 Co1 Te9 O7'
+_cell_volume   514.09225866
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.33333334  0.66666669  0.09340476  1
+  Te  Te1  1  0.66666669  0.33333334  0.02416215  1
+  Te  Te2  1  0.62417156  0.01689807  0.73702061  1
+  Te  Te3  1  0.98310196  0.60727346  0.73702061  1
+  Te  Te4  1  0.39272654  0.37582844  0.73702061  1
+  Te  Te5  1  0.62829131  0.03059827  0.30348051  1
+  Te  Te6  1  0.96940172  0.59769303  0.30348051  1
+  Te  Te7  1  0.40230697  0.37170869  0.30348051  1
+  Rb  Rb8  1  0.00000000  0.00000000  0.73214757  1
+  Rb  Rb9  1  0.00000000  0.00000000  0.20508961  1
+  Co  Co10  1  0.33333334  0.66666669  0.81304514  1
+  O  O11  1  0.33333334  0.66666669  0.61848837  1
+  Te  Te12  1  0.33333334  0.66666669  0.43742946  1
+  Ga  Ga13  1  0.66666669  0.33333334  0.45680445  1
+  O  O14  1  0.53344935  0.85111165  0.93985152  1
+  O  O15  1  0.14888835  0.68233770  0.93985152  1
+  O  O16  1  0.31766230  0.46655065  0.93985152  1
+  O  O17  1  0.40015522  0.19633594  0.12277233  1
+  O  O18  1  0.80366409  0.20381927  0.12277233  1
+  O  O19  1  0.79618073  0.59984481  0.12277233  1

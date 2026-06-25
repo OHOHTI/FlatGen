@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_NaSnBi3Cl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.28451824
+_cell_length_b   7.28451821
+_cell_length_c   8.92738056
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000448
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSnBi3Cl8
+_chemical_formula_sum   'Na1 Sn1 Bi3 Cl8'
+_cell_volume   410.25731086
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.74782258  0.70814496  0.19387423  1
+  Cl  Cl1  1  0.29185504  0.03967762  0.19387423  1
+  Cl  Cl2  1  0.96032238  0.25217742  0.19387423  1
+  Cl  Cl3  1  0.65046412  0.95830750  0.70506930  1
+  Cl  Cl4  1  0.04169250  0.69215661  0.70506930  1
+  Cl  Cl5  1  0.30784339  0.34953588  0.70506930  1
+  Cl  Cl6  1  0.33333334  0.66666669  0.00895018  1
+  Cl  Cl7  1  0.66666669  0.33333334  0.47606060  1
+  Sn  Sn8  1  0.00000000  0.00000000  0.04115650  1
+  Na  Na9  1  0.00000000  0.00000000  0.46792167  1
+  Bi  Bi10  1  0.60852003  0.62005544  0.81984264  1
+  Bi  Bi11  1  0.37994456  0.98846459  0.81984264  1
+  Bi  Bi12  1  0.01153541  0.39147997  0.81984264  1

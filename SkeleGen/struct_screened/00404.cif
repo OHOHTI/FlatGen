@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_VAgMoCF14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.09010601
+_cell_length_b   6.09010592
+_cell_length_c   7.65892410
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000568
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VAgMoCF14
+_chemical_formula_sum   'V1 Ag1 Mo1 C1 F14'
+_cell_volume   246.00734331
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.34914693  0.43627176  0.46622029  1
+  F  F1  1  0.56372821  0.91287518  0.46622029  1
+  F  F2  1  0.08712482  0.65085304  0.46622029  1
+  F  F3  1  0.87725484  0.57118475  0.94335842  1
+  F  F4  1  0.42881525  0.30607009  0.94335842  1
+  F  F5  1  0.69392991  0.12274516  0.94335842  1
+  F  F6  1  0.66666669  0.33333334  0.45529130  1
+  F  F7  1  0.05060148  0.32161301  0.72325075  1
+  F  F8  1  0.67838699  0.72898847  0.72325075  1
+  F  F9  1  0.27101153  0.94939852  0.72325075  1
+  F  F10  1  0.33333334  0.66666669  0.97980088  1
+  F  F11  1  0.07904791  0.33886635  0.22183163  1
+  F  F12  1  0.66113365  0.74018157  0.22183163  1
+  F  F13  1  0.25981843  0.92095208  0.22183163  1
+  Ag  Ag14  1  0.00000000  0.00000000  0.40201962  1
+  Mo  Mo15  1  0.33333334  0.66666669  0.67685997  1
+  V  V16  1  0.33333334  0.66666669  0.29665351  1
+  C  C17  1  0.66666669  0.33333334  0.89025241  1

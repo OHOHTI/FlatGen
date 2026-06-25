@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_KUCoNiF15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.08134460
+_cell_length_b   8.08134432
+_cell_length_c   4.45395041
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000507
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KUCoNiF15
+_chemical_formula_sum   'K1 U1 Co1 Ni1 F15'
+_cell_volume   251.90873309
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.13811900  0.47380945  0.73391777  1
+  F  F1  1  0.52619052  0.66430956  0.73391777  1
+  F  F2  1  0.33569044  0.86188102  0.73391777  1
+  F  F3  1  0.91542053  0.13345267  0.70100147  1
+  F  F4  1  0.86654735  0.78196788  0.70100147  1
+  F  F5  1  0.21803212  0.08457947  0.70100147  1
+  F  F6  1  0.19997075  0.27244481  0.26835710  1
+  F  F7  1  0.72755516  0.92752594  0.26835710  1
+  F  F8  1  0.07247406  0.80002928  0.26835710  1
+  F  F9  1  0.51134044  0.38626802  0.71073896  1
+  F  F10  1  0.61373198  0.12507242  0.71073896  1
+  F  F11  1  0.87492758  0.48865956  0.71073896  1
+  F  F12  1  0.71071899  0.54573071  0.24758023  1
+  F  F13  1  0.45426929  0.16498828  0.24758023  1
+  F  F14  1  0.83501172  0.28928101  0.24758023  1
+  Ni  Ni15  1  0.00000000  0.00000000  0.47249168  1
+  K  K16  1  0.33333334  0.66666669  0.13812199  1
+  U  U17  1  0.33333334  0.66666669  0.62308443  1
+  Co  Co18  1  0.66666669  0.33333334  0.47147569  1

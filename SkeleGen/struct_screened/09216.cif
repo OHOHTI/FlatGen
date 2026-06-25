@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BaEuCrO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.61229038
+_cell_length_b   5.61228996
+_cell_length_c   8.69561100
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000531
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaEuCrO5
+_chemical_formula_sum   'Ba2 Eu2 Cr2 O10'
+_cell_volume   237.19795804
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.33333334  0.66666669  0.49201027  1
+  O  O1  1  0.66666669  0.33333334  0.99201024  1
+  O  O2  1  0.17500128  0.32817572  0.27453062  1
+  O  O3  1  0.67182428  0.84682554  0.27453062  1
+  O  O4  1  0.15317445  0.82499874  0.27453062  1
+  O  O5  1  0.32817572  0.17500128  0.77453065  1
+  O  O6  1  0.84682554  0.67182428  0.77453065  1
+  O  O7  1  0.82499874  0.15317445  0.77453065  1
+  O  O8  1  0.33333334  0.66666669  0.05661703  1
+  O  O9  1  0.66666669  0.33333334  0.55661702  1
+  Eu  Eu10  1  0.00000000  0.00000000  0.51533639  1
+  Eu  Eu11  1  0.00000000  0.00000000  0.01533639  1
+  Ba  Ba12  1  0.33333334  0.66666669  0.77429146  1
+  Ba  Ba13  1  0.66666669  0.33333334  0.27429152  1
+  Cr  Cr14  1  0.33333334  0.66666669  0.26646620  1
+  Cr  Cr15  1  0.66666669  0.33333334  0.76646620  1

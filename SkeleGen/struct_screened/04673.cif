@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_LiAlFeCu2NiOF11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.72294617
+_cell_length_b   3.88415480
+_cell_length_c   14.66804123
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   90.00000433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAlFeCu2NiOF11
+_chemical_formula_sum   'Li1 Al1 Fe1 Cu2 Ni1 O1 F11'
+_cell_volume   212.10719864
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.00000000  0.50000000  0.29993331  1
+  F  F1  1  0.50000000  0.00000000  0.63188773  1
+  F  F2  1  0.50000000  0.50000000  0.45528349  1
+  F  F3  1  0.00000000  0.00000000  0.49193534  1
+  F  F4  1  0.00000000  0.00000000  0.13206084  1
+  F  F5  1  0.50000000  0.50000000  0.14330064  1
+  F  F6  1  0.50000000  0.50000000  0.81015652  1
+  F  F7  1  0.00000000  0.00000000  0.80288655  1
+  Al  Al8  1  0.00000000  0.00000000  0.67258728  1
+  F  F9  1  0.00000000  0.50000000  0.64941382  1
+  Ni  Ni10  1  0.00000000  0.50000000  0.50003117  1
+  Fe  Fe11  1  0.00000000  0.50000000  0.11970616  1
+  F  F12  1  0.00000000  0.50000000  0.98062509  1
+  Li  Li13  1  0.50000000  0.00000000  0.18218946  1
+  F  F14  1  0.50000000  0.00000000  0.96891129  1
+  O  O15  1  0.50000000  0.00000000  0.30373415  1
+  Cu  Cu16  1  0.50000000  0.50000000  0.93851691  1
+  Cu  Cu17  1  0.50000000  0.50000000  0.31787431  1

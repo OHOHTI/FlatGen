@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_TbScSi2SO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.00601006
+_cell_length_b   5.00600979
+_cell_length_c   8.62834644
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000488
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbScSi2SO12
+_chemical_formula_sum   'Tb1 Sc1 Si2 S1 O12'
+_cell_volume   187.25852465
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.92344236  0.29620615  0.37304243  1
+  O  O1  1  0.70379388  0.62723625  0.37304243  1
+  O  O2  1  0.37276375  0.07655764  0.37304243  1
+  O  O3  1  0.03350877  0.65269792  0.65789056  1
+  O  O4  1  0.34730208  0.38081086  0.65789056  1
+  O  O5  1  0.61918914  0.96649122  0.65789056  1
+  O  O6  1  0.98034775  0.65915334  0.13815565  1
+  O  O7  1  0.34084666  0.32119441  0.13815565  1
+  O  O8  1  0.67880559  0.01965225  0.13815565  1
+  Sc  Sc9  1  0.00000000  0.00000000  0.00419887  1
+  Si  Si10  1  0.33333334  0.66666669  0.75373173  1
+  Tb  Tb11  1  0.33333334  0.66666669  0.28770480  1
+  S  S12  1  0.66666669  0.33333334  0.77687395  1
+  Si  Si13  1  0.66666669  0.33333334  0.26182309  1
+  O  O14  1  0.99254417  0.32895830  0.87582648  1
+  O  O15  1  0.67104173  0.66358590  0.87582648  1
+  O  O16  1  0.33641410  0.00745583  0.87582648  1

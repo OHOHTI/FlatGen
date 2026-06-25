@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_K3Rb2AgGePHOF10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58959961
+_cell_length_b   5.58959947
+_cell_length_c   13.95536900
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000365
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3Rb2AgGePHOF10
+_chemical_formula_sum   'K3 Rb2 Ag1 Ge1 P1 H1 O1 F10'
+_cell_volume   377.60116781
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.16548078  1
+  F  F1  1  0.66666669  0.33333334  0.87793040  1
+  F  F2  1  0.52018112  0.47981888  0.68433517  1
+  F  F3  1  0.52018112  0.04036224  0.68433517  1
+  F  F4  1  0.95963776  0.47981888  0.68433517  1
+  F  F5  1  0.49158704  0.50841296  0.33071053  1
+  F  F6  1  0.49158704  0.98317409  0.33071053  1
+  F  F7  1  0.01682591  0.50841296  0.33071053  1
+  F  F8  1  0.00000000  0.00000000  0.18247229  1
+  K  K9  1  0.00000000  0.00000000  0.97378504  1
+  Ag  Ag10  1  0.00000000  0.00000000  0.35686141  1
+  Rb  Rb11  1  0.00000000  0.00000000  0.62401688  1
+  O  O12  1  0.33333334  0.66666669  0.50300145  1
+  Rb  Rb13  1  0.33333334  0.66666669  0.82813531  1
+  F  F14  1  0.33333334  0.66666669  0.01182388  1
+  Ge  Ge15  1  0.33333334  0.66666669  0.28423476  1
+  H  H16  1  0.33333334  0.66666669  0.55829024  1
+  K  K17  1  0.66666669  0.33333334  0.47386694  1
+  K  K18  1  0.66666669  0.33333334  0.11180584  1
+  P  P19  1  0.66666669  0.33333334  0.73394865  1

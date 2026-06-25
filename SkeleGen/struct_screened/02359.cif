@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_RbAs2HO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.77206326
+_cell_length_b   5.77206308
+_cell_length_c   8.67313004
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000374
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbAs2HO3
+_chemical_formula_sum   'Rb2 As4 H2 O6'
+_cell_volume   250.24685234
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  As  As0  1  0.00000000  0.00000000  0.00000000  1
+  As  As1  1  0.33333334  0.66666669  0.42760313  1
+  As  As2  1  0.66666669  0.33333334  0.57239687  1
+  As  As3  1  0.00000000  0.00000000  0.50000000  1
+  H  H4  1  0.33333334  0.66666669  0.23770896  1
+  H  H5  1  0.66666669  0.33333334  0.76229107  1
+  Rb  Rb6  1  0.33333334  0.66666669  0.81796694  1
+  Rb  Rb7  1  0.66666669  0.33333334  0.18203306  1
+  O  O8  1  0.23045973  0.00000000  0.00000000  1
+  O  O9  1  0.00000000  0.23045973  0.00000000  1
+  O  O10  1  0.76954025  0.76954025  0.00000000  1
+  O  O11  1  0.63549167  0.00000000  0.50000000  1
+  O  O12  1  0.00000000  0.63549167  0.50000000  1
+  O  O13  1  0.36450833  0.36450833  0.50000000  1

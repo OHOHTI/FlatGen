@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_V2XeF10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.80858374
+_cell_length_b   5.80858355
+_cell_length_c   7.35566044
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000376
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V2XeF10
+_chemical_formula_sum   'V2 Xe1 F10'
+_cell_volume   214.92789394
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.52601004  1
+  F  F1  1  0.66666669  0.33333334  0.47398996  1
+  F  F2  1  0.33333334  0.66666669  0.90432262  1
+  F  F3  1  0.66666669  0.33333334  0.09567738  1
+  F  F4  1  0.21114393  0.35183066  0.21287054  1
+  F  F5  1  0.64816934  0.85931325  0.21287054  1
+  F  F6  1  0.14068674  0.78885609  0.21287054  1
+  F  F7  1  0.78885609  0.64816934  0.78712946  1
+  F  F8  1  0.35183066  0.14068674  0.78712946  1
+  F  F9  1  0.85931325  0.21114393  0.78712946  1
+  Xe  Xe10  1  0.00000000  0.00000000  0.50000000  1
+  V  V11  1  0.33333334  0.66666669  0.14147833  1
+  V  V12  1  0.66666669  0.33333334  0.85852170  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_TlAgGeTeO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.92609930
+_cell_length_b   4.92609898
+_cell_length_c   8.72449493
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000533
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlAgGeTeO9
+_chemical_formula_sum   'Tl1 Ag1 Ge1 Te1 O9'
+_cell_volume   183.34843170
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.66666669  0.33333334  0.54568356  1
+  O  O1  1  0.33333334  0.66666669  0.45585248  1
+  O  O2  1  0.63608938  0.02044088  0.78807610  1
+  O  O3  1  0.97955912  0.61564851  0.78807610  1
+  O  O4  1  0.38435149  0.36391062  0.78807610  1
+  O  O5  1  0.38133219  0.98096460  0.13020818  1
+  O  O6  1  0.01903540  0.40036762  0.13020818  1
+  O  O7  1  0.59963238  0.61866784  0.13020818  1
+  O  O8  1  0.00000000  0.00000000  0.28113237  1
+  Tl  Tl9  1  0.00000000  0.00000000  0.97918779  1
+  Ag  Ag10  1  0.00000000  0.00000000  0.51421219  1
+  Te  Te11  1  0.33333334  0.66666669  0.22562453  1
+  Ge  Ge12  1  0.66666669  0.33333334  0.72182280  1

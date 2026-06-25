@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ce4PbBrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.91102266
+_cell_length_b   5.91102238
+_cell_length_c   7.46479273
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000425
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce4PbBrO6
+_chemical_formula_sum   'Ce4 Pb1 Br1 O6'
+_cell_volume   225.87782368
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.00000000  0.00000000  0.91053629  1
+  Ce  Ce1  1  0.66666669  0.33333334  0.68242830  1
+  Ce  Ce2  1  0.33333334  0.66666669  0.37253121  1
+  Ce  Ce3  1  0.00000000  0.00000000  0.39410162  1
+  Br  Br4  1  0.33333334  0.66666669  0.87855411  1
+  Pb  Pb5  1  0.66666669  0.33333334  0.10922340  1
+  O  O6  1  0.68025899  0.71165168  0.21588457  1
+  O  O7  1  0.28834832  0.96860731  0.21588457  1
+  O  O8  1  0.03139269  0.31974101  0.21588457  1
+  O  O9  1  0.98244208  0.63332862  0.56267530  1
+  O  O10  1  0.36667138  0.34911346  0.56267530  1
+  O  O11  1  0.65088654  0.01755792  0.56267530  1

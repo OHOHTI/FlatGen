@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CsCaMnCoI14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.94285202
+_cell_length_b   8.94285153
+_cell_length_c   11.62404823
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000533
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsCaMnCoI14
+_chemical_formula_sum   'Cs1 Ca1 Mn1 Co1 I14'
+_cell_volume   805.08192614
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.35150197  0.42662066  0.50739014  1
+  I  I1  1  0.57337934  0.92488134  0.50739014  1
+  I  I2  1  0.07511869  0.64849806  0.50739014  1
+  I  I3  1  0.84198153  0.60347205  0.99367714  1
+  I  I4  1  0.39652795  0.23850948  0.99367714  1
+  I  I5  1  0.76149052  0.15801847  0.99367714  1
+  I  I6  1  0.66666669  0.33333334  0.40646899  1
+  I  I7  1  0.97944540  0.30926639  0.72873592  1
+  I  I8  1  0.69073361  0.67017901  0.72873592  1
+  I  I9  1  0.32982099  0.02055460  0.72873592  1
+  I  I10  1  0.33333334  0.66666669  0.91637897  1
+  I  I11  1  0.15565658  0.31516847  0.19491889  1
+  I  I12  1  0.68483150  0.84048808  0.19491889  1
+  I  I13  1  0.15951189  0.84434342  0.19491889  1
+  Ca  Ca14  1  0.00000000  0.00000000  0.96064782  1
+  Cs  Cs15  1  0.00000000  0.00000000  0.42012349  1
+  Co  Co16  1  0.33333334  0.66666669  0.60326833  1
+  Mn  Mn17  1  0.66666669  0.33333334  0.83572966  1

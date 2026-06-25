@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_HfThOsI10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.59085274
+_cell_length_b   9.59085260
+_cell_length_c   6.85577202
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999389
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfThOsI10
+_chemical_formula_sum   'Th1 Hf1 Os1 I10'
+_cell_volume   546.13682950
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.89156079  0.25786817  0.73568743  1
+  I  I1  1  0.74213183  0.63369262  0.73568743  1
+  I  I2  1  0.36630738  0.10843921  0.73568743  1
+  I  I3  1  0.13862661  0.68993896  0.70510954  1
+  I  I4  1  0.31006104  0.44868767  0.70510954  1
+  I  I5  1  0.55131233  0.86137342  0.70510954  1
+  I  I6  1  0.08440219  0.73683459  0.22034310  1
+  I  I7  1  0.26316541  0.34756762  0.22034310  1
+  I  I8  1  0.65243238  0.91559780  0.22034310  1
+  Os  Os9  1  0.33333334  0.66666669  0.46110103  1
+  Th  Th10  1  0.33333334  0.66666669  0.05148996  1
+  I  I11  1  0.66666669  0.33333334  0.20661299  1
+  Hf  Hf12  1  0.66666669  0.33333334  0.57918918  1

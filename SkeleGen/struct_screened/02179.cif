@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_MnTlCoF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24728394
+_cell_length_b   5.24728390
+_cell_length_c   6.46249771
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000325
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnTlCoF8
+_chemical_formula_sum   'Mn1 Tl1 Co1 F8'
+_cell_volume   154.09911563
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66666669  0.33333334  0.48315850  1
+  F  F1  1  0.33333334  0.66666669  0.53561121  1
+  F  F2  1  0.64208281  0.03157645  0.82166970  1
+  F  F3  1  0.96842355  0.61050636  0.82166970  1
+  F  F4  1  0.38949364  0.35791719  0.82166970  1
+  F  F5  1  0.33515599  0.00171539  0.17746031  1
+  F  F6  1  0.99828458  0.33344060  0.17746031  1
+  F  F7  1  0.66655940  0.66484404  0.17746031  1
+  Tl  Tl8  1  0.00000000  0.00000000  0.40220451  1
+  Mn  Mn9  1  0.33333334  0.66666669  0.02556300  1
+  Co  Co10  1  0.66666669  0.33333334  0.72877032  1

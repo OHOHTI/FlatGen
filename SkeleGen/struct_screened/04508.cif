@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Zr2TiTlCoBOF13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.64417362
+_cell_length_b   5.64417323
+_cell_length_c   11.83064079
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000509
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr2TiTlCoBOF13
+_chemical_formula_sum   'Zr2 Ti1 Tl1 Co1 B1 O1 F13'
+_cell_volume   326.39205384
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.68718350  0.05869548  0.63004178  1
+  F  F1  1  0.94130450  0.62848800  0.63004178  1
+  F  F2  1  0.37151200  0.31281650  0.63004178  1
+  F  F3  1  0.23341069  0.90956616  0.44039080  1
+  F  F4  1  0.09043384  0.32384455  0.44039080  1
+  F  F5  1  0.67615545  0.76658928  0.44039080  1
+  F  F6  1  0.97753525  0.66570145  0.21497685  1
+  F  F7  1  0.33429855  0.31183380  0.21497685  1
+  F  F8  1  0.68816620  0.02246475  0.21497685  1
+  Zr  Zr9  1  0.00000000  0.00000000  0.32597220  1
+  Tl  Tl10  1  0.33333334  0.66666669  0.99717849  1
+  Zr  Zr11  1  0.66666669  0.33333334  0.73465317  1
+  Co  Co12  1  0.66666669  0.33333334  0.52461886  1
+  O  O13  1  0.66666669  0.33333334  0.04841940  1
+  B  B14  1  0.66666669  0.33333334  0.93462032  1
+  F  F15  1  0.66666669  0.33333334  0.36412850  1
+  Ti  Ti16  1  0.66666669  0.33333334  0.19183078  1
+  F  F17  1  0.95102304  0.34648746  0.85507977  1
+  F  F18  1  0.65351254  0.60453558  0.85507977  1
+  F  F19  1  0.39546442  0.04897696  0.85507977  1

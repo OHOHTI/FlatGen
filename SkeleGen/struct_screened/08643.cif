@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaReAgGeBCl11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.60012779
+_cell_length_b   7.02582842
+_cell_length_c   8.97289848
+_cell_angle_alpha   92.60051497
+_cell_angle_beta   91.52650194
+_cell_angle_gamma   98.94692724
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaReAgGeBCl11
+_chemical_formula_sum   'Na1 Re1 Ag1 Ge1 B1 Cl11'
+_cell_volume   410.36024468
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.76816589  0.29907620  0.44831824  1
+  Cl  Cl1  1  0.24925758  0.73228931  0.43863708  1
+  Cl  Cl2  1  0.54647452  0.97128487  0.79436404  1
+  Cl  Cl3  1  0.44488835  0.48808682  0.81863958  1
+  Cl  Cl4  1  0.02201432  0.58050638  0.77694267  1
+  Cl  Cl5  1  0.47263107  0.07469304  0.17145936  1
+  Cl  Cl6  1  0.59907162  0.52740890  0.13101938  1
+  Cl  Cl7  1  0.08510030  0.45652062  0.10404960  1
+  Ag  Ag8  1  0.78891790  0.76743364  0.95288569  1
+  Cl  Cl9  1  0.06696791  0.16384301  0.80545074  1
+  B  B10  1  0.12101985  0.38160104  0.92904305  1
+  Ge  Ge11  1  0.94978720  0.58328563  0.42299211  1
+  Cl  Cl12  1  0.77184105  0.77166325  0.49124566  1
+  Na  Na13  1  0.28261629  0.03234018  0.57995307  1
+  Cl  Cl14  1  0.94473654  0.98522186  0.16567153  1
+  Re  Re15  1  0.78521824  0.26137167  0.19006805  1

@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Cr2MoF16
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.33675528
+_cell_length_b   7.33675515
+_cell_length_c   6.39289713
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000486
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr2MoF16
+_chemical_formula_sum   'Cr2 Mo1 F16'
+_cell_volume   298.01380687
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.51795948  1
+  F  F1  1  0.66666669  0.33333334  0.48204052  1
+  F  F2  1  0.88614362  0.77930707  0.80958581  1
+  F  F3  1  0.22069293  0.10683656  0.80958581  1
+  F  F4  1  0.89316344  0.11385638  0.80958581  1
+  F  F5  1  0.77930707  0.88614362  0.19041419  1
+  F  F6  1  0.10683656  0.22069293  0.19041419  1
+  F  F7  1  0.11385638  0.89316344  0.19041419  1
+  F  F8  1  0.33333334  0.66666669  0.97701097  1
+  F  F9  1  0.66666669  0.33333334  0.02298903  1
+  Mo  Mo10  1  0.00000000  0.00000000  0.00000000  1
+  Cr  Cr11  1  0.33333334  0.66666669  0.23575847  1
+  Cr  Cr12  1  0.66666669  0.33333334  0.76424152  1
+  F  F13  1  0.47359371  0.55417341  0.26586604  1
+  F  F14  1  0.44582659  0.91942030  0.26586604  1
+  F  F15  1  0.08057970  0.52640629  0.26586604  1
+  F  F16  1  0.55417341  0.47359371  0.73413396  1
+  F  F17  1  0.91942030  0.44582659  0.73413396  1
+  F  F18  1  0.52640629  0.08057970  0.73413396  1

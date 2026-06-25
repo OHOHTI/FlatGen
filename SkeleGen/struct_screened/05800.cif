@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaGdRh2F8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.39456844
+_cell_length_b   5.39456832
+_cell_length_c   7.25429440
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000366
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaGdRh2F8
+_chemical_formula_sum   'Na1 Gd1 Rh2 F8'
+_cell_volume   182.82652194
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.90545088  1
+  F  F1  1  0.66666669  0.33333334  0.09454912  1
+  F  F2  1  0.33539060  0.05627967  0.68143559  1
+  F  F3  1  0.94372034  0.27911094  0.68143559  1
+  F  F4  1  0.72088909  0.66460943  0.68143559  1
+  F  F5  1  0.66460943  0.94372034  0.31856441  1
+  F  F6  1  0.05627967  0.72088909  0.31856441  1
+  F  F7  1  0.27911094  0.33539060  0.31856441  1
+  Na  Na8  1  0.00000000  0.00000000  0.00000000  1
+  Gd  Gd9  1  0.00000000  0.00000000  0.50000000  1
+  Rh  Rh10  1  0.33333334  0.66666669  0.20675102  1
+  Rh  Rh11  1  0.66666669  0.33333334  0.79324901  1

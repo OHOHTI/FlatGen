@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CdCo(P3O4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.14116096
+_cell_length_b   5.14116057
+_cell_length_c   9.68876839
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000558
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdCo(P3O4)2
+_chemical_formula_sum   'Cd1 Co1 P6 O8'
+_cell_volume   221.77957722
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.00000000  0.00000000  0.02953085  1
+  P  P1  1  0.66666669  0.33333334  0.64682162  1
+  P  P2  1  0.33333334  0.66666669  0.27992767  1
+  P  P3  1  0.00000000  0.00000000  0.55877805  1
+  Cd  Cd4  1  0.33333334  0.66666669  0.74693298  1
+  Co  Co5  1  0.66666669  0.33333334  0.35830024  1
+  P  P6  1  0.66666669  0.33333334  0.86691022  1
+  O  O7  1  0.66666669  0.33333334  0.00840791  1
+  P  P8  1  0.66666669  0.33333334  0.15857057  1
+  O  O9  1  0.66666669  0.33333334  0.51410955  1
+  O  O10  1  0.89787906  0.61867577  0.74499065  1
+  O  O11  1  0.38132423  0.27920330  0.74499065  1
+  O  O12  1  0.72079670  0.10212094  0.74499065  1
+  O  O13  1  0.99533981  0.37330228  0.23827989  1
+  O  O14  1  0.62669772  0.62203753  0.23827989  1
+  O  O15  1  0.37796247  0.00466019  0.23827989  1

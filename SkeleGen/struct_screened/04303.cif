@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_K2Ni2SnF14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.67225504
+_cell_length_b   5.67225461
+_cell_length_c   9.25223732
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000531
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Ni2SnF14
+_chemical_formula_sum   'K2 Ni2 Sn1 F14'
+_cell_volume   257.80351736
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.46595728  1
+  F  F1  1  0.66666669  0.33333334  0.53404272  1
+  F  F2  1  0.62740302  0.91344446  0.86363256  1
+  F  F3  1  0.08655554  0.71395856  0.86363256  1
+  F  F4  1  0.28604144  0.37259698  0.86363256  1
+  F  F5  1  0.37259698  0.08655554  0.13636744  1
+  F  F6  1  0.91344446  0.28604144  0.13636744  1
+  F  F7  1  0.71395856  0.62740302  0.13636744  1
+  Sn  Sn8  1  0.00000000  0.00000000  0.50000000  1
+  Ni  Ni9  1  0.33333334  0.66666669  0.72572798  1
+  Ni  Ni10  1  0.66666669  0.33333334  0.27427202  1
+  K  K11  1  0.33333334  0.66666669  0.12895365  1
+  K  K12  1  0.66666669  0.33333334  0.87104636  1
+  F  F13  1  0.27338868  0.95734453  0.64174193  1
+  F  F14  1  0.04265547  0.31604415  0.64174193  1
+  F  F15  1  0.68395585  0.72661132  0.64174193  1
+  F  F16  1  0.72661132  0.04265547  0.35825807  1
+  F  F17  1  0.95734453  0.68395585  0.35825807  1
+  F  F18  1  0.31604415  0.27338868  0.35825807  1

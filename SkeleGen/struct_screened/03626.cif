@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BiRuF10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51129866
+_cell_length_b   5.51129858
+_cell_length_c   6.49532843
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000330
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BiRuF10
+_chemical_formula_sum   'Bi1 Ru1 F10'
+_cell_volume   170.85969195
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.47903848  1
+  F  F1  1  0.66666669  0.33333334  0.37492046  1
+  F  F2  1  0.85111505  0.14888495  0.71699798  1
+  F  F3  1  0.85111505  0.70223010  0.71699798  1
+  F  F4  1  0.29776990  0.14888495  0.71699798  1
+  F  F5  1  0.66666669  0.33333334  0.02513444  1
+  F  F6  1  0.14603300  0.85396701  0.15892640  1
+  F  F7  1  0.14603300  0.29206601  0.15892640  1
+  F  F8  1  0.70793402  0.85396701  0.15892640  1
+  F  F9  1  0.33333334  0.66666669  0.88682514  1
+  Ru  Ru10  1  0.00000000  0.00000000  0.92658073  1
+  Bi  Bi11  1  0.00000000  0.00000000  0.44416600  1

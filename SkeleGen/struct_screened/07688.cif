@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_K3ErAl3MoPSe11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.97783470
+_cell_length_b   6.97783452
+_cell_length_c   14.03146553
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000540
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3ErAl3MoPSe11
+_chemical_formula_sum   'K3 Er1 Al3 Mo1 P1 Se11'
+_cell_volume   591.66378105
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.70769966  0.64523822  0.24524258  1
+  Se  Se1  1  0.35476178  0.06246144  0.24524258  1
+  Se  Se2  1  0.93753856  0.29230034  0.24524258  1
+  Se  Se3  1  0.68253350  0.02816980  0.72587228  1
+  Se  Se4  1  0.97183019  0.65436369  0.72587228  1
+  Se  Se5  1  0.34563631  0.31746650  0.72587228  1
+  Se  Se6  1  0.33333334  0.66666669  0.11728164  1
+  Se  Se7  1  0.66666669  0.33333334  0.48236030  1
+  Er  Er8  1  0.00000000  0.00000000  0.83057278  1
+  Al  Al9  1  0.66666669  0.33333334  0.01042852  1
+  Mo  Mo10  1  0.66666669  0.33333334  0.15376051  1
+  Al  Al11  1  0.66666669  0.33333334  0.81982195  1
+  P  P12  1  0.66666669  0.33333334  0.64376950  1
+  Al  Al13  1  0.66666669  0.33333334  0.33352631  1
+  Se  Se14  1  0.98191583  0.31627527  0.94743437  1
+  Se  Se15  1  0.68372476  0.66564059  0.94743437  1
+  Se  Se16  1  0.33435941  0.01808417  0.94743437  1
+  K  K17  1  0.14897756  0.34315458  0.50038153  1
+  K  K18  1  0.65684545  0.80582297  0.50038153  1
+  K  K19  1  0.19417702  0.85102242  0.50038153  1

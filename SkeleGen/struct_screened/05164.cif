@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaU2PbCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.03091717
+_cell_length_b   7.03091711
+_cell_length_c   9.00845623
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000474
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaU2PbCl8
+_chemical_formula_sum   'Ca1 U2 Pb1 Cl8'
+_cell_volume   385.66030761
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.93872553  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.06127447  1
+  Cl  Cl2  1  0.34740642  0.02943643  0.65948927  1
+  Cl  Cl3  1  0.97056359  0.31796998  0.65948927  1
+  Cl  Cl4  1  0.68203002  0.65259361  0.65948927  1
+  Cl  Cl5  1  0.65259361  0.97056359  0.34051073  1
+  Cl  Cl6  1  0.02943643  0.68203002  0.34051073  1
+  Cl  Cl7  1  0.31796998  0.34740642  0.34051073  1
+  Pb  Pb8  1  0.00000000  0.00000000  0.00000000  1
+  Ca  Ca9  1  0.00000000  0.00000000  0.50000000  1
+  U  U10  1  0.33333334  0.66666669  0.57910269  1
+  U  U11  1  0.66666669  0.33333334  0.42089731  1

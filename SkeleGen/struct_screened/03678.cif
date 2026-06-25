@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_SrTa2VCoO10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.57123423
+_cell_length_b   5.57123407
+_cell_length_c   7.88066864
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000374
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrTa2VCoO10
+_chemical_formula_sum   'Sr1 Ta2 V1 Co1 O10'
+_cell_volume   211.83440893
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.62219208  0.65191644  0.22381392  1
+  O  O1  1  0.34808356  0.97027564  0.22381392  1
+  O  O2  1  0.02972436  0.37780792  0.22381392  1
+  O  O3  1  0.68531018  0.00624667  0.73623699  1
+  O  O4  1  0.99375331  0.67906350  0.73623699  1
+  O  O5  1  0.32093650  0.31468982  0.73623699  1
+  O  O6  1  0.33333334  0.66666669  0.98196924  1
+  O  O7  1  0.66666669  0.33333334  0.49123454  1
+  Sr  Sr8  1  0.00000000  0.00000000  0.49004421  1
+  Ta  Ta9  1  0.33333334  0.66666669  0.23452902  1
+  Co  Co10  1  0.33333334  0.66666669  0.75998694  1
+  O  O11  1  0.33333334  0.66666669  0.49482006  1
+  V  V12  1  0.66666669  0.33333334  0.23500821  1
+  O  O13  1  0.66666669  0.33333334  0.99414533  1
+  Ta  Ta14  1  0.66666669  0.33333334  0.74697351  1

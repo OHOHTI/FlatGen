@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CoF3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.96234846
+_cell_length_b   4.96234845
+_cell_length_c   8.93200016
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000323
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoF3
+_chemical_formula_sum   'Co4 F12'
+_cell_volume   190.48196139
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.00000000  0.00000000  0.00000000  1
+  Co  Co1  1  0.33333334  0.66666669  0.25807592  1
+  Co  Co2  1  0.66666669  0.33333334  0.74192405  1
+  Co  Co3  1  0.00000000  0.00000000  0.50000000  1
+  F  F4  1  0.30654433  0.98188859  0.12076229  1
+  F  F5  1  0.01811141  0.32465577  0.12076229  1
+  F  F6  1  0.67534423  0.69345570  0.12076229  1
+  F  F7  1  0.69345570  0.01811141  0.87923771  1
+  F  F8  1  0.98188859  0.67534423  0.87923771  1
+  F  F9  1  0.32465577  0.30654433  0.87923771  1
+  F  F10  1  0.31918547  0.33945048  0.37626812  1
+  F  F11  1  0.66054952  0.97973502  0.37626812  1
+  F  F12  1  0.02026501  0.68081450  0.37626812  1
+  F  F13  1  0.68081450  0.66054952  0.62373185  1
+  F  F14  1  0.33945048  0.02026501  0.62373185  1
+  F  F15  1  0.97973502  0.31918547  0.62373185  1

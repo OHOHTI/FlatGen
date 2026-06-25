@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_SrPBrCl2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.41264868
+_cell_length_b   5.41264852
+_cell_length_c   15.11856556
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000386
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrPBrCl2O5
+_chemical_formula_sum   'Sr2 P2 Br2 Cl4 O10'
+_cell_volume   383.58433933
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.00000000  0.00000000  0.00000000  1
+  Cl  Cl1  1  0.33333334  0.66666669  0.37438703  1
+  Cl  Cl2  1  0.66666669  0.33333334  0.62561297  1
+  Cl  Cl3  1  0.00000000  0.00000000  0.50000000  1
+  Sr  Sr4  1  0.33333334  0.66666669  0.90103811  1
+  Sr  Sr5  1  0.66666669  0.33333334  0.09896189  1
+  Br  Br6  1  0.33333334  0.66666669  0.68705016  1
+  Br  Br7  1  0.66666669  0.33333334  0.31294984  1
+  O  O8  1  0.33333334  0.66666669  0.59286755  1
+  O  O9  1  0.66666669  0.33333334  0.40713245  1
+  O  O10  1  0.33333334  0.66666669  0.09388656  1
+  O  O11  1  0.66666669  0.33333334  0.90611345  1
+  P  P12  1  0.33333334  0.66666669  0.19977199  1
+  P  P13  1  0.66666669  0.33333334  0.80022800  1
+  O  O14  1  0.49837798  0.50162202  0.77378118  1
+  O  O15  1  0.49837798  0.99675596  0.77378118  1
+  O  O16  1  0.00324404  0.50162202  0.77378118  1
+  O  O17  1  0.50162202  0.49837798  0.22621882  1
+  O  O18  1  0.99675596  0.49837798  0.22621882  1
+  O  O19  1  0.50162202  0.00324404  0.22621882  1

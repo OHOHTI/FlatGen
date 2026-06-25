@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_RbVAu4O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81708527
+_cell_length_b   5.81708493
+_cell_length_c   8.94736195
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000462
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbVAu4O9
+_chemical_formula_sum   'Rb1 V1 Au4 O9'
+_cell_volume   262.20227284
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Au  Au0  1  0.00000000  0.00000000  0.03343479  1
+  Au  Au1  1  0.66666669  0.33333334  0.55611014  1
+  Au  Au2  1  0.33333334  0.66666669  0.28370929  1
+  Au  Au3  1  0.00000000  0.00000000  0.45925510  1
+  O  O4  1  0.00000000  0.00000000  0.23192205  1
+  O  O5  1  0.00000000  0.00000000  0.67527413  1
+  Rb  Rb6  1  0.33333334  0.66666669  0.77771515  1
+  O  O7  1  0.66666669  0.33333334  0.21230753  1
+  V  V8  1  0.66666669  0.33333334  0.01422037  1
+  O  O9  1  0.49222097  0.50777900  0.45401189  1
+  O  O10  1  0.49222097  0.98444194  0.45401189  1
+  O  O11  1  0.01555806  0.50777900  0.45401189  1
+  O  O12  1  0.82368696  0.17631304  0.94267702  1
+  O  O13  1  0.82368696  0.64737391  0.94267702  1
+  O  O14  1  0.35262609  0.17631304  0.94267702  1

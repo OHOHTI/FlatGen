@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Tm3V3PbSe10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.55463934
+_cell_length_b   7.55463914
+_cell_length_c   7.68584538
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000505
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm3V3PbSe10
+_chemical_formula_sum   'Tm3 V3 Pb1 Se10'
+_cell_volume   379.88287211
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.33333334  0.66666669  0.60407180  1
+  Se  Se1  1  0.66666669  0.33333334  0.39592820  1
+  Se  Se2  1  0.33333334  0.66666669  0.96561080  1
+  Se  Se3  1  0.66666669  0.33333334  0.03438920  1
+  Se  Se4  1  0.08711482  0.30326205  0.23416203  1
+  Se  Se5  1  0.69673795  0.78385276  0.23416203  1
+  Se  Se6  1  0.21614724  0.91288519  0.23416203  1
+  Se  Se7  1  0.30326205  0.08711482  0.76583797  1
+  Se  Se8  1  0.78385276  0.69673795  0.76583797  1
+  Se  Se9  1  0.91288519  0.21614724  0.76583797  1
+  Pb  Pb10  1  0.00000000  0.00000000  0.50000000  1
+  V  V11  1  0.66492742  0.00000000  0.00000000  1
+  V  V12  1  0.00000000  0.66492742  0.00000000  1
+  V  V13  1  0.33507258  0.33507258  0.00000000  1
+  Tm  Tm14  1  0.41155145  0.00000000  0.50000000  1
+  Tm  Tm15  1  0.00000000  0.41155145  0.50000000  1
+  Tm  Tm16  1  0.58844852  0.58844852  0.50000000  1

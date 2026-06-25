@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_LiFe2NiTeF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30229413
+_cell_length_b   5.61647209
+_cell_length_c   7.52392054
+_cell_angle_alpha   93.23498487
+_cell_angle_beta   95.67697553
+_cell_angle_gamma   91.34178457
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiFe2NiTeF12
+_chemical_formula_sum   'Li1 Fe2 Ni1 Te1 F12'
+_cell_volume   222.51467664
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.70735848  0.29437849  0.42900178  1
+  F  F1  1  0.34435704  0.78441453  0.45256627  1
+  F  F2  1  0.56715113  0.03548279  0.73518991  1
+  F  F3  1  0.54895169  0.54005057  0.71709305  1
+  F  F4  1  0.01601098  0.56355959  0.68628770  1
+  F  F5  1  0.46164548  0.06750670  0.15540990  1
+  F  F6  1  0.54214519  0.55142826  0.14993893  1
+  F  F7  1  0.05553767  0.48392001  0.21688880  1
+  Ni  Ni8  1  0.86955315  0.29810438  0.81767362  1
+  Te  Te9  1  0.76244187  0.27002406  0.19406801  1
+  F  F10  1  0.20148930  0.29980081  0.91965371  1
+  F  F11  1  0.95430535  0.96710998  0.14475301  1
+  Fe  Fe12  1  0.26264256  0.78188729  0.19575827  1
+  Li  Li13  1  0.33835331  0.27535987  0.63309640  1
+  F  F14  1  0.82199359  0.80536824  0.44205350  1
+  F  F15  1  0.04353271  0.04818300  0.70855463  1
+  Fe  Fe16  1  0.75885975  0.78850001  0.65978515  1

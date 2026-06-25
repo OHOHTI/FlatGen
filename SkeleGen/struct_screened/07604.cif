@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_AlReO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.12296104
+_cell_length_b   5.12296084
+_cell_length_c   9.11185646
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000438
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlReO6
+_chemical_formula_sum   'Al2 Re2 O12'
+_cell_volume   207.09974875
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.00000000  0.00000000  0.00000000  1
+  O  O1  1  0.33333334  0.66666669  0.51557076  1
+  O  O2  1  0.66666669  0.33333334  0.48442924  1
+  O  O3  1  0.00000000  0.00000000  0.50000000  1
+  O  O4  1  0.33333334  0.66666669  0.00005913  1
+  O  O5  1  0.66666669  0.33333334  0.99994087  1
+  Al  Al6  1  0.33333334  0.66666669  0.33821511  1
+  Al  Al7  1  0.66666669  0.33333334  0.66178489  1
+  Re  Re8  1  0.33333334  0.66666669  0.81544411  1
+  Re  Re9  1  0.66666669  0.33333334  0.18455589  1
+  O  O10  1  0.49594152  0.50405848  0.25493652  1
+  O  O11  1  0.49594152  0.99188304  0.25493652  1
+  O  O12  1  0.00811696  0.50405848  0.25493652  1
+  O  O13  1  0.50405848  0.49594152  0.74506348  1
+  O  O14  1  0.99188304  0.49594152  0.74506348  1
+  O  O15  1  0.50405848  0.00811696  0.74506348  1

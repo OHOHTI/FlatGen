@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_KNaVReHg4O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47823191
+_cell_length_b   5.47823159
+_cell_length_c   10.53427505
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000482
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNaVReHg4O7
+_chemical_formula_sum   'K1 Na1 V1 Re1 Hg4 O7'
+_cell_volume   273.78904384
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.00000000  0.00000000  0.94924676  1
+  Hg  Hg1  1  0.66666669  0.33333334  0.67538327  1
+  Hg  Hg2  1  0.33333334  0.66666669  0.44891486  1
+  Hg  Hg3  1  0.00000000  0.00000000  0.55559868  1
+  O  O4  1  0.33333334  0.66666669  0.96330756  1
+  Na  Na5  1  0.33333334  0.66666669  0.76762688  1
+  V  V6  1  0.33333334  0.66666669  0.11323764  1
+  K  K7  1  0.66666669  0.33333334  0.34654656  1
+  Re  Re8  1  0.66666669  0.33333334  0.04045072  1
+  O  O9  1  0.37367696  0.38433737  0.15632857  1
+  O  O10  1  0.61566263  0.98933959  0.15632857  1
+  O  O11  1  0.01066041  0.62632304  0.15632857  1
+  O  O12  1  0.32269174  0.26782879  0.78809965  1
+  O  O13  1  0.73217118  0.05486295  0.78809965  1
+  O  O14  1  0.94513702  0.67730826  0.78809965  1

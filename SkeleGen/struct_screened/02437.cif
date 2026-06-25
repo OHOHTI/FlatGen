@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_GdThCrFePS13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.57375717
+_cell_length_b   6.57375693
+_cell_length_c   11.68438339
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999400
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdThCrFePS13
+_chemical_formula_sum   'Gd1 Th1 Cr1 Fe1 P1 S13'
+_cell_volume   437.28417043
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.75675887  0.04613509  0.49522820  1
+  S  S1  1  0.95386493  0.71062380  0.49522820  1
+  S  S2  1  0.28937620  0.24324113  0.49522820  1
+  S  S3  1  0.99418747  0.62787741  0.69581896  1
+  S  S4  1  0.37212259  0.36631006  0.69581896  1
+  S  S5  1  0.63368994  0.00581253  0.69581896  1
+  S  S6  1  0.65118587  0.01765937  0.30656230  1
+  S  S7  1  0.98234063  0.63352650  0.30656230  1
+  S  S8  1  0.36647350  0.34881413  0.30656230  1
+  Th  Th9  1  0.00000000  0.00000000  0.10867174  1
+  S  S10  1  0.33333334  0.66666669  0.10364410  1
+  Gd  Gd11  1  0.66666669  0.33333334  0.09335490  1
+  Fe  Fe12  1  0.66666669  0.33333334  0.60004061  1
+  P  P13  1  0.66666669  0.33333334  0.29233572  1
+  Cr  Cr14  1  0.66666669  0.33333334  0.82412654  1
+  S  S15  1  0.69863635  0.66264904  0.93115848  1
+  S  S16  1  0.33735096  0.03598732  0.93115848  1
+  S  S17  1  0.96401268  0.30136365  0.93115848  1

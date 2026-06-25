@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_ZnAgBr5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.64344789
+_cell_length_b   7.35726053
+_cell_length_c   9.95654488
+_cell_angle_alpha   87.24463581
+_cell_angle_beta   87.65071806
+_cell_angle_gamma   87.63611698
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnAgBr5
+_chemical_formula_sum   'Zn2 Ag2 Br10'
+_cell_volume   485.30437184
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.26159367  0.25344172  0.49873054  1
+  Br  Br1  1  0.73840630  0.74655831  0.50126946  1
+  Br  Br2  1  0.77893597  0.96909463  0.16386645  1
+  Br  Br3  1  0.22106403  0.03090537  0.83613354  1
+  Br  Br4  1  0.21950822  0.73853040  0.21616395  1
+  Br  Br5  1  0.78049177  0.26146960  0.78383607  1
+  Br  Br6  1  0.25764826  0.25657821  0.12012225  1
+  Br  Br7  1  0.74235177  0.74342179  0.87987775  1
+  Br  Br8  1  0.21826401  0.55159503  0.82865912  1
+  Br  Br9  1  0.78173602  0.44840497  0.17134088  1
+  Ag  Ag10  1  0.54334706  0.73471195  0.26174867  1
+  Ag  Ag11  1  0.45665294  0.26528805  0.73825133  1
+  Zn  Zn12  1  0.03015303  0.75628412  0.00699941  1
+  Zn  Zn13  1  0.96984696  0.24371588  0.99300057  1

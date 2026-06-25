@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_ReAgSe8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.80143356
+_cell_length_b   6.80143356
+_cell_length_c   13.63705826
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000466
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ReAgSe8
+_chemical_formula_sum   'Re2 Ag2 Se16'
+_cell_volume   546.32645012
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.33333334  0.66666669  0.55170238  1
+  Se  Se1  1  0.66666669  0.33333334  0.05170238  1
+  Se  Se2  1  0.33333334  0.66666669  0.89487863  1
+  Se  Se3  1  0.66666669  0.33333334  0.39487863  1
+  Se  Se4  1  0.83946693  0.16053307  0.74281460  1
+  Se  Se5  1  0.83946693  0.67893386  0.74281460  1
+  Se  Se6  1  0.32106614  0.16053307  0.74281460  1
+  Se  Se7  1  0.16053307  0.83946693  0.24281454  1
+  Se  Se8  1  0.16053307  0.32106614  0.24281454  1
+  Se  Se9  1  0.67893386  0.83946693  0.24281454  1
+  Re  Re10  1  0.00000000  0.00000000  0.85142416  1
+  Re  Re11  1  0.00000000  0.00000000  0.35142422  1
+  Ag  Ag12  1  0.33333334  0.66666669  0.16304645  1
+  Ag  Ag13  1  0.66666669  0.33333334  0.66304648  1
+  Se  Se14  1  0.16245033  0.83754969  0.49959058  1
+  Se  Se15  1  0.16245033  0.32490066  0.49959058  1
+  Se  Se16  1  0.67509937  0.83754969  0.49959058  1
+  Se  Se17  1  0.83754969  0.16245033  0.99959058  1
+  Se  Se18  1  0.83754969  0.67509937  0.99959058  1
+  Se  Se19  1  0.32490066  0.16245033  0.99959058  1

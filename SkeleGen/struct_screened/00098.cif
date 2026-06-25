@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_KNaTlCoSbF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.14130831
+_cell_length_b   7.14130828
+_cell_length_c   5.46374941
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000456
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNaTlCoSbF12
+_chemical_formula_sum   'K1 Na1 Tl1 Co1 Sb1 F12'
+_cell_volume   241.31090502
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.75798261  0.16040525  0.58817005  1
+  F  F1  1  0.83959472  0.59757733  0.58817005  1
+  F  F2  1  0.40242267  0.24201739  0.58817005  1
+  F  F3  1  0.21270703  0.77299672  0.73314238  1
+  F  F4  1  0.22700328  0.43971032  0.73314238  1
+  F  F5  1  0.56028968  0.78729296  0.73314238  1
+  F  F6  1  0.27475539  0.43111858  0.18325983  1
+  F  F7  1  0.56888139  0.84363681  0.18325983  1
+  F  F8  1  0.15636319  0.72524464  0.18325983  1
+  Tl  Tl9  1  0.00000000  0.00000000  0.55137265  1
+  K  K10  1  0.00000000  0.00000000  0.06727450  1
+  Co  Co11  1  0.33333334  0.66666669  0.97849703  1
+  Sb  Sb12  1  0.66666669  0.33333334  0.82587761  1
+  Na  Na13  1  0.66666669  0.33333334  0.32332435  1
+  F  F14  1  0.91113985  0.36386478  0.08532589  1
+  F  F15  1  0.63613522  0.54727507  0.08532589  1
+  F  F16  1  0.45272493  0.08886015  0.08532589  1

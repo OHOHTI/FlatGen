@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Mn2CuSiO2F9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20747995
+_cell_length_b   5.20747970
+_cell_length_c   10.57642937
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000467
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2CuSiO2F9
+_chemical_formula_sum   'Mn2 Si1 Cu1 O2 F9'
+_cell_volume   248.38472063
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.65776807  0.59357560  0.27867100  1
+  F  F1  1  0.40642440  0.06419247  0.27867100  1
+  F  F2  1  0.93580753  0.34223193  0.27867100  1
+  F  F3  1  0.68179822  0.97053283  0.73040134  1
+  F  F4  1  0.02946717  0.71126539  0.73040134  1
+  F  F5  1  0.28873461  0.31820178  0.73040134  1
+  F  F6  1  0.33333334  0.66666669  0.93780041  1
+  F  F7  1  0.66666669  0.33333334  0.55361617  1
+  Si  Si8  1  0.00000000  0.00000000  0.67907131  1
+  O  O9  1  0.00000000  0.00000000  0.54705852  1
+  F  F10  1  0.66666669  0.33333334  0.88538057  1
+  Mn  Mn11  1  0.66666669  0.33333334  0.17814338  1
+  O  O12  1  0.66666669  0.33333334  0.06613010  1
+  Mn  Mn13  1  0.66666669  0.33333334  0.40541032  1
+  Cu  Cu14  1  0.66666669  0.33333334  0.72357297  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CuIrS3Cl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.42067194
+_cell_length_b   6.42067164
+_cell_length_c   12.59859753
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000648
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuIrS3Cl4
+_chemical_formula_sum   'Cu2 Ir2 S6 Cl8'
+_cell_volume   449.79409116
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.68012178  0.65713137  0.30828801  1
+  Cl  Cl1  1  0.34286863  0.02299041  0.30828801  1
+  Cl  Cl2  1  0.97700959  0.31987822  0.30828801  1
+  Cl  Cl3  1  0.31987822  0.34286863  0.80828798  1
+  Cl  Cl4  1  0.65713137  0.97700959  0.80828798  1
+  Cl  Cl5  1  0.02299041  0.68012178  0.80828798  1
+  Cl  Cl6  1  0.33333334  0.66666669  0.07674948  1
+  Cl  Cl7  1  0.66666669  0.33333334  0.57674950  1
+  Ir  Ir8  1  0.00000000  0.00000000  0.68972462  1
+  Ir  Ir9  1  0.00000000  0.00000000  0.18972468  1
+  Cu  Cu10  1  0.33333334  0.66666669  0.68316942  1
+  Cu  Cu11  1  0.66666669  0.33333334  0.18316936  1
+  S  S12  1  0.80833292  0.13699864  0.09340975  1
+  S  S13  1  0.86300135  0.67133427  0.09340975  1
+  S  S14  1  0.32866573  0.19166708  0.09340975  1
+  S  S15  1  0.19166708  0.86300135  0.59340978  1
+  S  S16  1  0.13699864  0.32866573  0.59340978  1
+  S  S17  1  0.67133427  0.80833292  0.59340978  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_KSrTiAlSnCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.88624763
+_cell_length_b   6.88624754
+_cell_length_c   10.81118202
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000502
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KSrTiAlSnCl8
+_chemical_formula_sum   'K1 Sr1 Ti1 Al1 Sn1 Cl8'
+_cell_volume   443.98577502
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.65678197  0.65039998  0.27536470  1
+  Cl  Cl1  1  0.34960002  0.00638199  0.27536470  1
+  Cl  Cl2  1  0.99361801  0.34321803  0.27536470  1
+  Cl  Cl3  1  0.69787341  0.04399793  0.81987262  1
+  Cl  Cl4  1  0.95600206  0.65387547  0.81987262  1
+  Cl  Cl5  1  0.34612453  0.30212659  0.81987262  1
+  Cl  Cl6  1  0.33333334  0.66666669  0.00985677  1
+  Cl  Cl7  1  0.66666669  0.33333334  0.55027705  1
+  K  K8  1  0.00000000  0.00000000  0.52780908  1
+  Sr  Sr9  1  0.00000000  0.00000000  0.00637310  1
+  Sn  Sn10  1  0.33333334  0.66666669  0.21012178  1
+  Ti  Ti11  1  0.66666669  0.33333334  0.75480747  1
+  Al  Al12  1  0.66666669  0.33333334  0.34500331  1

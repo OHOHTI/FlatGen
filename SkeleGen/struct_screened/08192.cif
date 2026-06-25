@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_NaLiBeAl2HOF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.10625315
+_cell_length_b   5.10625281
+_cell_length_c   9.02627468
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000529
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLiBeAl2HOF8
+_chemical_formula_sum   'Na1 Li1 Be1 Al2 H1 O1 F8'
+_cell_volume   203.81859720
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.63089585  0.68544257  0.20720731  1
+  F  F1  1  0.31455743  0.94545329  0.20720731  1
+  F  F2  1  0.05454671  0.36910415  0.20720731  1
+  F  F3  1  0.70335013  0.05885429  0.70094699  1
+  F  F4  1  0.94114572  0.64449584  0.70094699  1
+  F  F5  1  0.35550416  0.29664987  0.70094699  1
+  F  F6  1  0.33333334  0.66666669  0.90465879  1
+  F  F7  1  0.66666669  0.33333334  0.45459363  1
+  Na  Na8  1  0.00000000  0.00000000  0.40492180  1
+  Al  Al9  1  0.33333334  0.66666669  0.12496830  1
+  Be  Be10  1  0.66666669  0.33333334  0.84334272  1
+  O  O11  1  0.66666669  0.33333334  0.98149604  1
+  Li  Li12  1  0.66666669  0.33333334  0.26259243  1
+  H  H13  1  0.66666669  0.33333334  0.07909881  1
+  Al  Al14  1  0.66666669  0.33333334  0.62112415  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_NaMnAlH2(O3F)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.28726053
+_cell_length_b   3.28726043
+_cell_length_c   14.33177471
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000585
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaMnAlH2(O3F)2
+_chemical_formula_sum   'Na1 Mn1 Al1 H2 O6 F2'
+_cell_volume   134.12162791
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.00000000  0.00000000  0.98455667  1
+  O  O1  1  0.66666669  0.33333334  0.57057863  1
+  O  O2  1  0.33333334  0.66666669  0.33699369  1
+  O  O3  1  0.00000000  0.00000000  0.46970862  1
+  F  F4  1  0.00000000  0.00000000  0.23032548  1
+  Al  Al5  1  0.00000000  0.00000000  0.38240188  1
+  O  O6  1  0.00000000  0.00000000  0.73299032  1
+  Mn  Mn7  1  0.00000000  0.00000000  0.86631972  1
+  H  H8  1  0.33333334  0.66666669  0.23939499  1
+  O  O9  1  0.33333334  0.66666669  0.86562067  1
+  Na  Na10  1  0.33333334  0.66666669  0.64227474  1
+  H  H11  1  0.33333334  0.66666669  0.94768834  1
+  F  F12  1  0.33333334  0.66666669  0.12397973  1

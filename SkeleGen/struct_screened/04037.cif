@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_NaCuAgBiO2F9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.14378405
+_cell_length_b   5.14378365
+_cell_length_c   10.45383453
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000559
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCuAgBiO2F9
+_chemical_formula_sum   'Na1 Cu1 Ag1 Bi1 O2 F9'
+_cell_volume   239.53647264
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66666669  0.33333334  0.63637304  1
+  F  F1  1  0.33333334  0.66666669  0.46011356  1
+  F  F2  1  0.66296566  0.93772560  0.77298015  1
+  F  F3  1  0.06227440  0.72524005  0.77298015  1
+  F  F4  1  0.27475995  0.33703434  0.77298015  1
+  F  F5  1  0.36637908  0.03316462  0.17935731  1
+  F  F6  1  0.96683538  0.33321446  0.17935731  1
+  F  F7  1  0.66678554  0.63362092  0.17935731  1
+  Na  Na8  1  0.00000000  0.00000000  0.95830733  1
+  F  F9  1  0.00000000  0.00000000  0.50452405  1
+  Cu  Cu10  1  0.66666669  0.33333334  0.08762413  1
+  O  O11  1  0.66666669  0.33333334  0.43696722  1
+  Bi  Bi12  1  0.66666669  0.33333334  0.30250126  1
+  O  O13  1  0.66666669  0.33333334  0.96142155  1
+  Ag  Ag14  1  0.66666669  0.33333334  0.80554867  1

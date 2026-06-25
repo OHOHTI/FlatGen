@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_PrTlAg3SbCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.56676817
+_cell_length_b   6.56676784
+_cell_length_c   12.35090446
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000646
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrTlAg3SbCl8
+_chemical_formula_sum   'Pr1 Tl1 Ag3 Sb1 Cl8'
+_cell_volume   461.24610616
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.66666669  0.33333334  0.50847155  1
+  Cl  Cl1  1  0.33333334  0.66666669  0.38892922  1
+  Cl  Cl2  1  0.65448827  0.98802251  0.84900934  1
+  Cl  Cl3  1  0.01197749  0.66646576  0.84900934  1
+  Cl  Cl4  1  0.33353424  0.34551173  0.84900934  1
+  Cl  Cl5  1  0.32397988  0.04499524  0.14894222  1
+  Cl  Cl6  1  0.95500475  0.27898464  0.14894222  1
+  Cl  Cl7  1  0.72101533  0.67602015  0.14894222  1
+  Ag  Ag8  1  0.00000000  0.00000000  0.73856771  1
+  Ag  Ag9  1  0.00000000  0.00000000  0.27064577  1
+  Tl  Tl10  1  0.00000000  0.00000000  0.52733737  1
+  Pr  Pr11  1  0.00000000  0.00000000  0.99345070  1
+  Ag  Ag12  1  0.33333334  0.66666669  0.72511160  1
+  Sb  Sb13  1  0.66666669  0.33333334  0.05310102  1

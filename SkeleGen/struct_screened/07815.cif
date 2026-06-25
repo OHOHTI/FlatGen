@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Gd4NiGeTePbO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.59298325
+_cell_length_b   5.59298297
+_cell_length_c   10.12511826
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000442
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd4NiGeTePbO12
+_chemical_formula_sum   'Gd4 Ni1 Ge1 Te1 Pb1 O12'
+_cell_volume   274.29489966
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.00000000  0.00000000  0.94206429  1
+  Gd  Gd1  1  0.66666669  0.33333334  0.71262693  1
+  Gd  Gd2  1  0.33333334  0.66666669  0.43872759  1
+  Gd  Gd3  1  0.00000000  0.00000000  0.44975206  1
+  Ni  Ni4  1  0.33333334  0.66666669  0.95267224  1
+  Te  Te5  1  0.33333334  0.66666669  0.71067715  1
+  Ge  Ge6  1  0.33333334  0.66666669  0.20000088  1
+  Pb  Pb7  1  0.66666669  0.33333334  0.16861810  1
+  O  O8  1  0.63381606  0.68553543  0.06577336  1
+  O  O9  1  0.31446457  0.94828063  0.06577336  1
+  O  O10  1  0.05171937  0.36618394  0.06577336  1
+  O  O11  1  0.33020324  0.35534981  0.29348400  1
+  O  O12  1  0.64465022  0.97485340  0.29348400  1
+  O  O13  1  0.02514657  0.66979676  0.29348400  1
+  O  O14  1  0.34393430  0.36766309  0.82072234  1
+  O  O15  1  0.63233691  0.97627121  0.82072234  1
+  O  O16  1  0.02372879  0.65606570  0.82072234  1
+  O  O17  1  0.35494795  0.98185325  0.57375765  1
+  O  O18  1  0.01814675  0.37309468  0.57375765  1
+  O  O19  1  0.62690532  0.64505208  0.57375765  1

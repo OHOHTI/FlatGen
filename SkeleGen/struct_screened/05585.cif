@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_RbHo(SCl4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.32018900
+_cell_length_b   6.32018903
+_cell_length_c   9.89510250
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000485
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbHo(SCl4)2
+_chemical_formula_sum   'Rb1 Ho1 S2 Cl8'
+_cell_volume   342.30326440
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.47059581  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.52940416  1
+  Cl  Cl2  1  0.63275200  0.01448300  0.75066245  1
+  Cl  Cl3  1  0.98551702  0.61826903  0.75066245  1
+  Cl  Cl4  1  0.38173097  0.36724800  0.75066245  1
+  Cl  Cl5  1  0.36724800  0.98551702  0.24933755  1
+  Cl  Cl6  1  0.01448300  0.38173097  0.24933755  1
+  Cl  Cl7  1  0.61826903  0.63275200  0.24933755  1
+  Rb  Rb8  1  0.00000000  0.00000000  0.00000000  1
+  Ho  Ho9  1  0.00000000  0.00000000  0.50000000  1
+  S  S10  1  0.33333334  0.66666669  0.70583284  1
+  S  S11  1  0.66666669  0.33333334  0.29416716  1

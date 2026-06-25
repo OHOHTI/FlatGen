@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_LiCaYbAlCoCu3(OF4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.95753860
+_cell_length_b   4.95753843
+_cell_length_c   10.24646854
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000434
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCaYbAlCoCu3(OF4)2
+_chemical_formula_sum   'Li1 Ca1 Yb1 Al1 Co1 Cu3 O2 F8'
+_cell_volume   218.09063562
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.65963733  0.68725413  0.17591326  1
+  F  F1  1  0.31274587  0.97238320  0.17591326  1
+  F  F2  1  0.02761680  0.34036267  0.17591326  1
+  F  F3  1  0.64866561  0.97656733  0.70374924  1
+  F  F4  1  0.02343267  0.67209828  0.70374924  1
+  F  F5  1  0.32790172  0.35133439  0.70374924  1
+  F  F6  1  0.33333334  0.66666669  0.94183081  1
+  F  F7  1  0.66666669  0.33333334  0.39618966  1
+  Ca  Ca8  1  0.00000000  0.00000000  0.44002450  1
+  Yb  Yb9  1  0.00000000  0.00000000  0.94180334  1
+  Cu  Cu10  1  0.33333334  0.66666669  0.30630323  1
+  Cu  Cu11  1  0.33333334  0.66666669  0.59463555  1
+  O  O12  1  0.33333334  0.66666669  0.45847785  1
+  Co  Co13  1  0.33333334  0.66666669  0.78917181  1
+  Al  Al14  1  0.33333334  0.66666669  0.09297020  1
+  Li  Li15  1  0.66666669  0.33333334  0.14882319  1
+  Cu  Cu16  1  0.66666669  0.33333334  0.78552336  1
+  O  O17  1  0.66666669  0.33333334  0.96613652  1

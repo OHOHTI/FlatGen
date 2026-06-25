@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_InAgBr4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.71317005
+_cell_length_b   6.71316965
+_cell_length_c   10.61357880
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000669
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InAgBr4
+_chemical_formula_sum   'In2 Ag2 Br8'
+_cell_volume   414.23588770
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.68663543  0.69839072  0.30932289  1
+  Br  Br1  1  0.30160928  0.98824471  0.30932289  1
+  Br  Br2  1  0.01175529  0.31336457  0.30932289  1
+  Br  Br3  1  0.31336457  0.30160928  0.80932289  1
+  Br  Br4  1  0.69839072  0.01175529  0.80932289  1
+  Br  Br5  1  0.98824471  0.68663543  0.80932289  1
+  Br  Br6  1  0.33333334  0.66666669  0.06253195  1
+  Br  Br7  1  0.66666669  0.33333334  0.56253195  1
+  Ag  Ag8  1  0.00000000  0.00000000  0.94306350  1
+  Ag  Ag9  1  0.00000000  0.00000000  0.44306350  1
+  In  In10  1  0.33333334  0.66666669  0.45523998  1
+  In  In11  1  0.66666669  0.33333334  0.95524001  1

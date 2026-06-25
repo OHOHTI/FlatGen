@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_BaRe4Ni2O13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31764317
+_cell_length_b   5.31764291
+_cell_length_c   11.13459873
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000453
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaRe4Ni2O13
+_chemical_formula_sum   'Ba1 Re4 Ni2 O13'
+_cell_volume   272.67388393
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.00000000  0.00000000  0.06012830  1
+  Re  Re1  1  0.66666669  0.33333334  0.64335018  1
+  Re  Re2  1  0.33333334  0.66666669  0.23022670  1
+  Re  Re3  1  0.00000000  0.00000000  0.46015111  1
+  Ni  Ni4  1  0.00000000  0.00000000  0.70404750  1
+  Ni  Ni5  1  0.00000000  0.00000000  0.25702891  1
+  O  O6  1  0.00000000  0.00000000  0.95237350  1
+  Ba  Ba7  1  0.66666669  0.33333334  0.96586937  1
+  O  O8  1  0.30241811  0.33748183  0.13375245  1
+  O  O9  1  0.66251814  0.96493626  0.13375245  1
+  O  O10  1  0.03506371  0.69758189  0.13375245  1
+  O  O11  1  0.02790925  0.31866357  0.34145346  1
+  O  O12  1  0.68133640  0.70924568  0.34145346  1
+  O  O13  1  0.29075432  0.97209078  0.34145346  1
+  O  O14  1  0.33376434  0.29190218  0.55768257  1
+  O  O15  1  0.70809782  0.04186216  0.55768257  1
+  O  O16  1  0.95813787  0.66623569  0.55768257  1
+  O  O17  1  0.36093846  0.03714705  0.76866966  1
+  O  O18  1  0.96285295  0.32379141  0.76866966  1
+  O  O19  1  0.67620862  0.63906157  0.76866966  1

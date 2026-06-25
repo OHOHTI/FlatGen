@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NaSb3Se10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.84480333
+_cell_length_b   6.84480308
+_cell_length_c   10.06956291
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000585
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSb3Se10
+_chemical_formula_sum   'Na1 Sb3 Se10'
+_cell_volume   408.56688004
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.33333334  0.66666669  0.56650835  1
+  Se  Se1  1  0.66666669  0.33333334  0.43349165  1
+  Se  Se2  1  0.83682847  0.66765833  0.72544509  1
+  Se  Se3  1  0.33234167  0.16917014  0.72544509  1
+  Se  Se4  1  0.83082986  0.16317153  0.72544509  1
+  Se  Se5  1  0.16317153  0.33234167  0.27455491  1
+  Se  Se6  1  0.66765833  0.83082986  0.27455491  1
+  Se  Se7  1  0.16917014  0.83682847  0.27455491  1
+  Se  Se8  1  0.33333334  0.66666669  0.92161471  1
+  Se  Se9  1  0.66666669  0.33333334  0.07838529  1
+  Na  Na10  1  0.00000000  0.00000000  0.00000000  1
+  Sb  Sb11  1  0.00000000  0.00000000  0.50000000  1
+  Sb  Sb12  1  0.33333334  0.66666669  0.17962308  1
+  Sb  Sb13  1  0.66666669  0.33333334  0.82037693  1

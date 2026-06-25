@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Cs2RbNaTlBiAsP(I3O)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.35673046
+_cell_length_b   8.35673010
+_cell_length_c   11.74021053
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000521
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2RbNaTlBiAsP(I3O)3
+_chemical_formula_sum   'Cs2 Rb1 Na1 Tl1 Bi1 As1 P1 I9 O3'
+_cell_volume   710.03419445
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.61239833  0.01318990  0.73224598  1
+  I  I1  1  0.98681009  0.59920841  0.73224598  1
+  I  I2  1  0.40079159  0.38760167  0.73224598  1
+  I  I3  1  0.26703650  0.92153865  0.46805370  1
+  I  I4  1  0.07846135  0.34549785  0.46805370  1
+  I  I5  1  0.65450215  0.73296350  0.46805370  1
+  I  I6  1  0.98658955  0.62785721  0.19711351  1
+  I  I7  1  0.37214279  0.35873234  0.19711351  1
+  I  I8  1  0.64126766  0.01341045  0.19711351  1
+  Rb  Rb9  1  0.00000000  0.00000000  0.16561767  1
+  Cs  Cs10  1  0.00000000  0.00000000  0.71482867  1
+  Na  Na11  1  0.33333334  0.66666669  0.31398374  1
+  Cs  Cs12  1  0.33333334  0.66666669  0.96888882  1
+  P  P13  1  0.33333334  0.66666669  0.62301677  1
+  Tl  Tl14  1  0.66666669  0.33333334  0.44836658  1
+  Bi  Bi15  1  0.66666669  0.33333334  0.08019205  1
+  As  As16  1  0.66666669  0.33333334  0.84639180  1
+  O  O17  1  0.83983505  0.31034040  0.95784611  1
+  O  O18  1  0.68965960  0.52949464  0.95784611  1
+  O  O19  1  0.47050536  0.16016495  0.95784611  1

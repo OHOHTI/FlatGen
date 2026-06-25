@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaCaTiNbO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.28093529
+_cell_length_b   5.28093519
+_cell_length_c   7.82357407
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000361
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCaTiNbO8
+_chemical_formula_sum   'Na1 Ca1 Ti1 Nb1 O8'
+_cell_volume   188.95461238
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.67979300  0.65530139  0.16933119  1
+  O  O1  1  0.34469861  0.02449161  0.16933119  1
+  O  O2  1  0.97550839  0.32020700  0.16933119  1
+  O  O3  1  0.63942343  0.95422173  0.64311272  1
+  O  O4  1  0.04577827  0.68520170  0.64311272  1
+  O  O5  1  0.31479830  0.36057657  0.64311272  1
+  O  O6  1  0.33333334  0.66666669  0.90910351  1
+  O  O7  1  0.66666669  0.33333334  0.42502752  1
+  Ca  Ca8  1  0.00000000  0.00000000  0.40746051  1
+  Na  Na9  1  0.00000000  0.00000000  0.94391346  1
+  Nb  Nb10  1  0.33333334  0.66666669  0.69452775  1
+  Ti  Ti11  1  0.66666669  0.33333334  0.22056796  1

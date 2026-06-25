@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CrSiF10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.96235916
+_cell_length_b   4.89348185
+_cell_length_c   8.06133366
+_cell_angle_alpha   89.85494295
+_cell_angle_beta   91.44346734
+_cell_angle_gamma   107.13581348
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrSiF10
+_chemical_formula_sum   'Cr1 Si1 F10'
+_cell_volume   187.00352397
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.54159158  0.30700397  0.48986354  1
+  F  F1  1  0.23838960  0.68379933  0.57958251  1
+  F  F2  1  0.51578295  0.92744392  0.81814182  1
+  F  F3  1  0.47096053  0.44012976  0.77853376  1
+  F  F4  1  0.10153534  0.64489567  0.84970230  1
+  F  F5  1  0.54380691  0.99199474  0.20637801  1
+  F  F6  1  0.61878830  0.54054344  0.14880170  1
+  F  F7  1  0.02849330  0.46538502  0.29215580  1
+  Si  Si8  1  0.81234127  0.74055618  0.24265432  1
+  Cr  Cr9  1  0.31485659  0.70620722  0.75056249  1
+  F  F10  1  0.84336799  0.89548230  0.42007375  1
+  F  F11  1  0.02270287  0.90602988  0.14191587  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ti2Tc4H2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.94974709
+_cell_length_b   4.94974685
+_cell_length_c   6.44505882
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000474
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2Tc4H2O3
+_chemical_formula_sum   'Ti2 Tc4 H2 O3'
+_cell_volume   136.74879028
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tc  Tc0  1  0.00000000  0.00000000  0.00000000  1
+  Tc  Tc1  1  0.33333334  0.66666669  0.32248509  1
+  Tc  Tc2  1  0.66666669  0.33333334  0.67751491  1
+  Tc  Tc3  1  0.00000000  0.00000000  0.50000000  1
+  H  H4  1  0.33333334  0.66666669  0.67185724  1
+  H  H5  1  0.66666669  0.33333334  0.32814276  1
+  Ti  Ti6  1  0.33333334  0.66666669  0.93400848  1
+  Ti  Ti7  1  0.66666669  0.33333334  0.06599152  1
+  O  O8  1  0.65831357  0.00000000  0.00000000  1
+  O  O9  1  0.00000000  0.65831357  0.00000000  1
+  O  O10  1  0.34168643  0.34168643  0.00000000  1

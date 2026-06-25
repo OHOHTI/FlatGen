@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_CsKLiAlPI8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.74403334
+_cell_length_b   7.74403318
+_cell_length_c   11.74871445
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000475
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsKLiAlPI8
+_chemical_formula_sum   'Cs1 K1 Li1 Al1 P1 I8'
+_cell_volume   610.17636059
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.33333334  0.66666669  0.98521829  1
+  I  I1  1  0.66666669  0.33333334  0.93556607  1
+  I  I2  1  0.48786625  0.51213372  0.61300391  1
+  I  I3  1  0.48786625  0.97573251  0.61300391  1
+  I  I4  1  0.02426749  0.51213372  0.61300391  1
+  I  I5  1  0.49546111  0.50453889  0.27029100  1
+  I  I6  1  0.49546111  0.99092221  0.27029100  1
+  I  I7  1  0.00907779  0.50453889  0.27029100  1
+  Cs  Cs8  1  0.00000000  0.00000000  0.44800144  1
+  K  K9  1  0.00000000  0.00000000  0.83875763  1
+  Li  Li10  1  0.33333334  0.66666669  0.74399745  1
+  P  P11  1  0.33333334  0.66666669  0.48297563  1
+  Al  Al12  1  0.33333334  0.66666669  0.20675182  1

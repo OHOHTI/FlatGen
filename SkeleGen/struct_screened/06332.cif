@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Ti(P3Br5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.75024700
+_cell_length_b   8.75024681
+_cell_length_c   7.78134775
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti(P3Br5)2
+_chemical_formula_sum   'Ti1 P6 Br10'
+_cell_volume   515.97190260
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.33333334  0.66666669  0.48595738  1
+  Br  Br1  1  0.66666669  0.33333334  0.51404262  1
+  Br  Br2  1  0.96038592  0.74429101  0.71258944  1
+  Br  Br3  1  0.25570899  0.21609491  0.71258944  1
+  Br  Br4  1  0.78390509  0.03961408  0.71258944  1
+  Br  Br5  1  0.03961408  0.25570899  0.28741056  1
+  Br  Br6  1  0.74429101  0.78390509  0.28741056  1
+  Br  Br7  1  0.21609491  0.96038592  0.28741056  1
+  Br  Br8  1  0.33333334  0.66666669  0.92707407  1
+  Br  Br9  1  0.66666669  0.33333334  0.07292593  1
+  Ti  Ti10  1  0.00000000  0.00000000  0.50000000  1
+  P  P11  1  0.56531495  0.41392177  0.30863354  1
+  P  P12  1  0.58607823  0.15139318  0.30863354  1
+  P  P13  1  0.84860682  0.43468505  0.30863354  1
+  P  P14  1  0.43468505  0.58607823  0.69136643  1
+  P  P15  1  0.41392177  0.84860682  0.69136643  1
+  P  P16  1  0.15139318  0.56531495  0.69136643  1

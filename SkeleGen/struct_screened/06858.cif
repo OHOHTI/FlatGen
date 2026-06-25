@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Eu15Ga2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.71036339
+_cell_length_b   8.71036324
+_cell_length_c   9.72981739
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000420
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu15Ga2
+_chemical_formula_sum   'Eu15 Ga2'
+_cell_volume   639.30461967
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.40329260  0.43100485  0.53790641  1
+  Eu  Eu1  1  0.56899512  0.97228777  0.53790641  1
+  Eu  Eu2  1  0.02771226  0.59670740  0.53790641  1
+  Eu  Eu3  1  0.90504640  0.60113728  0.00183022  1
+  Eu  Eu4  1  0.39886272  0.30390912  0.00183022  1
+  Eu  Eu5  1  0.69609088  0.09495360  0.00183022  1
+  Eu  Eu6  1  0.66666669  0.33333334  0.31383529  1
+  Eu  Eu7  1  0.05086593  0.34151405  0.78341514  1
+  Eu  Eu8  1  0.65848595  0.70935190  0.78341514  1
+  Eu  Eu9  1  0.29064813  0.94913405  0.78341514  1
+  Eu  Eu10  1  0.33333334  0.66666669  0.06672139  1
+  Eu  Eu11  1  0.12121510  0.31284124  0.26887101  1
+  Eu  Eu12  1  0.68715876  0.80837387  0.26887101  1
+  Eu  Eu13  1  0.19162613  0.87878489  0.26887101  1
+  Eu  Eu14  1  0.00000000  0.00000000  0.55091441  1
+  Ga  Ga15  1  0.00000000  0.00000000  0.00999283  1
+  Ga  Ga16  1  0.66666669  0.33333334  0.72219545  1

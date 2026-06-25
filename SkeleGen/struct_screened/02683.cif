@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LiAlCo2HO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.07293224
+_cell_length_b   3.07293224
+_cell_length_c   12.73946667
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000522
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAlCo2HO5
+_chemical_formula_sum   'Li1 Al1 Co2 H1 O5'
+_cell_volume   104.18083244
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.00000000  0.00000000  0.06920958  1
+  O  O1  1  0.66666669  0.33333334  0.69057649  1
+  O  O2  1  0.33333334  0.66666669  0.26116395  1
+  O  O3  1  0.00000000  0.00000000  0.47874269  1
+  H  H4  1  0.00000000  0.00000000  0.14717494  1
+  Co  Co5  1  0.00000000  0.00000000  0.33418804  1
+  Li  Li6  1  0.00000000  0.00000000  0.74781042  1
+  Co  Co7  1  0.00000000  0.00000000  0.94078255  1
+  O  O8  1  0.33333334  0.66666669  0.88798535  1
+  Al  Al9  1  0.66666669  0.33333334  0.54663414  1

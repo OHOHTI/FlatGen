@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_RbZnAgHg4OF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.77191734
+_cell_length_b   5.77191717
+_cell_length_c   11.10208130
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000373
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbZnAgHg4OF12
+_chemical_formula_sum   'Rb1 Zn1 Ag1 Hg4 O1 F12'
+_cell_volume   320.31347707
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.00000000  0.00000000  0.90343940  1
+  Hg  Hg1  1  0.66666669  0.33333334  0.65728945  1
+  Hg  Hg2  1  0.33333334  0.66666669  0.38563770  1
+  Hg  Hg3  1  0.00000000  0.00000000  0.49612945  1
+  Ag  Ag4  1  0.00000000  0.00000000  0.18229154  1
+  O  O5  1  0.00000000  0.00000000  0.66297060  1
+  Rb  Rb6  1  0.33333334  0.66666669  0.89134926  1
+  Zn  Zn7  1  0.66666669  0.33333334  0.17555486  1
+  F  F8  1  0.36153531  0.32745793  0.29636261  1
+  F  F9  1  0.67254210  0.03407738  0.29636261  1
+  F  F10  1  0.96592259  0.63846469  0.29636261  1
+  F  F11  1  0.34933951  0.97413975  0.52405530  1
+  F  F12  1  0.02586025  0.37519979  0.52405530  1
+  F  F13  1  0.62480021  0.65066051  0.52405530  1
+  F  F14  1  0.36347637  0.09444461  0.79983664  1
+  F  F15  1  0.90555537  0.26903176  0.79983664  1
+  F  F16  1  0.73096824  0.63652360  0.79983664  1
+  F  F17  1  0.35867783  0.31051737  0.05439842  1
+  F  F18  1  0.68948263  0.04816046  0.05439842  1
+  F  F19  1  0.95183957  0.64132214  0.05439842  1

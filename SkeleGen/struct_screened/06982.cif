@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaEuGaWSe8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.42147779
+_cell_length_b   6.42147766
+_cell_length_c   9.44352531
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000560
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaEuGaWSe8
+_chemical_formula_sum   'Ca1 Eu1 Ga1 W1 Se8'
+_cell_volume   337.23661179
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.66666669  0.33333334  0.44182429  1
+  Se  Se1  1  0.33333334  0.66666669  0.47232875  1
+  Se  Se2  1  0.63555825  0.99577564  0.77719676  1
+  Se  Se3  1  0.00422439  0.63978261  0.77719676  1
+  Se  Se4  1  0.36021739  0.36444175  0.77719676  1
+  Se  Se5  1  0.32851800  0.99102932  0.13080174  1
+  Se  Se6  1  0.00897068  0.33748865  0.13080174  1
+  Se  Se7  1  0.66251135  0.67148197  0.13080174  1
+  Ca  Ca8  1  0.00000000  0.00000000  0.38536200  1
+  Eu  Eu9  1  0.00000000  0.00000000  0.92656147  1
+  Ga  Ga10  1  0.33333334  0.66666669  0.20460111  1
+  W  W11  1  0.33333334  0.66666669  0.71047986  1

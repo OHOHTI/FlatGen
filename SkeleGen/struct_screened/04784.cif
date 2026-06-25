@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CsSiPdBr6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.53946228
+_cell_length_b   6.57378067
+_cell_length_c   7.56635666
+_cell_angle_alpha   90.13980280
+_cell_angle_beta   95.66215455
+_cell_angle_gamma   94.41694141
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsSiPdBr6
+_chemical_formula_sum   'Cs1 Si1 Pd1 Br6'
+_cell_volume   322.70518054
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.40574676  0.95058149  0.23936373  1
+  Br  Br1  1  0.04668637  0.41626048  0.87614644  1
+  Br  Br2  1  0.97970551  0.58686477  0.28522182  1
+  Br  Br3  1  0.45969266  0.42298326  0.22949781  1
+  Br  Br4  1  0.56904948  0.58957809  0.70389712  1
+  Br  Br5  1  0.41087374  0.05045839  0.79220498  1
+  Pd  Pd6  1  0.29828158  0.18424988  0.02303027  1
+  Si  Si7  1  0.32540792  0.64944428  0.31895953  1
+  Cs  Cs8  1  0.91303325  0.05969533  0.52995026  1

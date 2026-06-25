@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Fe3Cu2F10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44813490
+_cell_length_b   5.44813449
+_cell_length_c   8.36324120
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000537
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe3Cu2F10
+_chemical_formula_sum   'Fe3 Cu2 F10'
+_cell_volume   214.98140785
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.52151942  1
+  F  F1  1  0.66666669  0.33333334  0.47848058  1
+  F  F2  1  0.33333334  0.66666669  0.03126975  1
+  F  F3  1  0.66666669  0.33333334  0.96873027  1
+  F  F4  1  0.32375613  0.30634156  0.25746366  1
+  F  F5  1  0.69365847  0.01741457  0.25746366  1
+  F  F6  1  0.98258543  0.67624390  0.25746366  1
+  F  F7  1  0.30634156  0.32375613  0.74253631  1
+  F  F8  1  0.01741457  0.69365847  0.74253631  1
+  F  F9  1  0.67624390  0.98258543  0.74253631  1
+  Cu  Cu10  1  0.33333334  0.66666669  0.79901618  1
+  Cu  Cu11  1  0.66666669  0.33333334  0.20098382  1
+  Fe  Fe12  1  0.68316704  0.00000000  0.50000000  1
+  Fe  Fe13  1  0.00000000  0.68316704  0.50000000  1
+  Fe  Fe14  1  0.31683296  0.31683296  0.50000000  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Eu5GeSb3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.42312241
+_cell_length_b   9.42312201
+_cell_length_c   7.26084423
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000475
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu5GeSb3
+_chemical_formula_sum   'Eu10 Ge2 Sb6'
+_cell_volume   558.35110195
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.33333334  0.66666669  0.48256153  1
+  Eu  Eu1  1  0.66666669  0.33333334  0.98256153  1
+  Eu  Eu2  1  0.66666669  0.33333334  0.51743847  1
+  Eu  Eu3  1  0.33333334  0.66666669  0.01743847  1
+  Eu  Eu4  1  0.23857577  0.27883327  0.25000000  1
+  Eu  Eu5  1  0.72116673  0.95974249  0.25000000  1
+  Eu  Eu6  1  0.04025750  0.76142424  0.25000000  1
+  Eu  Eu7  1  0.76142424  0.72116673  0.75000000  1
+  Eu  Eu8  1  0.27883327  0.04025750  0.75000000  1
+  Eu  Eu9  1  0.95974249  0.23857577  0.75000000  1
+  Ge  Ge10  1  0.00000000  0.00000000  0.00000000  1
+  Ge  Ge11  1  0.00000000  0.00000000  0.50000000  1
+  Sb  Sb12  1  0.93216586  0.35400796  0.25000000  1
+  Sb  Sb13  1  0.64599204  0.57815790  0.25000000  1
+  Sb  Sb14  1  0.42184210  0.06783414  0.25000000  1
+  Sb  Sb15  1  0.06783414  0.64599204  0.75000000  1
+  Sb  Sb16  1  0.35400796  0.42184210  0.75000000  1
+  Sb  Sb17  1  0.57815790  0.93216586  0.75000000  1

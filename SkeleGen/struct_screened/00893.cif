@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_BaNb2GaI16
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.75434654
+_cell_length_b   8.76107764
+_cell_length_c   12.20570755
+_cell_angle_alpha   91.17056705
+_cell_angle_beta   95.94323716
+_cell_angle_gamma   101.73817615
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNb2GaI16
+_chemical_formula_sum   'Ba1 Nb2 Ga1 I16'
+_cell_volume   910.81564136
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.53039587  0.52435625  0.50358480  1
+  I  I1  1  0.03301091  0.51503092  0.48983043  1
+  I  I2  1  0.99179000  0.54922557  0.00806534  1
+  I  I3  1  0.72023326  0.33213797  0.27316418  1
+  I  I4  1  0.81007290  0.25465873  0.72165787  1
+  I  I5  1  0.53850693  0.01249428  0.96890157  1
+  I  I6  1  0.25044578  0.51832741  0.78504354  1
+  I  I7  1  0.51851350  0.04029546  0.50340533  1
+  I  I8  1  0.24844076  0.02691585  0.75739062  1
+  I  I9  1  0.23203841  0.28204042  0.25517750  1
+  I  I10  1  0.74631011  0.81622815  0.21949911  1
+  I  I11  1  0.57485145  0.54732031  0.97423285  1
+  I  I12  1  0.25746331  0.80551648  0.23018838  1
+  I  I13  1  0.74259228  0.80195016  0.74086833  1
+  Nb  Nb14  1  0.57259268  0.01977708  0.75304413  1
+  I  I15  1  0.98617852  0.98609561  0.97849828  1
+  Nb  Nb16  1  0.75556415  0.77371448  0.97373307  1
+  I  I17  1  0.01809827  0.03558769  0.47425824  1
+  Ga  Ga18  1  0.81357116  0.28115892  0.47788623  1
+  Ba  Ba19  1  0.45707145  0.31430137  0.73445314  1

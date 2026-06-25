@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_NaPrZnSnGe(Se3I4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.25309610
+_cell_length_b   7.25309585
+_cell_length_c   14.44686890
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000549
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaPrZnSnGe(Se3I4)2
+_chemical_formula_sum   'Na1 Pr1 Zn1 Sn1 Ge1 Se6 I8'
+_cell_volume   658.18986126
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.66889495  0.64797598  0.20867561  1
+  I  I1  1  0.35202402  0.02091897  0.20867561  1
+  I  I2  1  0.97908103  0.33110505  0.20867561  1
+  I  I3  1  0.67036575  0.98295760  0.73049104  1
+  I  I4  1  0.01704240  0.68740815  0.73049104  1
+  I  I5  1  0.31259185  0.32963425  0.73049104  1
+  I  I6  1  0.33333334  0.66666669  0.02235014  1
+  I  I7  1  0.66666669  0.33333334  0.57569921  1
+  Sn  Sn8  1  0.00000000  0.00000000  0.55163741  1
+  Na  Na9  1  0.33333334  0.66666669  0.56122983  1
+  Pr  Pr10  1  0.66666669  0.33333334  0.34001091  1
+  Zn  Zn11  1  0.66666669  0.33333334  0.05980970  1
+  Ge  Ge12  1  0.66666669  0.33333334  0.82805926  1
+  Se  Se13  1  0.39148381  0.08339347  0.93380779  1
+  Se  Se14  1  0.91660655  0.30809033  0.93380779  1
+  Se  Se15  1  0.69190967  0.60851622  0.93380779  1
+  Se  Se16  1  0.30228814  0.32528612  0.43646899  1
+  Se  Se17  1  0.67471385  0.97700202  0.43646899  1
+  Se  Se18  1  0.02299798  0.69771183  0.43646899  1

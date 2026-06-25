@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_BaCoNiPO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.14026785
+_cell_length_b   5.14026749
+_cell_length_c   7.53847980
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000541
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCoNiPO9
+_chemical_formula_sum   'Ba1 Co1 Ni1 P1 O9'
+_cell_volume   172.49871040
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.66666669  0.33333334  0.54219711  1
+  O  O1  1  0.33333334  0.66666669  0.48043874  1
+  O  O2  1  0.60348511  0.90225393  0.75860250  1
+  O  O3  1  0.09774607  0.70123118  0.75860250  1
+  O  O4  1  0.29876882  0.39651489  0.75860250  1
+  O  O5  1  0.47416580  0.01017328  0.16064930  1
+  O  O6  1  0.98982674  0.46399251  0.16064930  1
+  O  O7  1  0.53600752  0.52583420  0.16064930  1
+  O  O8  1  0.00000000  0.00000000  0.34110263  1
+  Ba  Ba9  1  0.00000000  0.00000000  0.99557924  1
+  Ni  Ni10  1  0.33333334  0.66666669  0.25192630  1
+  P  P11  1  0.33333334  0.66666669  0.69396096  1
+  Co  Co12  1  0.66666669  0.33333334  0.27505669  1

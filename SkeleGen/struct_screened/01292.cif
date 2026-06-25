@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_LiMnVNiAgOF11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.37967167
+_cell_length_b   5.66503165
+_cell_length_c   6.84929705
+_cell_angle_alpha   79.15827869
+_cell_angle_beta   87.81600843
+_cell_angle_gamma   86.95837181
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiMnVNiAgOF11
+_chemical_formula_sum   'Li1 Mn1 V1 Ni1 Ag1 O1 F11'
+_cell_volume   204.64033999
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.01221740  0.00553923  0.15947331  1
+  F  F1  1  0.10314190  0.88276368  0.82375139  1
+  F  F2  1  0.29507402  0.23768139  0.49159712  1
+  F  F3  1  0.79304796  0.78229827  0.46822613  1
+  F  F4  1  0.47399896  0.53164500  0.22824359  1
+  F  F5  1  0.65198356  0.42486095  0.81249809  1
+  F  F6  1  0.50972903  0.04449429  0.15672719  1
+  F  F7  1  0.56952345  0.94140822  0.81802553  1
+  Mn  Mn8  1  0.54669130  0.51659840  0.52067393  1
+  Ni  Ni9  1  0.05285852  0.01021975  0.47570127  1
+  V  V10  1  0.29816839  0.05745241  0.97611940  1
+  F  F11  1  0.27677104  0.76203132  0.47954401  1
+  O  O12  1  0.01317825  0.54377550  0.15605736  1
+  Li  Li13  1  0.79652441  0.78023905  0.03251048  1
+  F  F14  1  0.80244321  0.25078899  0.48614100  1
+  F  F15  1  0.19195090  0.35786176  0.83242911  1
+  Ag  Ag16  1  0.81535286  0.33710846  0.21244444  1

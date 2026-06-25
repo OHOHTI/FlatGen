@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_LaHoErCu(Te2O5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.70242133
+_cell_length_b   6.18576333
+_cell_length_c   7.66661215
+_cell_angle_alpha   87.75930420
+_cell_angle_beta   90.20600782
+_cell_angle_gamma   89.80670989
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaHoErCu(Te2O5)2
+_chemical_formula_sum   'La1 Ho1 Er1 Cu1 Te4 O10'
+_cell_volume   270.22057469
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.53778738  0.23599619  0.64036393  1
+  Te  Te1  1  0.48380047  0.69919360  0.30752224  1
+  Te  Te2  1  0.15163453  0.30443689  0.31119549  1
+  Te  Te3  1  0.81232941  0.62755668  0.68072623  1
+  O  O4  1  0.64653540  0.75828016  0.09139481  1
+  La  La5  1  0.66970921  0.27019072  0.07422284  1
+  O  O6  1  0.80893242  0.20038927  0.75396937  1
+  O  O7  1  0.35359874  0.41363814  0.83374137  1
+  Ho  Ho8  1  0.00272496  0.80640852  0.14270659  1
+  O  O9  1  0.14824876  0.66239631  0.39427552  1
+  O  O10  1  0.57180083  0.38141072  0.42457238  1
+  O  O11  1  0.37357557  0.97511071  0.57215273  1
+  Er  Er12  1  0.26175126  0.67725426  0.70211947  1
+  O  O13  1  0.31210601  0.06684101  0.17268202  1
+  O  O14  1  0.90788794  0.07517579  0.31669185  1
+  O  O15  1  0.08460983  0.84804618  0.86159945  1
+  Cu  Cu16  1  0.15986843  0.17142718  0.92114365  1
+  O  O17  1  0.02562387  0.41178963  0.08719766  1

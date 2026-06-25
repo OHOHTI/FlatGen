@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_EuO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.48765612
+_cell_length_b   6.48765590
+_cell_length_c   9.29891968
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000596
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuO
+_chemical_formula_sum   'Eu8 O8'
+_cell_volume   338.95241370
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.33333334  0.66666669  0.98329324  1
+  Eu  Eu1  1  0.66666669  0.33333334  0.01670676  1
+  Eu  Eu2  1  0.64402157  0.99856073  0.65657276  1
+  Eu  Eu3  1  0.00143927  0.64546084  0.65657276  1
+  Eu  Eu4  1  0.35453916  0.35597843  0.65657276  1
+  Eu  Eu5  1  0.35597843  0.00143927  0.34342724  1
+  Eu  Eu6  1  0.99856073  0.35453916  0.34342724  1
+  Eu  Eu7  1  0.64546084  0.64402157  0.34342724  1
+  O  O8  1  0.33333334  0.66666669  0.49041787  1
+  O  O9  1  0.66666669  0.33333334  0.50958216  1
+  O  O10  1  0.96065450  0.66482854  0.88977009  1
+  O  O11  1  0.33517146  0.29582596  0.88977009  1
+  O  O12  1  0.70417404  0.03934550  0.88977009  1
+  O  O13  1  0.03934550  0.33517146  0.11022991  1
+  O  O14  1  0.66482854  0.70417404  0.11022991  1
+  O  O15  1  0.29582596  0.96065450  0.11022991  1

@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_SrScTiCuP(S3I4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.55003357
+_cell_length_b   7.55003335
+_cell_length_c   12.79808617
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000516
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrScTiCuP(S3I4)2
+_chemical_formula_sum   'Sr1 Sc1 Ti1 Cu1 P1 S6 I8'
+_cell_volume   631.79093640
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.66493356  0.69757891  0.31807631  1
+  I  I1  1  0.30242109  0.96735466  0.31807631  1
+  I  I2  1  0.03264534  0.33506644  0.31807631  1
+  I  I3  1  0.65162438  0.97444934  0.82801211  1
+  I  I4  1  0.02555066  0.67717505  0.82801211  1
+  I  I5  1  0.32282495  0.34837562  0.82801211  1
+  I  I6  1  0.33333334  0.66666669  0.07388417  1
+  I  I7  1  0.66666669  0.33333334  0.49167249  1
+  Sr  Sr8  1  0.00000000  0.00000000  0.47431150  1
+  Cu  Cu9  1  0.33333334  0.66666669  0.70010948  1
+  P  P10  1  0.33333334  0.66666669  0.24112274  1
+  Ti  Ti11  1  0.33333334  0.66666669  0.45358354  1
+  Sc  Sc12  1  0.66666669  0.33333334  0.15762262  1
+  S  S13  1  0.31978717  0.41225049  0.57046843  1
+  S  S14  1  0.58774948  0.90753669  0.57046843  1
+  S  S15  1  0.09246331  0.68021286  0.57046843  1
+  S  S16  1  0.78767645  0.62994164  0.07522672  1
+  S  S17  1  0.37005836  0.15773481  0.07522672  1
+  S  S18  1  0.84226519  0.21232355  0.07522672  1

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_K2NaSmCoCuGeCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.49048424
+_cell_length_b   4.30121088
+_cell_length_c   18.84137726
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   90.00000433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NaSmCoCuGeCl8
+_chemical_formula_sum   'K2 Na1 Sm1 Co1 Cu1 Ge1 Cl8'
+_cell_volume   363.91215149
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.00000000  0.50000000  0.29188123  1
+  Cl  Cl1  1  0.50000000  0.00000000  0.60322005  1
+  Cl  Cl2  1  0.50000000  0.50000000  0.40525642  1
+  Cl  Cl3  1  0.00000000  0.00000000  0.45777503  1
+  Cl  Cl4  1  0.00000000  0.00000000  0.10439602  1
+  Cl  Cl5  1  0.50000000  0.50000000  0.15093005  1
+  Cl  Cl6  1  0.50000000  0.50000000  0.80229342  1
+  Cl  Cl7  1  0.00000000  0.00000000  0.71130490  1
+  K  K8  1  0.00000000  0.00000000  0.88086528  1
+  Cu  Cu9  1  0.00000000  0.00000000  0.33221576  1
+  K  K10  1  0.00000000  0.50000000  0.56787664  1
+  Sm  Sm11  1  0.50000000  0.00000000  0.05416176  1
+  Co  Co12  1  0.50000000  0.00000000  0.76032853  1
+  Ge  Ge13  1  0.50000000  0.00000000  0.25084430  1
+  Na  Na14  1  0.50000000  0.50000000  0.95807117  1

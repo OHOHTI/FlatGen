@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Th3NbTeBr9O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.06488609
+_cell_length_b   10.06488536
+_cell_length_c   5.21787977
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000554
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th3NbTeBr9O
+_chemical_formula_sum   'Th3 Nb1 Te1 Br9 O1'
+_cell_volume   457.76477687
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.87461859  0.31321704  0.69117224  1
+  Br  Br1  1  0.68678296  0.56140155  0.69117224  1
+  Br  Br2  1  0.43859845  0.12538141  0.69117224  1
+  Br  Br3  1  0.10907097  0.72984380  0.69270706  1
+  Br  Br4  1  0.27015620  0.37922716  0.69270706  1
+  Br  Br5  1  0.62077284  0.89092904  0.69270706  1
+  Br  Br6  1  0.42561692  0.35961270  0.22204559  1
+  Br  Br7  1  0.64038730  0.06600422  0.22204559  1
+  Br  Br8  1  0.93399578  0.57438308  0.22204559  1
+  Te  Te9  1  0.00000000  0.00000000  0.02080173  1
+  Nb  Nb10  1  0.33333334  0.66666669  0.76329386  1
+  O  O11  1  0.33333334  0.66666669  0.12579980  1
+  Th  Th12  1  0.27956575  0.87979001  0.20227875  1
+  Th  Th13  1  0.12020999  0.39977574  0.20227875  1
+  Th  Th14  1  0.60022426  0.72043425  0.20227875  1

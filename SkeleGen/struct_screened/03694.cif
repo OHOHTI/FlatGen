@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_EuInCo2PS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.98082638
+_cell_length_b   5.98082626
+_cell_length_c   9.55952930
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000327
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuInCo2PS8
+_chemical_formula_sum   'Eu1 In1 Co2 P1 S8'
+_cell_volume   296.13484237
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.64305568  0.70210665  0.32025489  1
+  S  S1  1  0.29789335  0.94094902  0.32025489  1
+  S  S2  1  0.05905098  0.35694432  0.32025489  1
+  S  S3  1  0.65480840  0.97536749  0.73365217  1
+  S  S4  1  0.02463251  0.67944092  0.73365217  1
+  S  S5  1  0.32055908  0.34519160  0.73365217  1
+  S  S6  1  0.33333334  0.66666669  0.02348684  1
+  S  S7  1  0.66666669  0.33333334  0.53238946  1
+  Eu  Eu8  1  0.00000000  0.00000000  0.97666180  1
+  In  In9  1  0.00000000  0.00000000  0.53192079  1
+  Co  Co10  1  0.33333334  0.66666669  0.66254705  1
+  P  P11  1  0.33333334  0.66666669  0.22338276  1
+  Co  Co12  1  0.33333334  0.66666669  0.44751593  1

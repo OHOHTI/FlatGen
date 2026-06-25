@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CoPb3F10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.78669739
+_cell_length_b   6.78669724
+_cell_length_c   5.49311924
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000538
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoPb3F10
+_chemical_formula_sum   'Co1 Pb3 F10'
+_cell_volume   219.11221777
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.50962734  1
+  F  F1  1  0.66666669  0.33333334  0.47052157  1
+  F  F2  1  0.89629811  0.73293942  0.74353218  1
+  F  F3  1  0.26706058  0.16335869  0.74353218  1
+  F  F4  1  0.83664131  0.10370189  0.74353218  1
+  F  F5  1  0.66666669  0.33333334  0.01423503  1
+  F  F6  1  0.03227115  0.25741369  0.27184355  1
+  F  F7  1  0.74258631  0.77485746  0.27184355  1
+  F  F8  1  0.22514254  0.96772885  0.27184355  1
+  F  F9  1  0.33333334  0.66666669  0.92921668  1
+  Co  Co10  1  0.00000000  0.00000000  0.54199666  1
+  Pb  Pb11  1  0.41751364  0.42431739  0.06871631  1
+  Pb  Pb12  1  0.57568264  0.99319625  0.06871631  1
+  Pb  Pb13  1  0.00680375  0.58248639  0.06871631  1

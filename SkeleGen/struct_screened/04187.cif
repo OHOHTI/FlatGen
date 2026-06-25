@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrBPF9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32905149
+_cell_length_b   5.32905138
+_cell_length_c   6.94819164
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000364
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrBPF9
+_chemical_formula_sum   'Sr1 B1 P1 F9'
+_cell_volume   170.88432569
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66666669  0.33333334  0.43038458  1
+  F  F1  1  0.33333334  0.66666669  0.51847643  1
+  F  F2  1  0.53891003  0.98334730  0.79972184  1
+  F  F3  1  0.01665270  0.55556273  0.79972184  1
+  F  F4  1  0.44443727  0.46108997  0.79972184  1
+  F  F5  1  0.42159367  0.06216777  0.18894418  1
+  F  F6  1  0.93783224  0.35942590  0.18894418  1
+  F  F7  1  0.64057410  0.57840633  0.18894418  1
+  F  F8  1  0.00000000  0.00000000  0.03470641  1
+  Sr  Sr9  1  0.00000000  0.00000000  0.37713289  1
+  P  P10  1  0.33333334  0.66666669  0.73190987  1
+  B  B11  1  0.66666669  0.33333334  0.23639274  1

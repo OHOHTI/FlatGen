@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CaEu3Ga
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.15826607
+_cell_length_b   9.72027779
+_cell_length_c   8.82349396
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   90.00000433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaEu3Ga
+_chemical_formula_sum   'Ca4 Eu12 Ga4'
+_cell_volume   699.70847461
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.71966630  0.80477625  0.21626633  1
+  Eu  Eu1  1  0.78033370  0.19522375  0.71626633  1
+  Eu  Eu2  1  0.28033370  0.30477619  0.28373367  1
+  Eu  Eu3  1  0.21966624  0.69522375  0.78373367  1
+  Eu  Eu4  1  0.45918506  0.03058996  0.96164829  1
+  Eu  Eu5  1  0.04081494  0.96941006  0.46164823  1
+  Eu  Eu6  1  0.54081494  0.53058994  0.53835171  1
+  Eu  Eu7  1  0.95918506  0.46941003  0.03835171  1
+  Eu  Eu8  1  0.99256128  0.56554586  0.45029566  1
+  Eu  Eu9  1  0.50743872  0.43445414  0.95029569  1
+  Eu  Eu10  1  0.00743872  0.06554580  0.04970434  1
+  Eu  Eu11  1  0.49256134  0.93445414  0.54970431  1
+  Ga  Ga12  1  0.86316603  0.51842403  0.72871572  1
+  Ga  Ga13  1  0.63683397  0.48157597  0.22871566  1
+  Ga  Ga14  1  0.13683397  0.01842403  0.77128428  1
+  Ga  Ga15  1  0.36316609  0.98157597  0.27128428  1
+  Ca  Ca16  1  0.71839976  0.18995933  0.31077278  1
+  Ca  Ca17  1  0.78160024  0.81004065  0.81077278  1
+  Ca  Ca18  1  0.28160024  0.68995935  0.18922722  1
+  Ca  Ca19  1  0.21839976  0.31004065  0.68922722  1

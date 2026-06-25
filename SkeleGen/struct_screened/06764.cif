@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_BeSnHCl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.52716780
+_cell_length_b   6.52716775
+_cell_length_c   9.92798615
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000508
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeSnHCl4
+_chemical_formula_sum   'Be2 Sn2 H2 Cl8'
+_cell_volume   366.30371522
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.70360577  0.61155856  0.23982146  1
+  Cl  Cl1  1  0.38844144  0.09204721  0.23982146  1
+  Cl  Cl2  1  0.90795279  0.29639423  0.23982146  1
+  Cl  Cl3  1  0.29639423  0.38844144  0.73982143  1
+  Cl  Cl4  1  0.61155856  0.90795279  0.73982143  1
+  Cl  Cl5  1  0.09204721  0.70360577  0.73982143  1
+  Cl  Cl6  1  0.33333334  0.66666669  0.98766071  1
+  Cl  Cl7  1  0.66666669  0.33333334  0.48766065  1
+  H  H8  1  0.00000000  0.00000000  0.05535520  1
+  H  H9  1  0.00000000  0.00000000  0.55535519  1
+  Sn  Sn10  1  0.00000000  0.00000000  0.82776618  1
+  Sn  Sn11  1  0.00000000  0.00000000  0.32776618  1
+  Be  Be12  1  0.33333334  0.66666669  0.78762591  1
+  Be  Be13  1  0.66666669  0.33333334  0.28762591  1

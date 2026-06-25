@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_U2Co2BP8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.70383573
+_cell_length_b   3.70383573
+_cell_length_c   14.17703247
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   90.00000433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U2Co2BP8
+_chemical_formula_sum   'U2 Co2 B1 P8'
+_cell_volume   194.48618925
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.00000000  0.50000000  0.31644592  1
+  P  P1  1  0.50000000  0.00000000  0.68355405  1
+  P  P2  1  0.50000000  0.50000000  0.50000000  1
+  P  P3  1  0.00000000  0.00000000  0.50000000  1
+  P  P4  1  0.00000000  0.00000000  0.17177209  1
+  P  P5  1  0.00000000  0.00000000  0.82822788  1
+  P  P6  1  0.50000000  0.50000000  0.10940761  1
+  P  P7  1  0.50000000  0.50000000  0.89059240  1
+  B  B8  1  0.00000000  0.00000000  0.00000000  1
+  Co  Co9  1  0.00000000  0.50000000  0.96133322  1
+  Co  Co10  1  0.50000000  0.00000000  0.03866678  1
+  U  U11  1  0.00000000  0.50000000  0.67029107  1
+  U  U12  1  0.50000000  0.00000000  0.32970893  1

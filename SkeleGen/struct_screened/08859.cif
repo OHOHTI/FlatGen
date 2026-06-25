@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_KRbBeBHCCl8O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.35002995
+_cell_length_b   6.35002967
+_cell_length_c   10.34150124
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000641
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KRbBeBHCCl8O3
+_chemical_formula_sum   'K1 Rb1 Be1 B1 H1 C1 Cl8 O3'
+_cell_volume   361.13178914
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.05002536  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.94216621  1
+  Cl  Cl2  1  0.54759395  0.45240605  0.64918399  1
+  Cl  Cl3  1  0.54759395  0.09518790  0.64918399  1
+  Cl  Cl4  1  0.90481210  0.45240605  0.64918399  1
+  Cl  Cl5  1  0.48684761  0.51315236  0.29186657  1
+  Cl  Cl6  1  0.48684761  0.97369522  0.29186657  1
+  Cl  Cl7  1  0.02630478  0.51315236  0.29186657  1
+  O  O8  1  0.00000000  0.00000000  0.78470469  1
+  H  H9  1  0.00000000  0.00000000  0.96634454  1
+  O  O10  1  0.00000000  0.00000000  0.54810303  1
+  K  K11  1  0.00000000  0.00000000  0.30079764  1
+  O  O12  1  0.00000000  0.00000000  0.04387899  1
+  Be  Be13  1  0.00000000  0.00000000  0.68107176  1
+  Rb  Rb14  1  0.33333334  0.66666669  0.66227323  1
+  C  C15  1  0.33333334  0.66666669  0.22088379  1
+  B  B16  1  0.66666669  0.33333334  0.74565721  1

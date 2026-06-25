@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Dy2SiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.33637619
+_cell_length_b   5.33637607
+_cell_length_c   7.73305988
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000368
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2SiO4
+_chemical_formula_sum   'Dy4 Si2 O8'
+_cell_volume   190.71060985
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.00000000  0.00000000  0.00000000  1
+  Dy  Dy1  1  0.33333334  0.66666669  0.28693283  1
+  Dy  Dy2  1  0.66666669  0.33333334  0.71306717  1
+  Dy  Dy3  1  0.00000000  0.00000000  0.50000000  1
+  O  O4  1  0.33333334  0.66666669  0.01882145  1
+  O  O5  1  0.66666669  0.33333334  0.98117858  1
+  Si  Si6  1  0.33333334  0.66666669  0.80793613  1
+  Si  Si7  1  0.66666669  0.33333334  0.19206387  1
+  O  O8  1  0.06784702  0.70601273  0.72649914  1
+  O  O9  1  0.29398727  0.36183429  0.72649914  1
+  O  O10  1  0.63816571  0.93215299  0.72649914  1
+  O  O11  1  0.93215299  0.29398727  0.27350086  1
+  O  O12  1  0.70601273  0.63816571  0.27350086  1
+  O  O13  1  0.36183429  0.06784702  0.27350086  1

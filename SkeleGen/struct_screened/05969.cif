@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsKMgAsBr8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.05831814
+_cell_length_b   7.05831808
+_cell_length_c   10.74690723
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999135
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsKMgAsBr8
+_chemical_formula_sum   'Cs1 K1 Mg1 As1 Br8'
+_cell_volume   463.67814316
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.68193346  0.68059498  0.32510653  1
+  Br  Br1  1  0.31940502  0.00133848  0.32510653  1
+  Br  Br2  1  0.99866152  0.31806654  0.32510653  1
+  Br  Br3  1  0.64899909  0.01595418  0.82599938  1
+  Br  Br4  1  0.98404580  0.63304490  0.82599938  1
+  Br  Br5  1  0.36695510  0.35100091  0.82599938  1
+  Br  Br6  1  0.33333334  0.66666669  0.05967347  1
+  Br  Br7  1  0.66666669  0.33333334  0.57037562  1
+  K  K8  1  0.00000000  0.00000000  0.53133619  1
+  Cs  Cs9  1  0.00000000  0.00000000  0.06198810  1
+  Mg  Mg10  1  0.33333334  0.66666669  0.86012733  1
+  As  As11  1  0.66666669  0.33333334  0.91784042  1

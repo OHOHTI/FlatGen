@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_YbCuRu2F6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.57524967
+_cell_length_b   5.57524960
+_cell_length_c   9.48619366
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000325
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbCuRu2F6
+_chemical_formula_sum   'Yb2 Cu2 Ru4 F12'
+_cell_volume   255.35904173
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ru  Ru0  1  0.00000000  0.00000000  0.00000000  1
+  Ru  Ru1  1  0.33333334  0.66666669  0.33136338  1
+  Ru  Ru2  1  0.66666669  0.33333334  0.66863662  1
+  Ru  Ru3  1  0.00000000  0.00000000  0.50000000  1
+  Yb  Yb4  1  0.33333334  0.66666669  0.88930416  1
+  Yb  Yb5  1  0.66666669  0.33333334  0.11069584  1
+  Cu  Cu6  1  0.33333334  0.66666669  0.61230391  1
+  Cu  Cu7  1  0.66666669  0.33333334  0.38769609  1
+  F  F8  1  0.31997851  0.00000000  0.00000000  1
+  F  F9  1  0.00000000  0.31997851  0.00000000  1
+  F  F10  1  0.68002152  0.68002152  0.00000000  1
+  F  F11  1  0.35876459  0.00000000  0.50000000  1
+  F  F12  1  0.00000000  0.35876459  0.50000000  1
+  F  F13  1  0.64123541  0.64123541  0.50000000  1
+  F  F14  1  0.33180034  0.33468863  0.25370166  1
+  F  F15  1  0.66531134  0.99711168  0.25370166  1
+  F  F16  1  0.00288829  0.66819966  0.25370166  1
+  F  F17  1  0.33468863  0.33180034  0.74629831  1
+  F  F18  1  0.99711168  0.66531134  0.74629831  1
+  F  F19  1  0.66819966  0.00288829  0.74629831  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_VAgO2F3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.11544666
+_cell_length_b   5.55085596
+_cell_length_c   7.37907171
+_cell_angle_alpha   86.77725960
+_cell_angle_beta   92.24923828
+_cell_angle_gamma   97.71488526
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VAgO2F3
+_chemical_formula_sum   'V2 Ag2 O4 F6'
+_cell_volume   207.19815143
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33495158  0.89548951  0.71256793  1
+  F  F1  1  0.66504842  0.10451049  0.28743207  1
+  F  F2  1  0.83721238  0.53106207  0.33262628  1
+  F  F3  1  0.16278762  0.46893793  0.66737372  1
+  F  F4  1  0.42950180  0.65195990  0.13792640  1
+  F  F5  1  0.57049823  0.34804010  0.86207360  1
+  Ag  Ag6  1  0.81056589  0.09246584  0.82440680  1
+  Ag  Ag7  1  0.18943411  0.90753418  0.17559320  1
+  O  O8  1  0.80803341  0.81150019  0.63898289  1
+  O  O9  1  0.19196659  0.18849981  0.36101711  1
+  O  O10  1  0.04056875  0.24301715  0.03946865  1
+  O  O11  1  0.95943123  0.75698286  0.96053135  1
+  V  V12  1  0.05216676  0.70907599  0.75843924  1
+  V  V13  1  0.94783324  0.29092401  0.24156076  1

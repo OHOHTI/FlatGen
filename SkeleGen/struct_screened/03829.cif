@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_LaNbCrI12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.91171741
+_cell_length_b   7.91171700
+_cell_length_c   12.63886738
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000573
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaNbCrI12
+_chemical_formula_sum   'La1 Nb1 Cr1 I12'
+_cell_volume   685.14150071
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.97408533  0.30547097  0.43448111  1
+  I  I1  1  0.69452906  0.66861439  0.43448111  1
+  I  I2  1  0.33138561  0.02591467  0.43448111  1
+  I  I3  1  0.99708718  0.69283038  0.68048078  1
+  I  I4  1  0.30716962  0.30425680  0.68048078  1
+  I  I5  1  0.69574320  0.00291282  0.68048078  1
+  I  I6  1  0.31887299  0.32741937  0.18491636  1
+  I  I7  1  0.67258060  0.99145365  0.18491636  1
+  I  I8  1  0.00854638  0.68112701  0.18491636  1
+  Cr  Cr9  1  0.00000000  0.00000000  0.55141133  1
+  Nb  Nb10  1  0.66666669  0.33333334  0.81743616  1
+  La  La11  1  0.66666669  0.33333334  0.30687189  1
+  I  I12  1  0.35911807  0.03179964  0.92448032  1
+  I  I13  1  0.96820039  0.32731843  0.92448032  1
+  I  I14  1  0.67268157  0.64088190  0.92448032  1

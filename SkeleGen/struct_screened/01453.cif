@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaCaLaNiAg2HgSb(SeS3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.69582253
+_cell_length_b   6.57558924
+_cell_length_c   8.24189377
+_cell_angle_alpha   86.48364372
+_cell_angle_beta   90.40140589
+_cell_angle_gamma   87.16594262
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCaLaNiAg2HgSb(SeS3)2
+_chemical_formula_sum   'Na1 Ca1 La1 Ni1 Ag2 Hg1 Sb1 Se2 S6'
+_cell_volume   361.73763918
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.13544990  0.05684827  0.38721395  1
+  S  S1  1  0.70003265  0.31602943  0.10010851  1
+  S  S2  1  0.23226081  0.60383928  0.94444817  1
+  S  S3  1  0.72200924  0.54087317  0.61123055  1
+  Hg  Hg4  1  0.05584678  0.35855910  0.62556118  1
+  Se  Se5  1  0.23184504  0.60051012  0.38609171  1
+  Ca  Ca6  1  0.34511515  0.85653257  0.68321496  1
+  La  La7  1  0.05121790  0.34105667  0.13535075  1
+  Sb  Sb8  1  0.35711908  0.88520771  0.17610434  1
+  S  S9  1  0.72111708  0.02227693  0.60499376  1
+  S  S10  1  0.74542952  0.80253226  0.20579322  1
+  Ag  Ag11  1  0.84188741  0.80011994  0.86205173  1
+  Na  Na12  1  0.54148340  0.28071299  0.37206125  1
+  Ag  Ag13  1  0.58699739  0.31329069  0.84068513  1
+  Se  Se14  1  0.21382673  0.11504208  0.91677159  1
+  Ni  Ni15  1  0.88612664  0.78614461  0.47604114  1

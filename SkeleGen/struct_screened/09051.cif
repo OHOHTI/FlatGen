@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_KRbTiCr(Te3Cl)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.61821747
+_cell_length_b   8.61821699
+_cell_length_c   8.44023323
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000549
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KRbTiCr(Te3Cl)3
+_chemical_formula_sum   'Rb1 K1 Ti1 Cr1 Te9 Cl3'
+_cell_volume   542.90010884
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.84252059  0.27497619  0.61773854  1
+  Te  Te1  1  0.72502381  0.56754440  0.61773854  1
+  Te  Te2  1  0.43245560  0.15747941  0.61773854  1
+  Te  Te3  1  0.11460195  0.64902973  0.66601121  1
+  Te  Te4  1  0.35097027  0.46557224  0.66601121  1
+  Te  Te5  1  0.53442776  0.88539803  0.66601121  1
+  Te  Te6  1  0.96277082  0.66663939  0.19279857  1
+  Te  Te7  1  0.33336061  0.29613143  0.19279857  1
+  Te  Te8  1  0.70386857  0.03722918  0.19279857  1
+  Rb  Rb9  1  0.00000000  0.00000000  0.49462637  1
+  Ti  Ti10  1  0.00000000  0.00000000  0.04280656  1
+  Cr  Cr11  1  0.33333334  0.66666669  0.85766840  1
+  K  K12  1  0.33333334  0.66666669  0.26783302  1
+  Cl  Cl13  1  0.02690760  0.30740345  0.93094200  1
+  Cl  Cl14  1  0.69259655  0.71950412  0.93094200  1
+  Cl  Cl15  1  0.28049585  0.97309238  0.93094200  1

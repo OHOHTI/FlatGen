@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CsKGeMoOF9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.52200259
+_cell_length_b   3.97723293
+_cell_length_c   11.90820217
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   95.33433930
+_cell_angle_gamma   90.00000407
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsKGeMoOF9
+_chemical_formula_sum   'Cs1 K1 Ge1 Mo1 O1 F9'
+_cell_volume   213.24216743
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.01504879  0.50000000  0.29095885  1
+  F  F1  1  0.50472468  0.00000000  0.66794217  1
+  F  F2  1  0.51799041  0.50000000  0.48189634  1
+  F  F3  1  0.01367832  0.00000000  0.47874349  1
+  F  F4  1  0.01979227  0.00000000  0.11822825  1
+  F  F5  1  0.52169341  0.50000000  0.12279462  1
+  F  F6  1  0.59204328  0.50000000  0.82236260  1
+  F  F7  1  0.01298277  0.00000000  0.79884535  1
+  Cs  Cs8  1  0.50846040  0.00000000  0.31482282  1
+  K  K9  1  0.50132143  0.00000000  0.96664917  1
+  Mo  Mo10  1  0.00595986  0.50000000  0.11519977  1
+  F  F11  1  0.01983309  0.50000000  0.63393021  1
+  Ge  Ge12  1  0.50853294  0.50000000  0.65476656  1
+  O  O13  1  0.13312167  0.50000000  0.95782578  1

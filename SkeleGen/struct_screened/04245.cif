@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_CsErCrAg3BiI10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.23175907
+_cell_length_b   9.23175891
+_cell_length_c   9.72770500
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000398
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsErCrAg3BiI10
+_chemical_formula_sum   'Cs1 Er1 Cr1 Ag3 Bi1 I10'
+_cell_volume   717.97599207
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.00656571  0.34628522  0.40844083  1
+  I  I1  1  0.65371478  0.66028047  0.40844083  1
+  I  I2  1  0.33971950  0.99343431  0.40844083  1
+  I  I3  1  0.09465440  0.67536533  0.69036305  1
+  I  I4  1  0.32463467  0.41928905  0.69036305  1
+  I  I5  1  0.58071095  0.90534562  0.69036305  1
+  I  I6  1  0.02135308  0.65577704  0.11975205  1
+  I  I7  1  0.34422296  0.36557603  0.11975205  1
+  I  I8  1  0.63442397  0.97864693  0.11975205  1
+  Cs  Cs9  1  0.00000000  0.00000000  0.65399563  1
+  Cr  Cr10  1  0.33333334  0.66666669  0.54834127  1
+  Er  Er11  1  0.33333334  0.66666669  0.23100083  1
+  Bi  Bi12  1  0.66666669  0.33333334  0.32329822  1
+  I  I13  1  0.66666669  0.33333334  0.91271949  1
+  Ag  Ag14  1  0.97830564  0.30513459  0.10075539  1
+  Ag  Ag15  1  0.69486541  0.67317104  0.10075539  1
+  Ag  Ag16  1  0.32682896  0.02169436  0.10075539  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Na2UFe3I10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.49138069
+_cell_length_b   10.49138000
+_cell_length_c   5.75375128
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000519
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2UFe3I10
+_chemical_formula_sum   'Na2 U1 Fe3 I10'
+_cell_volume   548.46252285
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.81385577  0.25591341  0.74763691  1
+  I  I1  1  0.74408662  0.55794239  0.74763691  1
+  I  I2  1  0.44205761  0.18614423  0.74763691  1
+  I  I3  1  0.25591341  0.81385577  0.74763691  1
+  I  I4  1  0.55794239  0.74408662  0.74763691  1
+  I  I5  1  0.18614423  0.44205761  0.74763691  1
+  I  I6  1  0.65393597  0.00000000  0.25372130  1
+  I  I7  1  0.00000000  0.65393597  0.25372130  1
+  I  I8  1  0.34606403  0.34606403  0.25372130  1
+  U  U9  1  0.00000000  0.00000000  0.24605872  1
+  I  I10  1  0.00000000  0.00000000  0.67159420  1
+  Na  Na11  1  0.33333334  0.66666669  0.21004528  1
+  Na  Na12  1  0.66666669  0.33333334  0.21004528  1
+  Fe  Fe13  1  0.67951077  0.00000000  0.61144823  1
+  Fe  Fe14  1  0.00000000  0.67951077  0.61144823  1
+  Fe  Fe15  1  0.32048923  0.32048923  0.61144823  1

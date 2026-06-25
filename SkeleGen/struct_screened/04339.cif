@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_SrCaCuOF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.56178271
+_cell_length_b   5.58171822
+_cell_length_c   7.74687481
+_cell_angle_alpha   90.34953065
+_cell_angle_beta   92.12626773
+_cell_angle_gamma   84.63593532
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCaCuOF4
+_chemical_formula_sum   'Sr2 Ca2 Cu2 O2 F8'
+_cell_volume   239.27745556
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.71232611  0.32066840  0.50492090  1
+  F  F1  1  0.28767389  0.67933160  0.49507910  1
+  F  F2  1  0.52256501  0.97989464  0.81426948  1
+  F  F3  1  0.47743499  0.02010536  0.18573052  1
+  F  F4  1  0.46129766  0.48246133  0.81696969  1
+  F  F5  1  0.53870237  0.51753867  0.18303031  1
+  F  F6  1  0.97320235  0.51562059  0.82048112  1
+  F  F7  1  0.02679765  0.48437941  0.17951888  1
+  Sr  Sr8  1  0.24070245  0.75210446  0.00222701  1
+  Sr  Sr9  1  0.75929755  0.24789554  0.99777299  1
+  O  O10  1  0.19211203  0.18430041  0.57233822  1
+  O  O11  1  0.80788797  0.81569958  0.42766178  1
+  Cu  Cu12  1  0.24779537  0.25565100  0.75477976  1
+  Cu  Cu13  1  0.75220466  0.74434900  0.24522024  1
+  Ca  Ca14  1  0.71040487  0.71603364  0.65896881  1
+  Ca  Ca15  1  0.28959513  0.28396636  0.34103119  1

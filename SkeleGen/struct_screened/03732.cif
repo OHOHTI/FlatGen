@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_CoB3Cl10O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.05171156
+_cell_length_b   6.05171126
+_cell_length_c   10.27470303
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000685
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoB3Cl10O
+_chemical_formula_sum   'Co1 B3 Cl10 O1'
+_cell_volume   325.87894284
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.61018735  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.41196698  1
+  Cl  Cl2  1  0.81341594  0.70722860  0.77814680  1
+  Cl  Cl3  1  0.29277140  0.10618734  0.77814680  1
+  Cl  Cl4  1  0.89381266  0.18658406  0.77814680  1
+  Cl  Cl5  1  0.66666669  0.33333334  0.09479141  1
+  Cl  Cl6  1  0.17432147  0.29537237  0.27775258  1
+  Cl  Cl7  1  0.70462763  0.87894911  0.27775258  1
+  Cl  Cl8  1  0.12105089  0.82567853  0.27775258  1
+  Cl  Cl9  1  0.33333334  0.66666669  0.93739665  1
+  O  O10  1  0.00000000  0.00000000  0.52336603  1
+  Co  Co11  1  0.00000000  0.00000000  0.98777109  1
+  B  B12  1  0.00000000  0.00000000  0.18627512  1
+  B  B13  1  0.00000000  0.00000000  0.71085978  1
+  B  B14  1  0.00000000  0.00000000  0.38724899  1

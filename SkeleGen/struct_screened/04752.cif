@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_ThAlVP3S14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.62979746
+_cell_length_b   6.62979737
+_cell_length_c   10.81679630
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999330
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThAlVP3S14
+_chemical_formula_sum   'Th1 Al1 V1 P3 S14'
+_cell_volume   411.74641674
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.70410198  0.71902883  0.48825958  1
+  S  S1  1  0.28097117  0.98507315  0.48825958  1
+  S  S2  1  0.01492685  0.29589802  0.48825958  1
+  S  S3  1  0.92256975  0.31723067  0.95220780  1
+  S  S4  1  0.68276930  0.60533905  0.95220780  1
+  S  S5  1  0.39466095  0.07743025  0.95220780  1
+  S  S6  1  0.66666669  0.33333334  0.49040550  1
+  S  S7  1  0.65856528  0.98995918  0.73352587  1
+  S  S8  1  0.01004082  0.66860610  0.73352587  1
+  S  S9  1  0.33139390  0.34143472  0.73352587  1
+  S  S10  1  0.33333334  0.66666669  0.98671699  1
+  S  S11  1  0.30486882  0.30181038  0.23553340  1
+  S  S12  1  0.69818962  0.00305843  0.23553340  1
+  S  S13  1  0.99694157  0.69513118  0.23553340  1
+  P  P14  1  0.00000000  0.00000000  0.61615431  1
+  V  V15  1  0.00000000  0.00000000  0.36670491  1
+  P  P16  1  0.33333334  0.66666669  0.56074214  1
+  Al  Al17  1  0.33333334  0.66666669  0.79258662  1
+  Th  Th18  1  0.33333334  0.66666669  0.30909410  1
+  P  P19  1  0.66666669  0.33333334  0.83764589  1

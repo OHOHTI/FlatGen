@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_CsKNaLiSn2PCl12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.46789455
+_cell_length_b   6.46789421
+_cell_length_c   16.92837143
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000663
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsKNaLiSn2PCl12
+_chemical_formula_sum   'Cs1 K1 Na1 Li1 Sn2 P1 Cl12'
+_cell_volume   613.29810253
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.00000000  0.00000000  0.12564382  1
+  Cl  Cl1  1  0.00000000  0.00000000  0.62193412  1
+  Cl  Cl2  1  0.00000000  0.00000000  0.36546874  1
+  Cl  Cl3  1  0.00000000  0.00000000  0.82455218  1
+  Cl  Cl4  1  0.45544833  0.04360085  0.46626741  1
+  Cl  Cl5  1  0.95639914  0.41184747  0.46626741  1
+  Cl  Cl6  1  0.58815253  0.54455167  0.46626741  1
+  Cl  Cl7  1  0.55952328  0.02174294  0.97683465  1
+  Cl  Cl8  1  0.97825706  0.53778034  0.97683465  1
+  Cl  Cl9  1  0.46221966  0.44047672  0.97683465  1
+  Cl  Cl10  1  0.33333334  0.66666669  0.74036390  1
+  Cl  Cl11  1  0.66666669  0.33333334  0.23934408  1
+  Na  Na12  1  0.00000000  0.00000000  0.96011108  1
+  Cs  Cs13  1  0.33333334  0.66666669  0.27342787  1
+  Sn  Sn14  1  0.66666669  0.33333334  0.88059092  1
+  Sn  Sn15  1  0.66666669  0.33333334  0.08728325  1
+  K  K16  1  0.66666669  0.33333334  0.70113868  1
+  P  P17  1  0.66666669  0.33333334  0.39572871  1
+  Li  Li18  1  0.66666669  0.33333334  0.56102675  1

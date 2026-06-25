@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_KLiZrFe2OF9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29887676
+_cell_length_b   5.29887663
+_cell_length_c   9.36042595
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000378
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KLiZrFe2OF9
+_chemical_formula_sum   'K1 Li1 Zr1 Fe2 O1 F9'
+_cell_volume   227.61131857
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.68455338  0.70536971  0.24410012  1
+  F  F1  1  0.29463029  0.97918367  0.24410012  1
+  F  F2  1  0.02081633  0.31544662  0.24410012  1
+  F  F3  1  0.62919468  0.98563802  0.69666010  1
+  F  F4  1  0.01436198  0.64355665  0.69666010  1
+  F  F5  1  0.35644335  0.37080532  0.69666010  1
+  F  F6  1  0.33333334  0.66666669  0.96372283  1
+  F  F7  1  0.66666669  0.33333334  0.44653970  1
+  O  O8  1  0.00000000  0.00000000  0.50410926  1
+  F  F9  1  0.00000000  0.00000000  0.92635405  1
+  Li  Li10  1  0.00000000  0.00000000  0.11661009  1
+  Zr  Zr11  1  0.00000000  0.00000000  0.70986730  1
+  Fe  Fe12  1  0.00000000  0.00000000  0.34426311  1
+  Fe  Fe13  1  0.33333334  0.66666669  0.53722769  1
+  K  K14  1  0.66666669  0.33333334  0.99116790  1

@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Nd2Ti(BrO)8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.88420773
+_cell_length_b   5.88420773
+_cell_length_c   13.30009079
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   90.00000433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd2Ti(BrO)8
+_chemical_formula_sum   'Nd2 Ti1 Br8 O8'
+_cell_volume   460.50102091
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.00000000  0.50000000  0.35752895  1
+  Br  Br1  1  0.50000000  0.00000000  0.64247108  1
+  Br  Br2  1  0.50000000  0.50000000  0.50000000  1
+  Br  Br3  1  0.00000000  0.00000000  0.50000000  1
+  Br  Br4  1  0.00000000  0.00000000  0.20339553  1
+  Br  Br5  1  0.00000000  0.00000000  0.79660445  1
+  Br  Br6  1  0.50000000  0.50000000  0.17007099  1
+  Br  Br7  1  0.50000000  0.50000000  0.82992899  1
+  Ti  Ti8  1  0.00000000  0.00000000  0.00000000  1
+  Nd  Nd9  1  0.00000000  0.50000000  0.02108513  1
+  Nd  Nd10  1  0.50000000  0.00000000  0.97891486  1
+  O  O11  1  0.73123330  0.46938583  0.57774192  1
+  O  O12  1  0.26876670  0.53061414  0.57774192  1
+  O  O13  1  0.46938583  0.26876670  0.42225808  1
+  O  O14  1  0.53061414  0.73123330  0.42225808  1
+  O  O15  1  0.77601260  0.75915211  0.00106926  1
+  O  O16  1  0.22398740  0.24084789  0.00106926  1
+  O  O17  1  0.75915211  0.22398740  0.99893075  1
+  O  O18  1  0.24084789  0.77601260  0.99893075  1

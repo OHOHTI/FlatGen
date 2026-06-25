@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NaBeAlPSe10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.72474957
+_cell_length_b   6.72474934
+_cell_length_c   9.71351624
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000579
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaBeAlPSe10
+_chemical_formula_sum   'Na1 Be1 Al1 P1 Se10'
+_cell_volume   380.41645432
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.33333334  0.66666669  0.62133634  1
+  Se  Se1  1  0.66666669  0.33333334  0.01387195  1
+  Se  Se2  1  0.16504054  0.83495945  0.28340262  1
+  Se  Se3  1  0.16504054  0.33008108  0.28340262  1
+  Se  Se4  1  0.66991889  0.83495945  0.28340262  1
+  Se  Se5  1  0.83856171  0.16143829  0.75606620  1
+  Se  Se6  1  0.83856171  0.67712343  0.75606620  1
+  Se  Se7  1  0.32287657  0.16143829  0.75606620  1
+  Se  Se8  1  0.33333334  0.66666669  0.93177992  1
+  Se  Se9  1  0.66666669  0.33333334  0.40981147  1
+  Na  Na10  1  0.00000000  0.00000000  0.04166635  1
+  Be  Be11  1  0.00000000  0.00000000  0.68021071  1
+  P  P12  1  0.00000000  0.00000000  0.40851644  1
+  Al  Al13  1  0.33333334  0.66666669  0.38720503  1

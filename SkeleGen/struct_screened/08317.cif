@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_NaCuPPbOF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22372723
+_cell_length_b   5.22372693
+_cell_length_c   7.31034851
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000487
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCuPPbOF8
+_chemical_formula_sum   'Na1 Cu1 P1 Pb1 O1 F8'
+_cell_volume   172.75461158
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.62510037  0.68493402  0.23077913  1
+  F  F1  1  0.31506598  0.94016635  0.23077913  1
+  F  F2  1  0.05983365  0.37489963  0.23077913  1
+  F  F3  1  0.65669572  0.98272383  0.77954680  1
+  F  F4  1  0.01727617  0.67397189  0.77954680  1
+  F  F5  1  0.32602811  0.34330428  0.77954680  1
+  F  F6  1  0.33333334  0.66666669  0.01377305  1
+  F  F7  1  0.66666669  0.33333334  0.43243980  1
+  Pb  Pb8  1  0.00000000  0.00000000  0.56108528  1
+  Cu  Cu9  1  0.33333334  0.66666669  0.76221699  1
+  O  O10  1  0.33333334  0.66666669  0.51665902  1
+  P  P11  1  0.33333334  0.66666669  0.29136190  1
+  Na  Na12  1  0.66666669  0.33333334  0.03386290  1

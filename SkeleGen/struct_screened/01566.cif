@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_LaTh3CrH3I10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.66760826
+_cell_length_b   8.66760782
+_cell_length_c   10.25189781
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000532
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaTh3CrH3I10
+_chemical_formula_sum   'La1 Th3 Cr1 H3 I10'
+_cell_volume   667.01162736
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.33333334  0.66666669  0.57321072  1
+  I  I1  1  0.66666669  0.33333334  0.01218515  1
+  I  I2  1  0.13559803  0.32990131  0.23545744  1
+  I  I3  1  0.67009866  0.80569673  0.23545744  1
+  I  I4  1  0.19430327  0.86440194  0.23545744  1
+  I  I5  1  0.94803441  0.28817979  0.65265477  1
+  I  I6  1  0.71182024  0.65985465  0.65265477  1
+  I  I7  1  0.34014535  0.05196559  0.65265477  1
+  I  I8  1  0.33333334  0.66666669  0.93002373  1
+  I  I9  1  0.66666669  0.33333334  0.39448485  1
+  Cr  Cr10  1  0.00000000  0.00000000  0.05591841  1
+  La  La11  1  0.00000000  0.00000000  0.39105436  1
+  H  H12  1  0.84847641  0.81224656  0.95939875  1
+  H  H13  1  0.18775344  0.03622985  0.95939875  1
+  H  H14  1  0.96377015  0.15152359  0.95939875  1
+  Th  Th15  1  0.02371678  0.74141717  0.84621209  1
+  Th  Th16  1  0.25858283  0.28229964  0.84621209  1
+  Th  Th17  1  0.71770036  0.97628319  0.84621209  1

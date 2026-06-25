@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cs2RbLaFeI9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.75719023
+_cell_length_b   7.75718992
+_cell_length_c   14.22004318
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000539
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2RbLaFeI9
+_chemical_formula_sum   'Cs2 Rb1 La1 Fe1 I9'
+_cell_volume   741.03784695
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.33333334  0.66666669  0.09118113  1
+  I  I1  1  0.66666669  0.33333334  0.01081872  1
+  I  I2  1  0.49748763  0.50251234  0.67541778  1
+  I  I3  1  0.49748763  0.99497527  0.67541778  1
+  I  I4  1  0.00502473  0.50251234  0.67541778  1
+  I  I5  1  0.49511597  0.50488400  0.33887348  1
+  I  I6  1  0.49511597  0.99023193  0.33887348  1
+  I  I7  1  0.00976807  0.50488400  0.33887348  1
+  Cs  Cs8  1  0.00000000  0.00000000  0.92306173  1
+  I  I9  1  0.00000000  0.00000000  0.18670331  1
+  Cs  Cs10  1  0.00000000  0.00000000  0.52308220  1
+  La  La11  1  0.33333334  0.66666669  0.51295549  1
+  Fe  Fe12  1  0.33333334  0.66666669  0.26983824  1
+  Rb  Rb13  1  0.33333334  0.66666669  0.83645046  1

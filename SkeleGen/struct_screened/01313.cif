@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_KNaSr3VCd(I3Cl)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.59316254
+_cell_length_b   8.59316224
+_cell_length_c   11.25958824
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000481
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNaSr3VCd(I3Cl)3
+_chemical_formula_sum   'K1 Na1 Sr3 V1 Cd1 I9 Cl3'
+_cell_volume   720.04420141
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.66666669  0.33333334  0.44102272  1
+  I  I1  1  0.33333334  0.66666669  0.40797502  1
+  I  I2  1  0.48963925  0.99102950  0.76886261  1
+  I  I3  1  0.00897050  0.49860978  0.76886261  1
+  I  I4  1  0.50139022  0.51036072  0.76886261  1
+  I  I5  1  0.35728469  0.03029815  0.17935090  1
+  I  I6  1  0.96970183  0.32698655  0.17935090  1
+  I  I7  1  0.67301345  0.64271533  0.17935090  1
+  V  V8  1  0.00000000  0.00000000  0.47388613  1
+  I  I9  1  0.00000000  0.00000000  0.89092988  1
+  Na  Na10  1  0.00000000  0.00000000  0.27166873  1
+  Cd  Cd11  1  0.33333334  0.66666669  0.88764244  1
+  K  K12  1  0.66666669  0.33333334  0.89421457  1
+  Cl  Cl13  1  0.18426505  0.25387222  0.53037852  1
+  Cl  Cl14  1  0.74612778  0.93039286  0.53037852  1
+  Cl  Cl15  1  0.06960717  0.81573498  0.53037852  1
+  Sr  Sr16  1  0.67883110  0.95643693  0.05405402  1
+  Sr  Sr17  1  0.04356307  0.72239417  0.05405402  1
+  Sr  Sr18  1  0.27760583  0.32116890  0.05405402  1

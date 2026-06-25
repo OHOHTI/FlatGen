@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_KNa2ZrNiAgP4HCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13700247
+_cell_length_b   6.13700249
+_cell_length_c   15.04619789
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000505
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNa2ZrNiAgP4HCl8
+_chemical_formula_sum   'K1 Na2 Zr1 Ni1 Ag1 P4 H1 Cl8'
+_cell_volume   490.76092485
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.64988297  0.69002640  0.21776550  1
+  Cl  Cl1  1  0.30997360  0.95985657  0.21776550  1
+  Cl  Cl2  1  0.04014343  0.35011703  0.21776550  1
+  Cl  Cl3  1  0.67494231  0.03695419  0.79574382  1
+  Cl  Cl4  1  0.96304584  0.63798809  0.79574382  1
+  Cl  Cl5  1  0.36201191  0.32505769  0.79574382  1
+  Cl  Cl6  1  0.33333334  0.66666669  0.00966989  1
+  Cl  Cl7  1  0.66666669  0.33333334  0.55275297  1
+  P  P8  1  0.00000000  0.00000000  0.14902695  1
+  P  P9  1  0.00000000  0.00000000  0.45502633  1
+  P  P10  1  0.00000000  0.00000000  0.01545113  1
+  H  H11  1  0.00000000  0.00000000  0.31007561  1
+  P  P12  1  0.00000000  0.00000000  0.88503462  1
+  Ag  Ag13  1  0.00000000  0.00000000  0.62894917  1
+  Ni  Ni14  1  0.33333334  0.66666669  0.16265944  1
+  K  K15  1  0.33333334  0.66666669  0.44364631  1
+  Na  Na16  1  0.66666669  0.33333334  0.31239754  1
+  Zr  Zr17  1  0.66666669  0.33333334  0.72214478  1
+  Na  Na18  1  0.66666669  0.33333334  0.96291065  1

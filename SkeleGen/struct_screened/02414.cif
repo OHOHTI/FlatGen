@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_MgMn2Co(OF4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.00193691
+_cell_length_b   5.00193689
+_cell_length_c   10.93726349
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000328
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgMn2Co(OF4)2
+_chemical_formula_sum   'Mg1 Mn2 Co1 O2 F8'
+_cell_volume   236.98219092
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.69553113  0.72443956  0.25843981  1
+  F  F1  1  0.27556044  0.97109157  0.25843981  1
+  F  F2  1  0.02890843  0.30446887  0.25843981  1
+  F  F3  1  0.69650322  0.97205448  0.76594651  1
+  F  F4  1  0.02794552  0.72444874  0.76594651  1
+  F  F5  1  0.27555126  0.30349678  0.76594651  1
+  F  F6  1  0.33333334  0.66666669  0.07655288  1
+  F  F7  1  0.66666669  0.33333334  0.47966710  1
+  Mg  Mg8  1  0.00000000  0.00000000  0.38027480  1
+  Mn  Mn9  1  0.00000000  0.00000000  0.87091869  1
+  O  O10  1  0.00000000  0.00000000  0.99261647  1
+  Co  Co11  1  0.00000000  0.00000000  0.14649631  1
+  Mn  Mn12  1  0.00000000  0.00000000  0.65816766  1
+  O  O13  1  0.00000000  0.00000000  0.55178010  1

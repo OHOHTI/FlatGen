@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_ErInP2Cl13O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.19392300
+_cell_length_b   8.19392266
+_cell_length_c   8.67460918
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999367
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErInP2Cl13O
+_chemical_formula_sum   'Er1 In1 P2 Cl13 O1'
+_cell_volume   504.38750065
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.79367888  0.20831643  0.61179835  1
+  Cl  Cl1  1  0.79168355  0.58536243  0.61179835  1
+  Cl  Cl2  1  0.41463757  0.20632112  0.61179835  1
+  Cl  Cl3  1  0.17682207  0.70152336  0.62926090  1
+  Cl  Cl4  1  0.29847664  0.47529870  0.62926090  1
+  Cl  Cl5  1  0.52470130  0.82317793  0.62926090  1
+  Cl  Cl6  1  0.93919450  0.54052901  0.22085458  1
+  Cl  Cl7  1  0.45947099  0.39866549  0.22085458  1
+  Cl  Cl8  1  0.60133451  0.06080550  0.22085458  1
+  Cl  Cl9  1  0.00000000  0.00000000  0.22691086  1
+  In  In10  1  0.00000000  0.00000000  0.77156621  1
+  P  P11  1  0.33333334  0.66666669  0.54000241  1
+  O  O12  1  0.33333334  0.66666669  0.39661556  1
+  P  P13  1  0.66666669  0.33333334  0.71265417  1
+  Er  Er14  1  0.66666669  0.33333334  0.08439114  1
+  Cl  Cl15  1  0.97854483  0.33324173  0.95333904  1
+  Cl  Cl16  1  0.66675830  0.64530313  0.95333904  1
+  Cl  Cl17  1  0.35469687  0.02145517  0.95333904  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TlCuTcBrCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.78481722
+_cell_length_b   6.78481719
+_cell_length_c   8.69424820
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999316
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlCuTcBrCl8
+_chemical_formula_sum   'Tl1 Cu1 Tc1 Br1 Cl8'
+_cell_volume   346.60833219
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.92717439  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.98755735  1
+  Cl  Cl2  1  0.50022417  0.49977583  0.63216424  1
+  Cl  Cl3  1  0.50022417  0.00044835  0.63216424  1
+  Cl  Cl4  1  0.99955165  0.49977583  0.63216424  1
+  Cl  Cl5  1  0.49183142  0.50816858  0.29561892  1
+  Cl  Cl6  1  0.49183142  0.98366284  0.29561892  1
+  Cl  Cl7  1  0.01633716  0.50816858  0.29561892  1
+  Tl  Tl8  1  0.00000000  0.00000000  0.68751013  1
+  Br  Br9  1  0.00000000  0.00000000  0.12211349  1
+  Cu  Cu10  1  0.33333334  0.66666669  0.46120852  1
+  Tc  Tc11  1  0.66666669  0.33333334  0.46443123  1

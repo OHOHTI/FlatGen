@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Mn4Al2Cu2O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.87800360
+_cell_length_b   4.87800366
+_cell_length_c   7.82979774
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999310
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn4Al2Cu2O9
+_chemical_formula_sum   'Mn4 Al2 Cu2 O9'
+_cell_volume   161.34869003
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.00000000  0.00000000  0.00000000  1
+  Mn  Mn1  1  0.33333334  0.66666669  0.49753356  1
+  Mn  Mn2  1  0.66666669  0.33333334  0.50246644  1
+  Mn  Mn3  1  0.00000000  0.00000000  0.50000000  1
+  Al  Al4  1  0.33333334  0.66666669  0.16731389  1
+  Al  Al5  1  0.66666669  0.33333334  0.83268613  1
+  Cu  Cu6  1  0.33333334  0.66666669  0.82880801  1
+  Cu  Cu7  1  0.66666669  0.33333334  0.17119199  1
+  O  O8  1  0.39024889  0.00000000  0.00000000  1
+  O  O9  1  0.00000000  0.39024889  0.00000000  1
+  O  O10  1  0.60975111  0.60975111  0.00000000  1
+  O  O11  1  0.98850107  0.63560903  0.67987180  1
+  O  O12  1  0.36439097  0.35289204  0.67987180  1
+  O  O13  1  0.64710796  0.01149893  0.67987180  1
+  O  O14  1  0.63560903  0.98850107  0.32012820  1
+  O  O15  1  0.35289204  0.36439097  0.32012820  1
+  O  O16  1  0.01149893  0.64710796  0.32012820  1

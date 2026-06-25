@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_LiTiAgCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.63439035
+_cell_length_b   6.63439045
+_cell_length_c   8.03800583
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999239
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTiAgCl8
+_chemical_formula_sum   'Li1 Ti1 Ag1 Cl8'
+_cell_volume   306.39454575
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.66666669  0.33333334  0.42225578  1
+  Cl  Cl1  1  0.33333334  0.66666669  0.46043500  1
+  Cl  Cl2  1  0.62714732  0.97353011  0.80418921  1
+  Cl  Cl3  1  0.02646989  0.65361720  0.80418921  1
+  Cl  Cl4  1  0.34638280  0.37285268  0.80418921  1
+  Cl  Cl5  1  0.31079635  0.97685653  0.13875011  1
+  Cl  Cl6  1  0.02314347  0.33393979  0.13875011  1
+  Cl  Cl7  1  0.66606021  0.68920362  0.13875011  1
+  Ag  Ag8  1  0.00000000  0.00000000  0.76042837  1
+  Li  Li9  1  0.00000000  0.00000000  0.22053592  1
+  Ti  Ti10  1  0.33333334  0.66666669  0.97158515  1

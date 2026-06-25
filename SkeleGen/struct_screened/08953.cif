@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Eu9NiBiSb3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13423443
+_cell_length_b   4.48165131
+_cell_length_c   19.46814156
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   90.00000433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu9NiBiSb3
+_chemical_formula_sum   'Eu9 Ni1 Bi1 Sb3'
+_cell_volume   447.95898645
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.00000000  0.50000000  0.33330122  1
+  Eu  Eu1  1  0.50000000  0.00000000  0.63489604  1
+  Eu  Eu2  1  0.50000000  0.50000000  0.47025022  1
+  Eu  Eu3  1  0.00000000  0.00000000  0.50377882  1
+  Eu  Eu4  1  0.00000000  0.00000000  0.16910549  1
+  Eu  Eu5  1  0.50000000  0.50000000  0.21167253  1
+  Eu  Eu6  1  0.50000000  0.50000000  0.77457231  1
+  Eu  Eu7  1  0.00000000  0.00000000  0.82712364  1
+  Sb  Sb8  1  0.00000000  0.50000000  0.00265397  1
+  Bi  Bi9  1  0.00000000  0.50000000  0.65697205  1
+  Eu  Eu10  1  0.50000000  0.00000000  0.05891536  1
+  Sb  Sb11  1  0.50000000  0.00000000  0.35520363  1
+  Sb  Sb12  1  0.50000000  0.00000000  0.90354419  1
+  Ni  Ni13  1  0.50000000  0.50000000  0.95502084  1

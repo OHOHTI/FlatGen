@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_KTlCuPbI10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.94347307
+_cell_length_b   8.32473080
+_cell_length_c   10.91781425
+_cell_angle_alpha   92.80849403
+_cell_angle_beta   91.40075144
+_cell_angle_gamma   95.54227124
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KTlCuPbI10
+_chemical_formula_sum   'K1 Tl1 Cu1 Pb1 I10'
+_cell_volume   627.10256414
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.75154328  0.28446251  0.53798705  1
+  I  I1  1  0.40999490  0.70909274  0.49715820  1
+  I  I2  1  0.56701010  0.82848656  0.84035450  1
+  I  I3  1  0.46521699  0.32385698  0.83771014  1
+  I  I4  1  0.02594652  0.58527535  0.78585386  1
+  I  I5  1  0.48712468  0.08451231  0.19438182  1
+  I  I6  1  0.57723451  0.52506745  0.17962348  1
+  I  I7  1  0.08679339  0.52984887  0.17314464  1
+  Pb  Pb8  1  0.80990231  0.67466712  0.99202746  1
+  I  I9  1  0.04666289  0.03459178  0.02320115  1
+  I  I10  1  0.96683359  0.89305729  0.44289067  1
+  Tl  Tl11  1  0.96704972  0.09950250  0.73696280  1
+  K  K12  1  0.24947402  0.31634602  0.43437839  1
+  Cu  Cu13  1  0.34751678  0.32050860  0.05244873  1

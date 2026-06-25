@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_ZrCuPSBr14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.64574242
+_cell_length_b   10.64574183
+_cell_length_c   6.23177528
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000479
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrCuPSBr14
+_chemical_formula_sum   'Zr1 Cu1 P1 S1 Br14'
+_cell_volume   611.63774549
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.07892745  0.24971122  0.76165819  1
+  Br  Br1  1  0.75028878  0.82921624  0.76165819  1
+  Br  Br2  1  0.17078376  0.92107254  0.76165819  1
+  Br  Br3  1  0.84824485  0.79291850  0.31492695  1
+  Br  Br4  1  0.20708150  0.05532634  0.31492695  1
+  Br  Br5  1  0.94467366  0.15175515  0.31492695  1
+  Br  Br6  1  0.40396583  0.51029521  0.27675363  1
+  Br  Br7  1  0.48970479  0.89367062  0.27675363  1
+  Br  Br8  1  0.10632938  0.59603417  0.27675363  1
+  Br  Br9  1  0.33333334  0.66666669  0.72767985  1
+  Br  Br10  1  0.66666669  0.33333334  0.23586313  1
+  Br  Br11  1  0.52757984  0.40006799  0.72779006  1
+  Br  Br12  1  0.59993201  0.12751186  0.72779006  1
+  Br  Br13  1  0.87248814  0.47242016  0.72779006  1
+  Zr  Zr14  1  0.00000000  0.00000000  0.60642439  1
+  Cu  Cu15  1  0.33333334  0.66666669  0.43585473  1
+  S  S16  1  0.33333334  0.66666669  0.11175735  1
+  P  P17  1  0.66666669  0.33333334  0.59084010  1

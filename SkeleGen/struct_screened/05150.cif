@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_BaLiGaBiTeWBr9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.66248941
+_cell_length_b   6.66248922
+_cell_length_c   14.90166283
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000570
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLiGaBiTeWBr9
+_chemical_formula_sum   'Ba1 Li1 Ga1 Bi1 Te1 W1 Br9'
+_cell_volume   572.84666720
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.66666669  0.33333334  0.65941346  1
+  Br  Br1  1  0.33333334  0.66666669  0.52975804  1
+  Br  Br2  1  0.62456369  0.97639126  0.86021429  1
+  Br  Br3  1  0.02360874  0.64817244  0.86021429  1
+  Br  Br4  1  0.35182756  0.37543631  0.86021429  1
+  Br  Br5  1  0.31781983  0.02452049  0.20910084  1
+  Br  Br6  1  0.97547948  0.29329935  0.20910084  1
+  Br  Br7  1  0.70670068  0.68218017  0.20910084  1
+  W  W8  1  0.00000000  0.00000000  0.22893764  1
+  Li  Li9  1  0.00000000  0.00000000  0.87703550  1
+  Te  Te10  1  0.00000000  0.00000000  0.03500836  1
+  Br  Br11  1  0.00000000  0.00000000  0.40923065  1
+  Ba  Ba12  1  0.00000000  0.00000000  0.62303609  1
+  Ga  Ga13  1  0.33333334  0.66666669  0.94686562  1
+  Bi  Bi14  1  0.66666669  0.33333334  0.98379678  1

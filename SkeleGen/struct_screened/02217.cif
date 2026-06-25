@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Eu4ReGeO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.65684175
+_cell_length_b   5.65684149
+_cell_length_c   8.16561508
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000435
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu4ReGeO7
+_chemical_formula_sum   'Eu4 Re1 Ge1 O7'
+_cell_volume   226.29114294
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.00000000  0.00000000  0.96516472  1
+  Eu  Eu1  1  0.66666669  0.33333334  0.74767673  1
+  Eu  Eu2  1  0.33333334  0.66666669  0.19058076  1
+  Eu  Eu3  1  0.00000000  0.00000000  0.43782866  1
+  Re  Re4  1  0.33333334  0.66666669  0.71254534  1
+  O  O5  1  0.33333334  0.66666669  0.93359709  1
+  Ge  Ge6  1  0.66666669  0.33333334  0.16918306  1
+  O  O7  1  0.05730689  0.34857357  0.64400554  1
+  O  O8  1  0.65142643  0.70873332  0.64400554  1
+  O  O9  1  0.29126668  0.94269311  0.64400554  1
+  O  O10  1  0.93331951  0.27211887  0.22400066  1
+  O  O11  1  0.72788113  0.66120064  0.22400066  1
+  O  O12  1  0.33879936  0.06668049  0.22400066  1

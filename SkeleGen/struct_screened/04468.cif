@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_CsZrMo2F11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.29101467
+_cell_length_b   6.29101430
+_cell_length_c   8.01968956
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000698
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsZrMo2F11
+_chemical_formula_sum   'Cs1 Zr1 Mo2 F11'
+_cell_volume   274.87138364
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.00245989  1
+  F  F1  1  0.66666669  0.33333334  0.99754012  1
+  F  F2  1  0.63432473  0.02021580  0.71274430  1
+  F  F3  1  0.97978419  0.61410892  0.71274430  1
+  F  F4  1  0.38589108  0.36567527  0.71274430  1
+  F  F5  1  0.02021580  0.63432473  0.28725570  1
+  F  F6  1  0.61410892  0.97978419  0.28725570  1
+  F  F7  1  0.36567527  0.38589108  0.28725570  1
+  Zr  Zr8  1  0.00000000  0.00000000  0.00000000  1
+  Cs  Cs9  1  0.00000000  0.00000000  0.50000000  1
+  Mo  Mo10  1  0.33333334  0.66666669  0.23621069  1
+  Mo  Mo11  1  0.66666669  0.33333334  0.76378930  1
+  F  F12  1  0.24767697  0.00000000  0.00000000  1
+  F  F13  1  0.00000000  0.24767697  0.00000000  1
+  F  F14  1  0.75232303  0.75232303  0.00000000  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_FeHgCl5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.68957599
+_cell_length_b   6.97725714
+_cell_length_c   10.04540062
+_cell_angle_alpha   92.02396535
+_cell_angle_beta   101.29909517
+_cell_angle_gamma   96.02872727
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeHgCl5
+_chemical_formula_sum   'Fe2 Hg2 Cl10'
+_cell_volume   456.48569996
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.27110332  0.61964041  0.57789189  1
+  Cl  Cl1  1  0.72889668  0.38035959  0.42210811  1
+  Cl  Cl2  1  0.76983023  0.41356587  0.06617204  1
+  Cl  Cl3  1  0.23016977  0.58643413  0.93382794  1
+  Cl  Cl4  1  0.15661849  0.35027608  0.25552323  1
+  Cl  Cl5  1  0.84338152  0.64972389  0.74447680  1
+  Cl  Cl6  1  0.83745635  0.10832383  0.80910903  1
+  Cl  Cl7  1  0.16254365  0.89167619  0.19089097  1
+  Cl  Cl8  1  0.32216182  0.26673773  0.73456442  1
+  Cl  Cl9  1  0.67783821  0.73326230  0.26543558  1
+  Fe  Fe10  1  0.13693273  0.49179584  0.73403895  1
+  Fe  Fe11  1  0.86306727  0.50820416  0.26596105  1
+  Hg  Hg12  1  0.64823699  0.93592608  0.96386093  1
+  Hg  Hg13  1  0.35176301  0.06407392  0.03613907  1

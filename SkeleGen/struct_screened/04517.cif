@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_KNaPrGaP3(Se3Cl)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.03005791
+_cell_length_b   7.03005768
+_cell_length_c   11.82284832
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000556
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNaPrGaP3(Se3Cl)3
+_chemical_formula_sum   'K1 Na1 Pr1 Ga1 P3 Se9 Cl3'
+_cell_volume   506.02330152
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.01049440  0.34486294  0.49952585  1
+  Se  Se1  1  0.65513706  0.66563147  0.49952585  1
+  Se  Se2  1  0.33436853  0.98950559  0.49952585  1
+  Se  Se3  1  0.05460075  0.67716879  0.73643100  1
+  Se  Se4  1  0.32283121  0.37743199  0.73643100  1
+  Se  Se5  1  0.62256801  0.94539922  0.73643100  1
+  Se  Se6  1  0.99472117  0.66931498  0.29038721  1
+  Se  Se7  1  0.33068502  0.32540619  0.29038721  1
+  Se  Se8  1  0.67459381  0.00527883  0.29038721  1
+  Pr  Pr9  1  0.00000000  0.00000000  0.14781989  1
+  P  P10  1  0.33333334  0.66666669  0.61928016  1
+  Ga  Ga11  1  0.33333334  0.66666669  0.83224446  1
+  K  K12  1  0.33333334  0.66666669  0.13783920  1
+  P  P13  1  0.33333334  0.66666669  0.39782026  1
+  Na  Na14  1  0.66666669  0.33333334  0.12260731  1
+  P  P15  1  0.66666669  0.33333334  0.41381630  1
+  Cl  Cl16  1  0.97627640  0.29751787  0.98864102  1
+  Cl  Cl17  1  0.70248210  0.67875850  0.98864102  1
+  Cl  Cl18  1  0.32124150  0.02372360  0.98864102  1

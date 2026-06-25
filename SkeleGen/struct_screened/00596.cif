@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_MgTlXeF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.57882977
+_cell_length_b   5.57882965
+_cell_length_c   6.63639545
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000354
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTlXeF8
+_chemical_formula_sum   'Mg1 Tl1 Xe1 F8'
+_cell_volume   178.87476771
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.99583936  1
+  F  F1  1  0.66666669  0.33333334  0.00523138  1
+  F  F2  1  0.35780224  0.00291666  0.65979457  1
+  F  F3  1  0.99708337  0.35488558  0.65979457  1
+  F  F4  1  0.64511442  0.64219773  0.65979457  1
+  F  F5  1  0.63812423  0.95933861  0.32486540  1
+  F  F6  1  0.04066139  0.67878562  0.32486540  1
+  F  F7  1  0.32121438  0.36187577  0.32486540  1
+  Tl  Tl8  1  0.00000000  0.00000000  0.13211794  1
+  Mg  Mg9  1  0.33333334  0.66666669  0.47146639  1
+  Xe  Xe10  1  0.66666669  0.33333334  0.74369794  1

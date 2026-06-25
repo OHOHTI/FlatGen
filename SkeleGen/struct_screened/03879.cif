@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_ZrTaFeBr14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.65673351
+_cell_length_b   9.65673335
+_cell_length_c   7.70077705
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000383
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTaFeBr14
+_chemical_formula_sum   'Zr1 Ta1 Fe1 Br14'
+_cell_volume   621.90729530
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.21361360  0.26611400  0.83915621  1
+  Br  Br1  1  0.73388600  0.94749963  0.83915621  1
+  Br  Br2  1  0.05250040  0.78638637  0.83915621  1
+  Br  Br3  1  0.79847181  0.79850054  0.16575487  1
+  Br  Br4  1  0.20149946  0.99997127  0.16575487  1
+  Br  Br5  1  0.00002873  0.20152819  0.16575487  1
+  Br  Br6  1  0.39296898  0.50477356  0.30329600  1
+  Br  Br7  1  0.49522644  0.88819540  0.30329600  1
+  Br  Br8  1  0.11180457  0.60703099  0.30329600  1
+  Br  Br9  1  0.33333334  0.66666669  0.80251551  1
+  Br  Br10  1  0.66666669  0.33333334  0.16234075  1
+  Br  Br11  1  0.32611927  0.17281653  0.53974050  1
+  Br  Br12  1  0.82718349  0.15330274  0.53974050  1
+  Br  Br13  1  0.84669727  0.67388070  0.53974050  1
+  Ta  Ta14  1  0.00000000  0.00000000  0.98617285  1
+  Zr  Zr15  1  0.00000000  0.00000000  0.45222914  1
+  Fe  Fe16  1  0.33333334  0.66666669  0.46544582  1

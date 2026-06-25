@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrFeCl10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.68801594
+_cell_length_b   6.68801577
+_cell_length_c   8.58463955
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000555
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrFeCl10
+_chemical_formula_sum   'Sr1 Fe1 Cl10'
+_cell_volume   332.54257858
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.56934410  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.43065590  1
+  Cl  Cl2  1  0.33333334  0.66666669  0.92739719  1
+  Cl  Cl3  1  0.66666669  0.33333334  0.07260281  1
+  Cl  Cl4  1  0.17313455  0.31101987  0.20224065  1
+  Cl  Cl5  1  0.68898010  0.86211467  0.20224065  1
+  Cl  Cl6  1  0.13788532  0.82686543  0.20224065  1
+  Cl  Cl7  1  0.82686543  0.68898010  0.79775935  1
+  Cl  Cl8  1  0.31101987  0.13788532  0.79775935  1
+  Cl  Cl9  1  0.86211467  0.17313455  0.79775935  1
+  Fe  Fe10  1  0.00000000  0.00000000  0.00000000  1
+  Sr  Sr11  1  0.00000000  0.00000000  0.50000000  1

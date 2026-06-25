@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_CsEu8GaAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.35134697
+_cell_length_b   8.35134678
+_cell_length_c   7.45927000
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000451
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsEu8GaAu
+_chemical_formula_sum   'Cs1 Eu8 Ga1 Au1'
+_cell_volume   450.54687806
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.66666669  0.33333334  0.48361376  1
+  Eu  Eu1  1  0.33333334  0.66666669  0.44433311  1
+  Eu  Eu2  1  0.66925007  0.99642193  0.74581695  1
+  Eu  Eu3  1  0.00357807  0.67282814  0.74581695  1
+  Eu  Eu4  1  0.32717186  0.33074993  0.74581695  1
+  Eu  Eu5  1  0.40209189  0.00707093  0.14483728  1
+  Eu  Eu6  1  0.99292904  0.39502096  0.14483728  1
+  Eu  Eu7  1  0.60497904  0.59790814  0.14483728  1
+  Au  Au8  1  0.00000000  0.00000000  0.51158017  1
+  Cs  Cs9  1  0.00000000  0.00000000  0.11507175  1
+  Ga  Ga10  1  0.33333334  0.66666669  0.94710881  1

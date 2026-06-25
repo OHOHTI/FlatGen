@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_SrCaEuAlCuSnF10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.00680208
+_cell_length_b   4.13937712
+_cell_length_c   12.81593323
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   90.00000433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCaEuAlCuSnF10
+_chemical_formula_sum   'Sr1 Ca1 Eu1 Al1 Cu1 Sn1 F10'
+_cell_volume   212.56077327
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.00000000  0.50000000  0.34948212  1
+  F  F1  1  0.50000000  0.00000000  0.64704484  1
+  F  F2  1  0.50000000  0.50000000  0.50686461  1
+  F  F3  1  0.00000000  0.00000000  0.48495379  1
+  F  F4  1  0.00000000  0.00000000  0.18791723  1
+  F  F5  1  0.50000000  0.50000000  0.17184289  1
+  F  F6  1  0.50000000  0.50000000  0.80704945  1
+  F  F7  1  0.00000000  0.00000000  0.77953595  1
+  Eu  Eu8  1  0.00000000  0.00000000  0.01538198  1
+  Ca  Ca9  1  0.00000000  0.50000000  0.68559796  1
+  Al  Al10  1  0.00000000  0.50000000  0.48590073  1
+  F  F11  1  0.00000000  0.50000000  0.97003573  1
+  Sr  Sr12  1  0.50000000  0.00000000  0.31262901  1
+  F  F13  1  0.50000000  0.00000000  0.97775722  1
+  Cu  Cu14  1  0.50000000  0.00000000  0.79417342  1
+  Sn  Sn15  1  0.50000000  0.50000000  0.00752121  1

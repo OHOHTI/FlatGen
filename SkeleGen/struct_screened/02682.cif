@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_MnCu5BO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.88586855
+_cell_length_b   4.88586847
+_cell_length_c   9.33890438
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000380
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCu5BO8
+_chemical_formula_sum   'Mn1 Cu5 B1 O8'
+_cell_volume   193.06790910
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000000  0.00000000  0.07850581  1
+  Cu  Cu1  1  0.66666669  0.33333334  0.60236305  1
+  Cu  Cu2  1  0.33333334  0.66666669  0.31308877  1
+  Cu  Cu3  1  0.00000000  0.00000000  0.54879797  1
+  O  O4  1  0.66666669  0.33333334  0.44430584  1
+  B  B5  1  0.66666669  0.33333334  0.10409624  1
+  Mn  Mn6  1  0.66666669  0.33333334  0.80985534  1
+  Cu  Cu7  1  0.66666669  0.33333334  0.29535758  1
+  O  O8  1  0.66666669  0.33333334  0.96714997  1
+  O  O9  1  0.32863718  0.30379960  0.68753844  1
+  O  O10  1  0.69620037  0.02483758  0.68753844  1
+  O  O11  1  0.97516239  0.67136282  0.68753844  1
+  O  O12  1  0.99013799  0.36683279  0.18112631  1
+  O  O13  1  0.63316721  0.62330520  0.18112631  1
+  O  O14  1  0.37669480  0.00986201  0.18112631  1

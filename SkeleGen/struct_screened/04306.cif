@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_ScInFe3Cl14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.34587479
+_cell_length_b   10.34587406
+_cell_length_c   5.73217821
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000537
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScInFe3Cl14
+_chemical_formula_sum   'Sc1 In1 Fe3 Cl14'
+_cell_volume   531.35490946
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.06181968  0.22558962  0.76324129  1
+  Cl  Cl1  1  0.77441037  0.83623004  0.76324129  1
+  Cl  Cl2  1  0.16376993  0.93818033  0.76324129  1
+  Cl  Cl3  1  0.87254703  0.75579500  0.24941504  1
+  Cl  Cl4  1  0.24420500  0.11675203  0.24941504  1
+  Cl  Cl5  1  0.88324797  0.12745297  0.24941504  1
+  Cl  Cl6  1  0.35613066  0.46037236  0.31867594  1
+  Cl  Cl7  1  0.53962767  0.89575827  0.31867594  1
+  Cl  Cl8  1  0.10424170  0.64386934  0.31867594  1
+  Cl  Cl9  1  0.33333334  0.66666669  0.79187071  1
+  Cl  Cl10  1  0.66666669  0.33333334  0.25864434  1
+  Cl  Cl11  1  0.48980868  0.41202801  0.77816600  1
+  Cl  Cl12  1  0.58797199  0.07778066  0.77816600  1
+  Cl  Cl13  1  0.92221934  0.51019132  0.77816600  1
+  Sc  Sc14  1  0.00000000  0.00000000  0.44304579  1
+  In  In15  1  0.33333334  0.66666669  0.21436276  1
+  Fe  Fe16  1  0.08316649  0.72333539  0.64228642  1
+  Fe  Fe17  1  0.27666461  0.35983109  0.64228642  1
+  Fe  Fe18  1  0.64016891  0.91683352  0.64228642  1

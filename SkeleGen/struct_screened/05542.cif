@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Cu2NiSnO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.09090900
+_cell_length_b   5.09090859
+_cell_length_c   9.22977543
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000576
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu2NiSnO6
+_chemical_formula_sum   'Cu4 Ni2 Sn2 O12'
+_cell_volume   207.16308735
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu1  1  0.33333334  0.66666669  0.29897165  1
+  Cu  Cu2  1  0.66666669  0.33333334  0.70102835  1
+  Cu  Cu3  1  0.00000000  0.00000000  0.50000000  1
+  Sn  Sn4  1  0.33333334  0.66666669  0.70970601  1
+  Sn  Sn5  1  0.66666669  0.33333334  0.29029399  1
+  Ni  Ni6  1  0.33333334  0.66666669  0.00237298  1
+  Ni  Ni7  1  0.66666669  0.33333334  0.99762702  1
+  O  O8  1  0.98857510  0.65590584  0.37821802  1
+  O  O9  1  0.34409416  0.33266926  0.37821802  1
+  O  O10  1  0.66733074  0.01142490  0.37821802  1
+  O  O11  1  0.01142490  0.34409416  0.62178195  1
+  O  O12  1  0.65590584  0.66733074  0.62178195  1
+  O  O13  1  0.33266926  0.98857510  0.62178195  1
+  O  O14  1  0.64583719  0.99673682  0.87951046  1
+  O  O15  1  0.00326318  0.64910036  0.87951046  1
+  O  O16  1  0.35089964  0.35416281  0.87951046  1
+  O  O17  1  0.35416281  0.00326318  0.12048954  1
+  O  O18  1  0.99673682  0.35089964  0.12048954  1
+  O  O19  1  0.64910036  0.64583719  0.12048954  1

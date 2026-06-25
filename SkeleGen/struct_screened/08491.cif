@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_RbBaYPdAuF14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.95482540
+_cell_length_b   5.95482514
+_cell_length_c   10.57909775
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000412
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbBaYPdAuF14
+_chemical_formula_sum   'Rb1 Ba1 Y1 Pd1 Au1 F14'
+_cell_volume   324.87574523
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66666669  0.33333334  0.40649354  1
+  F  F1  1  0.33333334  0.66666669  0.58632416  1
+  F  F2  1  0.60710979  0.02888469  0.79579395  1
+  F  F3  1  0.97111529  0.57822508  0.79579395  1
+  F  F4  1  0.42177492  0.39289021  0.79579395  1
+  F  F5  1  0.38449991  0.96218294  0.26717588  1
+  F  F6  1  0.03781706  0.42231697  0.26717588  1
+  F  F7  1  0.57768303  0.61550009  0.26717588  1
+  Ba  Ba8  1  0.00000000  0.00000000  0.35265988  1
+  Rb  Rb9  1  0.33333334  0.66666669  0.04598178  1
+  Pd  Pd10  1  0.66666669  0.33333334  0.17902082  1
+  Y  Y11  1  0.66666669  0.33333334  0.63808304  1
+  Au  Au12  1  0.66666669  0.33333334  0.91574413  1
+  F  F13  1  0.34912622  0.20528758  0.03461691  1
+  F  F14  1  0.79471242  0.14383864  0.03461691  1
+  F  F15  1  0.85616136  0.65087378  0.03461691  1
+  F  F16  1  0.85913247  0.67281908  0.54761225  1
+  F  F17  1  0.32718092  0.18631339  0.54761225  1
+  F  F18  1  0.81368661  0.14086753  0.54761225  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_SrAlVBMoO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.09029770
+_cell_length_b   5.09029739
+_cell_length_c   10.10953903
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000511
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrAlVBMoO9
+_chemical_formula_sum   'Sr1 Al1 V1 B1 Mo1 O9'
+_cell_volume   226.85497125
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.63704634  0.68219221  0.22486900  1
+  O  O1  1  0.31780779  0.95485413  0.22486900  1
+  O  O2  1  0.04514587  0.36295366  0.22486900  1
+  O  O3  1  0.58441746  0.92357022  0.75038713  1
+  O  O4  1  0.07642978  0.66084725  0.75038713  1
+  O  O5  1  0.33915275  0.41558254  0.75038713  1
+  O  O6  1  0.33333334  0.66666669  0.97128165  1
+  O  O7  1  0.66666669  0.33333334  0.56285155  1
+  Sr  Sr8  1  0.00000000  0.00000000  0.93815231  1
+  Al  Al9  1  0.33333334  0.66666669  0.63201344  1
+  V  V10  1  0.33333334  0.66666669  0.12504929  1
+  O  O11  1  0.33333334  0.66666669  0.47350904  1
+  Mo  Mo12  1  0.33333334  0.66666669  0.33615828  1
+  B  B13  1  0.33333334  0.66666669  0.83041734  1

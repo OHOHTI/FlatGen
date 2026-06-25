@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KNaEu8CdSb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.96460485
+_cell_length_b   7.96460465
+_cell_length_c   8.42549324
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000479
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNaEu8CdSb
+_chemical_formula_sum   'K1 Na1 Eu8 Cd1 Sb1'
+_cell_volume   462.86506421
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.66666669  0.33333334  0.53504115  1
+  Eu  Eu1  1  0.33333334  0.66666669  0.56290531  1
+  Eu  Eu2  1  0.66301692  0.00864957  0.82770956  1
+  Eu  Eu3  1  0.99135041  0.65436733  0.82770956  1
+  Eu  Eu4  1  0.34563267  0.33698308  0.82770956  1
+  Eu  Eu5  1  0.35042587  0.99743074  0.29592234  1
+  Eu  Eu6  1  0.00256926  0.35299516  0.29592234  1
+  Eu  Eu7  1  0.64700484  0.64957416  0.29592234  1
+  K  K8  1  0.00000000  0.00000000  0.53364205  1
+  Na  Na9  1  0.00000000  0.00000000  0.09710851  1
+  Cd  Cd10  1  0.33333334  0.66666669  0.06293048  1
+  Sb  Sb11  1  0.66666669  0.33333334  0.05284549  1

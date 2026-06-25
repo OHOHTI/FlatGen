@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_RbLuMnCoTe2MoSeI10Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.35153652
+_cell_length_b   8.02894921
+_cell_length_c   11.64030457
+_cell_angle_alpha   92.91369305
+_cell_angle_beta   94.66582075
+_cell_angle_gamma   97.37958685
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbLuMnCoTe2MoSeI10Cl
+_chemical_formula_sum   'Rb1 Lu1 Mn1 Co1 Te2 Mo1 Se1 I10 Cl1'
+_cell_volume   677.81485695
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.73498183  0.29039899  0.43934140  1
+  I  I1  1  0.29237777  0.74795938  0.42705369  1
+  I  I2  1  0.57694942  0.98826528  0.72119176  1
+  I  I3  1  0.48355082  0.52409589  0.72602916  1
+  I  I4  1  0.93205029  0.55795461  0.72737765  1
+  I  I5  1  0.41895938  0.05988170  0.17701805  1
+  I  I6  1  0.52049214  0.49463838  0.16429687  1
+  I  I7  1  0.00859893  0.47503015  0.16899541  1
+  Se  Se8  1  0.23082639  0.26623467  0.96801203  1
+  Cl  Cl9  1  0.22662522  0.28636023  0.38837761  1
+  Te  Te10  1  0.73343074  0.21976736  0.95260894  1
+  Lu  Lu11  1  0.01398567  0.00781291  0.96931076  1
+  Rb  Rb12  1  0.75929213  0.76056707  0.49291396  1
+  Mo  Mo13  1  0.76775682  0.28124663  0.17315768  1
+  Mn  Mn14  1  0.74404222  0.52651817  0.94592708  1
+  Co  Co15  1  0.25049150  0.27373651  0.18041737  1
+  Te  Te16  1  0.23604365  0.74984103  0.94327670  1
+  I  I17  1  0.09364779  0.03858085  0.72134197  1
+  I  I18  1  0.91687697  0.97411984  0.19804382  1

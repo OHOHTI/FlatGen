@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Y(SbI5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.67246866
+_cell_length_b   7.67246854
+_cell_length_c   11.69578171
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999229
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y(SbI5)2
+_chemical_formula_sum   'Y1 Sb2 I10'
+_cell_volume   596.25242610
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.33333334  0.66666669  0.57306761  1
+  I  I1  1  0.66666669  0.33333334  0.42693239  1
+  I  I2  1  0.77443069  0.68100750  0.73347080  1
+  I  I3  1  0.31899250  0.09342319  0.73347080  1
+  I  I4  1  0.90657681  0.22556931  0.73347080  1
+  I  I5  1  0.22556931  0.31899250  0.26652920  1
+  I  I6  1  0.68100750  0.90657681  0.26652920  1
+  I  I7  1  0.09342319  0.77443069  0.26652920  1
+  I  I8  1  0.33333334  0.66666669  0.92881107  1
+  I  I9  1  0.66666669  0.33333334  0.07118893  1
+  Y  Y10  1  0.00000000  0.00000000  0.50000000  1
+  Sb  Sb11  1  0.33333334  0.66666669  0.17656897  1
+  Sb  Sb12  1  0.66666669  0.33333334  0.82343102  1

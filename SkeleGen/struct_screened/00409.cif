@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sm2BeCo(TeCl)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.81005335
+_cell_length_b   6.81005328
+_cell_length_c   13.40785599
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000494
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm2BeCo(TeCl)3
+_chemical_formula_sum   'Sm4 Be2 Co2 Te6 Cl6'
+_cell_volume   538.50652606
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.00000000  0.00000000  0.00000000  1
+  Sm  Sm1  1  0.33333334  0.66666669  0.26829645  1
+  Sm  Sm2  1  0.66666669  0.33333334  0.73170352  1
+  Sm  Sm3  1  0.00000000  0.00000000  0.50000000  1
+  Be  Be4  1  0.33333334  0.66666669  0.99344987  1
+  Be  Be5  1  0.66666669  0.33333334  0.00655013  1
+  Co  Co6  1  0.33333334  0.66666669  0.73201525  1
+  Co  Co7  1  0.66666669  0.33333334  0.26798475  1
+  Cl  Cl8  1  0.33268303  0.98599404  0.62503207  1
+  Cl  Cl9  1  0.01400596  0.34668899  0.62503207  1
+  Cl  Cl10  1  0.65331101  0.66731697  0.62503207  1
+  Cl  Cl11  1  0.66731697  0.01400596  0.37496793  1
+  Cl  Cl12  1  0.98599404  0.65331101  0.37496793  1
+  Cl  Cl13  1  0.34668899  0.33268303  0.37496793  1
+  Te  Te14  1  0.34457821  0.99123144  0.88130629  1
+  Te  Te15  1  0.00876856  0.35334677  0.88130629  1
+  Te  Te16  1  0.64665323  0.65542179  0.88130629  1
+  Te  Te17  1  0.65542179  0.00876856  0.11869371  1
+  Te  Te18  1  0.99123144  0.64665323  0.11869371  1
+  Te  Te19  1  0.35334677  0.34457821  0.11869371  1

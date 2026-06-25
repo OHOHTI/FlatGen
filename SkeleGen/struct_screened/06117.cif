@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CrH3W3Cl8O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.10762978
+_cell_length_b   7.10762954
+_cell_length_c   8.47466183
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000553
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrH3W3Cl8O
+_chemical_formula_sum   'Cr1 H3 W3 Cl8 O1'
+_cell_volume   370.76827511
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.66666669  0.33333334  0.43682092  1
+  Cl  Cl1  1  0.33333334  0.66666669  0.42319763  1
+  Cl  Cl2  1  0.63026768  0.95133287  0.78822160  1
+  Cl  Cl3  1  0.04866713  0.67893481  0.78822160  1
+  Cl  Cl4  1  0.32106519  0.36973232  0.78822160  1
+  Cl  Cl5  1  0.35447228  0.98069632  0.08487788  1
+  Cl  Cl6  1  0.01930368  0.37377596  0.08487788  1
+  Cl  Cl7  1  0.62622404  0.64552772  0.08487788  1
+  O  O8  1  0.00000000  0.00000000  0.19074194  1
+  Cr  Cr9  1  0.33333334  0.66666669  0.94461441  1
+  W  W10  1  0.00000429  0.78594494  0.28625542  1
+  W  W11  1  0.21405506  0.21405935  0.28625542  1
+  W  W12  1  0.78594065  0.99999571  0.28625542  1
+  H  H13  1  0.88483483  0.10586947  0.42014983  1
+  H  H14  1  0.89413053  0.77896535  0.42014983  1
+  H  H15  1  0.22103465  0.11516517  0.42014983  1

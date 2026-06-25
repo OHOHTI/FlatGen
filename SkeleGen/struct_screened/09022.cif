@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_TiMnAlH(OF5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30329132
+_cell_length_b   5.30329092
+_cell_length_c   9.91959000
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000549
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiMnAlH(OF5)2
+_chemical_formula_sum   'Ti1 Mn1 Al1 H1 O2 F10'
+_cell_volume   241.61020042
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.65634054  1
+  F  F1  1  0.66666669  0.33333334  0.39654216  1
+  F  F2  1  0.88683957  0.70233011  0.73838001  1
+  F  F3  1  0.29766989  0.18450946  0.73838001  1
+  F  F4  1  0.81549054  0.11316043  0.73838001  1
+  F  F5  1  0.66666669  0.33333334  0.09722842  1
+  F  F6  1  0.10295366  0.33034950  0.21667315  1
+  F  F7  1  0.66965050  0.77260417  0.21667315  1
+  F  F8  1  0.22739585  0.89704633  0.21667315  1
+  F  F9  1  0.33333334  0.66666669  0.00290423  1
+  Mn  Mn10  1  0.00000000  0.00000000  0.84984410  1
+  H  H11  1  0.00000000  0.00000000  0.35224020  1
+  O  O12  1  0.00000000  0.00000000  0.46533814  1
+  O  O13  1  0.00000000  0.00000000  0.98079419  1
+  Al  Al14  1  0.00000000  0.00000000  0.13701706  1
+  Ti  Ti15  1  0.00000000  0.00000000  0.60435832  1

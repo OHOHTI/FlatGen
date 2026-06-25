@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaUPbSCl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.75115538
+_cell_length_b   4.75115538
+_cell_length_c   19.42534828
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   90.00000433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaUPbSCl4
+_chemical_formula_sum   'Na2 U2 Pb2 S2 Cl8'
+_cell_volume   438.49766064
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.00000000  0.50000000  0.33821642  1
+  Cl  Cl1  1  0.50000000  0.00000000  0.66178358  1
+  Cl  Cl2  1  0.50000000  0.50000000  0.50000000  1
+  Cl  Cl3  1  0.00000000  0.00000000  0.50000000  1
+  Cl  Cl4  1  0.00000000  0.00000000  0.20544581  1
+  Cl  Cl5  1  0.00000000  0.00000000  0.79455417  1
+  Cl  Cl6  1  0.50000000  0.50000000  0.19131431  1
+  Cl  Cl7  1  0.50000000  0.50000000  0.80868566  1
+  S  S8  1  0.00000000  0.50000000  0.94335115  1
+  S  S9  1  0.50000000  0.00000000  0.05664885  1
+  Na  Na10  1  0.00000000  0.50000000  0.57025963  1
+  Na  Na11  1  0.50000000  0.00000000  0.42974037  1
+  U  U12  1  0.00000000  0.50000000  0.72145826  1
+  U  U13  1  0.50000000  0.00000000  0.27854174  1
+  Pb  Pb14  1  0.00000000  0.50000000  0.08779696  1
+  Pb  Pb15  1  0.50000000  0.00000000  0.91220307  1

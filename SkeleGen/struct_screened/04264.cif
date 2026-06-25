@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_MnZnTeCO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.28938818
+_cell_length_b   5.28938807
+_cell_length_c   7.83838463
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000369
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnZnTeCO9
+_chemical_formula_sum   'Mn1 Zn1 Te1 C1 O9'
+_cell_volume   189.91884371
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.66666669  0.33333334  0.52977705  1
+  O  O1  1  0.33333334  0.66666669  0.41973767  1
+  O  O2  1  0.62762505  0.02180144  0.80545515  1
+  O  O3  1  0.97819859  0.60582364  0.80545515  1
+  O  O4  1  0.39417636  0.37237495  0.80545515  1
+  O  O5  1  0.41117179  0.10410158  0.23196258  1
+  O  O6  1  0.89589840  0.30707020  0.23196258  1
+  O  O7  1  0.69292980  0.58882821  0.23196258  1
+  Zn  Zn8  1  0.00000000  0.00000000  0.28806531  1
+  O  O9  1  0.00000000  0.00000000  0.04095690  1
+  Te  Te10  1  0.66666669  0.33333334  0.73866826  1
+  Mn  Mn11  1  0.66666669  0.33333334  0.03362960  1
+  C  C12  1  0.66666669  0.33333334  0.32284623  1

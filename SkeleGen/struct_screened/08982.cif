@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_ScCrPbF13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.69924307
+_cell_length_b   6.69924267
+_cell_length_c   6.32122231
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000670
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScCrPbF13
+_chemical_formula_sum   'Sc1 Cr1 Pb1 F13'
+_cell_volume   245.68752840
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.76796341  0.20037436  0.61064869  1
+  F  F1  1  0.79962564  0.56758904  0.61064869  1
+  F  F2  1  0.43241096  0.23203659  0.61064869  1
+  F  F3  1  0.20600879  0.78429323  0.60389841  1
+  F  F4  1  0.21570677  0.42171556  0.60389841  1
+  F  F5  1  0.57828444  0.79399121  0.60389841  1
+  F  F6  1  0.55605501  0.95380640  0.27810523  1
+  F  F7  1  0.04619360  0.60224861  0.27810523  1
+  F  F8  1  0.39775139  0.44394499  0.27810523  1
+  Pb  Pb9  1  0.00000000  0.00000000  0.03482332  1
+  Sc  Sc10  1  0.33333334  0.66666669  0.43726054  1
+  F  F11  1  0.66666669  0.33333334  0.97389954  1
+  Cr  Cr12  1  0.66666669  0.33333334  0.68475240  1
+  F  F13  1  0.21118663  0.88865399  0.94951063  1
+  F  F14  1  0.11134601  0.32253265  0.94951063  1
+  F  F15  1  0.67746735  0.78881335  0.94951063  1

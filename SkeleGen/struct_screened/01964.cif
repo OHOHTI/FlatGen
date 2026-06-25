@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_SrAlTlPHS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.23823690
+_cell_length_b   6.23823665
+_cell_length_c   8.42657375
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000640
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrAlTlPHS8
+_chemical_formula_sum   'Sr1 Al1 Tl1 P1 H1 S8'
+_cell_volume   283.99149857
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.33333334  0.66666669  0.01732388  1
+  S  S1  1  0.66666669  0.33333334  0.90215921  1
+  S  S2  1  0.64685506  0.99475616  0.70675582  1
+  S  S3  1  0.00524384  0.65209889  0.70675582  1
+  S  S4  1  0.34790111  0.35314494  0.70675582  1
+  S  S5  1  0.61686528  0.99904579  0.29417017  1
+  S  S6  1  0.00095421  0.61781949  0.29417017  1
+  S  S7  1  0.38218051  0.38313472  0.29417017  1
+  Tl  Tl8  1  0.00000000  0.00000000  0.51891524  1
+  Sr  Sr9  1  0.00000000  0.00000000  0.04996599  1
+  Al  Al10  1  0.33333334  0.66666669  0.73263294  1
+  P  P11  1  0.33333334  0.66666669  0.23553635  1
+  H  H12  1  0.33333334  0.66666669  0.51566029  1

@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_CaNbGa(PSe7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.07189226
+_cell_length_b   7.07189203
+_cell_length_c   11.08212280
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000554
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaNbGa(PSe7)2
+_chemical_formula_sum   'Ca1 Nb1 Ga1 P2 Se14'
+_cell_volume   479.98185845
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.49772456  0.51025689  0.45225713  1
+  Se  Se1  1  0.48974311  0.98746765  0.45225713  1
+  Se  Se2  1  0.01253232  0.50227547  0.45225713  1
+  Se  Se3  1  0.94284898  0.59544736  0.91001266  1
+  Se  Se4  1  0.40455264  0.34740162  0.91001266  1
+  Se  Se5  1  0.65259838  0.05715102  0.91001266  1
+  Se  Se6  1  0.66666669  0.33333334  0.37839019  1
+  Se  Se7  1  0.97770691  0.31761438  0.63989329  1
+  Se  Se8  1  0.68238562  0.66009253  0.63989329  1
+  Se  Se9  1  0.33990747  0.02229309  0.63989329  1
+  Se  Se10  1  0.33333334  0.66666669  0.95269895  1
+  Se  Se11  1  0.09610937  0.34338605  0.20546877  1
+  Se  Se12  1  0.65661395  0.75272334  0.20546877  1
+  Se  Se13  1  0.24727669  0.90389061  0.20546877  1
+  Ca  Ca14  1  0.00000000  0.00000000  0.02362110  1
+  P  P15  1  0.00000000  0.00000000  0.28045386  1
+  Nb  Nb16  1  0.00000000  0.00000000  0.52342170  1
+  Ga  Ga17  1  0.00000000  0.00000000  0.77162039  1
+  P  P18  1  0.66666669  0.33333334  0.01338091  1

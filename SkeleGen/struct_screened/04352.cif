@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_KVBOsPtO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22982121
+_cell_length_b   5.22982099
+_cell_length_c   7.86069489
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000436
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KVBOsPtO8
+_chemical_formula_sum   'K1 V1 B1 Os1 Pt1 O8'
+_cell_volume   186.19380095
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.66666669  0.33333334  0.55223703  1
+  O  O1  1  0.33333334  0.66666669  0.40306398  1
+  O  O2  1  0.61406374  0.00877458  0.79880679  1
+  O  O3  1  0.99122542  0.60528916  0.79880679  1
+  O  O4  1  0.39471084  0.38593626  0.79880679  1
+  O  O5  1  0.34992599  0.93538880  0.12740821  1
+  O  O6  1  0.06461120  0.41453719  0.12740821  1
+  O  O7  1  0.58546281  0.65007401  0.12740821  1
+  K  K8  1  0.00000000  0.00000000  0.36077383  1
+  Os  Os9  1  0.33333334  0.66666669  0.95881867  1
+  B  B10  1  0.33333334  0.66666669  0.21534351  1
+  Pt  Pt11  1  0.33333334  0.66666669  0.63280249  1
+  V  V12  1  0.66666669  0.33333334  0.76232213  1

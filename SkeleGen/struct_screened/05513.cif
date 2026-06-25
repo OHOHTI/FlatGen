@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_BaNi6(MoS4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.58015394
+_cell_length_b   6.58015359
+_cell_length_c   7.77321291
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000658
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNi6(MoS4)2
+_chemical_formula_sum   'Ba1 Ni6 Mo2 S8'
+_cell_volume   291.47630183
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.33333334  0.66666669  0.50358224  1
+  S  S1  1  0.66666669  0.33333334  0.49641776  1
+  S  S2  1  0.67098004  0.99376214  0.77696270  1
+  S  S3  1  0.00623786  0.67721790  0.77696270  1
+  S  S4  1  0.32278210  0.32901996  0.77696270  1
+  S  S5  1  0.32901996  0.00623786  0.22303730  1
+  S  S6  1  0.99376214  0.32278210  0.22303730  1
+  S  S7  1  0.67721790  0.67098004  0.22303730  1
+  Ba  Ba8  1  0.00000000  0.00000000  0.50000000  1
+  Mo  Mo9  1  0.33333334  0.66666669  0.00101040  1
+  Mo  Mo10  1  0.66666669  0.33333334  0.99898958  1
+  Ni  Ni11  1  0.66209447  0.65981287  0.87211066  1
+  Ni  Ni12  1  0.34018713  0.00228161  0.87211066  1
+  Ni  Ni13  1  0.99771839  0.33790553  0.87211066  1
+  Ni  Ni14  1  0.33790553  0.34018713  0.12788934  1
+  Ni  Ni15  1  0.65981287  0.99771839  0.12788934  1
+  Ni  Ni16  1  0.00228161  0.66209447  0.12788934  1

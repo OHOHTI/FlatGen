@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_TaGeBiSBr11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.11656938
+_cell_length_b   8.20614669
+_cell_length_c   10.55023575
+_cell_angle_alpha   90.33232539
+_cell_angle_beta   92.51306832
+_cell_angle_gamma   101.08955573
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaGeBiSBr11
+_chemical_formula_sum   'Ta1 Ge1 Bi1 S1 Br11'
+_cell_volume   603.97997799
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.76103354  0.36657622  0.47184211  1
+  Br  Br1  1  0.26509354  0.65233558  0.48006013  1
+  Br  Br2  1  0.67917126  0.98512441  0.63734996  1
+  Br  Br3  1  0.50857222  0.37808248  0.83714211  1
+  Br  Br4  1  0.97301143  0.63404018  0.74390197  1
+  Br  Br5  1  0.37343329  0.08313271  0.23612565  1
+  Br  Br6  1  0.51838511  0.53863245  0.19443174  1
+  Br  Br7  1  0.02223776  0.45118743  0.17682166  1
+  S  S8  1  0.18889819  0.14956619  0.61369634  1
+  Br  Br9  1  0.88415599  0.95335817  0.34558329  1
+  Ta  Ta10  1  0.89549607  0.14700986  0.53187788  1
+  Br  Br11  1  0.49122971  0.78984869  0.92482674  1
+  Br  Br12  1  0.97553074  0.09228420  0.96217537  1
+  Ge  Ge13  1  0.19005674  0.22826397  0.12872702  1
+  Bi  Bi14  1  0.26531008  0.44694984  0.67882603  1

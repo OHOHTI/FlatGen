@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_U2Al6VGe8Os
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.46302509
+_cell_length_b   7.46302473
+_cell_length_c   6.62724113
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000585
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U2Al6VGe8Os
+_chemical_formula_sum   'U2 Al6 V1 Ge8 Os1'
+_cell_volume   319.66358176
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.33333334  0.66666669  0.01610237  1
+  Ge  Ge1  1  0.66666669  0.33333334  0.98389763  1
+  Ge  Ge2  1  0.65655822  0.05358425  0.66479999  1
+  Ge  Ge3  1  0.94641578  0.60297394  0.66479999  1
+  Ge  Ge4  1  0.39702606  0.34344178  0.66479999  1
+  Ge  Ge5  1  0.34344178  0.94641578  0.33520001  1
+  Ge  Ge6  1  0.05358425  0.39702606  0.33520001  1
+  Ge  Ge7  1  0.60297394  0.65655822  0.33520001  1
+  V  V8  1  0.00000000  0.00000000  0.00000000  1
+  Os  Os9  1  0.00000000  0.00000000  0.50000000  1
+  U  U10  1  0.33333334  0.66666669  0.61754590  1
+  U  U11  1  0.66666669  0.33333334  0.38245410  1
+  Al  Al12  1  0.23634322  0.97417158  0.81212354  1
+  Al  Al13  1  0.02582842  0.26217163  0.81212354  1
+  Al  Al14  1  0.73782837  0.76365680  0.81212354  1
+  Al  Al15  1  0.76365680  0.02582842  0.18787646  1
+  Al  Al16  1  0.97417158  0.73782837  0.18787646  1
+  Al  Al17  1  0.26217163  0.23634322  0.18787646  1

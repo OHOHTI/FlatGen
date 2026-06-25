@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_LiTi3W(SeCl2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.57153511
+_cell_length_b   6.57153492
+_cell_length_c   11.31653214
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000574
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTi3W(SeCl2)4
+_chemical_formula_sum   'Li1 Ti3 W1 Se4 Cl8'
+_cell_volume   423.23114603
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.68417454  0.67234516  0.17616303  1
+  Cl  Cl1  1  0.32765484  0.01182938  0.17616303  1
+  Cl  Cl2  1  0.98817062  0.31582546  0.17616303  1
+  Cl  Cl3  1  0.67044038  0.99745196  0.84391743  1
+  Cl  Cl4  1  0.00254804  0.67298841  0.84391743  1
+  Cl  Cl5  1  0.32701159  0.32955962  0.84391743  1
+  Cl  Cl6  1  0.33333334  0.66666669  0.02084878  1
+  Cl  Cl7  1  0.66666669  0.33333334  0.38798881  1
+  Li  Li8  1  0.00000000  0.00000000  0.75046122  1
+  W  W9  1  0.33333334  0.66666669  0.72886479  1
+  Se  Se10  1  0.33333334  0.66666669  0.39043686  1
+  Se  Se11  1  0.00992894  0.33351558  0.60927922  1
+  Se  Se12  1  0.66648442  0.67641336  0.60927922  1
+  Se  Se13  1  0.32358664  0.99007106  0.60927922  1
+  Ti  Ti14  1  0.00528466  0.65815711  0.27040491  1
+  Ti  Ti15  1  0.34184289  0.34712756  0.27040491  1
+  Ti  Ti16  1  0.65287244  0.99471533  0.27040491  1

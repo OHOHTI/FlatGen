@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_UCuPt11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.10135984
+_cell_length_b   5.10135957
+_cell_length_c   9.18008423
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000489
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UCuPt11
+_chemical_formula_sum   'U1 Cu1 Pt11'
+_cell_volume   206.89460739
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pt  Pt0  1  0.33333334  0.66666669  0.54550517  1
+  Pt  Pt1  1  0.66666669  0.33333334  0.98579448  1
+  Pt  Pt2  1  0.16745715  0.83254284  0.23842111  1
+  Pt  Pt3  1  0.16745715  0.33491430  0.23842111  1
+  Pt  Pt4  1  0.66508567  0.83254284  0.23842111  1
+  Pt  Pt5  1  0.83167195  0.16832805  0.73253453  1
+  Pt  Pt6  1  0.83167195  0.66334391  0.73253453  1
+  Pt  Pt7  1  0.33665609  0.16832805  0.73253453  1
+  Pt  Pt8  1  0.33333334  0.66666669  0.93027270  1
+  Pt  Pt9  1  0.66666669  0.33333334  0.47778934  1
+  Pt  Pt10  1  0.00000000  0.00000000  0.47869718  1
+  U  U11  1  0.00000000  0.00000000  0.98380667  1
+  Cu  Cu12  1  0.66666669  0.33333334  0.23730944  1

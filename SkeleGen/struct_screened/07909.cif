@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_RbTiFeBr8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.05836535
+_cell_length_b   7.05836528
+_cell_length_c   9.14428616
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000476
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbTiFeBr8
+_chemical_formula_sum   'Rb1 Ti1 Fe1 Br8'
+_cell_volume   394.53785857
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.66666669  0.33333334  0.49605095  1
+  Br  Br1  1  0.33333334  0.66666669  0.53350401  1
+  Br  Br2  1  0.66472787  0.03338037  0.80426824  1
+  Br  Br3  1  0.96661961  0.63134748  0.80426824  1
+  Br  Br4  1  0.36865252  0.33527213  0.80426824  1
+  Br  Br5  1  0.31452349  0.95608610  0.10545275  1
+  Br  Br6  1  0.04391390  0.35843742  0.10545275  1
+  Br  Br7  1  0.64156258  0.68547654  0.10545275  1
+  Rb  Rb8  1  0.00000000  0.00000000  0.32921189  1
+  Ti  Ti9  1  0.33333334  0.66666669  0.99174273  1
+  Fe  Fe10  1  0.66666669  0.33333334  0.74805421  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LiCoSiF7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21355629
+_cell_length_b   5.21355613
+_cell_length_c   10.28634834
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000404
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCoSiF7
+_chemical_formula_sum   'Li2 Co2 Si2 F14'
+_cell_volume   242.13633351
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.69043505  0.75669581  0.45750293  1
+  F  F1  1  0.24330419  0.93373924  0.45750293  1
+  F  F2  1  0.06626076  0.30956495  0.45750293  1
+  F  F3  1  0.30956495  0.24330419  0.95750296  1
+  F  F4  1  0.75669581  0.06626076  0.95750296  1
+  F  F5  1  0.93373924  0.69043505  0.95750296  1
+  F  F6  1  0.33333334  0.66666669  0.06647078  1
+  F  F7  1  0.66666669  0.33333334  0.56647080  1
+  F  F8  1  0.72990590  0.02570140  0.71002126  1
+  F  F9  1  0.97429860  0.70420450  0.71002126  1
+  F  F10  1  0.29579550  0.27009410  0.71002126  1
+  F  F11  1  0.27009410  0.97429860  0.21002126  1
+  F  F12  1  0.02570140  0.29579550  0.21002126  1
+  F  F13  1  0.70420450  0.72990590  0.21002126  1
+  Si  Si14  1  0.00000000  0.00000000  0.07476877  1
+  Si  Si15  1  0.00000000  0.00000000  0.57476878  1
+  Co  Co16  1  0.00000000  0.00000000  0.82489663  1
+  Co  Co17  1  0.00000000  0.00000000  0.32489657  1
+  Li  Li18  1  0.33333334  0.66666669  0.31974643  1
+  Li  Li19  1  0.66666669  0.33333334  0.81974643  1

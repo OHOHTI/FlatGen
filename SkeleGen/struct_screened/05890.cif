@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_RbLiTiAlGaSeCl14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.27300988
+_cell_length_b   7.74212375
+_cell_length_c   10.51013184
+_cell_angle_alpha   89.95923994
+_cell_angle_beta   90.48887329
+_cell_angle_gamma   88.57258761
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbLiTiAlGaSeCl14
+_chemical_formula_sum   'Rb1 Li1 Ti1 Al1 Ga1 Se1 Cl14'
+_cell_volume   591.60477016
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.68959481  0.79650873  0.23904510  1
+  Cl  Cl1  1  0.76629674  0.25691250  0.75321007  1
+  Cl  Cl2  1  0.26502177  0.76971680  0.77975810  1
+  Cl  Cl3  1  0.26980799  0.23267713  0.25859565  1
+  Cl  Cl4  1  0.48272383  0.05932473  0.96654534  1
+  Cl  Cl5  1  0.99013621  0.96716720  0.49959788  1
+  Cl  Cl6  1  0.98790789  0.52876806  0.03654697  1
+  Cl  Cl7  1  0.47558388  0.57659274  0.52447146  1
+  Cl  Cl8  1  0.98534554  0.55299670  0.51002514  1
+  Cl  Cl9  1  0.53461659  0.52230316  0.01292129  1
+  Cl  Cl10  1  0.48310643  0.02488465  0.55041945  1
+  Cl  Cl11  1  0.03534466  0.97529566  0.03510565  1
+  Al  Al12  1  0.35088909  0.89380389  0.09708448  1
+  Cl  Cl13  1  0.74907827  0.78891134  0.78471780  1
+  Ti  Ti14  1  0.59545577  0.03410516  0.76441389  1
+  Ga  Ga15  1  0.23135771  0.76149142  0.54074192  1
+  Rb  Rb16  1  0.76856035  0.26893559  0.27820235  1
+  Cl  Cl17  1  0.25273246  0.76021516  0.26438299  1
+  Se  Se18  1  0.78808439  0.69603556  0.07070574  1
+  Li  Li19  1  0.75319695  0.76651531  0.50757241  1

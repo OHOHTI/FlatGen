@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsRbGaPCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.92841625
+_cell_length_b   6.92841612
+_cell_length_c   10.04622078
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000516
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsRbGaPCl8
+_chemical_formula_sum   'Cs1 Rb1 Ga1 P1 Cl8'
+_cell_volume   417.63920725
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.92056888  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.97031760  1
+  Cl  Cl2  1  0.51256818  0.48743182  0.62835091  1
+  Cl  Cl3  1  0.51256818  0.02513635  0.62835091  1
+  Cl  Cl4  1  0.97486365  0.48743182  0.62835091  1
+  Cl  Cl5  1  0.51233876  0.48766124  0.25560489  1
+  Cl  Cl6  1  0.51233876  0.02467752  0.25560489  1
+  Cl  Cl7  1  0.97532248  0.48766124  0.25560489  1
+  Rb  Rb8  1  0.00000000  0.00000000  0.14890385  1
+  Cs  Cs9  1  0.00000000  0.00000000  0.73460478  1
+  Ga  Ga10  1  0.66666669  0.33333334  0.53914505  1
+  P  P11  1  0.66666669  0.33333334  0.31267989  1

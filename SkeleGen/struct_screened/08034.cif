@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LiCaNbCdAgI10Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.32858495
+_cell_length_b   8.54380762
+_cell_length_c   10.63897991
+_cell_angle_alpha   92.45410994
+_cell_angle_beta   103.01330260
+_cell_angle_gamma   101.47507929
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCaNbCdAgI10Br
+_chemical_formula_sum   'Li1 Ca1 Nb1 Cd1 Ag1 I10 Br1'
+_cell_volume   633.38418405
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.26012748  0.28215998  0.54547447  1
+  I  I1  1  0.91913664  0.66318452  0.48014182  1
+  I  I2  1  0.83424187  0.94141918  0.13372932  1
+  I  I3  1  0.20246342  0.00426289  0.81483853  1
+  I  I4  1  0.34393847  0.85558361  0.34106725  1
+  I  I5  1  0.67104048  0.26937047  0.77672040  1
+  I  I6  1  0.27323526  0.28999451  0.19978829  1
+  I  I7  1  0.61942810  0.77641183  0.70771664  1
+  I  I8  1  0.25582698  0.53525108  0.90238971  1
+  I  I9  1  0.75991070  0.43705130  0.09576376  1
+  Li  Li10  1  0.00004578  0.97470546  0.38146955  1
+  Cd  Cd11  1  0.42082348  0.24452984  0.97712368  1
+  Nb  Nb12  1  0.49679771  0.02948841  0.59447944  1
+  Br  Br13  1  0.72612458  0.11465679  0.45728773  1
+  Ag  Ag14  1  0.26198605  0.67782992  0.55183089  1
+  Ca  Ca15  1  0.51859373  0.62551737  0.19544312  1

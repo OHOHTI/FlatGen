@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_UInGaOsBr15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.27928925
+_cell_length_b   11.27928888
+_cell_length_c   5.48823738
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000386
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UInGaOsBr15
+_chemical_formula_sum   'U1 In1 Ga1 Os1 Br15'
+_cell_volume   604.68188189
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.26030552  0.47077790  0.79544079  1
+  Br  Br1  1  0.52922213  0.78952765  0.79544079  1
+  Br  Br2  1  0.21047238  0.73969448  0.79544079  1
+  Br  Br3  1  0.85894465  0.06925477  0.78432888  1
+  Br  Br4  1  0.93074524  0.78968990  0.78432888  1
+  Br  Br5  1  0.21031010  0.14105535  0.78432888  1
+  Br  Br6  1  0.04283952  0.27355322  0.28166509  1
+  Br  Br7  1  0.72644675  0.76928627  0.28166509  1
+  Br  Br8  1  0.23071370  0.95716047  0.28166509  1
+  Br  Br9  1  0.60988683  0.48338103  0.79243231  1
+  Br  Br10  1  0.51661897  0.12650579  0.79243231  1
+  Br  Br11  1  0.87349421  0.39011317  0.79243231  1
+  Br  Br12  1  0.91117233  0.56405580  0.27986845  1
+  Br  Br13  1  0.43594420  0.34711653  0.27986845  1
+  Br  Br14  1  0.65288347  0.08882767  0.27986845  1
+  Ga  Ga15  1  0.00000000  0.00000000  0.52370584  1
+  U  U16  1  0.00000000  0.00000000  0.04567212  1
+  In  In17  1  0.33333334  0.66666669  0.29694352  1
+  Os  Os18  1  0.66666669  0.33333334  0.02689132  1

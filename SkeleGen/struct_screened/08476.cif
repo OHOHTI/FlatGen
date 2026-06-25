@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_CsRb2NaLaFeCI10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.11900997
+_cell_length_b   9.11900958
+_cell_length_c   11.59689236
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000487
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsRb2NaLaFeCI10
+_chemical_formula_sum   'Cs1 Rb2 Na1 La1 Fe1 C1 I10'
+_cell_volume   835.15598752
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.94151729  0.34161884  0.46803617  1
+  I  I1  1  0.65838116  0.59989846  0.46803617  1
+  I  I2  1  0.40010154  0.05848271  0.46803617  1
+  I  I3  1  0.11674380  0.72949505  0.73862255  1
+  I  I4  1  0.27050495  0.38724875  0.73862255  1
+  I  I5  1  0.61275125  0.88325620  0.73862255  1
+  I  I6  1  0.66822571  0.00951649  0.20258237  1
+  I  I7  1  0.99048352  0.65870923  0.20258237  1
+  I  I8  1  0.34129077  0.33177429  0.20258237  1
+  Na  Na9  1  0.00000000  0.00000000  0.13204058  1
+  Rb  Rb10  1  0.00000000  0.00000000  0.54189658  1
+  I  I11  1  0.00000000  0.00000000  0.93467247  1
+  C  C12  1  0.33333334  0.66666669  0.70104581  1
+  Cs  Cs13  1  0.33333334  0.66666669  0.05873289  1
+  La  La14  1  0.66666669  0.33333334  0.29778078  1
+  Fe  Fe15  1  0.66666669  0.33333334  0.60532576  1
+  Rb  Rb16  1  0.66666669  0.33333334  0.92142975  1

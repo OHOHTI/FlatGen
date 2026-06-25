@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KCrCo3OF14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.71152973
+_cell_length_b   5.71152964
+_cell_length_c   11.58618546
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000332
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCrCo3OF14
+_chemical_formula_sum   'K1 Cr1 Co3 O1 F14'
+_cell_volume   327.32258283
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.04438815  1
+  F  F1  1  0.66666669  0.33333334  0.88400352  1
+  F  F2  1  0.62130165  0.04570721  0.64819288  1
+  F  F3  1  0.95429277  0.57559443  0.64819288  1
+  F  F4  1  0.42440557  0.37869835  0.64819288  1
+  F  F5  1  0.42182174  0.02121205  0.21122395  1
+  F  F6  1  0.97878796  0.40060970  0.21122395  1
+  F  F7  1  0.59939027  0.57817829  0.21122395  1
+  K  K8  1  0.00000000  0.00000000  0.67398143  1
+  Co  Co9  1  0.66666669  0.33333334  0.74262476  1
+  Co  Co10  1  0.66666669  0.33333334  0.31241497  1
+  Cr  Cr11  1  0.66666669  0.33333334  0.52313852  1
+  Co  Co12  1  0.66666669  0.33333334  0.12392864  1
+  O  O13  1  0.66666669  0.33333334  0.06721687  1
+  F  F14  1  0.69742465  0.91575843  0.90945381  1
+  F  F15  1  0.08424157  0.78166622  0.90945381  1
+  F  F16  1  0.21833378  0.30257535  0.90945381  1
+  F  F17  1  0.74166387  0.09206488  0.41553214  1
+  F  F18  1  0.90793514  0.64959902  0.41553214  1
+  F  F19  1  0.35040098  0.25833613  0.41553214  1

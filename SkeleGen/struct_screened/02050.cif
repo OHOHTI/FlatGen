@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_AlCuPbSeBrO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.17173962
+_cell_length_b   3.15599656
+_cell_length_c   13.54012012
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   91.32068791
+_cell_angle_gamma   90.00000427
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlCuPbSeBrO8
+_chemical_formula_sum   'Al1 Cu1 Pb1 Se1 Br1 O8'
+_cell_volume   178.22180925
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.91930985  0.50000000  0.32141662  1
+  O  O1  1  0.43908328  0.00000000  0.63696158  1
+  O  O2  1  0.44301933  0.50000000  0.44462514  1
+  O  O3  1  0.94630891  0.00000000  0.53769422  1
+  O  O4  1  0.92595333  0.00000000  0.13346770  1
+  O  O5  1  0.44459838  0.50000000  0.13292602  1
+  O  O6  1  0.42632970  0.50000000  0.81384474  1
+  O  O7  1  0.93913114  0.00000000  0.74734855  1
+  Al  Al8  1  0.95423269  0.50000000  0.67518812  1
+  Br  Br9  1  0.93989694  0.50000000  0.95779139  1
+  Cu  Cu10  1  0.96763486  0.50000000  0.46623558  1
+  Pb  Pb11  1  0.42739826  0.50000000  0.29625139  1
+  Se  Se12  1  0.45728481  0.50000000  0.94410038  1

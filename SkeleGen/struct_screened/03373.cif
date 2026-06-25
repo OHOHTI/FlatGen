@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_NaLiCaMgTlCuAsF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49590111
+_cell_length_b   5.49590096
+_cell_length_c   10.32643318
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000374
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLiCaMgTlCuAsF12
+_chemical_formula_sum   'Na1 Li1 Ca1 Mg1 Tl1 Cu1 As1 F12'
+_cell_volume   270.12125712
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.63647127  0.97048724  0.73952776  1
+  F  F1  1  0.02951276  0.66598403  0.73952776  1
+  F  F2  1  0.33401597  0.36352873  0.73952776  1
+  F  F3  1  0.03522277  0.59475738  0.50250125  1
+  F  F4  1  0.40524262  0.44046539  0.50250125  1
+  F  F5  1  0.55953461  0.96477723  0.50250125  1
+  F  F6  1  0.04538688  0.68539381  0.22811610  1
+  F  F7  1  0.31460619  0.35999310  0.22811610  1
+  F  F8  1  0.64000690  0.95461309  0.22811610  1
+  Tl  Tl9  1  0.00000000  0.00000000  0.49072346  1
+  Li  Li10  1  0.00000000  0.00000000  0.14841099  1
+  Ca  Ca11  1  0.00000000  0.00000000  0.86435044  1
+  As  As12  1  0.33333334  0.66666669  0.65454525  1
+  Mg  Mg13  1  0.33333334  0.66666669  0.09509598  1
+  Cu  Cu14  1  0.33333334  0.66666669  0.35124493  1
+  Na  Na15  1  0.66666669  0.33333334  0.31373352  1
+  F  F16  1  0.01523064  0.33251241  0.99938339  1
+  F  F17  1  0.66748762  0.68271822  0.99938339  1
+  F  F18  1  0.31728178  0.98476934  0.99938339  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_SrDy4BO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.91176668
+_cell_length_b   5.75851355
+_cell_length_c   5.73411846
+_cell_angle_alpha   90.42865151
+_cell_angle_beta   102.20984641
+_cell_angle_gamma   98.80502461
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrDy4BO7
+_chemical_formula_sum   'Sr1 Dy4 B1 O7'
+_cell_volume   188.38181064
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.57410616  0.54548234  0.76206702  1
+  Dy  Dy1  1  0.37200382  0.59389162  0.25730580  1
+  Dy  Dy2  1  0.61668038  0.16181707  0.30284899  1
+  Dy  Dy3  1  0.27130118  0.06121586  0.75887412  1
+  O  O4  1  0.45877934  0.91382998  0.04582227  1
+  O  O5  1  0.97534013  0.80472356  0.84863085  1
+  B  B6  1  0.99532795  0.50554055  0.80698925  1
+  O  O7  1  0.82965815  0.41250381  0.58163768  1
+  O  O8  1  0.77607006  0.41082701  0.05361571  1
+  O  O9  1  0.49259505  0.87243086  0.53215182  1
+  Sr  Sr10  1  0.97761965  0.86294287  0.28753582  1
+  O  O11  1  0.23215862  0.40950057  0.90738422  1
+  O  O12  1  0.26615217  0.27793053  0.40241471  1

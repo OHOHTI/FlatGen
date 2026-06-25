@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ca2Tl(OsCl4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.80598450
+_cell_length_b   6.80598435
+_cell_length_c   9.53463078
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000536
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Tl(OsCl4)2
+_chemical_formula_sum   'Ca2 Tl1 Os2 Cl8'
+_cell_volume   382.48674524
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.50140792  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.49859208  1
+  Cl  Cl2  1  0.63349545  0.96851707  0.82642949  1
+  Cl  Cl3  1  0.03148293  0.66497838  0.82642949  1
+  Cl  Cl4  1  0.33502162  0.36650455  0.82642949  1
+  Cl  Cl5  1  0.36650455  0.03148293  0.17357051  1
+  Cl  Cl6  1  0.96851707  0.33502162  0.17357051  1
+  Cl  Cl7  1  0.66497838  0.63349545  0.17357051  1
+  Tl  Tl8  1  0.00000000  0.00000000  0.50000000  1
+  Ca  Ca9  1  0.33333334  0.66666669  0.03763840  1
+  Ca  Ca10  1  0.66666669  0.33333334  0.96236157  1
+  Os  Os11  1  0.33333334  0.66666669  0.73731846  1
+  Os  Os12  1  0.66666669  0.33333334  0.26268154  1

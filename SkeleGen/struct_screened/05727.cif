@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_SbMoP2F15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.28721809
+_cell_length_b   8.28721809
+_cell_length_c   4.43594360
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   90.00000433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SbMoP2F15
+_chemical_formula_sum   'Sb1 Mo1 P2 F15'
+_cell_volume   304.65166265
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.06722777  0.31186539  0.09657990  1
+  F  F1  1  0.93277222  0.68813461  0.09657990  1
+  F  F2  1  0.68813461  0.06722777  0.09657990  1
+  F  F3  1  0.31186539  0.93277222  0.09657990  1
+  F  F4  1  0.00000000  0.50000000  0.65441877  1
+  F  F5  1  0.50000000  0.00000000  0.65441877  1
+  F  F6  1  0.87492079  0.19714917  0.52015251  1
+  F  F7  1  0.12507921  0.80285084  0.52015251  1
+  F  F8  1  0.80285084  0.87492079  0.52015251  1
+  F  F9  1  0.19714917  0.12507921  0.52015251  1
+  F  F10  1  0.50000000  0.50000000  0.15484507  1
+  F  F11  1  0.41358906  0.68468928  0.59143811  1
+  F  F12  1  0.58641094  0.31531072  0.59143811  1
+  F  F13  1  0.31531072  0.41358906  0.59143811  1
+  F  F14  1  0.68468928  0.58641094  0.59143811  1
+  Sb  Sb15  1  0.00000000  0.00000000  0.64023077  1
+  Mo  Mo16  1  0.50000000  0.50000000  0.52685088  1
+  P  P17  1  0.00000000  0.50000000  0.02742767  1
+  P  P18  1  0.50000000  0.00000000  0.02742767  1

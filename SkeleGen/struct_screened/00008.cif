@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_RbU3(Cr2Ge3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.93230057
+_cell_length_b   9.93229988
+_cell_length_c   3.90474892
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000548
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbU3(Cr2Ge3)3
+_chemical_formula_sum   'Rb1 U3 Cr6 Ge9'
+_cell_volume   333.59796877
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.76092762  0.21469134  0.60942620  1
+  Ge  Ge1  1  0.78530866  0.54623628  0.60942620  1
+  Ge  Ge2  1  0.45376372  0.23907238  0.60942620  1
+  Ge  Ge3  1  0.21469134  0.76092762  0.60942620  1
+  Ge  Ge4  1  0.54623628  0.78530866  0.60942620  1
+  Ge  Ge5  1  0.23907238  0.45376372  0.60942620  1
+  Ge  Ge6  1  0.70744848  0.00000000  0.11162988  1
+  Ge  Ge7  1  0.00000000  0.70744848  0.11162988  1
+  Ge  Ge8  1  0.29255152  0.29255152  0.11162988  1
+  Rb  Rb9  1  0.00000000  0.00000000  0.62517655  1
+  U  U10  1  0.28734282  0.00000000  0.10711256  1
+  U  U11  1  0.00000000  0.28734282  0.10711256  1
+  U  U12  1  0.71265721  0.71265721  0.10711256  1
+  Cr  Cr13  1  0.82374167  0.40819874  0.10848331  1
+  Cr  Cr14  1  0.59180129  0.41554293  0.10848331  1
+  Cr  Cr15  1  0.58445704  0.17625833  0.10848331  1
+  Cr  Cr16  1  0.40819874  0.82374167  0.10848331  1
+  Cr  Cr17  1  0.41554293  0.59180129  0.10848331  1
+  Cr  Cr18  1  0.17625833  0.58445704  0.10848331  1

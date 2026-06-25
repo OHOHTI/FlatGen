@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BaCoCuP5O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.70709467
+_cell_length_b   4.70709449
+_cell_length_c   11.06125355
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000458
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCoCuP5O8
+_chemical_formula_sum   'Ba1 Co1 Cu1 P5 O8'
+_cell_volume   212.24663269
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.00000000  0.00000000  0.88758445  1
+  P  P1  1  0.66666669  0.33333334  0.73545879  1
+  P  P2  1  0.33333334  0.66666669  0.39557940  1
+  P  P3  1  0.00000000  0.00000000  0.41686156  1
+  Cu  Cu4  1  0.33333334  0.66666669  0.19487180  1
+  O  O5  1  0.33333334  0.66666669  0.51960289  1
+  P  P6  1  0.33333334  0.66666669  0.90153790  1
+  Co  Co7  1  0.33333334  0.66666669  0.68137681  1
+  O  O8  1  0.33333334  0.66666669  0.01768468  1
+  Ba  Ba9  1  0.66666669  0.33333334  0.09723297  1
+  O  O10  1  0.64252108  0.00744343  0.81593394  1
+  O  O11  1  0.99255657  0.63507766  0.81593394  1
+  O  O12  1  0.36492234  0.35747892  0.81593394  1
+  O  O13  1  0.04914660  0.32184297  0.33067557  1
+  O  O14  1  0.67815703  0.72730362  0.33067557  1
+  O  O15  1  0.27269638  0.95085341  0.33067557  1

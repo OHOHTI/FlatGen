@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_GdMoCl9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.58128405
+_cell_length_b   7.58128394
+_cell_length_c   6.02189827
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000461
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdMoCl9
+_chemical_formula_sum   'Gd1 Mo1 Cl9'
+_cell_volume   299.74335032
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.66360462  0.15805277  0.71929336  1
+  Cl  Cl1  1  0.84194720  0.50555182  0.71929336  1
+  Cl  Cl2  1  0.49444818  0.33639538  0.71929336  1
+  Cl  Cl3  1  0.16699947  0.81782758  0.70579946  1
+  Cl  Cl4  1  0.18217242  0.34917188  0.70579946  1
+  Cl  Cl5  1  0.65082812  0.83300054  0.70579946  1
+  Cl  Cl6  1  0.64326829  0.97971416  0.23379201  1
+  Cl  Cl7  1  0.02028584  0.66355413  0.23379201  1
+  Cl  Cl8  1  0.33644587  0.35673171  0.23379201  1
+  Mo  Mo9  1  0.33333334  0.66666669  0.48115960  1
+  Gd  Gd10  1  0.33333334  0.66666669  0.00085252  1

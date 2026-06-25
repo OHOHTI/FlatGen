@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_La2CrI10Br3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.70194054
+_cell_length_b   11.70194028
+_cell_length_c   5.22561932
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000342
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2CrI10Br3
+_chemical_formula_sum   'La2 Cr1 I10 Br3'
+_cell_volume   619.70378607
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.73570013  0.19629319  0.69226891  1
+  I  I1  1  0.80370682  0.53940696  0.69226891  1
+  I  I2  1  0.46059304  0.26429987  0.69226891  1
+  I  I3  1  0.28665236  0.85089380  0.69221789  1
+  I  I4  1  0.14910620  0.43575859  0.69221789  1
+  I  I5  1  0.56424141  0.71334767  0.69221789  1
+  I  I6  1  0.02135865  0.61169165  0.18032591  1
+  I  I7  1  0.38830835  0.40966702  0.18032591  1
+  I  I8  1  0.59033298  0.97864133  0.18032591  1
+  I  I9  1  0.00000000  0.00000000  0.73017645  1
+  Cr  Cr10  1  0.00000000  0.00000000  0.24753156  1
+  La  La11  1  0.33333334  0.66666669  0.19027945  1
+  La  La12  1  0.66666669  0.33333334  0.17965300  1
+  Br  Br13  1  0.24304307  0.04570385  0.18529193  1
+  Br  Br14  1  0.95429617  0.19733921  0.18529193  1
+  Br  Br15  1  0.80266082  0.75695693  0.18529193  1

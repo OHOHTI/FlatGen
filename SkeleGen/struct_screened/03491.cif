@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Dy5VCrNiO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.34782934
+_cell_length_b   5.34782920
+_cell_length_c   10.72392082
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000383
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy5VCrNiO12
+_chemical_formula_sum   'Dy5 V1 Cr1 Ni1 O12'
+_cell_volume   265.60685631
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.00000000  0.00000000  0.98357660  1
+  Dy  Dy1  1  0.66666669  0.33333334  0.51154685  1
+  Dy  Dy2  1  0.33333334  0.66666669  0.24594298  1
+  Dy  Dy3  1  0.00000000  0.00000000  0.50674593  1
+  Dy  Dy4  1  0.00000000  0.00000000  0.24823974  1
+  Cr  Cr5  1  0.00000000  0.00000000  0.74244046  1
+  V  V6  1  0.33333334  0.66666669  0.74347138  1
+  Ni  Ni7  1  0.66666669  0.33333334  0.99980843  1
+  O  O8  1  0.02843731  0.67421824  0.36360493  1
+  O  O9  1  0.32578176  0.35421908  0.36360493  1
+  O  O10  1  0.64578092  0.97156268  0.36360493  1
+  O  O11  1  0.34993631  0.03862358  0.10261583  1
+  O  O12  1  0.96137643  0.31131274  0.10261583  1
+  O  O13  1  0.68868726  0.65006369  0.10261583  1
+  O  O14  1  0.31268233  0.33992288  0.62954056  1
+  O  O15  1  0.66007710  0.97275949  0.62954056  1
+  O  O16  1  0.02724054  0.68731767  0.62954056  1
+  O  O17  1  0.00085115  0.33609921  0.84433132  1
+  O  O18  1  0.66390079  0.66475195  0.84433132  1
+  O  O19  1  0.33524805  0.99914885  0.84433132  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaMnPH2Cl8O2F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.38847923
+_cell_length_b   6.38847892
+_cell_length_c   10.18740273
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000657
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaMnPH2Cl8O2F
+_chemical_formula_sum   'Na1 Mn1 P1 H2 Cl8 O2 F1'
+_cell_volume   360.07173476
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.01719352  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.95520478  1
+  Cl  Cl2  1  0.59657985  0.02303128  0.67829716  1
+  Cl  Cl3  1  0.97696871  0.57354856  0.67829716  1
+  Cl  Cl4  1  0.42645144  0.40342015  0.67829716  1
+  Cl  Cl5  1  0.52868927  0.98986542  0.34329462  1
+  Cl  Cl6  1  0.01013458  0.53882384  0.34329462  1
+  Cl  Cl7  1  0.46117616  0.47131073  0.34329462  1
+  O  O8  1  0.00000000  0.00000000  0.15032589  1
+  F  F9  1  0.00000000  0.00000000  0.84340942  1
+  H  H10  1  0.00000000  0.00000000  0.38021693  1
+  O  O11  1  0.00000000  0.00000000  0.49448857  1
+  Mn  Mn12  1  0.00000000  0.00000000  0.01360892  1
+  H  H13  1  0.00000000  0.00000000  0.55778515  1
+  Na  Na14  1  0.66666669  0.33333334  0.22476012  1
+  P  P15  1  0.66666669  0.33333334  0.74561787  1

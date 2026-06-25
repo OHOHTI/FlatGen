@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_RbBaAlPHOsO2F11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.14584112
+_cell_length_b   5.14584071
+_cell_length_c   12.88823509
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000568
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbBaAlPHOsO2F11
+_chemical_formula_sum   'Rb1 Ba1 Al1 P1 H1 Os1 O2 F11'
+_cell_volume   295.55395022
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.54584610  1
+  F  F1  1  0.66666669  0.33333334  0.00959937  1
+  F  F2  1  0.17405860  0.82594138  0.16251159  1
+  F  F3  1  0.17405860  0.34811720  0.16251159  1
+  F  F4  1  0.65188277  0.82594138  0.16251159  1
+  F  F5  1  0.82044673  0.17955327  0.65449315  1
+  F  F6  1  0.82044673  0.64089346  0.65449315  1
+  F  F7  1  0.35910654  0.17955327  0.65449315  1
+  F  F8  1  0.33333334  0.66666669  0.97703695  1
+  F  F9  1  0.66666669  0.33333334  0.46122986  1
+  Rb  Rb10  1  0.00000000  0.00000000  0.46092737  1
+  H  H11  1  0.33333334  0.66666669  0.05083870  1
+  P  P12  1  0.33333334  0.66666669  0.23188305  1
+  O  O13  1  0.33333334  0.66666669  0.33488953  1
+  Ba  Ba14  1  0.33333334  0.66666669  0.80840147  1
+  Al  Al15  1  0.66666669  0.33333334  0.33182165  1
+  O  O16  1  0.66666669  0.33333334  0.82411069  1
+  F  F17  1  0.66666669  0.33333334  0.21843085  1
+  Os  Os18  1  0.66666669  0.33333334  0.71170467  1

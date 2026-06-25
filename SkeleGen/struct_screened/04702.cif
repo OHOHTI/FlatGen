@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Li2VInCoAgHPbF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.48151779
+_cell_length_b   5.48151756
+_cell_length_c   9.48065758
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000427
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2VInCoAgHPbF12
+_chemical_formula_sum   'Li2 V1 In1 Co1 Ag1 H1 Pb1 F12'
+_cell_volume   246.70088751
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.98330814  0.32543719  0.44849715  1
+  F  F1  1  0.67456281  0.65787095  0.44849715  1
+  F  F2  1  0.34212905  0.01669186  0.44849715  1
+  F  F3  1  0.99704975  0.61524820  0.73092669  1
+  F  F4  1  0.38475180  0.38180155  0.73092669  1
+  F  F5  1  0.61819845  0.00295028  0.73092669  1
+  F  F6  1  0.99413919  0.66775417  0.22109385  1
+  F  F7  1  0.33224583  0.32638502  0.22109385  1
+  F  F8  1  0.67361498  0.00586081  0.22109385  1
+  Li  Li9  1  0.00000000  0.00000000  0.48068386  1
+  Ag  Ag10  1  0.00000000  0.00000000  0.85342538  1
+  Li  Li11  1  0.00000000  0.00000000  0.16729276  1
+  H  H12  1  0.00000000  0.00000000  0.62323177  1
+  Pb  Pb13  1  0.33333334  0.66666669  0.06347942  1
+  In  In14  1  0.33333334  0.66666669  0.58546191  1
+  Co  Co15  1  0.66666669  0.33333334  0.32094780  1
+  V  V16  1  0.66666669  0.33333334  0.83174729  1
+  F  F17  1  0.35045204  0.03274563  0.96549457  1
+  F  F18  1  0.96725440  0.31770641  0.96549457  1
+  F  F19  1  0.68229359  0.64954793  0.96549457  1

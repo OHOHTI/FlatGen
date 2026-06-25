@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_LiCr5CuF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.26742649
+_cell_length_b   5.26742618
+_cell_length_c   9.60293388
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000492
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCr5CuF12
+_chemical_formula_sum   'Li1 Cr5 Cu1 F12'
+_cell_volume   230.74457056
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.00000000  0.00000000  0.12135645  1
+  Cr  Cr1  1  0.66666669  0.33333334  0.62892258  1
+  Cr  Cr2  1  0.33333334  0.66666669  0.37693912  1
+  Cr  Cr3  1  0.00000000  0.00000000  0.61916244  1
+  Cr  Cr4  1  0.33333334  0.66666669  0.63257474  1
+  Li  Li5  1  0.33333334  0.66666669  0.13339858  1
+  Cu  Cu6  1  0.33333334  0.66666669  0.88400328  1
+  F  F7  1  0.67139387  0.67366707  0.74336898  1
+  F  F8  1  0.32633293  0.99772680  0.74336898  1
+  F  F9  1  0.00227320  0.32860613  0.74336898  1
+  F  F10  1  0.32145554  0.33322838  0.01004311  1
+  F  F11  1  0.66677165  0.98822713  0.01004311  1
+  F  F12  1  0.01177284  0.67854446  0.01004311  1
+  F  F13  1  0.33583295  0.34856260  0.50138402  1
+  F  F14  1  0.65143740  0.98727036  0.50138402  1
+  F  F15  1  0.01272964  0.66416705  0.50138402  1
+  F  F16  1  0.66626734  0.68656635  0.24729055  1
+  F  F17  1  0.31343365  0.97970098  0.24729055  1
+  F  F18  1  0.02029902  0.33373266  0.24729055  1

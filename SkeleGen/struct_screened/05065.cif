@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_CsBiBCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.86649704
+_cell_length_b   6.86649686
+_cell_length_c   9.25491619
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000548
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsBiBCl8
+_chemical_formula_sum   'Cs1 Bi1 B1 Cl8'
+_cell_volume   377.89710132
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.64388472  0.65689588  0.29444459  1
+  Cl  Cl1  1  0.34310412  0.98698884  0.29444459  1
+  Cl  Cl2  1  0.01301116  0.35611528  0.29444459  1
+  Cl  Cl3  1  0.69033712  0.05590880  0.79569352  1
+  Cl  Cl4  1  0.94409120  0.63442832  0.79569352  1
+  Cl  Cl5  1  0.36557168  0.30966288  0.79569352  1
+  Cl  Cl6  1  0.33333334  0.66666669  0.00166316  1
+  Cl  Cl7  1  0.66666669  0.33333334  0.52793974  1
+  Cs  Cs8  1  0.00000000  0.00000000  0.51556540  1
+  Bi  Bi9  1  0.33333334  0.66666669  0.44486731  1
+  B  B10  1  0.66666669  0.33333334  0.73593307  1

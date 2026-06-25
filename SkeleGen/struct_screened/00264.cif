@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_NaAlCO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.82295036
+_cell_length_b   4.82295036
+_cell_length_c   7.09337807
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000332
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaAlCO8
+_chemical_formula_sum   'Na1 Al1 C1 O8'
+_cell_volume   142.89245863
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.63234311  0.68411005  0.20299663  1
+  O  O1  1  0.31588995  0.94823307  0.20299663  1
+  O  O2  1  0.05176693  0.36765689  0.20299663  1
+  O  O3  1  0.66662222  0.05432373  0.69782197  1
+  O  O4  1  0.94567627  0.61229849  0.69782197  1
+  O  O5  1  0.38770151  0.33337778  0.69782197  1
+  O  O6  1  0.33333334  0.66666669  0.94571149  1
+  O  O7  1  0.66666669  0.33333334  0.47108009  1
+  Na  Na8  1  0.00000000  0.00000000  0.44988364  1
+  Al  Al9  1  0.33333334  0.66666669  0.14678168  1
+  C  C10  1  0.66666669  0.33333334  0.68930972  1

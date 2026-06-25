@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_TiReNi2(H3Cl4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.90053606
+_cell_length_b   5.90053563
+_cell_length_c   11.26578426
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000511
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiReNi2(H3Cl4)2
+_chemical_formula_sum   'Ti1 Re1 Ni2 H6 Cl8'
+_cell_volume   339.68388617
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.56494415  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.43505585  1
+  Cl  Cl2  1  0.66565537  0.96969336  0.87835842  1
+  Cl  Cl3  1  0.03030664  0.69596201  0.87835842  1
+  Cl  Cl4  1  0.30403799  0.33434463  0.87835842  1
+  Cl  Cl5  1  0.33434463  0.03030664  0.12164158  1
+  Cl  Cl6  1  0.96969336  0.30403799  0.12164158  1
+  Cl  Cl7  1  0.69596201  0.66565537  0.12164158  1
+  Ti  Ti8  1  0.00000000  0.00000000  0.00000000  1
+  Re  Re9  1  0.00000000  0.00000000  0.50000000  1
+  Ni  Ni10  1  0.33333334  0.66666669  0.99762392  1
+  Ni  Ni11  1  0.66666669  0.33333334  0.00237608  1
+  H  H12  1  0.03420895  0.78089440  0.39432055  1
+  H  H13  1  0.21910560  0.25331455  0.39432055  1
+  H  H14  1  0.74668545  0.96579105  0.39432055  1
+  H  H15  1  0.96579105  0.21910560  0.60567945  1
+  H  H16  1  0.78089440  0.74668545  0.60567945  1
+  H  H17  1  0.25331455  0.03420895  0.60567945  1

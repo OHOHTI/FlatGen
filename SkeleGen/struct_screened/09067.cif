@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_RbTlFePI10Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.86375523
+_cell_length_b   8.86375497
+_cell_length_c   10.50886345
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000451
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbTlFePI10Br
+_chemical_formula_sum   'Rb1 Tl1 Fe1 P1 I10 Br1'
+_cell_volume   715.02603827
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.91400939  0.25843862  0.81171393  1
+  I  I1  1  0.74156141  0.65557075  0.81171393  1
+  I  I2  1  0.34442925  0.08599061  0.81171393  1
+  I  I3  1  0.14284226  0.74389082  0.57376140  1
+  I  I4  1  0.25610918  0.39895141  0.57376140  1
+  I  I5  1  0.60104859  0.85715771  0.57376140  1
+  I  I6  1  0.37283733  0.28195348  0.30316910  1
+  I  I7  1  0.71804655  0.09088385  0.30316910  1
+  I  I8  1  0.90911615  0.62716269  0.30316910  1
+  Tl  Tl9  1  0.00000000  0.00000000  0.00191695  1
+  Rb  Rb10  1  0.00000000  0.00000000  0.38536504  1
+  P  P11  1  0.33333334  0.66666669  0.50486022  1
+  I  I12  1  0.33333334  0.66666669  0.07626408  1
+  Fe  Fe13  1  0.66666669  0.33333334  0.81592691  1
+  Br  Br14  1  0.66666669  0.33333334  0.02546391  1

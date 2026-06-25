@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_LuFeICl4O3F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.46228075
+_cell_length_b   5.46228055
+_cell_length_c   10.27473545
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000413
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuFeICl4O3F
+_chemical_formula_sum   'Lu1 Fe1 I1 Cl4 O3 F1'
+_cell_volume   265.49068163
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.00000000  0.00000000  0.93070203  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.66578889  1
+  Cl  Cl2  1  0.33333334  0.66666669  0.37241903  1
+  Cl  Cl3  1  0.00000000  0.00000000  0.48510799  1
+  F  F4  1  0.33333334  0.66666669  0.09530321  1
+  Fe  Fe5  1  0.33333334  0.66666669  0.92309725  1
+  Lu  Lu6  1  0.33333334  0.66666669  0.64006001  1
+  I  I7  1  0.66666669  0.33333334  0.12477650  1
+  O  O8  1  0.06663495  0.63409805  0.81310183  1
+  O  O9  1  0.36590195  0.43253690  0.81310183  1
+  O  O10  1  0.56746310  0.93336505  0.81310183  1

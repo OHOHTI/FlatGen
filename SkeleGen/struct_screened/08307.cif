@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaSc4MnVCuO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22355795
+_cell_length_b   5.22355784
+_cell_length_c   10.50652695
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000372
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSc4MnVCuO8
+_chemical_formula_sum   'Na1 Sc4 Mn1 V1 Cu1 O8'
+_cell_volume   248.26907089
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.00000000  0.00000000  0.92320246  1
+  Sc  Sc1  1  0.66666669  0.33333334  0.64114869  1
+  Sc  Sc2  1  0.33333334  0.66666669  0.39979088  1
+  Sc  Sc3  1  0.00000000  0.00000000  0.41466409  1
+  Na  Na4  1  0.33333334  0.66666669  0.75985485  1
+  Mn  Mn5  1  0.66666669  0.33333334  0.42537105  1
+  V  V6  1  0.66666669  0.33333334  0.94633126  1
+  O  O7  1  0.66666669  0.33333334  0.79482877  1
+  O  O8  1  0.66666669  0.33333334  0.29308611  1
+  Cu  Cu9  1  0.66666669  0.33333334  0.14556544  1
+  O  O10  1  0.35510948  0.02301300  0.52101678  1
+  O  O11  1  0.97698700  0.33209649  0.52101678  1
+  O  O12  1  0.66790354  0.64489055  0.52101678  1
+  O  O13  1  0.34066448  0.30981138  0.03216821  1
+  O  O14  1  0.69018865  0.03085309  0.03216821  1
+  O  O15  1  0.96914691  0.65933549  0.03216821  1

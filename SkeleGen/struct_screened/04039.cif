@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_CsBaBeAlInCuAgCl12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.48566103
+_cell_length_b   7.48566063
+_cell_length_c   10.66268730
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000600
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsBaBeAlInCuAgCl12
+_chemical_formula_sum   'Cs1 Ba1 Be1 Al1 In1 Cu1 Ag1 Cl12'
+_cell_volume   517.43710634
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.91952646  0.28762293  0.43511587  1
+  Cl  Cl1  1  0.71237707  0.63190353  0.43511587  1
+  Cl  Cl2  1  0.36809647  0.08047354  0.43511587  1
+  Cl  Cl3  1  0.05911631  0.67027146  0.67506260  1
+  Cl  Cl4  1  0.32972854  0.38884485  0.67506260  1
+  Cl  Cl5  1  0.61115515  0.94088370  0.67506260  1
+  Cl  Cl6  1  0.33618569  0.36784348  0.19625767  1
+  Cl  Cl7  1  0.63215649  0.96834219  0.19625767  1
+  Cl  Cl8  1  0.03165779  0.66381431  0.19625767  1
+  Ba  Ba9  1  0.00000000  0.00000000  0.44843000  1
+  Be  Be10  1  0.33333334  0.66666669  0.17896786  1
+  Al  Al11  1  0.33333334  0.66666669  0.64020187  1
+  Cs  Cs12  1  0.33333334  0.66666669  0.92502975  1
+  Ag  Ag13  1  0.33333334  0.66666669  0.37085876  1
+  In  In14  1  0.66666669  0.33333334  0.26278830  1
+  Cu  Cu15  1  0.66666669  0.33333334  0.80285937  1
+  Cl  Cl16  1  0.37868541  0.07972021  0.92020386  1
+  Cl  Cl17  1  0.92027980  0.29896522  0.92020386  1
+  Cl  Cl18  1  0.70103478  0.62131459  0.92020386  1

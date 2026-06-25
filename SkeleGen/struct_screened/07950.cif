@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Rb2CoPCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.93455267
+_cell_length_b   6.93455241
+_cell_length_c   11.64126396
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999443
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2CoPCl8
+_chemical_formula_sum   'Rb2 Co1 P1 Cl8'
+_cell_volume   484.80565685
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.08630877  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.84698427  1
+  Cl  Cl2  1  0.40586957  0.97506326  0.58042634  1
+  Cl  Cl3  1  0.02493674  0.43080628  0.58042634  1
+  Cl  Cl4  1  0.56919372  0.59413040  0.58042634  1
+  Cl  Cl5  1  0.61062443  0.96867967  0.29839882  1
+  Cl  Cl6  1  0.03132033  0.64194477  0.29839882  1
+  Cl  Cl7  1  0.35805523  0.38937557  0.29839882  1
+  Rb  Rb8  1  0.00000000  0.00000000  0.43762037  1
+  P  P9  1  0.33333334  0.66666669  0.26316103  1
+  Co  Co10  1  0.33333334  0.66666669  0.50615233  1
+  Rb  Rb11  1  0.33333334  0.66666669  0.80838245  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_RbNbTcI9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.01720428
+_cell_length_b   8.01720392
+_cell_length_c   11.33308792
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000543
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbNbTcI9
+_chemical_formula_sum   'Rb1 Nb1 Tc1 I9'
+_cell_volume   630.84802251
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.66666669  0.33333334  0.44453871  1
+  I  I1  1  0.33333334  0.66666669  0.45321023  1
+  I  I2  1  0.61074251  0.97854668  0.73744828  1
+  I  I3  1  0.02145332  0.63219583  0.73744828  1
+  I  I4  1  0.36780417  0.38925749  0.73744828  1
+  I  I5  1  0.39168331  0.99559456  0.13678078  1
+  I  I6  1  0.00440544  0.39608872  0.13678078  1
+  I  I7  1  0.60391128  0.60831666  0.13678078  1
+  Rb  Rb8  1  0.00000000  0.00000000  0.25168470  1
+  I  I9  1  0.00000000  0.00000000  0.92834413  1
+  Nb  Nb10  1  0.33333334  0.66666669  0.70487815  1
+  Tc  Tc11  1  0.66666669  0.33333334  0.22917975  1

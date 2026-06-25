@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Ce4BiMoHClO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.90554516
+_cell_length_b   6.12217252
+_cell_length_c   7.90329599
+_cell_angle_alpha   87.56467809
+_cell_angle_beta   88.46163216
+_cell_angle_gamma   92.88339465
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce4BiMoHClO9
+_chemical_formula_sum   'Ce4 Bi1 Mo1 H1 Cl1 O9'
+_cell_volume   285.00200921
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.15798014  0.20794250  0.43025115  1
+  Ce  Ce1  1  0.74153656  0.71411574  0.52079910  1
+  Ce  Ce2  1  0.53834605  0.14031407  0.73855859  1
+  Ce  Ce3  1  0.49049017  0.76100594  0.19154617  1
+  Cl  Cl4  1  0.03436684  0.64692950  0.29493538  1
+  O  O5  1  0.42188406  0.87913597  0.92607200  1
+  O  O6  1  0.22809638  0.38415495  0.78530133  1
+  O  O7  1  0.80822700  0.19895405  0.92755383  1
+  O  O8  1  0.79385644  0.16590223  0.29159948  1
+  O  O9  1  0.93961424  0.00671301  0.61199331  1
+  Mo  Mo10  1  0.96762538  0.30449995  0.75605428  1
+  O  O11  1  0.41626662  0.87931687  0.52142239  1
+  O  O12  1  0.81765825  0.59529185  0.75528342  1
+  O  O13  1  0.32086313  0.13089080  0.20353918  1
+  H  H14  1  0.34411654  0.07027899  0.08442737  1
+  Bi  Bi15  1  0.02770836  0.80043399  0.94700360  1
+  O  O16  1  0.50281382  0.38804194  0.51512831  1

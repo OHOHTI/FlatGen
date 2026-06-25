@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_LaTiVCuF14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.81851244
+_cell_length_b   6.81851249
+_cell_length_c   6.15226364
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999284
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaTiVCuF14
+_chemical_formula_sum   'La1 Ti1 V1 Cu1 F14'
+_cell_volume   247.71076367
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.39058688  0.46758294  0.46908438  1
+  F  F1  1  0.53241706  0.92300391  0.46908438  1
+  F  F2  1  0.07699606  0.60941315  0.46908438  1
+  F  F3  1  0.90009505  0.58636832  0.96796858  1
+  F  F4  1  0.41363168  0.31372672  0.96796858  1
+  F  F5  1  0.68627328  0.09990495  0.96796858  1
+  F  F6  1  0.66666669  0.33333334  0.51667261  1
+  F  F7  1  0.02484414  0.24364902  0.69906372  1
+  F  F8  1  0.75635099  0.78119510  0.69906372  1
+  F  F9  1  0.21880488  0.97515583  0.69906372  1
+  F  F10  1  0.33333334  0.66666669  0.00425231  1
+  F  F11  1  0.06189059  0.26916495  0.23304595  1
+  F  F12  1  0.73083508  0.79272562  0.23304595  1
+  F  F13  1  0.20727436  0.93810940  0.23304595  1
+  La  La14  1  0.00000000  0.00000000  0.97041076  1
+  Ti  Ti15  1  0.00000000  0.00000000  0.48082674  1
+  V  V16  1  0.33333334  0.66666669  0.32517439  1
+  Cu  Cu17  1  0.66666669  0.33333334  0.83100802  1

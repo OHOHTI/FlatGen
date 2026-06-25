@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_KNaAgF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54193926
+_cell_length_b   5.54193910
+_cell_length_c   8.70393753
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999242
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNaAgF4
+_chemical_formula_sum   'K2 Na2 Ag2 F8'
+_cell_volume   231.51009892
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.65189278  0.70878911  0.31607467  1
+  F  F1  1  0.29121089  0.94310367  0.31607467  1
+  F  F2  1  0.05689633  0.34810722  0.31607467  1
+  F  F3  1  0.34810722  0.29121089  0.81607467  1
+  F  F4  1  0.70878911  0.05689633  0.81607467  1
+  F  F5  1  0.94310367  0.65189278  0.81607467  1
+  F  F6  1  0.33333334  0.66666669  0.06212372  1
+  F  F7  1  0.66666669  0.33333334  0.56212372  1
+  K  K8  1  0.00000000  0.00000000  0.58195615  1
+  K  K9  1  0.00000000  0.00000000  0.08195615  1
+  Na  Na10  1  0.33333334  0.66666669  0.81175572  1
+  Na  Na11  1  0.66666669  0.33333334  0.31175566  1
+  Ag  Ag12  1  0.33333334  0.66666669  0.41233084  1
+  Ag  Ag13  1  0.66666669  0.33333334  0.91233087  1

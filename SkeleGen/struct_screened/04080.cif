@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_BeBiWOF10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.41306210
+_cell_length_b   5.41306201
+_cell_length_c   8.48729515
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000347
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeBiWOF10
+_chemical_formula_sum   'Be1 Bi1 W1 O1 F10'
+_cell_volume   215.37035938
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.56964284  1
+  F  F1  1  0.66666669  0.33333334  0.40660569  1
+  F  F2  1  0.84258771  0.15741229  0.77730906  1
+  F  F3  1  0.84258771  0.68517542  0.77730906  1
+  F  F4  1  0.31482458  0.15741229  0.77730906  1
+  F  F5  1  0.66666669  0.33333334  0.06394424  1
+  F  F6  1  0.14629197  0.85370803  0.22095159  1
+  F  F7  1  0.14629197  0.29258394  0.22095159  1
+  F  F8  1  0.70741606  0.85370803  0.22095159  1
+  F  F9  1  0.33333334  0.66666669  0.91572237  1
+  Bi  Bi10  1  0.00000000  0.00000000  0.99045163  1
+  O  O11  1  0.00000000  0.00000000  0.52559274  1
+  Be  Be12  1  0.00000000  0.00000000  0.68971676  1
+  W  W13  1  0.00000000  0.00000000  0.34168878  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_MnPb2F11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.83683086
+_cell_length_b   3.65145278
+_cell_length_c   11.09397888
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   93.75710550
+_cell_angle_gamma   90.00000415
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnPb2F11
+_chemical_formula_sum   'Mn1 Pb2 F11'
+_cell_volume   195.51475417
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.93714857  0.50000000  0.29363671  1
+  F  F1  1  0.47361857  0.00000000  0.65757948  1
+  F  F2  1  0.43158367  0.50000000  0.47245491  1
+  F  F3  1  0.91161722  0.00000000  0.48653203  1
+  F  F4  1  0.03073028  0.00000000  0.18123324  1
+  F  F5  1  0.45267808  0.50000000  0.13573530  1
+  F  F6  1  0.46094987  0.50000000  0.79022855  1
+  F  F7  1  0.98121792  0.00000000  0.77097994  1
+  F  F8  1  0.24964827  0.00000000  0.98605239  1
+  F  F9  1  0.65709955  0.00000000  0.98932236  1
+  Mn  Mn10  1  0.46749595  0.00000000  0.12801379  1
+  F  F11  1  0.45920414  0.00000000  0.29968208  1
+  Pb  Pb12  1  0.98426831  0.50000000  0.61888641  1
+  Pb  Pb13  1  0.94134051  0.50000000  0.97020876  1

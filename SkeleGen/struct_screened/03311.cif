@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KRbTiTlV2CuSe13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.92461408
+_cell_length_b   7.38149552
+_cell_length_c   10.90738201
+_cell_angle_alpha   89.22831409
+_cell_angle_beta   87.47501820
+_cell_angle_gamma   99.55476616
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KRbTiTlV2CuSe13
+_chemical_formula_sum   'Rb1 K1 Ti1 Tl1 V2 Cu1 Se13'
+_cell_volume   549.12976368
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.50884026  0.23776436  0.09346126  1
+  Se  Se1  1  0.74376202  0.97217572  0.85918599  1
+  Se  Se2  1  0.74960357  0.47401339  0.36215502  1
+  Se  Se3  1  0.74665129  0.96362746  0.34423369  1
+  Se  Se4  1  0.02002680  0.72882873  0.09753266  1
+  Se  Se5  1  0.94100875  0.71832848  0.61104196  1
+  Se  Se6  1  0.02123690  0.22117555  0.12804213  1
+  Se  Se7  1  0.01634342  0.22124840  0.60756731  1
+  Se  Se8  1  0.24387553  0.97149378  0.85951442  1
+  Se  Se9  1  0.25188670  0.46852782  0.85822809  1
+  Se  Se10  1  0.24451873  0.95899522  0.37082472  1
+  Se  Se11  1  0.44490761  0.72586995  0.62272322  1
+  Rb  Rb12  1  0.51499069  0.71585447  0.11435869  1
+  Tl  Tl13  1  0.75007111  0.44701472  0.82347405  1
+  Cu  Cu14  1  0.26408121  0.98256212  0.61447269  1
+  Se  Se15  1  0.51527458  0.21050501  0.62705594  1
+  Ti  Ti16  1  0.98627704  0.94704735  0.22652933  1
+  V  V17  1  0.13704698  0.72278124  0.74586213  1
+  V  V18  1  0.48415712  0.18804866  0.85744017  1
+  K  K19  1  0.24413672  0.46398363  0.37489343  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LaEuFeO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.61123740
+_cell_length_b   5.52785163
+_cell_length_c   7.15038776
+_cell_angle_alpha   89.39019642
+_cell_angle_beta   88.55219359
+_cell_angle_gamma   87.63781490
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaEuFeO5
+_chemical_formula_sum   'La2 Eu2 Fe2 O10'
+_cell_volume   221.52190754
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.76704788  0.27983797  0.48503253  1
+  O  O1  1  0.23295212  0.72016203  0.51496744  1
+  O  O2  1  0.50386369  0.97306103  0.78985167  1
+  O  O3  1  0.49613631  0.02693897  0.21014833  1
+  O  O4  1  0.47688851  0.50804681  0.81297296  1
+  O  O5  1  0.52311146  0.49195319  0.18702704  1
+  O  O6  1  0.02047703  0.49706110  0.79395145  1
+  O  O7  1  0.97952294  0.50293887  0.20604855  1
+  O  O8  1  0.00050485  0.99774361  0.77639741  1
+  O  O9  1  0.99949515  0.00225642  0.22360259  1
+  Fe  Fe10  1  0.75186467  0.25463834  0.25506666  1
+  Fe  Fe11  1  0.24813533  0.74536169  0.74493337  1
+  La  La12  1  0.24739654  0.24385835  0.01014189  1
+  La  La13  1  0.75260347  0.75614166  0.98985809  1
+  Eu  Eu14  1  0.26432872  0.23290169  0.52132308  1
+  Eu  Eu15  1  0.73567128  0.76709831  0.47867692  1

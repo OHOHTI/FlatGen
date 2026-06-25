@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Eu4Fe3Sn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.65286732
+_cell_length_b   5.65286718
+_cell_length_c   7.84821987
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000357
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu4Fe3Sn2
+_chemical_formula_sum   'Eu4 Fe3 Sn2'
+_cell_volume   217.18976287
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.00000000  0.00000000  0.00000000  1
+  Eu  Eu1  1  0.33333334  0.66666669  0.30813509  1
+  Eu  Eu2  1  0.66666669  0.33333334  0.69186491  1
+  Eu  Eu3  1  0.00000000  0.00000000  0.50000000  1
+  Sn  Sn4  1  0.33333334  0.66666669  0.74491400  1
+  Sn  Sn5  1  0.66666669  0.33333334  0.25508600  1
+  Fe  Fe6  1  0.50000000  0.00000000  0.00000000  1
+  Fe  Fe7  1  0.00000000  0.50000000  0.00000000  1
+  Fe  Fe8  1  0.50000000  0.50000000  0.00000000  1

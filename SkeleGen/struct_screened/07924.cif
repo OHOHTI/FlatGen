@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_LiZrAlGaAgF13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.52979279
+_cell_length_b   5.52979238
+_cell_length_c   9.72311783
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000525
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiZrAlGaAgF13
+_chemical_formula_sum   'Li1 Zr1 Al1 Ga1 Ag1 F13'
+_cell_volume   257.48613074
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.88142228  0.25499862  0.49233082  1
+  F  F1  1  0.74500138  0.62642366  0.49233082  1
+  F  F2  1  0.37357634  0.11857772  0.49233082  1
+  F  F3  1  0.02306522  0.64667493  0.68586314  1
+  F  F4  1  0.35332507  0.37639028  0.68586314  1
+  F  F5  1  0.62360972  0.97693479  0.68586314  1
+  F  F6  1  0.94730467  0.65408593  0.18162210  1
+  F  F7  1  0.34591407  0.29321873  0.18162210  1
+  F  F8  1  0.70678127  0.05269533  0.18162210  1
+  Zr  Zr9  1  0.33333334  0.66666669  0.83067197  1
+  Ag  Ag10  1  0.33333334  0.66666669  0.12722491  1
+  Ga  Ga11  1  0.33333334  0.66666669  0.54182559  1
+  F  F12  1  0.33333334  0.66666669  0.38082731  1
+  Li  Li13  1  0.66666669  0.33333334  0.07359377  1
+  Al  Al14  1  0.66666669  0.33333334  0.58899301  1
+  F  F15  1  0.37005442  0.99227279  0.91904581  1
+  F  F16  1  0.00772721  0.37778163  0.91904581  1
+  F  F17  1  0.62221837  0.62994558  0.91904581  1

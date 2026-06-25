@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_HfNb3I10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.17506123
+_cell_length_b   8.17506098
+_cell_length_c   9.57653236
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000484
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfNb3I10
+_chemical_formula_sum   'Hf1 Nb3 I10'
+_cell_volume   554.26940422
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.33333334  0.66666669  0.52382010  1
+  I  I1  1  0.66666669  0.33333334  0.47617990  1
+  I  I2  1  0.33333334  0.66666669  0.88642383  1
+  I  I3  1  0.66666669  0.33333334  0.11357617  1
+  I  I4  1  0.13192156  0.31326383  0.21651103  1
+  I  I5  1  0.68673617  0.81865776  0.21651103  1
+  I  I6  1  0.18134227  0.86807847  0.21651103  1
+  I  I7  1  0.31326383  0.13192156  0.78348899  1
+  I  I8  1  0.81865776  0.68673617  0.78348899  1
+  I  I9  1  0.86807847  0.18134227  0.78348899  1
+  Hf  Hf10  1  0.00000000  0.00000000  0.00000000  1
+  Nb  Nb11  1  0.65241092  0.00000000  0.00000000  1
+  Nb  Nb12  1  0.00000000  0.65241092  0.00000000  1
+  Nb  Nb13  1  0.34758908  0.34758908  0.00000000  1

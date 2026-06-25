@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CsRb2FeSnTe9PCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.01261425
+_cell_length_b   9.01261407
+_cell_length_c   9.12852097
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000415
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsRb2FeSnTe9PCl3
+_chemical_formula_sum   'Cs1 Rb2 Fe1 Sn1 Te9 P1 Cl3'
+_cell_volume   642.14423623
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.88100654  0.28325191  0.61802769  1
+  Te  Te1  1  0.71674812  0.59775460  0.61802769  1
+  Te  Te2  1  0.40224540  0.11899346  0.61802769  1
+  Te  Te3  1  0.12660153  0.70799273  0.61913294  1
+  Te  Te4  1  0.29200727  0.41860878  0.61913294  1
+  Te  Te5  1  0.58139122  0.87339848  0.61913294  1
+  Te  Te6  1  0.32214943  0.19019268  0.23627001  1
+  Te  Te7  1  0.80980730  0.13195674  0.23627001  1
+  Te  Te8  1  0.86804324  0.67785060  0.23627001  1
+  Sn  Sn9  1  0.00000000  0.00000000  0.39438471  1
+  Cs  Cs10  1  0.00000000  0.00000000  0.90420276  1
+  Fe  Fe11  1  0.33333334  0.66666669  0.84570432  1
+  Rb  Rb12  1  0.33333334  0.66666669  0.29855955  1
+  Rb  Rb13  1  0.66666669  0.33333334  0.00490648  1
+  P  P14  1  0.66666669  0.33333334  0.47564742  1
+  Cl  Cl15  1  0.12041312  0.45529380  0.95963830  1
+  Cl  Cl16  1  0.54470623  0.66511929  0.95963830  1
+  Cl  Cl17  1  0.33488068  0.87958688  0.95963830  1

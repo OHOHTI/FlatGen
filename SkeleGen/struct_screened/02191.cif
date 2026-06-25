@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_RbNaPSCl8O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.08818150
+_cell_length_b   7.08818114
+_cell_length_c   9.30739689
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000610
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbNaPSCl8O
+_chemical_formula_sum   'Rb1 Na1 P1 S1 Cl8 O1'
+_cell_volume   404.97524390
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.90785384  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.93106991  1
+  Cl  Cl2  1  0.52670413  0.47329587  0.61977416  1
+  Cl  Cl3  1  0.52670413  0.05340827  0.61977416  1
+  Cl  Cl4  1  0.94659173  0.47329587  0.61977416  1
+  Cl  Cl5  1  0.47589242  0.52410758  0.22873871  1
+  Cl  Cl6  1  0.47589242  0.95178485  0.22873871  1
+  Cl  Cl7  1  0.04821515  0.52410758  0.22873871  1
+  Na  Na8  1  0.00000000  0.00000000  0.72817016  1
+  O  O9  1  0.00000000  0.00000000  0.51112658  1
+  Rb  Rb10  1  0.00000000  0.00000000  0.16328305  1
+  S  S11  1  0.33333334  0.66666669  0.17235060  1
+  P  P12  1  0.66666669  0.33333334  0.53649169  1

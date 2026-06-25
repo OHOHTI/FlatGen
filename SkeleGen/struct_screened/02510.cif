@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_ZrMnCuNi(OF7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.64548474
+_cell_length_b   5.72341809
+_cell_length_c   8.63794518
+_cell_angle_alpha   87.17054177
+_cell_angle_beta   90.43269498
+_cell_angle_gamma   90.10515394
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrMnCuNi(OF7)2
+_chemical_formula_sum   'Zr1 Mn1 Cu1 Ni1 O2 F14'
+_cell_volume   278.75619422
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.51756239  0.28554606  0.12321360  1
+  F  F1  1  0.75408882  0.97268021  0.83007729  1
+  F  F2  1  0.73416442  0.50771374  0.36743483  1
+  F  F3  1  0.72221899  0.03594075  0.35911807  1
+  F  F4  1  0.98701149  0.74774837  0.07640620  1
+  F  F5  1  0.01617225  0.75085300  0.57929337  1
+  F  F6  1  0.02342120  0.24013765  0.11182285  1
+  F  F7  1  0.00118124  0.25546411  0.59901404  1
+  F  F8  1  0.24283326  0.99284768  0.82215208  1
+  F  F9  1  0.29086959  0.51222628  0.84325212  1
+  F  F10  1  0.25517762  0.99061692  0.35996273  1
+  F  F11  1  0.51351601  0.76069170  0.59821159  1
+  O  O12  1  0.75053191  0.53454334  0.81416255  1
+  Mn  Mn13  1  0.76490438  0.53501731  0.59336889  1
+  Cu  Cu14  1  0.51317561  0.73764569  0.84471685  1
+  Zr  Zr15  1  0.27888983  0.03539755  0.59188098  1
+  F  F16  1  0.24532510  0.47363466  0.35814008  1
+  O  O17  1  0.52081323  0.26114699  0.57102972  1
+  F  F18  1  0.46649626  0.76427788  0.06814436  1
+  Ni  Ni19  1  0.50996238  0.26892033  0.34588945  1

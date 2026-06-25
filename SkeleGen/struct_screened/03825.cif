@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_KHf4CuSO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.07461214
+_cell_length_b   5.07461179
+_cell_length_c   11.30157566
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000538
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KHf4CuSO8
+_chemical_formula_sum   'K1 Hf4 Cu1 S1 O8'
+_cell_volume   252.04337333
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.00000000  0.00000000  0.99185145  1
+  Hf  Hf1  1  0.66666669  0.33333334  0.74187768  1
+  Hf  Hf2  1  0.33333334  0.66666669  0.31441560  1
+  Hf  Hf3  1  0.00000000  0.00000000  0.49112621  1
+  Cu  Cu4  1  0.00000000  0.00000000  0.28009483  1
+  O  O5  1  0.00000000  0.00000000  0.65563101  1
+  O  O6  1  0.00000000  0.00000000  0.14776713  1
+  S  S7  1  0.00000000  0.00000000  0.80605072  1
+  K  K8  1  0.66666669  0.33333334  0.11819598  1
+  O  O9  1  0.31890723  0.34522739  0.39618558  1
+  O  O10  1  0.65477264  0.97367984  0.39618558  1
+  O  O11  1  0.02632016  0.68109274  0.39618558  1
+  O  O12  1  0.32550064  0.30333707  0.88833469  1
+  O  O13  1  0.69666290  0.02216357  0.88833469  1
+  O  O14  1  0.97783643  0.67449939  0.88833469  1

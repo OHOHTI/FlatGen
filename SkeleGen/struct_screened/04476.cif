@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_KNb2Cl5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.36255312
+_cell_length_b   6.36255308
+_cell_length_c   12.97224045
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000517
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNb2Cl5
+_chemical_formula_sum   'K2 Nb4 Cl10'
+_cell_volume   454.78741545
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.57204777  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.07204771  1
+  Cl  Cl2  1  0.66666669  0.33333334  0.42795223  1
+  Cl  Cl3  1  0.33333334  0.66666669  0.92795223  1
+  Cl  Cl4  1  0.17637376  0.35274753  0.25000000  1
+  Cl  Cl5  1  0.64725244  0.82362622  0.25000000  1
+  Cl  Cl6  1  0.17637376  0.82362622  0.25000000  1
+  Cl  Cl7  1  0.82362622  0.64725244  0.75000000  1
+  Cl  Cl8  1  0.35274753  0.17637376  0.75000000  1
+  Cl  Cl9  1  0.82362622  0.17637376  0.75000000  1
+  K  K10  1  0.00000000  0.00000000  0.00000000  1
+  K  K11  1  0.00000000  0.00000000  0.50000000  1
+  Nb  Nb12  1  0.33333334  0.66666669  0.13049443  1
+  Nb  Nb13  1  0.66666669  0.33333334  0.63049442  1
+  Nb  Nb14  1  0.66666669  0.33333334  0.86950558  1
+  Nb  Nb15  1  0.33333334  0.66666669  0.36950558  1

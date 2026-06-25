@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_LaHoWCl12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.37882255
+_cell_length_b   7.24989935
+_cell_length_c   10.62223148
+_cell_angle_alpha   89.01202241
+_cell_angle_beta   88.19651838
+_cell_angle_gamma   93.58150076
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaHoWCl12
+_chemical_formula_sum   'La1 Ho1 W1 Cl12'
+_cell_volume   489.94070319
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.63209122  0.71970630  0.17179878  1
+  Cl  Cl1  1  0.88820094  0.13835341  0.70017868  1
+  Cl  Cl2  1  0.13731082  0.65308964  0.69604319  1
+  Cl  Cl3  1  0.36447144  0.20443751  0.14834493  1
+  Cl  Cl4  1  0.45700642  0.98115730  0.85633278  1
+  Cl  Cl5  1  0.05333203  0.94070262  0.39023325  1
+  Cl  Cl6  1  0.00948883  0.49333626  0.99445331  1
+  Cl  Cl7  1  0.48659679  0.49769875  0.48366323  1
+  Cl  Cl8  1  0.04043771  0.48495844  0.39935723  1
+  Cl  Cl9  1  0.54343092  0.46402785  0.87855941  1
+  Cl  Cl10  1  0.48855737  0.92411560  0.50996894  1
+  Cl  Cl11  1  0.01632196  0.96383303  0.99631459  1
+  Ho  Ho12  1  0.21859254  0.23802736  0.89035183  1
+  W  W13  1  0.24303518  0.69353050  0.50059229  1
+  La  La14  1  0.76026320  0.75113082  0.88000619  1

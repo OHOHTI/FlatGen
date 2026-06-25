@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_LiEuTlFeCoMo(As3Br)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.62960339
+_cell_length_b   7.62960330
+_cell_length_c   8.48710442
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000450
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiEuTlFeCoMo(As3Br)3
+_chemical_formula_sum   'Li1 Eu1 Tl1 Fe1 Co1 Mo1 As9 Br3'
+_cell_volume   427.85250324
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  As  As0  1  0.84843129  0.18826672  0.57019281  1
+  As  As1  1  0.81173325  0.66016459  0.57019281  1
+  As  As2  1  0.33983541  0.15156871  0.57019281  1
+  As  As3  1  0.09233862  0.64164072  0.58949816  1
+  As  As4  1  0.35835928  0.45069790  0.58949816  1
+  As  As5  1  0.54930210  0.90766138  0.58949816  1
+  As  As6  1  0.33336338  0.40400496  0.26655790  1
+  As  As7  1  0.59599507  0.92935842  0.26655790  1
+  As  As8  1  0.07064158  0.66663659  0.26655790  1
+  Tl  Tl9  1  0.00000000  0.00000000  0.29404563  1
+  Fe  Fe10  1  0.33333334  0.66666669  0.41722402  1
+  Mo  Mo11  1  0.33333334  0.66666669  0.77617496  1
+  Li  Li12  1  0.33333334  0.66666669  0.07445606  1
+  Eu  Eu13  1  0.66666669  0.33333334  0.21994457  1
+  Co  Co14  1  0.66666669  0.33333334  0.69132173  1
+  Br  Br15  1  0.34725618  0.00269899  0.92359459  1
+  Br  Br16  1  0.99730098  0.34455720  0.92359459  1
+  Br  Br17  1  0.65544283  0.65274382  0.92359459  1

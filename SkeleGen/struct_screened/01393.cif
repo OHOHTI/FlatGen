@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_KScMnTlGaFeP(Se3Cl)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.74150133
+_cell_length_b   6.74150097
+_cell_length_c   12.67171001
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000646
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KScMnTlGaFeP(Se3Cl)3
+_chemical_formula_sum   'K1 Sc1 Mn1 Tl1 Ga1 Fe1 P1 Se9 Cl3'
+_cell_volume   498.74557445
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.99720150  0.32763895  0.46849719  1
+  Se  Se1  1  0.67236102  0.66956258  0.46849719  1
+  Se  Se2  1  0.33043742  0.00279850  0.46849719  1
+  Se  Se3  1  0.01146754  0.64498258  0.72238541  1
+  Se  Se4  1  0.35501742  0.36648494  0.72238541  1
+  Se  Se5  1  0.63351506  0.98853248  0.72238541  1
+  Se  Se6  1  0.03303839  0.69720322  0.25759065  1
+  Se  Se7  1  0.30279678  0.33583516  0.25759065  1
+  Se  Se8  1  0.66416484  0.96696162  0.25759065  1
+  Sc  Sc9  1  0.00000000  0.00000000  0.36072913  1
+  P  P10  1  0.33333334  0.66666669  0.57454014  1
+  Fe  Fe11  1  0.33333334  0.66666669  0.83380729  1
+  Mn  Mn12  1  0.33333334  0.66666669  0.35787341  1
+  Tl  Tl13  1  0.33333334  0.66666669  0.08181082  1
+  K  K14  1  0.66666669  0.33333334  0.14347959  1
+  Ga  Ga15  1  0.66666669  0.33333334  0.82335037  1
+  Cl  Cl16  1  0.35650474  0.02972437  0.93849629  1
+  Cl  Cl17  1  0.97027564  0.32678038  0.93849629  1
+  Cl  Cl18  1  0.67321962  0.64349526  0.93849629  1

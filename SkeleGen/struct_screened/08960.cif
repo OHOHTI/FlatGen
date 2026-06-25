@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_NbMoN(ClO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.45434570
+_cell_length_b   5.45434530
+_cell_length_c   12.59227180
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000531
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbMoN(ClO2)4
+_chemical_formula_sum   'Nb1 Mo1 N1 Cl4 O8'
+_cell_volume   324.42923854
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.00000000  0.00000000  0.02943905  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.67039770  1
+  Cl  Cl2  1  0.33333334  0.66666669  0.41882429  1
+  Cl  Cl3  1  0.00000000  0.00000000  0.51945907  1
+  N  N4  1  0.33333334  0.66666669  0.90664166  1
+  Nb  Nb5  1  0.33333334  0.66666669  0.74688470  1
+  O  O6  1  0.33333334  0.66666669  0.07273935  1
+  Mo  Mo7  1  0.33333334  0.66666669  0.20365079  1
+  O  O8  1  0.33333334  0.66666669  0.64797294  1
+  O  O9  1  0.62761712  0.64581996  0.23350507  1
+  O  O10  1  0.35418004  0.98179716  0.23350507  1
+  O  O11  1  0.01820284  0.37238288  0.23350507  1
+  O  O12  1  0.04570661  0.66456854  0.82857007  1
+  O  O13  1  0.33543146  0.38113809  0.82857007  1
+  O  O14  1  0.61886191  0.95429337  0.82857007  1

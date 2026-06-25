@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_LiMnTlAgI9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.76895761
+_cell_length_b   7.76895740
+_cell_length_c   11.08573341
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000499
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiMnTlAgI9
+_chemical_formula_sum   'Li1 Mn1 Tl1 Ag1 I9'
+_cell_volume   579.45609108
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.66592294  0.68520838  0.26782483  1
+  I  I1  1  0.31479162  0.98071456  0.26782483  1
+  I  I2  1  0.01928544  0.33407706  0.26782483  1
+  I  I3  1  0.68955165  0.03493813  0.71840668  1
+  I  I4  1  0.96506190  0.65461349  0.71840668  1
+  I  I5  1  0.34538651  0.31044835  0.71840668  1
+  I  I6  1  0.33333334  0.66666669  0.90970218  1
+  I  I7  1  0.66666669  0.33333334  0.51101530  1
+  Ag  Ag8  1  0.00000000  0.00000000  0.54903954  1
+  Tl  Tl9  1  0.33333334  0.66666669  0.43677121  1
+  I  I10  1  0.66666669  0.33333334  0.00752211  1
+  Li  Li11  1  0.66666669  0.33333334  0.26102024  1
+  Mn  Mn12  1  0.66666669  0.33333334  0.77849257  1

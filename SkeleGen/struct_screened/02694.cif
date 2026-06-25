@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CrFeCu4F12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02864122
+_cell_length_b   5.02864120
+_cell_length_c   10.27672577
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000331
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrFeCu4F12
+_chemical_formula_sum   'Cr1 Fe1 Cu4 F12'
+_cell_volume   225.05397353
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000000  0.00000000  0.91957903  1
+  Cu  Cu1  1  0.66666669  0.33333334  0.65672827  1
+  Cu  Cu2  1  0.33333334  0.66666669  0.41604653  1
+  Cu  Cu3  1  0.00000000  0.00000000  0.41550332  1
+  Fe  Fe4  1  0.00000000  0.00000000  0.16568215  1
+  Cr  Cr5  1  0.00000000  0.00000000  0.66292995  1
+  F  F6  1  0.97962177  0.29692435  0.77806860  1
+  F  F7  1  0.70307565  0.68269742  0.77806860  1
+  F  F8  1  0.31730258  0.02037823  0.77806860  1
+  F  F9  1  0.67827892  0.00160418  0.54659063  1
+  F  F10  1  0.99839580  0.67667472  0.54659063  1
+  F  F11  1  0.32332528  0.32172108  0.54659063  1
+  F  F12  1  0.67236114  0.97233808  0.28672692  1
+  F  F13  1  0.02766192  0.70002306  0.28672692  1
+  F  F14  1  0.29997694  0.32763886  0.28672692  1
+  F  F15  1  0.30253434  0.32620627  0.03893768  1
+  F  F16  1  0.67379373  0.97632807  0.03893768  1
+  F  F17  1  0.02367193  0.69746566  0.03893768  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaLaSm4CoH3O10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66416168
+_cell_length_b   5.66416127
+_cell_length_c   10.40157604
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000520
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLaSm4CoH3O10
+_chemical_formula_sum   'Na1 La1 Sm4 Co1 H3 O10'
+_cell_volume   289.00210699
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.00000000  0.00000000  0.09978336  1
+  Sm  Sm1  1  0.66666669  0.33333334  0.60859686  1
+  Sm  Sm2  1  0.33333334  0.66666669  0.28910714  1
+  Sm  Sm3  1  0.00000000  0.00000000  0.54468048  1
+  Co  Co4  1  0.00000000  0.00000000  0.82715994  1
+  O  O5  1  0.00000000  0.00000000  0.29583046  1
+  La  La6  1  0.66666669  0.33333334  0.28432691  1
+  Na  Na7  1  0.66666669  0.33333334  0.94952458  1
+  O  O8  1  0.63120508  0.00863282  0.12931968  1
+  O  O9  1  0.99136716  0.62257224  0.12931968  1
+  O  O10  1  0.37742776  0.36879492  0.12931968  1
+  H  H11  1  0.06752046  0.43827337  0.77027315  1
+  H  H12  1  0.56172663  0.62924707  0.77027315  1
+  H  H13  1  0.37075290  0.93247956  0.77027315  1
+  O  O14  1  0.62711775  0.01792802  0.45959264  1
+  O  O15  1  0.98207200  0.60918975  0.45959264  1
+  O  O16  1  0.39081025  0.37288225  0.45959264  1
+  O  O17  1  0.70860672  0.71432555  0.71537799  1
+  O  O18  1  0.28567445  0.99428117  0.71537799  1
+  O  O19  1  0.00571883  0.29139328  0.71537799  1

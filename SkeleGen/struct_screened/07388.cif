@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_BaCrOsCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.65514231
+_cell_length_b   6.65514200
+_cell_length_c   8.73508072
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000628
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCrOsCl8
+_chemical_formula_sum   'Ba1 Cr1 Os1 Cl8'
+_cell_volume   335.05198828
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.66666669  0.33333334  0.47821140  1
+  Cl  Cl1  1  0.33333334  0.66666669  0.48581234  1
+  Cl  Cl2  1  0.63902670  0.96300024  0.80818385  1
+  Cl  Cl3  1  0.03699976  0.67602646  0.80818385  1
+  Cl  Cl4  1  0.32397354  0.36097330  0.80818385  1
+  Cl  Cl5  1  0.36691192  0.02810508  0.16172780  1
+  Cl  Cl6  1  0.97189492  0.33880684  0.16172780  1
+  Cl  Cl7  1  0.66119313  0.63308811  0.16172780  1
+  Ba  Ba8  1  0.00000000  0.00000000  0.54581630  1
+  Os  Os9  1  0.33333334  0.66666669  0.76624262  1
+  Cr  Cr10  1  0.66666669  0.33333334  0.23222049  1

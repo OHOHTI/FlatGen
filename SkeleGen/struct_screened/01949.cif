@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_ZnCuAsF10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.45824289
+_cell_length_b   5.45824248
+_cell_length_c   6.37825871
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000537
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCuAsF10
+_chemical_formula_sum   'Zn1 Cu1 As1 F10'
+_cell_volume   164.56535917
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.53412932  1
+  F  F1  1  0.66666669  0.33333334  0.41289669  1
+  F  F2  1  0.86018926  0.13981074  0.73807114  1
+  F  F3  1  0.86018926  0.72037852  0.73807114  1
+  F  F4  1  0.27962148  0.13981074  0.73807114  1
+  F  F5  1  0.66666669  0.33333334  0.03843173  1
+  F  F6  1  0.15087685  0.84912312  0.19637093  1
+  F  F7  1  0.15087685  0.30175370  0.19637093  1
+  F  F8  1  0.69824630  0.84912312  0.19637093  1
+  F  F9  1  0.33333334  0.66666669  0.94085085  1
+  Zn  Zn10  1  0.00000000  0.00000000  0.47009474  1
+  As  As11  1  0.00000000  0.00000000  0.93301857  1
+  Cu  Cu12  1  0.33333334  0.66666669  0.26955062  1

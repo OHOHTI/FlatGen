@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_TiMnPbF10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30790234
+_cell_length_b   5.30790215
+_cell_length_c   8.08944511
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000411
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiMnPbF10
+_chemical_formula_sum   'Ti1 Mn1 Pb1 F10'
+_cell_volume   197.37637945
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66666669  0.33333334  0.48151565  1
+  F  F1  1  0.33333334  0.66666669  0.56905198  1
+  F  F2  1  0.59748757  0.04073782  0.83877391  1
+  F  F3  1  0.95926219  0.55674976  0.83877391  1
+  F  F4  1  0.44325024  0.40251243  0.83877391  1
+  F  F5  1  0.34273160  0.02607188  0.15382974  1
+  F  F6  1  0.97392809  0.31665972  0.15382974  1
+  F  F7  1  0.68334031  0.65726840  0.15382974  1
+  F  F8  1  0.00000000  0.00000000  0.95954084  1
+  F  F9  1  0.00000000  0.00000000  0.38509482  1
+  Mn  Mn10  1  0.00000000  0.00000000  0.19176754  1
+  Pb  Pb11  1  0.00000000  0.00000000  0.67626989  1
+  Ti  Ti12  1  0.66666669  0.33333334  0.00367076  1

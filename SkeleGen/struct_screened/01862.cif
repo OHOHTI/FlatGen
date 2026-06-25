@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_AlCuNiIF16
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.68802185
+_cell_length_b   5.63054036
+_cell_length_c   8.33975601
+_cell_angle_alpha   84.12965283
+_cell_angle_beta   87.42631890
+_cell_angle_gamma   82.82971487
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlCuNiIF16
+_chemical_formula_sum   'Al1 Cu1 Ni1 I1 F16'
+_cell_volume   263.47603138
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.60968751  0.32338843  0.14648828  1
+  F  F1  1  0.76745301  0.08387460  0.90544736  1
+  F  F2  1  0.77732378  0.56755561  0.40841183  1
+  F  F3  1  0.81528544  0.99872524  0.37496421  1
+  F  F4  1  0.97524279  0.77327138  0.15937634  1
+  F  F5  1  0.98798931  0.81641942  0.63515502  1
+  F  F6  1  0.18625270  0.24766248  0.09758786  1
+  F  F7  1  0.05110265  0.34146789  0.65128142  1
+  F  F8  1  0.31177554  0.00312442  0.85321403  1
+  F  F9  1  0.36395973  0.45785543  0.90014315  1
+  F  F10  1  0.27602804  0.03072511  0.37925643  1
+  F  F11  1  0.50278926  0.75750822  0.61783159  1
+  F  F12  1  0.47275612  0.84306461  0.10107967  1
+  I  I13  1  0.30154902  0.05435697  0.62091780  1
+  Ni  Ni14  1  0.78006101  0.55836540  0.63126832  1
+  Al  Al15  1  0.43581891  0.16709802  0.00170189  1
+  F  F16  1  0.26925030  0.54557639  0.39673966  1
+  Cu  Cu17  1  0.02291124  0.77530032  0.38617191  1
+  F  F18  1  0.78937721  0.54496557  0.84719503  1
+  F  F19  1  0.59290075  0.31075749  0.60044533  1

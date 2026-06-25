@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Eu10GaGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.44643354
+_cell_length_b   7.44643343
+_cell_length_c   9.53042507
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999201
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu10GaGe
+_chemical_formula_sum   'Eu10 Ga1 Ge1'
+_cell_volume   457.65642893
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.33333334  0.66666669  0.52958983  1
+  Eu  Eu1  1  0.66666669  0.33333334  0.01586395  1
+  Eu  Eu2  1  0.30982003  0.30312058  0.25661188  1
+  Eu  Eu3  1  0.69687939  0.00669944  0.25661188  1
+  Eu  Eu4  1  0.99330056  0.69017994  0.25661188  1
+  Eu  Eu5  1  0.67990500  0.01063312  0.76596111  1
+  Eu  Eu6  1  0.98936689  0.66927189  0.76596111  1
+  Eu  Eu7  1  0.33072811  0.32009500  0.76596111  1
+  Eu  Eu8  1  0.33333334  0.66666669  0.04006926  1
+  Eu  Eu9  1  0.66666669  0.33333334  0.48906395  1
+  Ge  Ge10  1  0.00000000  0.00000000  0.97858101  1
+  Ga  Ga11  1  0.00000000  0.00000000  0.51749051  1

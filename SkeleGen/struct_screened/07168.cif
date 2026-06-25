@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaLiMnAlFeBiOF13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.95564368
+_cell_length_b   6.00894699
+_cell_length_c   7.38597488
+_cell_angle_alpha   90.64579008
+_cell_angle_beta   88.44644184
+_cell_angle_gamma   93.61995432
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLiMnAlFeBiOF13
+_chemical_formula_sum   'Na1 Li1 Mn1 Al1 Fe1 Bi1 O1 F13'
+_cell_volume   263.68652122
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.69276303  0.72632742  0.23747346  1
+  F  F1  1  0.80960894  0.25186512  0.68616289  1
+  F  F2  1  0.23246527  0.73567873  0.76986241  1
+  F  F3  1  0.26902539  0.30522993  0.27442291  1
+  F  F4  1  0.45350066  0.99810576  0.00641942  1
+  F  F5  1  0.97937649  0.02810114  0.45300788  1
+  F  F6  1  0.02715656  0.55552864  0.05990719  1
+  F  F7  1  0.50091380  0.51249266  0.51881486  1
+  F  F8  1  0.97548932  0.56706780  0.47041583  1
+  F  F9  1  0.53599524  0.42227650  0.92100126  1
+  F  F10  1  0.48696870  0.98908001  0.51056576  1
+  F  F11  1  0.01392024  0.07392127  0.03365977  1
+  O  O12  1  0.74855733  0.81433409  0.79938960  1
+  Fe  Fe13  1  0.74514246  0.31213567  0.45531479  1
+  F  F14  1  0.76489455  0.25551167  0.22626901  1
+  Al  Al15  1  0.03909080  0.32811815  0.15783337  1
+  Li  Li16  1  0.73970705  0.16842166  0.95973682  1
+  Bi  Bi17  1  0.49036276  0.71183312  0.98317957  1
+  Mn  Mn18  1  0.74454618  0.80843574  0.58102238  1
+  Na  Na19  1  0.25627840  0.18182336  0.71216595  1

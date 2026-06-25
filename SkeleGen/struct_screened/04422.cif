@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_BeGaPClOF14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.48944139
+_cell_length_b   6.48944124
+_cell_length_c   7.17984247
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999348
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeGaPClOF14
+_chemical_formula_sum   'Be1 Ga1 P1 Cl1 O1 F14'
+_cell_volume   261.85459269
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.21995686  0.27621001  0.93887025  1
+  F  F1  1  0.72378999  0.94374686  0.93887025  1
+  F  F2  1  0.05625315  0.78004313  0.93887025  1
+  F  F3  1  0.80334604  0.79645115  0.17084721  1
+  F  F4  1  0.20354885  0.00689489  0.17084721  1
+  F  F5  1  0.99310511  0.19665396  0.17084721  1
+  F  F6  1  0.36085296  0.41490555  0.36492196  1
+  F  F7  1  0.58509445  0.94594741  0.36492196  1
+  F  F8  1  0.05405259  0.63914704  0.36492196  1
+  F  F9  1  0.33333334  0.66666669  0.71887571  1
+  F  F10  1  0.66666669  0.33333334  0.26525161  1
+  F  F11  1  0.44571283  0.14158714  0.66302830  1
+  F  F12  1  0.85841286  0.30412570  0.66302830  1
+  F  F13  1  0.69587433  0.55428720  0.66302830  1
+  Cl  Cl14  1  0.00000000  0.00000000  0.72096717  1
+  O  O15  1  0.00000000  0.00000000  0.42464387  1
+  P  P16  1  0.00000000  0.00000000  0.28835884  1
+  Be  Be17  1  0.00000000  0.00000000  0.97355068  1
+  Ga  Ga18  1  0.66666669  0.33333334  0.56199169  1

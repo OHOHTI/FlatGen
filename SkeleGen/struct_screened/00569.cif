@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KRbLi2CuBCF13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55895376
+_cell_length_b   5.55895345
+_cell_length_c   10.26118088
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000469
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KRbLi2CuBCF13
+_chemical_formula_sum   'Rb1 K1 Li2 Cu1 B1 C1 F13'
+_cell_volume   274.60854901
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.79332137  0.21522921  0.52679807  1
+  F  F1  1  0.78477079  0.57809216  0.52679807  1
+  F  F2  1  0.42190784  0.20667863  0.52679807  1
+  F  F3  1  0.27890581  0.87843913  0.68674219  1
+  F  F4  1  0.12156087  0.40046668  0.68674219  1
+  F  F5  1  0.59953332  0.72109419  0.68674219  1
+  F  F6  1  0.01191596  0.64701843  0.18723479  1
+  F  F7  1  0.35298157  0.36489755  0.18723479  1
+  F  F8  1  0.63510245  0.98808402  0.18723479  1
+  Rb  Rb9  1  0.00000000  0.00000000  0.32901767  1
+  Li  Li10  1  0.00000000  0.00000000  0.78109825  1
+  C  C11  1  0.33333334  0.66666669  0.59840125  1
+  F  F12  1  0.33333334  0.66666669  0.42613664  1
+  Li  Li13  1  0.33333334  0.66666669  0.21566378  1
+  Cu  Cu14  1  0.33333334  0.66666669  0.82583326  1
+  B  B15  1  0.66666669  0.33333334  0.59482449  1
+  K  K16  1  0.66666669  0.33333334  0.01606640  1
+  F  F17  1  0.67164117  0.96704268  0.89082795  1
+  F  F18  1  0.03295732  0.70459849  0.89082795  1
+  F  F19  1  0.29540151  0.32835883  0.89082795  1

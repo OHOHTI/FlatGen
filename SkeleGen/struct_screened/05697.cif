@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li2U3Se4O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.02894592
+_cell_length_b   6.02894571
+_cell_length_c   6.71893978
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999332
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2U3Se4O3
+_chemical_formula_sum   'Li2 U3 Se4 O3'
+_cell_volume   211.50185031
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.00000000  0.00000000  0.00000000  1
+  Se  Se1  1  0.33333334  0.66666669  0.25843745  1
+  Se  Se2  1  0.66666669  0.33333334  0.74156255  1
+  Se  Se3  1  0.00000000  0.00000000  0.50000000  1
+  Li  Li4  1  0.33333334  0.66666669  0.88052714  1
+  Li  Li5  1  0.66666669  0.33333334  0.11947286  1
+  O  O6  1  0.32187933  0.00000000  0.00000000  1
+  O  O7  1  0.00000000  0.32187933  0.00000000  1
+  O  O8  1  0.67812067  0.67812067  0.00000000  1
+  U  U9  1  0.63392842  0.00000000  0.50000000  1
+  U  U10  1  0.00000000  0.63392842  0.50000000  1
+  U  U11  1  0.36607158  0.36607158  0.50000000  1

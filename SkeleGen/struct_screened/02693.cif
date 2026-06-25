@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Dy4MnZnFeF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.76451445
+_cell_length_b   5.76451429
+_cell_length_c   10.58349323
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000363
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy4MnZnFeF12
+_chemical_formula_sum   'Dy4 Mn1 Zn1 Fe1 F12'
+_cell_volume   304.56858408
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.00000000  0.00000000  0.05180167  1
+  Dy  Dy1  1  0.66666669  0.33333334  0.77202827  1
+  Dy  Dy2  1  0.33333334  0.66666669  0.28709510  1
+  Dy  Dy3  1  0.00000000  0.00000000  0.54436958  1
+  Mn  Mn4  1  0.00000000  0.00000000  0.79082769  1
+  Zn  Zn5  1  0.00000000  0.00000000  0.29863721  1
+  Fe  Fe6  1  0.66666669  0.33333334  0.07990256  1
+  F  F7  1  0.01367035  0.31513980  0.66720849  1
+  F  F8  1  0.68486023  0.69853055  0.66720849  1
+  F  F9  1  0.30146945  0.98632967  0.66720849  1
+  F  F10  1  0.68518680  0.00496702  0.91181123  1
+  F  F11  1  0.99503297  0.68021977  0.91181123  1
+  F  F12  1  0.31978023  0.31481320  0.91181123  1
+  F  F13  1  0.35235924  0.02380852  0.16492061  1
+  F  F14  1  0.97619146  0.32855073  0.16492061  1
+  F  F15  1  0.67144930  0.64764076  0.16492061  1
+  F  F16  1  0.01117040  0.67371559  0.40568909  1
+  F  F17  1  0.32628441  0.33745480  0.40568909  1
+  F  F18  1  0.66254520  0.98882961  0.40568909  1

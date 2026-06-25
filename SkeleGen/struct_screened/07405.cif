@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Eu5Fe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.47165442
+_cell_length_b   7.47165427
+_cell_length_c   8.62442780
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000486
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu5Fe
+_chemical_formula_sum   'Eu10 Fe2'
+_cell_volume   416.96004924
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.33333334  0.66666669  0.55092090  1
+  Eu  Eu1  1  0.66666669  0.33333334  0.46215251  1
+  Eu  Eu2  1  0.92571580  0.70237839  0.75524431  1
+  Eu  Eu3  1  0.29762161  0.22333741  0.75524431  1
+  Eu  Eu4  1  0.77666259  0.07428420  0.75524431  1
+  Eu  Eu5  1  0.66666669  0.33333334  0.04020407  1
+  Eu  Eu6  1  0.03060681  0.31374049  0.24949704  1
+  Eu  Eu7  1  0.68625951  0.71686631  0.24949704  1
+  Eu  Eu8  1  0.28313369  0.96939319  0.24949704  1
+  Eu  Eu9  1  0.33333334  0.66666669  0.95921248  1
+  Fe  Fe10  1  0.00000000  0.00000000  0.48207286  1
+  Fe  Fe11  1  0.00000000  0.00000000  0.02296832  1

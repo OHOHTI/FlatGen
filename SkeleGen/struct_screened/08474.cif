@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_BaTbTlZn2RuI12Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.83785269
+_cell_length_b   8.26419205
+_cell_length_c   12.96179676
+_cell_angle_alpha   94.03628923
+_cell_angle_beta   95.72004023
+_cell_angle_gamma   98.05421646
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaTbTlZn2RuI12Cl
+_chemical_formula_sum   'Ba1 Tb1 Tl1 Zn2 Ru1 I12 Cl1'
+_cell_volume   824.12288103
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.60695791  0.63881528  0.15919624  1
+  I  I1  1  0.63063776  0.94551730  0.79238379  1
+  I  I2  1  0.27346814  0.69308609  0.96072131  1
+  I  I3  1  0.77171463  0.38978991  0.47637829  1
+  I  I4  1  0.40838224  0.97218913  0.27562580  1
+  I  I5  1  0.36426741  0.37456769  0.67614257  1
+  I  I6  1  0.85987687  0.54948848  0.76264560  1
+  I  I7  1  0.01112408  0.36229312  0.18585534  1
+  Tl  Tl8  1  0.35769197  0.43952090  0.36287341  1
+  Tb  Tb9  1  0.78639728  0.14368725  0.24959829  1
+  Zn  Zn10  1  0.57640457  0.62869793  0.64426005  1
+  I  I11  1  0.90315640  0.95975161  0.04917767  1
+  I  I12  1  0.92416638  0.87958318  0.39109421  1
+  Ba  Ba13  1  0.06341667  0.26490468  0.89377677  1
+  Zn  Zn14  1  0.19250377  0.88066846  0.53366357  1
+  Cl  Cl15  1  0.40774813  0.73063076  0.52686524  1
+  I  I16  1  0.08509044  0.01918283  0.67359740  1
+  Ru  Ru17  1  0.50886488  0.89268446  0.08716555  1
+  I  I18  1  0.46495837  0.19882360  0.03241423  1

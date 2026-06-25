@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_TaSbPH(Au2O5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.03924370
+_cell_length_b   5.03924364
+_cell_length_c   12.79160976
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000351
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaSbPH(Au2O5)2
+_chemical_formula_sum   'Ta1 Sb1 P1 H1 Au4 O10'
+_cell_volume   281.31088430
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Au  Au0  1  0.00000000  0.00000000  0.05797546  1
+  Au  Au1  1  0.66666669  0.33333334  0.59336072  1
+  Au  Au2  1  0.33333334  0.66666669  0.38039792  1
+  Au  Au3  1  0.00000000  0.00000000  0.50864494  1
+  O  O4  1  0.00000000  0.00000000  0.39672270  1
+  P  P5  1  0.33333334  0.66666669  0.87054026  1
+  Ta  Ta6  1  0.33333334  0.66666669  0.17157701  1
+  O  O7  1  0.33333334  0.66666669  0.04649410  1
+  O  O8  1  0.33333334  0.66666669  0.73338163  1
+  H  H9  1  0.33333334  0.66666669  0.63316208  1
+  O  O10  1  0.33333334  0.66666669  0.53794461  1
+  Sb  Sb11  1  0.66666669  0.33333334  0.81481725  1
+  O  O12  1  0.64159375  0.63156813  0.90680534  1
+  O  O13  1  0.36843187  0.01002562  0.90680534  1
+  O  O14  1  0.98997438  0.35840625  0.90680534  1
+  O  O15  1  0.61998975  0.64713913  0.22813757  1
+  O  O16  1  0.35286087  0.97285062  0.22813757  1
+  O  O17  1  0.02714938  0.38001025  0.22813757  1

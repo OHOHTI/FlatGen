@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LiCu(HgCl3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.89019156
+_cell_length_b   6.89019151
+_cell_length_c   11.68773842
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000481
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCu(HgCl3)2
+_chemical_formula_sum   'Li2 Cu2 Hg4 Cl12'
+_cell_volume   480.53351455
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.00000000  0.00000000  0.00000000  1
+  Hg  Hg1  1  0.33333334  0.66666669  0.38819200  1
+  Hg  Hg2  1  0.66666669  0.33333334  0.61180800  1
+  Hg  Hg3  1  0.00000000  0.00000000  0.50000000  1
+  Li  Li4  1  0.33333334  0.66666669  0.68545556  1
+  Li  Li5  1  0.66666669  0.33333334  0.31454444  1
+  Cu  Cu6  1  0.33333334  0.66666669  0.10680010  1
+  Cu  Cu7  1  0.66666669  0.33333334  0.89319992  1
+  Cl  Cl8  1  0.32980651  0.00000000  0.00000000  1
+  Cl  Cl9  1  0.00000000  0.32980651  0.00000000  1
+  Cl  Cl10  1  0.67019349  0.67019349  0.00000000  1
+  Cl  Cl11  1  0.33320031  0.00000000  0.50000000  1
+  Cl  Cl12  1  0.00000000  0.33320031  0.50000000  1
+  Cl  Cl13  1  0.66679966  0.66679966  0.50000000  1
+  Cl  Cl14  1  0.64860141  0.98936826  0.25063127  1
+  Cl  Cl15  1  0.01063174  0.65923315  0.25063127  1
+  Cl  Cl16  1  0.34076685  0.35139859  0.25063127  1
+  Cl  Cl17  1  0.98936826  0.64860141  0.74936873  1
+  Cl  Cl18  1  0.65923315  0.01063174  0.74936873  1
+  Cl  Cl19  1  0.35139859  0.34076685  0.74936873  1

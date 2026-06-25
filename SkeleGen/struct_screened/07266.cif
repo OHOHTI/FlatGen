@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_CsSrNbCrFeI11Cl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.67299128
+_cell_length_b   7.67299098
+_cell_length_c   15.67758942
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000539
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsSrNbCrFeI11Cl3
+_chemical_formula_sum   'Cs1 Sr1 Nb1 Cr1 Fe1 I11 Cl3'
+_cell_volume   799.35424662
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.66666669  0.33333334  0.55297226  1
+  I  I1  1  0.33333334  0.66666669  0.52071029  1
+  I  I2  1  0.63981289  0.95966035  0.74263495  1
+  I  I3  1  0.04033965  0.68015254  0.74263495  1
+  I  I4  1  0.31984746  0.36018711  0.74263495  1
+  I  I5  1  0.34585428  0.97012436  0.13953212  1
+  I  I6  1  0.02987564  0.37572992  0.13953212  1
+  I  I7  1  0.62427008  0.65414572  0.13953212  1
+  Sr  Sr8  1  0.00000000  0.00000000  0.05595938  1
+  Cs  Cs9  1  0.00000000  0.00000000  0.53414297  1
+  Nb  Nb10  1  0.33333334  0.66666669  0.02982580  1
+  Cr  Cr11  1  0.33333334  0.66666669  0.25138536  1
+  Fe  Fe12  1  0.33333334  0.66666669  0.84223247  1
+  Cl  Cl13  1  0.63015819  0.95887733  0.94676363  1
+  Cl  Cl14  1  0.04112267  0.67128086  0.94676363  1
+  Cl  Cl15  1  0.32871914  0.36984181  0.94676363  1
+  I  I16  1  0.34210390  0.34386379  0.32847643  1
+  I  I17  1  0.65613621  0.99824011  0.32847643  1
+  I  I18  1  0.00175989  0.65789610  0.32847643  1

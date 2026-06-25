@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Hg2CO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.50223857
+_cell_length_b   4.75809975
+_cell_length_c   6.50311422
+_cell_angle_alpha   83.82045697
+_cell_angle_beta   90.15994504
+_cell_angle_gamma   84.92371033
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hg2CO4
+_chemical_formula_sum   'Hg2 C1 O4'
+_cell_volume   107.30734809
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.61965019  0.42619291  0.69125563  1
+  O  O1  1  0.38034981  0.57380712  0.30874437  1
+  O  O2  1  0.95908618  0.19732541  0.11730813  1
+  O  O3  1  0.04091382  0.80267459  0.88269186  1
+  C  C4  1  0.00000000  0.00000000  0.00000000  1
+  Hg  Hg5  1  0.21165417  0.09563915  0.63024932  1
+  Hg  Hg6  1  0.78834581  0.90436083  0.36975068  1

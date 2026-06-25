@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Be2VFeF14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.53798294
+_cell_length_b   7.53798280
+_cell_length_c   4.53848982
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000482
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be2VFeF14
+_chemical_formula_sum   'Be2 V1 Fe1 F14'
+_cell_volume   223.33267528
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.09337389  0.25291532  0.75755715  1
+  F  F1  1  0.74708468  0.84045857  0.75755715  1
+  F  F2  1  0.15954143  0.90662611  0.75755715  1
+  F  F3  1  0.83912915  0.77337497  0.26547182  1
+  F  F4  1  0.22662503  0.06575418  0.26547182  1
+  F  F5  1  0.93424582  0.16087085  0.26547182  1
+  F  F6  1  0.37718958  0.48807600  0.24569955  1
+  F  F7  1  0.51192403  0.88911355  0.24569955  1
+  F  F8  1  0.11088642  0.62281042  0.24569955  1
+  F  F9  1  0.33333334  0.66666669  0.75848985  1
+  F  F10  1  0.66666669  0.33333334  0.24832857  1
+  F  F11  1  0.45278937  0.27915543  0.75924420  1
+  F  F12  1  0.72084457  0.17363393  0.75924420  1
+  F  F13  1  0.82636607  0.54721063  0.75924420  1
+  V  V14  1  0.00000000  0.00000000  0.00629578  1
+  Fe  Fe15  1  0.00000000  0.00000000  0.51631129  1
+  Be  Be16  1  0.33333334  0.66666669  0.28468934  1
+  Be  Be17  1  0.66666669  0.33333334  0.82152635  1

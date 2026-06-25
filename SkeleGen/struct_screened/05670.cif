@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_NaLa3MgCu3TeS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.03695202
+_cell_length_b   7.03695190
+_cell_length_c   8.78537655
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999158
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLa3MgCu3TeS8
+_chemical_formula_sum   'Na1 La3 Mg1 Cu3 Te1 S8'
+_cell_volume   376.75603828
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.66210091  0.67488790  0.26400656  1
+  S  S1  1  0.32511210  0.98721302  0.26400656  1
+  S  S2  1  0.01278698  0.33789909  0.26400656  1
+  S  S3  1  0.67651772  0.00141871  0.66144377  1
+  S  S4  1  0.99858129  0.67509902  0.66144377  1
+  S  S5  1  0.32490098  0.32348228  0.66144377  1
+  S  S6  1  0.33333334  0.66666669  0.01784395  1
+  S  S7  1  0.66666669  0.33333334  0.42619881  1
+  Te  Te8  1  0.00000000  0.00000000  0.00066066  1
+  Mg  Mg9  1  0.00000000  0.00000000  0.51581162  1
+  Na  Na10  1  0.33333334  0.66666669  0.51841968  1
+  La  La11  1  0.63332850  0.63288641  0.84139699  1
+  La  La12  1  0.36711359  0.00044209  0.84139699  1
+  La  La13  1  0.99955791  0.36667150  0.84139699  1
+  Cu  Cu14  1  0.34601814  0.34307948  0.34806716  1
+  Cu  Cu15  1  0.65692055  0.00293866  0.34806716  1
+  Cu  Cu16  1  0.99706137  0.65398186  0.34806716  1

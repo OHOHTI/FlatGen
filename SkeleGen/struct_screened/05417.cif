@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_SrIn2(GaCl5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.83457470
+_cell_length_b   6.83457449
+_cell_length_c   12.13470840
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000564
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrIn2(GaCl5)2
+_chemical_formula_sum   'Sr1 In2 Ga2 Cl10'
+_cell_volume   490.88857849
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.54582733  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.45417267  1
+  Cl  Cl2  1  0.76216382  0.64709818  0.76788795  1
+  Cl  Cl3  1  0.35290182  0.11506563  0.76788795  1
+  Cl  Cl4  1  0.88493437  0.23783618  0.76788795  1
+  Cl  Cl5  1  0.23783618  0.35290182  0.23211205  1
+  Cl  Cl6  1  0.64709818  0.88493437  0.23211205  1
+  Cl  Cl7  1  0.11506563  0.76216382  0.23211205  1
+  Cl  Cl8  1  0.33333334  0.66666669  0.89483923  1
+  Cl  Cl9  1  0.66666669  0.33333334  0.10516077  1
+  Sr  Sr10  1  0.00000000  0.00000000  0.50000000  1
+  Ga  Ga11  1  0.33333334  0.66666669  0.31252110  1
+  Ga  Ga12  1  0.66666669  0.33333334  0.68747890  1
+  In  In13  1  0.33333334  0.66666669  0.07998292  1
+  In  In14  1  0.66666669  0.33333334  0.92001706  1

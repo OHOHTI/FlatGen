@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_La2U3(CdP3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.89134121
+_cell_length_b   7.89134079
+_cell_length_c   6.74774170
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000575
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2U3(CdP3)3
+_chemical_formula_sum   'La2 U3 Cd3 P9'
+_cell_volume   363.90722423
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.56284750  0.64457387  0.26595151  1
+  P  P1  1  0.35542613  0.91827363  0.26595151  1
+  P  P2  1  0.08172637  0.43715250  0.26595151  1
+  P  P3  1  0.72841263  0.04356495  0.80470061  1
+  P  P4  1  0.95643508  0.68484771  0.80470061  1
+  P  P5  1  0.31515229  0.27158737  0.80470061  1
+  P  P6  1  0.33333334  0.66666669  0.00440001  1
+  P  P7  1  0.66666669  0.33333334  0.56056452  1
+  P  P8  1  0.00000000  0.00000000  0.60668701  1
+  La  La9  1  0.00000000  0.00000000  0.02566036  1
+  La  La10  1  0.66666669  0.33333334  0.05066897  1
+  U  U11  1  0.57432729  0.63499546  0.72581077  1
+  U  U12  1  0.36500454  0.93933183  0.72581077  1
+  U  U13  1  0.06066817  0.42567271  0.72581077  1
+  Cd  Cd14  1  0.29759532  0.26527211  0.38389376  1
+  Cd  Cd15  1  0.73472786  0.03232321  0.38389376  1
+  Cd  Cd16  1  0.96767676  0.70240468  0.38389376  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cs3Rb(FeCl4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.84068346
+_cell_length_b   7.84068302
+_cell_length_c   10.02981853
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000589
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs3Rb(FeCl4)2
+_chemical_formula_sum   'Cs3 Rb1 Fe2 Cl8'
+_cell_volume   533.98800219
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.33333334  0.66666669  0.00537207  1
+  Cl  Cl1  1  0.66666669  0.33333334  0.99462795  1
+  Cl  Cl2  1  0.78578842  0.14288394  0.71178424  1
+  Cl  Cl3  1  0.85711604  0.64290446  0.71178424  1
+  Cl  Cl4  1  0.35709554  0.21421158  0.71178424  1
+  Cl  Cl5  1  0.21421158  0.85711604  0.28821576  1
+  Cl  Cl6  1  0.14288394  0.35709554  0.28821576  1
+  Cl  Cl7  1  0.64290446  0.78578842  0.28821576  1
+  Cs  Cs8  1  0.00000000  0.00000000  0.00000000  1
+  Rb  Rb9  1  0.00000000  0.00000000  0.50000000  1
+  Fe  Fe10  1  0.33333334  0.66666669  0.22384928  1
+  Fe  Fe11  1  0.66666669  0.33333334  0.77615070  1
+  Cs  Cs12  1  0.33333334  0.66666669  0.65574616  1
+  Cs  Cs13  1  0.66666669  0.33333334  0.34425384  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LiMnAgTe5O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73284538
+_cell_length_b   5.74350323
+_cell_length_c   8.01298141
+_cell_angle_alpha   93.49699826
+_cell_angle_beta   102.35549423
+_cell_angle_gamma   96.01895913
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiMnAgTe5O8
+_chemical_formula_sum   'Li1 Mn1 Ag1 Te5 O8'
+_cell_volume   255.36165417
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.05632691  0.97008920  0.94708192  1
+  Te  Te1  1  0.54765850  0.40269858  0.59495068  1
+  Te  Te2  1  0.30704767  0.66480953  0.36047754  1
+  Te  Te3  1  0.03779870  0.08973924  0.46736166  1
+  O  O4  1  0.07305411  0.22942488  0.06537959  1
+  O  O5  1  0.92352182  0.05359711  0.73504019  1
+  Li  Li6  1  0.80784148  0.49761268  0.11604890  1
+  Te  Te7  1  0.34937888  0.30030671  0.84944433  1
+  O  O8  1  0.35313770  0.87573296  0.93975949  1
+  O  O9  1  0.89080918  0.68386358  0.91075331  1
+  O  O10  1  0.53014785  0.58845079  0.21821484  1
+  O  O11  1  0.00266948  0.46036223  0.41145509  1
+  Mn  Mn12  1  0.03266623  0.71346200  0.62138969  1
+  O  O13  1  0.08067026  0.88977551  0.27115661  1
+  O  O14  1  0.33721370  0.92038143  0.55016196  1
+  Ag  Ag15  1  0.70661587  0.98593551  0.15150447  1

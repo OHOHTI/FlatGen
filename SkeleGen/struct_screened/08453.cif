@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_MgBiOsBr9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.70460023
+_cell_length_b   6.99937907
+_cell_length_c   9.44267750
+_cell_angle_alpha   91.16931727
+_cell_angle_beta   100.90599065
+_cell_angle_gamma   101.73911303
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgBiOsBr9
+_chemical_formula_sum   'Mg1 Bi1 Os1 Br9'
+_cell_volume   425.22175884
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.54512453  0.67159683  0.24283752  1
+  Br  Br1  1  0.65208191  0.04006774  0.82877660  1
+  Br  Br2  1  0.26934615  0.61187446  0.03122685  1
+  Br  Br3  1  0.57658660  0.38078848  0.49747318  1
+  Br  Br4  1  0.28102118  0.06514985  0.20406030  1
+  Br  Br5  1  0.30619642  0.36761093  0.75854266  1
+  Br  Br6  1  0.96615338  0.66155970  0.86593932  1
+  Br  Br7  1  0.99465954  0.40240163  0.27996844  1
+  Os  Os8  1  0.11034190  0.15282455  0.35877711  1
+  Br  Br9  1  0.03600143  0.94016767  0.50980574  1
+  Bi  Bi10  1  0.66585004  0.56383061  0.72550964  1
+  Mg  Mg11  1  0.33272153  0.29030073  0.02911597  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaCaZrV5O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.10240412
+_cell_length_b   5.10240401
+_cell_length_c   10.79613781
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000381
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCaZrV5O8
+_chemical_formula_sum   'Na1 Ca1 Zr1 V5 O8'
+_cell_volume   243.41578056
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.00000000  0.00000000  0.99440068  1
+  V  V1  1  0.66666669  0.33333334  0.57113254  1
+  V  V2  1  0.33333334  0.66666669  0.30040717  1
+  V  V3  1  0.00000000  0.00000000  0.49077886  1
+  O  O4  1  0.00000000  0.00000000  0.14642081  1
+  V  V5  1  0.00000000  0.00000000  0.28761345  1
+  Zr  Zr6  1  0.00000000  0.00000000  0.78901219  1
+  O  O7  1  0.00000000  0.00000000  0.63547885  1
+  Na  Na8  1  0.33333334  0.66666669  0.72655821  1
+  Ca  Ca9  1  0.66666669  0.33333334  0.10550245  1
+  O  O10  1  0.69319952  0.70549804  0.90756208  1
+  O  O11  1  0.29450196  0.98770148  0.90756208  1
+  O  O12  1  0.01229852  0.30680048  0.90756208  1
+  O  O13  1  0.31092486  0.31909102  0.40598717  1
+  O  O14  1  0.68090898  0.99183381  0.40598717  1
+  O  O15  1  0.00816616  0.68907511  0.40598717  1

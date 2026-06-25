@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_K2MgBeCoHgTePbCl12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.27359247
+_cell_length_b   7.27359212
+_cell_length_c   11.55019093
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000592
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2MgBeCoHgTePbCl12
+_chemical_formula_sum   'K2 Mg1 Be1 Co1 Hg1 Te1 Pb1 Cl12'
+_cell_volume   529.19737027
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.90849674  0.24817798  0.49674338  1
+  Cl  Cl1  1  0.75182199  0.66031873  0.49674338  1
+  Cl  Cl2  1  0.33968127  0.09150326  0.49674338  1
+  Cl  Cl3  1  0.10002926  0.66512930  0.69903696  1
+  Cl  Cl4  1  0.33487070  0.43489993  0.69903696  1
+  Cl  Cl5  1  0.56510007  0.89997077  0.69903696  1
+  Cl  Cl6  1  0.64569896  0.99424368  0.24843721  1
+  Cl  Cl7  1  0.00575632  0.65145528  0.24843721  1
+  Cl  Cl8  1  0.34854472  0.35430104  0.24843721  1
+  K  K9  1  0.00000000  0.00000000  0.36944333  1
+  Te  Te10  1  0.00000000  0.00000000  0.95203137  1
+  Be  Be11  1  0.33333334  0.66666669  0.60488194  1
+  K  K12  1  0.33333334  0.66666669  0.10213453  1
+  Co  Co13  1  0.33333334  0.66666669  0.84036165  1
+  Mg  Mg14  1  0.33333334  0.66666669  0.36676592  1
+  Hg  Hg15  1  0.66666669  0.33333334  0.38066167  1
+  Pb  Pb16  1  0.66666669  0.33333334  0.76567519  1
+  Cl  Cl17  1  0.38679209  0.98364943  0.94692576  1
+  Cl  Cl18  1  0.01635057  0.40314269  0.94692576  1
+  Cl  Cl19  1  0.59685731  0.61320794  0.94692576  1

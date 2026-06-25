@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_SrTlSiMoI15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.13799953
+_cell_length_b   9.13799931
+_cell_length_c   12.12307739
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000426
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrTlSiMoI15
+_chemical_formula_sum   'Sr1 Tl1 Si1 Mo1 I15'
+_cell_volume   876.68937536
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.41037670  0.49303839  0.52894592  1
+  I  I1  1  0.50696158  0.91733831  0.52894592  1
+  I  I2  1  0.08266169  0.58962333  0.52894592  1
+  I  I3  1  0.91424930  0.58608568  0.00719170  1
+  I  I4  1  0.41391432  0.32816362  0.00719170  1
+  I  I5  1  0.67183638  0.08575070  0.00719170  1
+  I  I6  1  0.66666669  0.33333334  0.53200662  1
+  I  I7  1  0.01817958  0.27032331  0.76358044  1
+  I  I8  1  0.72967672  0.74785626  0.76358044  1
+  I  I9  1  0.25214371  0.98182040  0.76358044  1
+  I  I10  1  0.33333334  0.66666669  0.97280449  1
+  I  I11  1  0.17611307  0.33353314  0.24640870  1
+  I  I12  1  0.66646683  0.84257996  0.24640870  1
+  I  I13  1  0.15742007  0.82388693  0.24640870  1
+  Tl  Tl14  1  0.00000000  0.00000000  0.36299434  1
+  Si  Si15  1  0.00000000  0.00000000  0.68429744  1
+  I  I16  1  0.66666669  0.33333334  0.24703416  1
+  Sr  Sr17  1  0.66666669  0.33333334  0.79932559  1
+  Mo  Mo18  1  0.66666669  0.33333334  0.06130237  1

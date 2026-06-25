@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_In3Fe2CuBr14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.55068302
+_cell_length_b   10.55068228
+_cell_length_c   6.55855846
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000531
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In3Fe2CuBr14
+_chemical_formula_sum   'In3 Fe2 Cu1 Br14'
+_cell_volume   632.26642950
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.09397648  0.24270371  0.77497995  1
+  Br  Br1  1  0.75729632  0.85127276  0.77497995  1
+  Br  Br2  1  0.14872724  0.90602350  0.77497995  1
+  Br  Br3  1  0.24270371  0.09397648  0.22502005  1
+  Br  Br4  1  0.85127276  0.75729632  0.22502005  1
+  Br  Br5  1  0.90602350  0.14872724  0.22502005  1
+  Br  Br6  1  0.31932512  0.46210328  0.23371950  1
+  Br  Br7  1  0.53789675  0.85722184  0.23371950  1
+  Br  Br8  1  0.14277816  0.68067491  0.23371950  1
+  Br  Br9  1  0.46210328  0.31932512  0.76628053  1
+  Br  Br10  1  0.85722184  0.53789675  0.76628053  1
+  Br  Br11  1  0.68067491  0.14277816  0.76628053  1
+  Br  Br12  1  0.33333334  0.66666669  0.77941310  1
+  Br  Br13  1  0.66666669  0.33333334  0.22058690  1
+  Cu  Cu14  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe15  1  0.33333334  0.66666669  0.22735618  1
+  Fe  Fe16  1  0.66666669  0.33333334  0.77264380  1
+  In  In17  1  0.40119258  0.00000000  0.00000000  1
+  In  In18  1  0.00000000  0.40119258  0.00000000  1
+  In  In19  1  0.59880745  0.59880745  0.00000000  1

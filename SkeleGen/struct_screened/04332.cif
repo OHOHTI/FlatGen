@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CaNbMoO2F11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.87844872
+_cell_length_b   5.26173592
+_cell_length_c   12.96550751
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   90.00000433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaNbMoO2F11
+_chemical_formula_sum   'Ca1 Nb1 Mo1 O2 F11'
+_cell_volume   264.59194724
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.00000000  0.50000000  0.31873158  1
+  F  F1  1  0.50000000  0.00000000  0.66684842  1
+  F  F2  1  0.50000000  0.50000000  0.49079597  1
+  F  F3  1  0.00000000  0.00000000  0.44812840  1
+  F  F4  1  0.00000000  0.00000000  0.23727168  1
+  F  F5  1  0.50000000  0.50000000  0.14176860  1
+  F  F6  1  0.50000000  0.50000000  0.77366853  1
+  F  F7  1  0.00000000  0.00000000  0.82450205  1
+  Mo  Mo8  1  0.00000000  0.00000000  0.61965549  1
+  Nb  Nb9  1  0.00000000  0.00000000  0.07268164  1
+  F  F10  1  0.50000000  0.00000000  0.06560900  1
+  Ca  Ca11  1  0.50000000  0.50000000  0.92391378  1
+  O  O12  1  0.00000000  0.72732687  0.98629558  1
+  O  O13  1  0.00000000  0.27267313  0.98629558  1
+  F  F14  1  0.00000000  0.71021736  0.60076392  1
+  F  F15  1  0.00000000  0.28978264  0.60076392  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_KScTlCoPHF10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.38548136
+_cell_length_b   5.38548117
+_cell_length_c   10.89244938
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000406
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KScTlCoPHF10
+_chemical_formula_sum   'K1 Sc1 Tl1 Co1 P1 H1 F10'
+_cell_volume   273.59313962
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66666669  0.33333334  0.49168709  1
+  F  F1  1  0.33333334  0.66666669  0.58793175  1
+  F  F2  1  0.68979591  0.07286622  0.79412150  1
+  F  F3  1  0.92713380  0.61692971  0.79412150  1
+  F  F4  1  0.38307029  0.31020409  0.79412150  1
+  F  F5  1  0.42214149  0.01439891  0.22262891  1
+  F  F6  1  0.98560107  0.40774259  0.22262891  1
+  F  F7  1  0.59225738  0.57785851  0.22262891  1
+  F  F8  1  0.00000000  0.00000000  0.35622182  1
+  Tl  Tl9  1  0.00000000  0.00000000  0.61215705  1
+  K  K10  1  0.33333334  0.66666669  0.99087268  1
+  Sc  Sc11  1  0.66666669  0.33333334  0.34289390  1
+  P  P12  1  0.66666669  0.33333334  0.82211357  1
+  H  H13  1  0.66666669  0.33333334  0.66811073  1
+  F  F14  1  0.66666669  0.33333334  0.98144335  1
+  Co  Co15  1  0.66666669  0.33333334  0.14364737  1

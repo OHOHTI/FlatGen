@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KRbNa3MoPSF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.93552113
+_cell_length_b   5.93552087
+_cell_length_c   9.81289291
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999346
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KRbNa3MoPSF12
+_chemical_formula_sum   'Rb1 K1 Na3 Mo1 P1 S1 F12'
+_cell_volume   299.39559830
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.88219464  0.25644696  0.53337431  1
+  F  F1  1  0.74355304  0.62574768  0.53337431  1
+  F  F2  1  0.37425232  0.11780536  0.53337431  1
+  F  F3  1  0.07004721  0.67313486  0.68091846  1
+  F  F4  1  0.32686514  0.39691234  0.68091846  1
+  F  F5  1  0.60308766  0.92995280  0.68091846  1
+  F  F6  1  0.68673074  0.00254594  0.14790200  1
+  F  F7  1  0.99745405  0.68418479  0.14790200  1
+  F  F8  1  0.31581521  0.31326926  0.14790200  1
+  Na  Na9  1  0.00000000  0.00000000  0.06420123  1
+  Na  Na10  1  0.00000000  0.00000000  0.73421407  1
+  Rb  Rb11  1  0.00000000  0.00000000  0.37272659  1
+  S  S12  1  0.33333334  0.66666669  0.41753063  1
+  K  K13  1  0.33333334  0.66666669  0.01158237  1
+  P  P14  1  0.33333334  0.66666669  0.60470635  1
+  Mo  Mo15  1  0.66666669  0.33333334  0.73768240  1
+  Na  Na16  1  0.66666669  0.33333334  0.21673137  1
+  F  F17  1  0.91685015  0.29515347  0.86977589  1
+  F  F18  1  0.70484650  0.62169671  0.86977589  1
+  F  F19  1  0.37830329  0.08314985  0.86977589  1

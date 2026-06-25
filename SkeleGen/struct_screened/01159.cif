@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Sr3Re2O11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.23022842
+_cell_length_b   7.23022817
+_cell_length_c   5.34361315
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000554
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3Re2O11
+_chemical_formula_sum   'Sr3 Re2 O11'
+_cell_volume   241.91881023
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.77892804  0.18586293  0.69644701  1
+  O  O1  1  0.81413710  0.59306514  0.69644701  1
+  O  O2  1  0.40693486  0.22107196  0.69644701  1
+  O  O3  1  0.18586293  0.77892804  0.69644701  1
+  O  O4  1  0.59306514  0.81413710  0.69644701  1
+  O  O5  1  0.22107196  0.40693486  0.69644701  1
+  O  O6  1  0.80516660  0.00000000  0.19838959  1
+  O  O7  1  1.00000000  0.80516660  0.19838959  1
+  O  O8  1  0.19483340  0.19483340  0.19838959  1
+  Re  Re9  1  0.33333334  0.66666669  0.57626742  1
+  Re  Re10  1  0.66666669  0.33333334  0.57626742  1
+  O  O11  1  0.33333334  0.66666669  0.26132974  1
+  O  O12  1  0.66666669  0.33333334  0.26132974  1
+  Sr  Sr13  1  0.34601256  0.00000000  0.03015133  1
+  Sr  Sr14  1  0.00000000  0.34601256  0.03015133  1
+  Sr  Sr15  1  0.65398741  0.65398741  0.03015133  1

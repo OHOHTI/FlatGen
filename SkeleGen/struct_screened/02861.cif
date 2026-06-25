@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_LiTb4Si(OF3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50528622
+_cell_length_b   5.50528603
+_cell_length_c   9.49365044
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000401
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTb4Si(OF3)3
+_chemical_formula_sum   'Li1 Tb4 Si1 O3 F9'
+_cell_volume   249.18600130
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.00000000  0.00000000  0.00089670  1
+  Tb  Tb1  1  0.66666669  0.33333334  0.74599016  1
+  Tb  Tb2  1  0.33333334  0.66666669  0.26107395  1
+  Tb  Tb3  1  0.00000000  0.00000000  0.50581360  1
+  Li  Li4  1  0.33333334  0.66666669  0.77669168  1
+  Si  Si5  1  0.66666669  0.33333334  0.05002784  1
+  F  F6  1  0.97394907  0.65958738  0.13127023  1
+  F  F7  1  0.34041262  0.31436169  0.13127023  1
+  F  F8  1  0.68563831  0.02605093  0.13127023  1
+  F  F9  1  0.66188616  0.97027516  0.64037657  1
+  F  F10  1  0.02972484  0.69161099  0.64037657  1
+  F  F11  1  0.30838901  0.33811384  0.64037657  1
+  F  F12  1  0.67298615  0.66083390  0.37830785  1
+  F  F13  1  0.33916610  0.01215225  0.37830785  1
+  F  F14  1  0.98784775  0.32701385  0.37830785  1
+  O  O15  1  0.95521808  0.35373926  0.90076810  1
+  O  O16  1  0.64626074  0.60147882  0.90076810  1
+  O  O17  1  0.39852118  0.04478192  0.90076810  1

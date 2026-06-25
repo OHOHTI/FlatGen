@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_LiEu14TiAlGeAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.89975548
+_cell_length_b   8.89975515
+_cell_length_c   9.15795994
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000478
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiEu14TiAlGeAu
+_chemical_formula_sum   'Li1 Eu14 Ti1 Al1 Ge1 Au1'
+_cell_volume   628.18199287
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.34013146  0.38332525  0.50281495  1
+  Eu  Eu1  1  0.61667478  0.95680618  0.50281495  1
+  Eu  Eu2  1  0.04319379  0.65986854  0.50281495  1
+  Eu  Eu3  1  0.99659932  0.62487960  0.01123641  1
+  Eu  Eu4  1  0.37512040  0.37171972  0.01123641  1
+  Eu  Eu5  1  0.62828028  0.00340068  0.01123641  1
+  Eu  Eu6  1  0.66666669  0.33333334  0.29178339  1
+  Eu  Eu7  1  0.96029574  0.23892656  0.74879646  1
+  Eu  Eu8  1  0.76107347  0.72136915  0.74879646  1
+  Eu  Eu9  1  0.27863085  0.03970426  0.74879646  1
+  Eu  Eu10  1  0.33333334  0.66666669  0.77833337  1
+  Eu  Eu11  1  0.99597573  0.26639625  0.24871352  1
+  Eu  Eu12  1  0.73360372  0.72957945  0.24871352  1
+  Eu  Eu13  1  0.27042055  0.00402427  0.24871352  1
+  Au  Au14  1  0.00000000  0.00000000  0.99906242  1
+  Ti  Ti15  1  0.00000000  0.00000000  0.49840873  1
+  Li  Li16  1  0.33333334  0.66666669  0.22279511  1
+  Ge  Ge17  1  0.66666669  0.33333334  0.59573627  1
+  Al  Al18  1  0.66666669  0.33333334  0.84464616  1

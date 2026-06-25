@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_TiMnCr3FeCoP4S9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.03784037
+_cell_length_b   6.03784035
+_cell_length_c   8.90404987
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000533
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiMnCr3FeCoP4S9
+_chemical_formula_sum   'Ti1 Mn1 Cr3 Fe1 Co1 P4 S9'
+_cell_volume   281.11333281
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.00000000  0.00000000  0.88709557  1
+  P  P1  1  0.66666669  0.33333334  0.58012289  1
+  P  P2  1  0.33333334  0.66666669  0.16241887  1
+  P  P3  1  0.00000000  0.00000000  0.40573242  1
+  Mn  Mn4  1  0.33333334  0.66666669  0.65439320  1
+  Fe  Fe5  1  0.33333334  0.66666669  0.40293688  1
+  Co  Co6  1  0.33333334  0.66666669  0.91194814  1
+  Ti  Ti7  1  0.66666669  0.33333334  0.95367575  1
+  S  S8  1  0.33601674  0.00269799  0.06512225  1
+  S  S9  1  0.99730200  0.33331874  0.06512225  1
+  S  S10  1  0.66668129  0.66398323  0.06512225  1
+  S  S11  1  0.00566376  0.66892272  0.77875561  1
+  S  S12  1  0.33107728  0.33674103  0.77875561  1
+  S  S13  1  0.66325897  0.99433625  0.77875561  1
+  Cr  Cr14  1  0.98608768  0.65186602  0.24998432  1
+  Cr  Cr15  1  0.34813398  0.33422166  0.24998432  1
+  Cr  Cr16  1  0.66577834  0.01391232  0.24998432  1
+  S  S17  1  0.34494001  0.98965341  0.49311468  1
+  S  S18  1  0.01034659  0.35528660  0.49311468  1
+  S  S19  1  0.64471340  0.65505999  0.49311468  1

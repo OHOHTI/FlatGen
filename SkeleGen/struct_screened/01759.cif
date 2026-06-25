@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Eu10SbAu6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.09927559
+_cell_length_b   9.09927533
+_cell_length_c   7.25217104
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000439
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu10SbAu6
+_chemical_formula_sum   'Eu10 Sb1 Au6'
+_cell_volume   520.01069509
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.33333334  0.66666669  0.51192927  1
+  Eu  Eu1  1  0.66666669  0.33333334  0.48807073  1
+  Eu  Eu2  1  0.33333334  0.66666669  0.99361968  1
+  Eu  Eu3  1  0.66666669  0.33333334  0.00638032  1
+  Eu  Eu4  1  0.00530372  0.25700685  0.25476602  1
+  Eu  Eu5  1  0.74299312  0.74829686  0.25476602  1
+  Eu  Eu6  1  0.25170314  0.99469626  0.25476602  1
+  Eu  Eu7  1  0.99469626  0.74299312  0.74523401  1
+  Eu  Eu8  1  0.25700685  0.25170314  0.74523401  1
+  Eu  Eu9  1  0.74829686  0.00530372  0.74523401  1
+  Sb  Sb10  1  0.00000000  0.00000000  0.00000000  1
+  Au  Au11  1  0.00186052  0.60471851  0.26194981  1
+  Au  Au12  1  0.39528149  0.39714199  0.26194981  1
+  Au  Au13  1  0.60285801  0.99813950  0.26194981  1
+  Au  Au14  1  0.99813950  0.39528149  0.73805022  1
+  Au  Au15  1  0.60471851  0.60285801  0.73805022  1
+  Au  Au16  1  0.39714199  0.00186052  0.73805022  1

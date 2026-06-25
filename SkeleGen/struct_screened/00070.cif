@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ba(Eu2Ge)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.12430096
+_cell_length_b   5.12430095
+_cell_length_c   10.98898315
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000313
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba(Eu2Ge)2
+_chemical_formula_sum   'Ba1 Eu4 Ge2'
+_cell_volume   249.89489369
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.00000000  0.00000000  0.04561583  1
+  Eu  Eu1  1  0.66666669  0.33333334  0.63907570  1
+  Eu  Eu2  1  0.33333334  0.66666669  0.25220451  1
+  Eu  Eu3  1  0.00000000  0.00000000  0.47760677  1
+  Ba  Ba4  1  0.33333334  0.66666669  0.83340442  1
+  Ge  Ge5  1  0.66666669  0.33333334  0.99377298  1
+  Ge  Ge6  1  0.66666669  0.33333334  0.31259486  1

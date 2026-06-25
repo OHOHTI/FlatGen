@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_RbBaMgUCuCl10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.65448141
+_cell_length_b   5.22723627
+_cell_length_c   16.94310379
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   90.00000433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbBaMgUCuCl10
+_chemical_formula_sum   'Rb1 Ba1 Mg1 U1 Cu1 Cl10'
+_cell_volume   412.22696992
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.00000000  0.50000000  0.32127589  1
+  Cl  Cl1  1  0.50000000  0.00000000  0.67182803  1
+  Cl  Cl2  1  0.50000000  0.50000000  0.49396098  1
+  Cl  Cl3  1  0.00000000  0.00000000  0.50294334  1
+  Cl  Cl4  1  0.00000000  0.00000000  0.14185990  1
+  Cl  Cl5  1  0.50000000  0.50000000  0.17537971  1
+  Cl  Cl6  1  0.50000000  0.50000000  0.81316513  1
+  Cl  Cl7  1  0.00000000  0.00000000  0.81825179  1
+  Ba  Ba8  1  0.00000000  0.50000000  0.62609327  1
+  Mg  Mg9  1  0.00000000  0.50000000  0.13082984  1
+  U  U10  1  0.00000000  0.50000000  0.90508878  1
+  Rb  Rb11  1  0.50000000  0.00000000  0.34392408  1
+  Cu  Cu12  1  0.50000000  0.00000000  0.85964483  1
+  Cl  Cl13  1  0.50000000  0.23372220  0.98383135  1
+  Cl  Cl14  1  0.50000000  0.76627779  0.98383135  1

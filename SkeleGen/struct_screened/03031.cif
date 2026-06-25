@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_CaErCoMoF15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.96066427
+_cell_length_b   7.96066400
+_cell_length_c   4.45968580
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000508
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaErCoMoF15
+_chemical_formula_sum   'Ca1 Er1 Co1 Mo1 F15'
+_cell_volume   244.75607196
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.25957420  0.44917244  0.72679704  1
+  F  F1  1  0.55082756  0.81040180  0.72679704  1
+  F  F2  1  0.18959823  0.74042583  0.72679704  1
+  F  F3  1  0.94798672  0.15369546  0.71758819  1
+  F  F4  1  0.84630454  0.79429126  0.71758819  1
+  F  F5  1  0.20570874  0.05201328  0.71758819  1
+  F  F6  1  0.19955195  0.25599930  0.25357047  1
+  F  F7  1  0.74400067  0.94355267  0.25357047  1
+  F  F8  1  0.05644734  0.80044806  0.25357047  1
+  F  F9  1  0.54655641  0.41945454  0.75185895  1
+  F  F10  1  0.58054543  0.12710187  0.75185895  1
+  F  F11  1  0.87289810  0.45344359  0.75185895  1
+  F  F12  1  0.68071657  0.55350018  0.23103020  1
+  F  F13  1  0.44649982  0.12721640  0.23103020  1
+  F  F14  1  0.87278360  0.31928343  0.23103020  1
+  Mo  Mo15  1  0.00000000  0.00000000  0.48641512  1
+  Ca  Ca16  1  0.33333334  0.66666669  0.24751881  1
+  Er  Er17  1  0.66666669  0.33333334  0.48366272  1
+  Co  Co18  1  0.66666669  0.33333334  0.99290138  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cs2KAl(SO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.53013802
+_cell_length_b   5.53013761
+_cell_length_c   10.27241898
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000526
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2KAl(SO4)2
+_chemical_formula_sum   'Cs2 K1 Al1 S2 O8'
+_cell_volume   272.06660786
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.33333334  0.66666669  0.11204208  1
+  O  O1  1  0.66666669  0.33333334  0.87138498  1
+  O  O2  1  0.56549346  0.08044427  0.64407319  1
+  O  O3  1  0.91955572  0.48504919  0.64407319  1
+  O  O4  1  0.51495081  0.43450654  0.64407319  1
+  O  O5  1  0.45048600  0.96761858  0.34397671  1
+  O  O6  1  0.03238142  0.48286742  0.34397671  1
+  O  O7  1  0.51713258  0.54951400  0.34397671  1
+  Cs  Cs8  1  0.00000000  0.00000000  0.83193159  1
+  Cs  Cs9  1  0.00000000  0.00000000  0.43024954  1
+  S  S10  1  0.33333334  0.66666669  0.27056751  1
+  K  K11  1  0.66666669  0.33333334  0.11170579  1
+  Al  Al12  1  0.66666669  0.33333334  0.49813563  1
+  S  S13  1  0.66666669  0.33333334  0.73305655  1

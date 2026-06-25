@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_KMnVZnOF14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81032610
+_cell_length_b   5.81032573
+_cell_length_c   9.17039204
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000484
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KMnVZnOF14
+_chemical_formula_sum   'K1 Mn1 V1 Zn1 O1 F14'
+_cell_volume   268.11400490
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66666669  0.33333334  0.49765861  1
+  F  F1  1  0.33333334  0.66666669  0.54128379  1
+  F  F2  1  0.44584882  0.99331784  0.76075578  1
+  F  F3  1  0.00668216  0.45253098  0.76075578  1
+  F  F4  1  0.54746902  0.55415118  0.76075578  1
+  F  F5  1  0.41342661  0.00920087  0.22664034  1
+  F  F6  1  0.99079913  0.40422574  0.22664034  1
+  F  F7  1  0.59577429  0.58657336  0.22664034  1
+  O  O8  1  0.00000000  0.00000000  0.74496013  1
+  Mn  Mn9  1  0.00000000  0.00000000  0.58641928  1
+  K  K10  1  0.00000000  0.00000000  0.24613154  1
+  Zn  Zn11  1  0.00000000  0.00000000  0.93713063  1
+  V  V12  1  0.33333334  0.66666669  0.85264748  1
+  F  F13  1  0.98023027  0.75495780  0.49778098  1
+  F  F14  1  0.24504220  0.22527248  0.49778098  1
+  F  F15  1  0.77472752  0.01976973  0.49778098  1
+  F  F16  1  0.65342617  0.96819961  0.98100823  1
+  F  F17  1  0.03180039  0.68522656  0.98100823  1
+  F  F18  1  0.31477344  0.34657383  0.98100823  1

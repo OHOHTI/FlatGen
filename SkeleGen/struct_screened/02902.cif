@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_ZnCuBiBr8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.76921368
+_cell_length_b   6.76921340
+_cell_length_c   10.06758499
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000603
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCuBiBr8
+_chemical_formula_sum   'Zn1 Cu1 Bi1 Br8'
+_cell_volume   399.51430888
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br  Br0  1  0.69916075  0.67313439  0.33335322  1
+  Br  Br1  1  0.32686561  0.02602637  0.33335322  1
+  Br  Br2  1  0.97397363  0.30083925  0.33335322  1
+  Br  Br3  1  0.68000066  0.00399190  0.86186683  1
+  Br  Br4  1  0.99600810  0.67600876  0.86186683  1
+  Br  Br5  1  0.32399124  0.31999934  0.86186683  1
+  Br  Br6  1  0.33333334  0.66666669  0.09120669  1
+  Br  Br7  1  0.66666669  0.33333334  0.59053373  1
+  Bi  Bi8  1  0.00000000  0.00000000  0.48888677  1
+  Zn  Zn9  1  0.00000000  0.00000000  0.98782754  1
+  Cu  Cu10  1  0.66666669  0.33333334  0.36226550  1

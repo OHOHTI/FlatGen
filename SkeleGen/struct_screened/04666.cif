@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_RbNaZr2CoOF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58682489
+_cell_length_b   5.58682451
+_cell_length_c   8.72912216
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000512
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbNaZr2CoOF8
+_chemical_formula_sum   'Rb1 Na1 Zr2 Co1 O1 F8'
+_cell_volume   235.95613285
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.71034867  0.66572976  0.28654534  1
+  F  F1  1  0.33427024  0.04461890  0.28654534  1
+  F  F2  1  0.95538110  0.28965133  0.28654534  1
+  F  F3  1  0.71511734  0.03038485  0.78754687  1
+  F  F4  1  0.96961516  0.68473250  0.78754687  1
+  F  F5  1  0.31526750  0.28488266  0.78754687  1
+  F  F6  1  0.33333334  0.66666669  0.04430161  1
+  F  F7  1  0.66666669  0.33333334  0.52213848  1
+  Zr  Zr8  1  0.00000000  0.00000000  0.39111951  1
+  Na  Na9  1  0.00000000  0.00000000  0.99209839  1
+  Rb  Rb10  1  0.33333334  0.66666669  0.56504297  1
+  Co  Co11  1  0.66666669  0.33333334  0.21140948  1
+  Zr  Zr12  1  0.66666669  0.33333334  0.83412552  1
+  O  O13  1  0.66666669  0.33333334  0.03581832  1

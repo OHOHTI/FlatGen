@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_BaTlReBMo(HO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.33789587
+_cell_length_b   5.33789574
+_cell_length_c   10.20179367
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000374
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaTlReBMo(HO5)2
+_chemical_formula_sum   'Ba1 Tl1 Re1 B1 Mo1 H2 O10'
+_cell_volume   251.73716432
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.33333334  0.66666669  0.00859341  1
+  O  O1  1  0.66666669  0.33333334  0.86898160  1
+  O  O2  1  0.51585406  0.48414594  0.58293527  1
+  O  O3  1  0.51585406  0.03170812  0.58293527  1
+  O  O4  1  0.96829188  0.48414594  0.58293527  1
+  O  O5  1  0.49080172  0.50919831  0.25510192  1
+  O  O6  1  0.49080172  0.98160344  0.25510192  1
+  O  O7  1  0.01839656  0.50919831  0.25510192  1
+  Ba  Ba8  1  0.00000000  0.00000000  0.88580978  1
+  O  O9  1  0.00000000  0.00000000  0.09950471  1
+  Tl  Tl10  1  0.00000000  0.00000000  0.38046616  1
+  O  O11  1  0.33333334  0.66666669  0.76488525  1
+  Re  Re12  1  0.33333334  0.66666669  0.17749438  1
+  H  H13  1  0.33333334  0.66666669  0.92613041  1
+  H  H14  1  0.33333334  0.66666669  0.41107082  1
+  Mo  Mo15  1  0.33333334  0.66666669  0.62613386  1
+  B  B16  1  0.66666669  0.33333334  0.67914855  1

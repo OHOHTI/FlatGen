@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_DySbWCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.52579873
+_cell_length_b   7.72292541
+_cell_length_c   7.69555473
+_cell_angle_alpha   78.95296380
+_cell_angle_beta   83.77935984
+_cell_angle_gamma   88.87678762
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DySbWCl8
+_chemical_formula_sum   'Dy1 Sb1 W1 Cl8'
+_cell_volume   378.41433091
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.73508918  0.77480292  0.33734640  1
+  Cl  Cl1  1  0.69881207  0.02606264  0.72116846  1
+  Cl  Cl2  1  0.39121014  0.70048743  0.94994617  1
+  Cl  Cl3  1  0.57781446  0.30083311  0.32682273  1
+  Cl  Cl4  1  0.26237470  0.94693089  0.33231845  1
+  Cl  Cl5  1  0.28651765  0.33182910  0.72974211  1
+  Cl  Cl6  1  0.94127977  0.58640152  0.79292309  1
+  Cl  Cl7  1  0.06189983  0.38545588  0.16199788  1
+  Dy  Dy8  1  0.14464259  0.96996391  0.77609086  1
+  Sb  Sb9  1  0.56932855  0.01873683  0.44004840  1
+  W  W10  1  0.19168581  0.48644242  0.93383306  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ca3Eu5SbOs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.85687828
+_cell_length_b   8.85687795
+_cell_length_c   9.61984634
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000479
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3Eu5SbOs
+_chemical_formula_sum   'Ca6 Eu10 Sb2 Os2'
+_cell_volume   653.52180452
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.33333334  0.66666669  0.55971414  1
+  Eu  Eu1  1  0.33333334  0.66666669  0.94028586  1
+  Eu  Eu2  1  0.66666669  0.33333334  0.44028586  1
+  Eu  Eu3  1  0.66666669  0.33333334  0.05971408  1
+  Eu  Eu4  1  0.00203271  0.34007713  0.25000000  1
+  Eu  Eu5  1  0.65992284  0.66195560  0.25000000  1
+  Eu  Eu6  1  0.33804443  0.99796730  0.25000000  1
+  Eu  Eu7  1  0.34007713  0.00203271  0.75000000  1
+  Eu  Eu8  1  0.66195560  0.65992284  0.75000000  1
+  Eu  Eu9  1  0.99796730  0.33804443  0.75000000  1
+  Os  Os10  1  0.00000000  0.00000000  0.25000000  1
+  Os  Os11  1  0.00000000  0.00000000  0.75000000  1
+  Sb  Sb12  1  0.33333334  0.66666669  0.25000000  1
+  Sb  Sb13  1  0.66666669  0.33333334  0.75000000  1
+  Ca  Ca14  1  0.74143571  0.00000000  0.00000000  1
+  Ca  Ca15  1  0.00000000  0.74143571  0.00000000  1
+  Ca  Ca16  1  0.25856429  0.25856429  0.00000000  1
+  Ca  Ca17  1  0.74143571  0.00000000  0.50000000  1
+  Ca  Ca18  1  0.00000000  0.74143571  0.50000000  1
+  Ca  Ca19  1  0.25856429  0.25856429  0.50000000  1

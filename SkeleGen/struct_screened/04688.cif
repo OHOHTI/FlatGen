@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Li2Eu8Sb5Pb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.98116016
+_cell_length_b   4.98116016
+_cell_length_c   21.01561928
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   90.00000433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Eu8Sb5Pb2
+_chemical_formula_sum   'Li2 Eu8 Sb5 Pb2'
+_cell_volume   521.43863299
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.00000000  0.50000000  0.34255287  1
+  Eu  Eu1  1  0.50000000  0.00000000  0.65744710  1
+  Eu  Eu2  1  0.50000000  0.50000000  0.50000000  1
+  Eu  Eu3  1  0.00000000  0.00000000  0.50000000  1
+  Eu  Eu4  1  0.00000000  0.00000000  0.20638560  1
+  Eu  Eu5  1  0.00000000  0.00000000  0.79361439  1
+  Eu  Eu6  1  0.50000000  0.50000000  0.17082816  1
+  Eu  Eu7  1  0.50000000  0.50000000  0.82917184  1
+  Sb  Sb8  1  0.00000000  0.00000000  0.00000000  1
+  Li  Li9  1  0.00000000  0.50000000  0.93123764  1
+  Li  Li10  1  0.50000000  0.00000000  0.06876236  1
+  Sb  Sb11  1  0.00000000  0.50000000  0.08549839  1
+  Sb  Sb12  1  0.50000000  0.00000000  0.91450161  1
+  Sb  Sb13  1  0.00000000  0.50000000  0.71044230  1
+  Sb  Sb14  1  0.50000000  0.00000000  0.28955770  1
+  Pb  Pb15  1  0.00000000  0.50000000  0.59200472  1
+  Pb  Pb16  1  0.50000000  0.00000000  0.40799528  1

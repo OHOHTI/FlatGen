@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_CsEuMnSiNi2PbSe10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.74609295
+_cell_length_b   7.95150988
+_cell_length_c   8.73997211
+_cell_angle_alpha   90.11555564
+_cell_angle_beta   94.39756538
+_cell_angle_gamma   96.87378689
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsEuMnSiNi2PbSe10
+_chemical_formula_sum   'Cs1 Eu1 Mn1 Si1 Ni2 Pb1 Se10'
+_cell_volume   464.05650411
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.69294351  0.23079345  0.51681358  1
+  Se  Se1  1  0.37250876  0.69915903  0.52152175  1
+  Se  Se2  1  0.61104655  0.94917393  0.83256400  1
+  Se  Se3  1  0.44457468  0.45073876  0.90538985  1
+  Se  Se4  1  0.94576567  0.65509409  0.71483701  1
+  Se  Se5  1  0.40594554  0.05089663  0.22345638  1
+  Se  Se6  1  0.62722123  0.70175403  0.23019396  1
+  Se  Se7  1  0.03628452  0.52365851  0.25692549  1
+  Se  Se8  1  0.94776767  0.95488149  0.35421109  1
+  Si  Si9  1  0.04081327  0.68483621  0.46417654  1
+  Ni  Ni10  1  0.62026799  0.93447787  0.42727235  1
+  Ni  Ni11  1  0.55560559  0.18480100  0.00978585  1
+  Eu  Eu12  1  0.90789723  0.80850321  0.02290866  1
+  Se  Se13  1  0.94636071  0.25366241  0.97593760  1
+  Pb  Pb14  1  0.38187125  0.44603440  0.31285357  1
+  Cs  Cs15  1  0.21774472  0.17561273  0.64482045  1
+  Mn  Mn16  1  0.74866474  0.36402211  0.76866180  1

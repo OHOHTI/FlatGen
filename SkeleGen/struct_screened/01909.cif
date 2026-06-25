@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_BaAl2CuC(OF5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20555973
+_cell_length_b   5.20555967
+_cell_length_c   10.56920052
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000340
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaAl2CuC(OF5)2
+_chemical_formula_sum   'Ba1 Al2 Cu1 C1 O2 F10'
+_cell_volume   248.03194417
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.63213062  1
+  F  F1  1  0.66666669  0.33333334  0.98045915  1
+  F  F2  1  0.14558907  0.85441095  0.32355398  1
+  F  F3  1  0.14558907  0.29117814  0.32355398  1
+  F  F4  1  0.70882189  0.85441095  0.32355398  1
+  F  F5  1  0.84941339  0.15058661  0.81983507  1
+  F  F6  1  0.84941339  0.69882679  0.81983507  1
+  F  F7  1  0.30117321  0.15058661  0.81983507  1
+  F  F8  1  0.33333334  0.66666669  0.90657967  1
+  F  F9  1  0.66666669  0.33333334  0.47667760  1
+  Al  Al10  1  0.00000000  0.00000000  0.93154794  1
+  O  O11  1  0.00000000  0.00000000  0.57194370  1
+  Al  Al12  1  0.00000000  0.00000000  0.42444149  1
+  O  O13  1  0.00000000  0.00000000  0.08528455  1
+  C  C14  1  0.00000000  0.00000000  0.20034434  1
+  Cu  Cu15  1  0.00000000  0.00000000  0.71022135  1
+  Ba  Ba16  1  0.66666669  0.33333334  0.24491242  1

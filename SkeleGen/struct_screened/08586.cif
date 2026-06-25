@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_NiGePPbF15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.18726349
+_cell_length_b   8.18726300
+_cell_length_c   4.32418203
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000582
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NiGePPbF15
+_chemical_formula_sum   'Ni1 Ge1 P1 Pb1 F15'
+_cell_volume   251.02217209
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.23007037  0.45173514  0.75650948  1
+  F  F1  1  0.54826486  0.77833521  0.75650948  1
+  F  F2  1  0.22166477  0.76992965  0.75650948  1
+  F  F3  1  0.87753069  0.08375201  0.67859614  1
+  F  F4  1  0.91624796  0.79377866  0.67859614  1
+  F  F5  1  0.20622134  0.12246931  0.67859614  1
+  F  F6  1  0.07227539  0.24661824  0.24069254  1
+  F  F7  1  0.75338173  0.82565713  0.24069254  1
+  F  F8  1  0.17434286  0.92772460  0.24069254  1
+  F  F9  1  0.60291106  0.45863926  0.76004875  1
+  F  F10  1  0.54136074  0.14427179  0.76004875  1
+  F  F11  1  0.85572821  0.39708894  0.76004875  1
+  F  F12  1  0.84960902  0.54330808  0.14257547  1
+  F  F13  1  0.45669192  0.30630094  0.14257547  1
+  F  F14  1  0.69369906  0.15039098  0.14257547  1
+  Ni  Ni15  1  0.00000000  0.00000000  0.00567352  1
+  Ge  Ge16  1  0.00000000  0.00000000  0.51403737  1
+  Pb  Pb17  1  0.33333334  0.66666669  0.29119024  1
+  P  P18  1  0.66666669  0.33333334  0.95307392  1

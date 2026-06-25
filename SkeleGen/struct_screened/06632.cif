@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_LiTmUTlAgSnPCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.68388176
+_cell_length_b   6.68388136
+_cell_length_c   11.42957497
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000670
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTmUTlAgSnPCl8
+_chemical_formula_sum   'Li1 Tm1 U1 Tl1 Ag1 Sn1 P1 Cl8'
+_cell_volume   442.19942538
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.66666669  0.33333334  0.49199849  1
+  Cl  Cl1  1  0.33333334  0.66666669  0.46287608  1
+  Cl  Cl2  1  0.67478257  0.00370100  0.78884023  1
+  Cl  Cl3  1  0.99629897  0.67108154  0.78884023  1
+  Cl  Cl4  1  0.32891846  0.32521743  0.78884023  1
+  Cl  Cl5  1  0.31094220  0.96872532  0.09563968  1
+  Cl  Cl6  1  0.03127468  0.34221685  0.09563968  1
+  Cl  Cl7  1  0.65778315  0.68905783  0.09563968  1
+  Li  Li8  1  0.00000000  0.00000000  0.99668211  1
+  Tl  Tl9  1  0.00000000  0.00000000  0.34817669  1
+  U  U10  1  0.00000000  0.00000000  0.66707528  1
+  Ag  Ag11  1  0.33333334  0.66666669  0.67923373  1
+  Tm  Tm12  1  0.33333334  0.66666669  0.94813401  1
+  Sn  Sn13  1  0.33333334  0.66666669  0.23452090  1
+  P  P14  1  0.66666669  0.33333334  0.95298803  1

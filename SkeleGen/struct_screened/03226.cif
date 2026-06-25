@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Tl2GaCuGeMoSe13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.81716072
+_cell_length_b   7.40578867
+_cell_length_c   10.15837765
+_cell_angle_alpha   89.14546385
+_cell_angle_beta   84.42493574
+_cell_angle_gamma   88.85249037
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl2GaCuGeMoSe13
+_chemical_formula_sum   'Tl2 Ga1 Cu1 Ge1 Mo1 Se13'
+_cell_volume   510.28878703
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.70699245  0.79139930  0.24930979  1
+  Se  Se1  1  0.77037150  0.19106720  0.66837639  1
+  Se  Se2  1  0.01315563  0.73295516  0.75326681  1
+  Se  Se3  1  0.32318813  0.26360783  0.24865167  1
+  Se  Se4  1  0.54041201  0.95036966  0.91925532  1
+  Se  Se5  1  0.06018093  0.92987651  0.43442670  1
+  Se  Se6  1  0.98320639  0.45939931  0.01581949  1
+  Se  Se7  1  0.44978106  0.53413898  0.54458970  1
+  Se  Se8  1  0.96611631  0.50868690  0.44785848  1
+  Se  Se9  1  0.53744847  0.45477864  0.94269884  1
+  Se  Se10  1  0.47114128  0.93707412  0.56968898  1
+  Se  Se11  1  0.05565002  0.97894794  0.02293136  1
+  Tl  Tl12  1  0.26863539  0.69845092  0.22304983  1
+  Ge  Ge13  1  0.89670366  0.32657301  0.81064111  1
+  Se  Se14  1  0.19997911  0.25287181  0.75722075  1
+  Cu  Cu15  1  0.13107207  0.72925824  0.56233460  1
+  Mo  Mo16  1  0.50080359  0.70250881  0.75125402  1
+  Ga  Ga17  1  0.30296418  0.19315222  0.97235841  1
+  Tl  Tl18  1  0.74927616  0.20291901  0.27192596  1

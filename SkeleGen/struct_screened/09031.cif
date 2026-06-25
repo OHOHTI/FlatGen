@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NbMoCl10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.41744712
+_cell_length_b   6.63036610
+_cell_length_c   8.58139992
+_cell_angle_alpha   83.97250396
+_cell_angle_beta   83.93454890
+_cell_angle_gamma   89.28076937
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbMoCl10
+_chemical_formula_sum   'Nb1 Mo1 Cl10'
+_cell_volume   361.08694787
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.63394874  0.33321545  0.49302429  1
+  Cl  Cl1  1  0.32161900  0.66150850  0.48714232  1
+  Cl  Cl2  1  0.53382730  0.93242270  0.73000836  1
+  Cl  Cl3  1  0.52012771  0.48625502  0.79581881  1
+  Cl  Cl4  1  0.05424765  0.48183861  0.82589781  1
+  Cl  Cl5  1  0.45185950  0.07689744  0.22624397  1
+  Cl  Cl6  1  0.45264983  0.63345718  0.12201621  1
+  Cl  Cl7  1  0.02086391  0.49969929  0.21265988  1
+  Cl  Cl8  1  0.00573599  0.94782442  0.41271979  1
+  Mo  Mo9  1  0.21214478  0.80080593  0.24419968  1
+  Nb  Nb10  1  0.26909733  0.73044723  0.75881362  1
+  Cl  Cl11  1  0.11246350  0.94345415  0.98198092  1

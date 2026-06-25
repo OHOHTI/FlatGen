@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ScNbTlRhI8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.20054388
+_cell_length_b   7.20054349
+_cell_length_c   12.48893070
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000618
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScNbTlRhI8
+_chemical_formula_sum   'Sc1 Nb1 Tl1 Rh1 I8'
+_cell_volume   560.77215359
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.66092992  0.70888311  0.23682523  1
+  I  I1  1  0.29111689  0.95204681  0.23682523  1
+  I  I2  1  0.04795319  0.33907008  0.23682523  1
+  I  I3  1  0.64132571  0.96221030  0.69264317  1
+  I  I4  1  0.03778970  0.67911541  0.69264317  1
+  I  I5  1  0.32088459  0.35867429  0.69264317  1
+  I  I6  1  0.33333334  0.66666669  0.00593830  1
+  I  I7  1  0.66666669  0.33333334  0.45341215  1
+  Tl  Tl8  1  0.00000000  0.00000000  0.90102804  1
+  Sc  Sc9  1  0.33333334  0.66666669  0.31698766  1
+  Nb  Nb10  1  0.33333334  0.66666669  0.54941612  1
+  Rh  Rh11  1  0.33333334  0.66666669  0.80031991  1

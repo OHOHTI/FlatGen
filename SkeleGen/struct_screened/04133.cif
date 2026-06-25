@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LiMnSCl4O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.06117058
+_cell_length_b   6.06117037
+_cell_length_c   11.47523499
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999335
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiMnSCl4O
+_chemical_formula_sum   'Li2 Mn2 S2 Cl8 O2'
+_cell_volume   365.09446258
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.65858394  0.69595319  0.28892782  1
+  Cl  Cl1  1  0.30404681  0.96263075  0.28892782  1
+  Cl  Cl2  1  0.03736925  0.34141606  0.28892782  1
+  Cl  Cl3  1  0.34141606  0.30404681  0.78892779  1
+  Cl  Cl4  1  0.69595319  0.03736925  0.78892779  1
+  Cl  Cl5  1  0.96263075  0.65858394  0.78892779  1
+  Cl  Cl6  1  0.33333334  0.66666669  0.06745631  1
+  Cl  Cl7  1  0.66666669  0.33333334  0.56745631  1
+  Mn  Mn8  1  0.00000000  0.00000000  0.92456448  1
+  Mn  Mn9  1  0.00000000  0.00000000  0.42456448  1
+  S  S10  1  0.33333334  0.66666669  0.34501141  1
+  S  S11  1  0.66666669  0.33333334  0.84501141  1
+  Li  Li12  1  0.33333334  0.66666669  0.67965990  1
+  Li  Li13  1  0.66666669  0.33333334  0.17965984  1
+  O  O14  1  0.33333334  0.66666669  0.49529669  1
+  O  O15  1  0.66666669  0.33333334  0.99529672  1

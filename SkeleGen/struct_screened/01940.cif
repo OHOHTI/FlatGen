@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Na2UVZnTe11Cl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.08081913
+_cell_length_b   7.08081896
+_cell_length_c   13.85680580
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000527
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2UVZnTe11Cl4
+_chemical_formula_sum   'Na2 U1 V1 Zn1 Te11 Cl4'
+_cell_volume   601.67328757
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.33333334  0.66666669  0.09109364  1
+  Te  Te1  1  0.66666669  0.33333334  0.02621626  1
+  Te  Te2  1  0.69211739  0.01611049  0.67541140  1
+  Te  Te3  1  0.98388952  0.67600691  0.67541140  1
+  Te  Te4  1  0.32399309  0.30788261  0.67541140  1
+  Te  Te5  1  0.67806751  0.00971345  0.22385561  1
+  Te  Te6  1  0.99028653  0.66835403  0.22385561  1
+  Te  Te7  1  0.33164597  0.32193249  0.22385561  1
+  Na  Na8  1  0.00000000  0.00000000  0.06299594  1
+  U  U9  1  0.00000000  0.00000000  0.54569697  1
+  V  V10  1  0.33333334  0.66666669  0.32201543  1
+  Na  Na11  1  0.33333334  0.66666669  0.82486421  1
+  Cl  Cl12  1  0.33333334  0.66666669  0.56313032  1
+  Zn  Zn13  1  0.66666669  0.33333334  0.32529166  1
+  Te  Te14  1  0.66966105  0.67270541  0.41555712  1
+  Te  Te15  1  0.32729459  0.99695563  0.41555712  1
+  Te  Te16  1  0.00304437  0.33033895  0.41555712  1
+  Cl  Cl17  1  0.00911732  0.68819577  0.92078274  1
+  Cl  Cl18  1  0.31180423  0.32092154  0.92078274  1
+  Cl  Cl19  1  0.67907846  0.99088269  0.92078274  1

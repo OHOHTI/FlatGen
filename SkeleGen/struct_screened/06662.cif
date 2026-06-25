@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Rb2GaAgCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.62579632
+_cell_length_b   6.62579593
+_cell_length_c   10.38136387
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000672
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2GaAgCl8
+_chemical_formula_sum   'Rb2 Ga1 Ag1 Cl8'
+_cell_volume   394.69457077
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.66878968  0.63905561  0.23118094  1
+  Cl  Cl1  1  0.36094439  0.02973408  0.23118094  1
+  Cl  Cl2  1  0.97026592  0.33121032  0.23118094  1
+  Cl  Cl3  1  0.67128789  0.97747260  0.74100620  1
+  Cl  Cl4  1  0.02252740  0.69381529  0.74100620  1
+  Cl  Cl5  1  0.30618471  0.32871211  0.74100620  1
+  Cl  Cl6  1  0.33333334  0.66666669  0.01470057  1
+  Cl  Cl7  1  0.66666669  0.33333334  0.47838566  1
+  Rb  Rb8  1  0.00000000  0.00000000  0.47253850  1
+  Rb  Rb9  1  0.66666669  0.33333334  0.97690886  1
+  Ga  Ga10  1  0.66666669  0.33333334  0.29112387  1
+  Ag  Ag11  1  0.66666669  0.33333334  0.68644297  1

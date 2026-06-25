@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_MoO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30498314
+_cell_length_b   5.30498314
+_cell_length_c   8.77725220
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   90.00000433
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MoO3
+_chemical_formula_sum   'Mo4 O12'
+_cell_volume   247.01685782
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.58988440  0.31883225  0.08285222  1
+  O  O1  1  0.41011560  0.68116772  0.58285224  1
+  O  O2  1  0.68116772  0.58988440  0.33285221  1
+  O  O3  1  0.31883225  0.41011560  0.83285224  1
+  O  O4  1  0.67995811  0.97606760  0.87957662  1
+  O  O5  1  0.32004189  0.02393240  0.37957668  1
+  O  O6  1  0.02393240  0.67995811  0.12957668  1
+  O  O7  1  0.97606760  0.32004189  0.62957668  1
+  O  O8  1  0.78962386  0.08784312  0.33008543  1
+  O  O9  1  0.21037614  0.91215688  0.83008540  1
+  O  O10  1  0.91215688  0.78962386  0.58008540  1
+  O  O11  1  0.08784312  0.21037614  0.08008540  1
+  Mo  Mo12  1  0.39613912  0.12189467  0.95719153  1
+  Mo  Mo13  1  0.60386086  0.87810534  0.45719147  1
+  Mo  Mo14  1  0.87810534  0.39613912  0.20719147  1
+  Mo  Mo15  1  0.12189467  0.60386086  0.70719147  1

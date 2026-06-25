@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CaCe4CuF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.19113731
+_cell_length_b   6.19113733
+_cell_length_c   8.56057167
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000500
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaCe4CuF12
+_chemical_formula_sum   'Ca1 Ce4 Cu1 F12'
+_cell_volume   284.16739855
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.00000000  0.00000000  0.08315641  1
+  Ce  Ce1  1  0.66666669  0.33333334  0.61199516  1
+  Ce  Ce2  1  0.33333334  0.66666669  0.32740289  1
+  Ce  Ce3  1  0.00000000  0.00000000  0.57872784  1
+  Ca  Ca4  1  0.33333334  0.66666669  0.83898872  1
+  Cu  Cu5  1  0.66666669  0.33333334  0.12250807  1
+  F  F6  1  0.62804341  0.63948214  0.99754238  1
+  F  F7  1  0.36051786  0.98856127  0.99754238  1
+  F  F8  1  0.01143873  0.37195659  0.99754238  1
+  F  F9  1  0.02846879  0.37859234  0.49904925  1
+  F  F10  1  0.62140763  0.64987648  0.49904925  1
+  F  F11  1  0.35012355  0.97153121  0.49904925  1
+  F  F12  1  0.96106440  0.67594558  0.25036231  1
+  F  F13  1  0.32405442  0.28511882  0.25036231  1
+  F  F14  1  0.71488118  0.03893560  0.25036231  1
+  F  F15  1  0.71796733  0.03484363  0.75564736  1
+  F  F16  1  0.96515638  0.68312371  0.75564736  1
+  F  F17  1  0.31687629  0.28203267  0.75564736  1

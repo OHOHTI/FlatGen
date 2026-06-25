@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_PrCuHNOF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.25970554
+_cell_length_b   5.25970546
+_cell_length_c   6.59017992
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   119.99999155
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrCuHNOF8
+_chemical_formula_sum   'Pr1 Cu1 H1 N1 O1 F8'
+_cell_volume   157.88860806
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.66666669  0.33333334  0.49725512  1
+  F  F1  1  0.33333334  0.66666669  0.50349653  1
+  F  F2  1  0.63559496  0.05381188  0.78460026  1
+  F  F3  1  0.94618809  0.58178306  0.78460026  1
+  F  F4  1  0.41821694  0.36440504  0.78460026  1
+  F  F5  1  0.30627608  0.93804407  0.13605495  1
+  F  F6  1  0.06195593  0.36823201  0.13605495  1
+  F  F7  1  0.63176799  0.69372392  0.13605495  1
+  O  O8  1  0.00000000  0.00000000  0.48513719  1
+  H  H9  1  0.00000000  0.00000000  0.27302784  1
+  Pr  Pr10  1  0.00000000  0.00000000  0.86222726  1
+  Cu  Cu11  1  0.33333334  0.66666669  0.25340423  1
+  N  N12  1  0.66666669  0.33333334  0.71005511  1

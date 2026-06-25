@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_FeCu2F7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.55107997
+_cell_length_b   4.77578945
+_cell_length_c   6.18000746
+_cell_angle_alpha   93.45622860
+_cell_angle_beta   98.00844630
+_cell_angle_gamma   87.71642664
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeCu2F7
+_chemical_formula_sum   'Fe1 Cu2 F7'
+_cell_volume   132.70334841
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.92661333  0.97383600  0.10652718  1
+  F  F1  1  0.58404702  0.37722954  0.59764814  1
+  F  F2  1  0.29670405  0.68276858  0.34298387  1
+  F  F3  1  0.00082980  0.00215466  0.60972482  1
+  F  F4  1  0.13255292  0.48391113  0.83044523  1
+  F  F5  1  0.54301035  0.88619316  0.81638807  1
+  F  F6  1  0.66345310  0.37899616  0.06712785  1
+  Cu  Cu7  1  0.86089045  0.22048175  0.84442490  1
+  Cu  Cu8  1  0.65958500  0.95228755  0.34489942  1
+  Fe  Fe9  1  0.33500421  0.70015663  0.62051624  1

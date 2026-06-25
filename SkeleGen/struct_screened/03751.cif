@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_TlCSO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.18570518
+_cell_length_b   5.18570495
+_cell_length_c   7.67326260
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000456
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlCSO8
+_chemical_formula_sum   'Tl1 C1 S1 O8'
+_cell_volume   178.70071845
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.33333334  0.66666669  0.11501644  1
+  O  O1  1  0.66666669  0.33333334  0.97101659  1
+  O  O2  1  0.38010123  0.13735984  0.70376718  1
+  O  O3  1  0.86264014  0.24274139  0.70376718  1
+  O  O4  1  0.75725859  0.61989880  0.70376718  1
+  O  O5  1  0.46172294  0.95553684  0.34620523  1
+  O  O6  1  0.04446316  0.50618613  0.34620523  1
+  O  O7  1  0.49381390  0.53827703  0.34620523  1
+  Tl  Tl8  1  0.00000000  0.00000000  0.06597811  1
+  C  C9  1  0.33333334  0.66666669  0.28573865  1
+  S  S10  1  0.66666669  0.33333334  0.76340657  1

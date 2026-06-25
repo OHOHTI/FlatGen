@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_KEuZrTlCu2AgHgSe11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.88620278
+_cell_length_b   6.74944873
+_cell_length_c   10.28416920
+_cell_angle_alpha   87.69357069
+_cell_angle_beta   91.32628867
+_cell_angle_gamma   86.17484734
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KEuZrTlCu2AgHgSe11
+_chemical_formula_sum   'K1 Eu1 Zr1 Tl1 Cu2 Ag1 Hg1 Se11'
+_cell_volume   476.37719866
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.69688177  0.30654642  0.51548916  1
+  Se  Se1  1  0.27443185  0.71383309  0.51936746  1
+  Se  Se2  1  0.45863208  0.00393118  0.81521851  1
+  Se  Se3  1  0.43634877  0.50780249  0.85256070  1
+  Se  Se4  1  0.99189693  0.51001370  0.78804940  1
+  Se  Se5  1  0.46461129  0.99596429  0.19487685  1
+  Se  Se6  1  0.45876405  0.50178498  0.21800084  1
+  Se  Se7  1  0.94869268  0.49230903  0.18755616  1
+  Se  Se8  1  0.01271275  0.99380636  0.15903820  1
+  Se  Se9  1  0.96695399  0.99252284  0.84675848  1
+  Eu  Eu10  1  0.21251459  0.24539579  0.99806374  1
+  Ag  Ag11  1  0.70193356  0.25623184  0.77181673  1
+  Tl  Tl12  1  0.70843434  0.75195080  0.99762565  1
+  K  K13  1  0.20946579  0.24884340  0.52106851  1
+  Cu  Cu14  1  0.20580183  0.74759877  0.27416241  1
+  Hg  Hg15  1  0.70863795  0.73849767  0.50512886  1
+  Cu  Cu16  1  0.19691934  0.75145775  0.74406159  1
+  Zr  Zr17  1  0.69331610  0.24750690  0.27472335  1
+  Se  Se18  1  0.93584311  0.99371016  0.37163299  1

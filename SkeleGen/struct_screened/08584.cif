@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_BaNbCoCuSbCl15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.52070045
+_cell_length_b   10.52069969
+_cell_length_c   5.20534182
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000540
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNbCoCuSbCl15
+_chemical_formula_sum   'Ba1 Nb1 Co1 Cu1 Sb1 Cl15'
+_cell_volume   498.96391772
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.32675418  0.45894235  0.74376410  1
+  Cl  Cl1  1  0.54105765  0.86781180  0.74376410  1
+  Cl  Cl2  1  0.13218817  0.67324579  0.74376410  1
+  Cl  Cl3  1  0.91815037  0.11196989  0.74249977  1
+  Cl  Cl4  1  0.88803011  0.80618048  0.74249977  1
+  Cl  Cl5  1  0.19381952  0.08184963  0.74249977  1
+  Cl  Cl6  1  0.07637933  0.28347474  0.24490039  1
+  Cl  Cl7  1  0.71652526  0.79290462  0.24490039  1
+  Cl  Cl8  1  0.20709541  0.92362070  0.24490039  1
+  Cl  Cl9  1  0.62033361  0.49859506  0.74633700  1
+  Cl  Cl10  1  0.50140494  0.12173855  0.74633700  1
+  Cl  Cl11  1  0.87826145  0.37966639  0.74633700  1
+  Cl  Cl12  1  0.84595454  0.54352999  0.24316466  1
+  Cl  Cl13  1  0.45647001  0.30242455  0.24316466  1
+  Cl  Cl14  1  0.69757545  0.15404546  0.24316466  1
+  Sb  Sb15  1  0.00000000  0.00000000  0.09280352  1
+  Cu  Cu16  1  0.00000000  0.00000000  0.60511899  1
+  Ba  Ba17  1  0.33333334  0.66666669  0.23342364  1
+  Co  Co18  1  0.66666669  0.33333334  0.99968219  1
+  Nb  Nb19  1  0.66666669  0.33333334  0.51449239  1

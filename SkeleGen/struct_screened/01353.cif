@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Pr4BeCuB(ClO)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13761568
+_cell_length_b   6.13761541
+_cell_length_c   10.30342388
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000662
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr4BeCuB(ClO)6
+_chemical_formula_sum   'Pr4 Be1 Cu1 B1 Cl6 O6'
+_cell_volume   336.13329418
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.00000000  0.00000000  0.98864913  1
+  Pr  Pr1  1  0.66666669  0.33333334  0.81848472  1
+  Pr  Pr2  1  0.33333334  0.66666669  0.35302123  1
+  Pr  Pr3  1  0.00000000  0.00000000  0.50688958  1
+  Cu  Cu4  1  0.33333334  0.66666669  0.83725584  1
+  B  B5  1  0.66666669  0.33333334  0.02910790  1
+  Be  Be6  1  0.66666669  0.33333334  0.42391923  1
+  O  O7  1  0.63868290  0.04790289  0.94817054  1
+  O  O8  1  0.95209712  0.59078002  0.94817054  1
+  O  O9  1  0.40921998  0.36131710  0.94817054  1
+  Cl  Cl10  1  0.30194518  0.96165806  0.69162941  1
+  Cl  Cl11  1  0.03834194  0.34028709  0.69162941  1
+  Cl  Cl12  1  0.65971291  0.69805479  0.69162941  1
+  O  O13  1  0.94243377  0.60733509  0.43713665  1
+  O  O14  1  0.39266491  0.33509868  0.43713665  1
+  O  O15  1  0.66490132  0.05756623  0.43713665  1
+  Cl  Cl16  1  0.01043474  0.32410154  0.17450939  1
+  Cl  Cl17  1  0.67589843  0.68633318  0.17450939  1
+  Cl  Cl18  1  0.31366679  0.98956525  0.17450939  1

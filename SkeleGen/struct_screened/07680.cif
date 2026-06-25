@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_TlNiTe4Cl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.01543617
+_cell_length_b   7.01543586
+_cell_length_c   13.22531223
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000596
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlNiTe4Cl3
+_chemical_formula_sum   'Tl2 Ni2 Te8 Cl6'
+_cell_volume   563.69719771
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.68569511  0.69483536  0.31241024  1
+  Te  Te1  1  0.30516464  0.99085975  0.31241024  1
+  Te  Te2  1  0.00914025  0.31430489  0.31241024  1
+  Te  Te3  1  0.31430489  0.30516464  0.81241024  1
+  Te  Te4  1  0.69483536  0.00914025  0.81241024  1
+  Te  Te5  1  0.99085975  0.68569511  0.81241024  1
+  Te  Te6  1  0.33333334  0.66666669  0.99618864  1
+  Te  Te7  1  0.66666669  0.33333334  0.49618864  1
+  Ni  Ni8  1  0.00000000  0.00000000  0.21292046  1
+  Ni  Ni9  1  0.00000000  0.00000000  0.71292043  1
+  Tl  Tl10  1  0.33333334  0.66666669  0.66827399  1
+  Tl  Tl11  1  0.66666669  0.33333334  0.16827393  1
+  Cl  Cl12  1  0.71011621  0.99119037  0.10349917  1
+  Cl  Cl13  1  0.00880963  0.71892583  0.10349917  1
+  Cl  Cl14  1  0.28107417  0.28988379  0.10349917  1
+  Cl  Cl15  1  0.28988379  0.00880963  0.60349917  1
+  Cl  Cl16  1  0.99119037  0.28107417  0.60349917  1
+  Cl  Cl17  1  0.71892583  0.71011621  0.60349917  1

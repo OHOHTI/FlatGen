@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_PbW(ClF8)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.39764071
+_cell_length_b   6.39764041
+_cell_length_c   9.28188515
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000645
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PbW(ClF8)2
+_chemical_formula_sum   'Pb1 W1 Cl2 F16'
+_cell_volume   329.00800609
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.33333334  0.66666669  0.57267189  1
+  F  F1  1  0.66666669  0.33333334  0.42732811  1
+  F  F2  1  0.97872376  0.67553067  0.88890517  1
+  F  F3  1  0.32446933  0.30319309  0.88890517  1
+  F  F4  1  0.69680691  0.02127624  0.88890517  1
+  F  F5  1  0.02127624  0.32446933  0.11109483  1
+  F  F6  1  0.67553067  0.69680691  0.11109483  1
+  F  F7  1  0.30319309  0.97872376  0.11109483  1
+  F  F8  1  0.33333334  0.66666669  0.91271430  1
+  F  F9  1  0.66666669  0.33333334  0.08728570  1
+  Pb  Pb10  1  0.00000000  0.00000000  0.00000000  1
+  W  W11  1  0.00000000  0.00000000  0.50000000  1
+  Cl  Cl12  1  0.33333334  0.66666669  0.27333784  1
+  Cl  Cl13  1  0.66666669  0.33333334  0.72666216  1
+  F  F14  1  0.00265587  0.75382668  0.38893422  1
+  F  F15  1  0.24617332  0.24882919  0.38893422  1
+  F  F16  1  0.75117081  0.99734414  0.38893422  1
+  F  F17  1  0.99734414  0.24617332  0.61106575  1
+  F  F18  1  0.75382668  0.75117081  0.61106575  1
+  F  F19  1  0.24882919  0.00265587  0.61106575  1

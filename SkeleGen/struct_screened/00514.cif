@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_EuMnCuCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.52530003
+_cell_length_b   6.52529966
+_cell_length_c   8.03148365
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000671
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuMnCuCl8
+_chemical_formula_sum   'Eu1 Mn1 Cu1 Cl8'
+_cell_volume   296.16063113
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.66666669  0.33333334  0.42030081  1
+  Cl  Cl1  1  0.33333334  0.66666669  0.41475540  1
+  Cl  Cl2  1  0.68911803  0.02022455  0.73965353  1
+  Cl  Cl3  1  0.97977543  0.66889346  0.73965353  1
+  Cl  Cl4  1  0.33110654  0.31088197  0.73965353  1
+  Cl  Cl5  1  0.35629672  0.98922181  0.07497335  1
+  Cl  Cl6  1  0.01077819  0.36707491  0.07497335  1
+  Cl  Cl7  1  0.63292509  0.64370328  0.07497335  1
+  Eu  Eu8  1  0.00000000  0.00000000  0.51479018  1
+  Mn  Mn9  1  0.33333334  0.66666669  0.14485955  1
+  Cu  Cu10  1  0.66666669  0.33333334  0.92028356  1

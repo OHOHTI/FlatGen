@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Zr2Cr2CoCuF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43167305
+_cell_length_b   5.43167297
+_cell_length_c   9.73157120
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000338
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr2Cr2CoCuF12
+_chemical_formula_sum   'Zr2 Cr2 Co1 Cu1 F12'
+_cell_volume   248.64562143
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.98603857  0.32366890  0.53790259  1
+  F  F1  1  0.67633110  0.66236967  0.53790259  1
+  F  F2  1  0.33763033  0.01396143  0.53790259  1
+  F  F3  1  0.98086327  0.66749907  0.78118837  1
+  F  F4  1  0.33250093  0.31336421  0.78118837  1
+  F  F5  1  0.68663579  0.01913673  0.78118837  1
+  F  F6  1  0.66007459  0.97283536  0.27595073  1
+  F  F7  1  0.02716464  0.68723923  0.27595073  1
+  F  F8  1  0.31276077  0.33992541  0.27595073  1
+  Zr  Zr9  1  0.00000000  0.00000000  0.66243047  1
+  Cr  Cr10  1  0.00000000  0.00000000  0.91698456  1
+  Co  Co11  1  0.00000000  0.00000000  0.15991537  1
+  Cu  Cu12  1  0.00000000  0.00000000  0.40547344  1
+  Zr  Zr13  1  0.33333334  0.66666669  0.14545612  1
+  Cr  Cr14  1  0.66666669  0.33333334  0.65200728  1
+  F  F15  1  0.00173214  0.32375321  0.03212016  1
+  F  F16  1  0.67624676  0.67797893  0.03212016  1
+  F  F17  1  0.32202107  0.99826789  0.03212016  1

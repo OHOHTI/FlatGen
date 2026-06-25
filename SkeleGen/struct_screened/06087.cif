@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Th2FeCoF14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.43765879
+_cell_length_b   7.43765840
+_cell_length_c   5.47965336
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000596
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th2FeCoF14
+_chemical_formula_sum   'Th2 Fe1 Co1 F14'
+_cell_volume   262.51623699
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.98818201  0.20622650  0.77803922  1
+  F  F1  1  0.79377353  0.78195548  0.77803922  1
+  F  F2  1  0.21804452  0.01181799  0.77803922  1
+  F  F3  1  0.20622650  0.98818201  0.22196078  1
+  F  F4  1  0.78195548  0.79377353  0.22196078  1
+  F  F5  1  0.01181799  0.21804452  0.22196078  1
+  F  F6  1  0.37586132  0.43457341  0.29327646  1
+  F  F7  1  0.56542659  0.94128788  0.29327646  1
+  F  F8  1  0.05871210  0.62413871  0.29327646  1
+  F  F9  1  0.43457341  0.37586132  0.70672357  1
+  F  F10  1  0.94128788  0.56542659  0.70672357  1
+  F  F11  1  0.62413871  0.05871210  0.70672357  1
+  F  F12  1  0.33333334  0.66666669  0.86546189  1
+  F  F13  1  0.66666669  0.33333334  0.13453811  1
+  Co  Co14  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe15  1  0.00000000  0.00000000  0.50000000  1
+  Th  Th16  1  0.33333334  0.66666669  0.20519751  1
+  Th  Th17  1  0.66666669  0.33333334  0.79480249  1

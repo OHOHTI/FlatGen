@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_BaLi2CoReHOF13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.26472235
+_cell_length_b   5.26472214
+_cell_length_c   12.40148354
+_cell_angle_alpha   90.00000250
+_cell_angle_beta   90.00000250
+_cell_angle_gamma   120.00000432
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLi2CoReHOF13
+_chemical_formula_sum   'Ba1 Li2 Co1 Re1 H1 O1 F13'
+_cell_volume   297.68378617
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.94257754  0.32327229  0.62945056  1
+  F  F1  1  0.67672771  0.61930525  0.62945056  1
+  F  F2  1  0.38069475  0.05742246  0.62945056  1
+  F  F3  1  0.98300552  0.66179484  0.79612398  1
+  F  F4  1  0.33820516  0.32121068  0.79612398  1
+  F  F5  1  0.67878932  0.01699448  0.79612398  1
+  F  F6  1  0.33171466  0.34785655  0.11134815  1
+  F  F7  1  0.65214348  0.98385811  0.11134815  1
+  F  F8  1  0.01614189  0.66828537  0.11134815  1
+  Ba  Ba9  1  0.00000000  0.00000000  0.96233064  1
+  Li  Li10  1  0.33333334  0.66666669  0.54201728  1
+  O  O11  1  0.66666669  0.33333334  0.32395488  1
+  Re  Re12  1  0.66666669  0.33333334  0.72973794  1
+  F  F13  1  0.66666669  0.33333334  0.94614613  1
+  Co  Co14  1  0.66666669  0.33333334  0.49143577  1
+  Li  Li15  1  0.66666669  0.33333334  0.20032041  1
+  H  H16  1  0.66666669  0.33333334  0.06459072  1
+  F  F17  1  0.31676152  0.97570306  0.44677609  1
+  F  F18  1  0.02429694  0.34105849  0.44677609  1
+  F  F19  1  0.65894151  0.68323851  0.44677609  1

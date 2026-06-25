@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_GeSbMoCl11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.68128921
+_cell_length_b   6.60381116
+_cell_length_c   9.67366695
+_cell_angle_alpha   85.21744238
+_cell_angle_beta   87.78437107
+_cell_angle_gamma   90.20918521
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GeSbMoCl11
+_chemical_formula_sum   'Ge1 Sb1 Mo1 Cl11'
+_cell_volume   425.00709071
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.69457799  0.28950229  0.48253343  1
+  Cl  Cl1  1  0.46309307  0.83520728  0.49791843  1
+  Cl  Cl2  1  0.62390351  0.98391366  0.74387175  1
+  Cl  Cl3  1  0.51721483  0.47377580  0.85941994  1
+  Cl  Cl4  1  0.99253881  0.50294703  0.77502197  1
+  Cl  Cl5  1  0.41824409  0.09013992  0.12012327  1
+  Cl  Cl6  1  0.57926768  0.54963040  0.19626784  1
+  Cl  Cl7  1  0.08031580  0.43077871  0.18347216  1
+  Sb  Sb8  1  0.07032788  0.09147834  0.19232252  1
+  Cl  Cl9  1  0.99170446  0.96308708  0.97890455  1
+  Ge  Ge10  1  0.71125859  0.59979445  0.01839100  1
+  Cl  Cl11  1  0.15222828  0.23480028  0.50741458  1
+  Cl  Cl12  1  0.91089135  0.82064325  0.38010997  1
+  Mo  Mo13  1  0.82291907  0.01514912  0.55660236  1
